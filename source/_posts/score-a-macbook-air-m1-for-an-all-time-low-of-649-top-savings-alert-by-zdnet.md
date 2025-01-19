@@ -1,7 +1,7 @@
 ---
 title: Score a MacBook Air M1 for an All-Time Low of $649 - Top Savings Alert by ZDNET
-date: 2025-01-07T18:58:08.454Z
-updated: 2025-01-13T19:59:28.760Z
+date: 2025-01-18T22:28:06.259Z
+updated: 2025-01-19T21:48:17.074Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-step-by-step-guide-to-edit-youtube-videos-in-finalcut/"><u>[New] 2024 Approved A Step-by-Step Guide to Edit YouTube Videos in FinalCut</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-efficiently-convert-youtube-to-desktop-format/"><u>[New] 2024 Approved Efficiently Convert YouTube to Desktop Format</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-crafting-seamless-image-transfers-across-operating-systems/"><u>[New] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-identifying-the-best-10-free-online-art-schools-on-youtube-for-2024/"><u>[New] Cutting Edge Identifying the Best 10 Free Online Art Schools on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view/"><u>[New] In 2024, Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-youtube-unleashed-a-creators-guide-to-greatness/"><u>[New] YouTube Unleashed A Creator's Guide to Greatness</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ensuring-profitability-in-youtube-with-correct-monetization-for-2024/"><u>[Updated] Ensuring Profitability in YouTube with Correct Monetization for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[Updated] Unraveling the New Dimensions of VegasPro '19</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-champions-list-best-call-alert-tunes-for-iphones/"><u>2024 Approved Champion's List Best Call Alert Tunes for iPhones</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-blurry-beginnings-transforming-your-videography-with-instagram-techniques/"><u>2024 Approved From Blurry Beginnings Transforming Your Videography with Instagram Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-ventures-partnership-playbook/"><u>2024 Approved Visual Ventures Partnership Playbook</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/aufgabenplane-effektiv-organisieren-und-kopieren-sie-die-entsprechende-datei-ins-netzlaufwerk-in-windows-10/"><u>Aufgabenpläne Effektiv Organisieren Und Kopieren Sie Die Entsprechende Datei Ins Netzlaufwerk in Windows 10</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/beyond-blockbuster-horizons-favorite-films/"><u>Beyond Blockbuster Horizons Favorite Films</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elevating-your-podcasts-online-presence-via-seo-for-2024/"><u>Elevating Your Podcast's Online Presence via SEO for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/expert-advice-on-flawless-ipad-screen-captures-for-2024/"><u>Expert Advice on Flawless iPad Screen Captures for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-your-essential-guide-to-mobile-asmr-sounds/"><u>In 2024, Your Essential Guide to Mobile ASMR Sounds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-shorts-revenue-sharing-how-much-do-creators-get-paid/"><u>In 2024, YouTube Shorts Revenue Sharing How Much Do Creators Get Paid?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/prime-7-dslr-options-elevating-professional-social-media-coverage-for-2024/"><u>Prime 7 DSLR Options Elevating Professional Social Media Coverage for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-detailed-overview-everything-about-io-screening/"><u>[New] In 2024, Detailed Overview Everything About IO Screening</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-clipcomposer-critique-thorough-examination/"><u>[Updated] In 2024, ClipComposer Critique – Thorough Examination</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay/"><u>[Updated] In 2024, Creative Video Editing for FB Techniques of LC and BB Overlay</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-free-stopwatches-without-a-price-tag/"><u>2024 Approved Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/6yen55sf5pah5lu257o757uf77ya5aac5l2v5lplusd5a2y5yplusk5zue5ps25osp5asw6ygt5yiw5yiq6zmk55qe5pah5lu2/"><u>重生文件系统：如何保存及回收意外遭到刪除的文件</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/act-now-save-big-with-our-top-choice-of-nomad-iphone-cases-bogo-offer-on-zdnet/"><u>Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/buy-one-nomad-case-for-your-iphone-and-grab-a-second-free-today-limited-time-deal-on-zdnet/"><u>Buy One Nomad Case for Your iPhone & Grab a Second FREE Today – Limited Time Deal on ZDNet!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1727794408984-choosing-between-the-iphone-14-pro-and-iphone-14-pro-max-a-comprehensive-guide-for-your-next-upgrade-insights/"><u>Choosing Between the iPhone 14 Pro and iPhone 14 Pro Max: A Comprehensive Guide for Your Next Upgrade - Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/meta-quest-3-vs-apple-vision-pro-who-wins-in-the-ai-race-activate-advanced-features-now-innovative-tech-insights/"><u>Meta Quest 3 Vs. Apple Vision Pro: Who Wins in the AI Race? Activate Advanced Features Now | Innovative Tech Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubleshooting-fixing-continuous-crashes-in-age-of-wonders-planetfall/"><u>PC Troubleshooting: Fixing Continuous Crashes in Age of Wonders: Planetfall</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/shop-the-latest-mac-ipad-and-iphone-unveiled-at-wwdc-availability-and-preorders-explained/"><u>Shop the Latest Mac, iPad & iPhone Unveiled at WWDC: Availability and Preorders Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-windows-xp-a-filmmakers-companion/"><u>Step Into Windows XP A Filmmaker's Companion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-mac-system-care-the-leading-optimization-tools-unmasked-digitalguru/"><u>Ultimate Guide to Mac System Care : The Leading Optimization Tools Unmasked | DigitalGuru</u></a></li>
 </ul></div>
 

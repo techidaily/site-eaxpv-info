@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2025-01-06T19:37:20.908Z
-updated: 2025-01-13T19:46:05.799Z
+date: 2025-01-18T18:40:58.000Z
+updated: 2025-01-19T19:59:13.424Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
 
@@ -58,6 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -71,7 +71,7 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -81,10 +81,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -103,7 +99,7 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -121,7 +117,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -131,6 +127,10 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -180,20 +180,17 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-youtube-reaction-video/"><u>[New] 2024 Approved How to Make a YouTube Reaction Video?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-dji-drone-prospectus-phantom-3-edition/"><u>[New] In 2024, DJI Drone Prospectus Phantom 3 Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>[New] In 2024, Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-insights-top-educational-yt-creators/"><u>[New] In 2024, Historical Insights Top Educational YT Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-hashtags-that-amplify-to-6k-views/"><u>[Updated] 2024 Approved Finding #Hashtags That Amplify to 6K Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] 2024 Approved How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-embracing-total-perspectives-in-filmmaking/"><u>[Updated] Embracing Total Perspectives in Filmmaking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-shorts-to-mp4-a-step-by-step-tutorial-for-2024/"><u>[Updated] From Shorts to MP4 A Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmaker-tips-youtube-trailers-using-filmora/"><u>[Updated] In 2024, Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-webcam-recording-on-macbook-pro/"><u>[Updated] Streamlining Webcam Recording on MacBook Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/beste-gratis-videoklipsprogrammaen-2024-top-19-keurmerkvolle-kieswijzern-voor-heerlijkheid-en-effektiviteit/"><u>Beste Gratis Videoklipsprogrammaën 2024: Top 19 Keurmerkvolle Kieswijzern Voor Heerlijkheid en Effektiviteit</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-v29e-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo V29e</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-blueear-bluetooth-cap-combining-trendiness-and-reliable-acoustics/"><u>In-Depth Review of the Blueear Bluetooth Cap: Combining Trendiness & Reliable Acoustics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-smart-home-innovations-in-2eightyfour-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Smart Home Innovations in 2Eightyfour: Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-do-i-use-adobe-premiere-to-upload-youtube-videos-in-2024/"><u>[New] How Do I Use Adobe Premiere To Upload YouTube Videos, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-complete-screen-recorder-in-depth-az-reviewing/"><u>[New] In 2024, Complete Screen Recorder - In-Depth AZ Reviewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software/"><u>[Updated] 2024 Approved Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[Updated] In 2024, 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-vos-fichiers-dts-au-format-flac-gratuitement-avec-le-convertisseur-en-ligne-de-movavi/"><u>Convertissez Vos Fichiers DTS Au Format FLAC Gratuitement Avec Le Convertisseur en Ligne De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-free-mp4-editor-software-for-202macoswindows-top-picks-for-your-videos/"><u>Discover the Best FREE MP4 Editor Software for 202([MacOS/Windows]) - Top Picks for Your Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effimero-non-gratuito-si-converti-immagini-webp-a-jpeg-senza-costi-con-photoconvertpro/"><u>Effimero Non, Gratuito Sì! Converti Immagini WEBP a JPEG Senza Costi Con PhotoConvertPro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/hoewelikomme-er-voor-bij-het-creeren-van-een-persoonlijk-quiz-tentoonstelling/"><u>Hoewelikomme Er Voor Bij Het Creëren Van Een Persoonlijk Quiz-Tentoonstelling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-az-capture-in-depth-app-analysis-and-reviews/"><u>In 2024, AZ Capture In-Depth App Analysis & Reviews</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pro-level-7-dslrs-that-transform-your-digital-storytelling/"><u>In 2024, Pro-Level 7 DSLRs That Transform Your Digital Storytelling</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-gone-uncover-effective-strategies-for-tracking-and-reinstating-lost-software/"><u>IPhone App Gone? Uncover Effective Strategies for Tracking and Reinstating Lost Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-effective-fixes-for-non-responsive-voice-chat-in-destiny-2/"><u>Unstuck From Silence: Effective Fixes for Non-Responsive Voice Chat in Destiny 2</u></a></li>
 </ul></div>
 

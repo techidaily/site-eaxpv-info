@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered"
-date: 2025-01-11T19:17:48.411Z
-updated: 2025-01-13T19:24:42.135Z
+date: 2025-01-13T21:52:03.527Z
+updated: 2025-01-19T18:03:25.185Z
 tags:
   - apple
 categories:
@@ -32,17 +32,9 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -52,21 +44,29 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -82,10 +82,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -98,7 +94,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,24 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>[New] 2024 Approved How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-studio-monetization-check-ensure-your-channels-monetization/"><u>[New] 2024 Approved YouTube Studio Monetization Check Ensure Your Channel's Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-capture-and-store-videos-effortlessly-with-our-top-list/"><u>[New] In 2024, Capture & Store Videos Effortlessly with Our Top List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-charting-the-course-for-your-youtube-music-narrative/"><u>[New] In 2024, Charting the Course for Your YouTube Music Narrative</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hire-wisdom-top-10-recruiting-video-guide/"><u>[New] In 2024, Hire Wisdom Top 10 Recruiting Video Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-virtual-world-real-profit-for-game-makers/"><u>[New] Virtual World, Real Profit for Game Makers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-amplify-your-content-two-approaches-to-skyrocket-traffic-for-2024/"><u>[Updated] Amplify Your Content Two Approaches to Skyrocket Traffic for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-unlimited-echoes-for-online-content-makers-for-2024/"><u>[Updated] Get Unlimited Echoes for Online Content Makers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-boosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube/"><u>[Updated] In 2024, Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-rights-in-instagram-songs/"><u>[Updated] In 2024, Navigating Rights in Instagram Songs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-role-of-youtube-images-in-video-promotion-and-discovery/"><u>[Updated] The Role of Youtube Images in Video Promotion and Discovery</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-secretive-instagram-viewing-for-2024/"><u>[Updated] The Ultimate Guide to Secretive Instagram Viewing for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-vault-the-wealth-of-mr-beast-for-2024/"><u>[Updated] Unlocking the Vault The Wealth of Mr. Beast for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-12-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 12 mini? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://win-info.techidaily.com/guia-gratuita-para-cambiar-archivos-wmv-a-mp4-en-linea-con-convertidor-de-movavi/"><u>Guía Gratuita Para Cambiar Archivos WMV a MP4 en Línea Con Convertidor De Movavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/icecream-screen-recorder-indepth-review-for-2024/"><u>Icecream Screen Recorder Indepth Review for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/professional-video-editing-solutions-for-property-marketing-top-picks-with-insider-advice/"><u>Professional Video Editing Solutions for Property Marketing: Top Picks with Insider Advice</u></a></li>
-<li><a href="https://facebook.techidaily.com/ripple-effects-how-stablecoins-revolutionize-crypto/"><u>Ripple Effects: How Stablecoins Revolutionize Crypto</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/splitcam-reviewed-topping-in-video-recording-technology/"><u>SplitCam Reviewed Topping in Video Recording Technology?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>[Updated] 2024 Approved Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[Updated] Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-pathway-to-online-success-building-a-new-youtube-channel/"><u>[Updated] The Pathway to Online Success Building a New YouTube Channel</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-websites-for-youtube-preview-creation-tools/"><u>2024 Approved Essential Websites for YouTube Preview Creation Tools</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/boost-your-laptops-speed-and-efficiency-with-expert-settings-adjustments-by-yl-software/"><u>Boost Your Laptop's Speed and Efficiency with Expert Settings Adjustments by YL Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertir-videos-mpeg-au-format-vob-sur-internet-pour-rien-service-de-conversion-video-express-avec-movavi/"><u>Convertir Vidéos MPEG Au Format VOB Sur Internet Pour Rien - Service De Conversion Vidéo Express Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dicas-estrategicas-para-otimizar-a-qualidade-do-som-em-seus-videos/"><u>Dicas Estratégicas Para Otimizar a Qualidade Do Som Em Seus Vídeos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-wav-audio-format-everything-you-need-to-know-featuring-tips-from-movavi-converter/"><u>Exploring the .WAV Audio Format - Everything You Need to Know, Featuring Tips From Movavi Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-ogv-files-into-mp4-format-with-ease/"><u>Free Online Converter: Change OGV Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-tool-by-movavi-seamlessly-convert-pcx-files-into-bmp-format/"><u>Free Online Tool by Movavi - Seamlessly Convert PCX Files Into BMP Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-uploading-and-converting-content-for-ipads-iphones-and-macs/"><u>Guide to Uploading and Converting Content for iPads, iPhones & Macs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-thriving-on-both-sides-work-and-youtubing-tips/"><u>In 2024, Thriving on Both Sides Work and YouTubing Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-online-downloadador-de-imagens-jpeg-livre-e-gratuito-para-pdfs-do-formato-ppm/"><u>Movavi Online: Downloadador De Imagens JPEG Livre E Gratuito Para PDFs Do Formato PPM</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-wmvmpeg/"><u>Movavi의 인터넷 루트에서 WMV/MPEG 비디오를 쉽게 모니터링 가능한 다이제스트로 변환하기</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-free-conversion-transforming-mp4m4a-files-into-aac-format-with-ease-using-movavi/"><u>Online Free Conversion: Transforming MP4/M4A Files Into AAC Format with Ease Using Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecnicas-eficientes-de-alteracao-do-tamanho-em-multiplicidade-como-usar-o-redimensionador-de-fotos-para-otimizacao-rapida-e-simultanea/"><u>Técnicas Eficientes De Alteração Do Tamanho Em Multiplicidade: Como Usar O Redimensionador De Fotos Para Otimização Rápida E Simultânea</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g14-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G14 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/windows-10-srs-grade-automatic-backup-handling-made-ultra-easy/"><u>Windows 10 SRS-Grade Automatic Backup Handling Made Ultra Easy!</u></a></li>
 </ul></div>
 

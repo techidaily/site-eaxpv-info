@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech Giants' Challenges: Google Faces Antitrust Repercussions While Samsung Expands Into AI – Rankings in Global Innovation Index"
-date: 2025-01-08T16:50:55.679Z
-updated: 2025-01-13T19:16:47.367Z
+date: 2025-01-18T18:22:17.191Z
+updated: 2025-01-19T20:23:30.646Z
 tags:
   - apple
 categories:
@@ -71,19 +71,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-bypassing-blackouts-with-video-tips/"><u>[New] 2024 Approved Bypassing Blackouts with Video Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[New] 2024 Approved Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-deep-dive-into-the-core-functionalities-of-zdsoft-for-2024/"><u>[New] Deep Dive Into the Core Functionalities of ZDSoft for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-imovie-content-from-home-studio-to-youtube-hub-for-2024/"><u>[Updated] Guiding iMovie Content From Home Studio to YouTube Hub for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-guide-non-commercial-android-recorder-choice/"><u>[Updated] In 2024, Essential Guide Non-Commercial Android Recorder Choice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-video-editors-for-youtube/"><u>[Updated] In 2024, Free Online Video Editors for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-massive-viewership-with-a-small-financial-investment/"><u>[Updated] In 2024, Gain Massive Viewership with a Small Financial Investment</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-the-simple-steps-to-update-your-networks-banner-image/"><u>[Updated] In 2024, Unveiling the Simple Steps to Update Your Network's Banner Image</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intel-driver-install-on-underpowered-pcs/"><u>Intel Driver Install on Underpowered PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-desktop-and-nas-storage/"><u>The Ultimate Guide to Selecting the Best Desktop & NAS Storage</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-the-art-of-iphones-upside-down-photos/"><u>[Updated] In 2024, Unlocking the Art of iPhone's Upside-Down Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285970552-2024dvd/"><u>「2024年度絕無可擋的免費複製工具清單：達到頂級效果，簡單复制DVD和主要電影」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-guide-to-intellectual-property-in-music/"><u>2024 Approved Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-dvd-ripping-software-showdown-winx-dvd-ripper-platinum-versus-dvdfabs-dvd-ripper-solution/"><u>Best DVD Ripping Software Showdown: WinX DVD Ripper Platinum Versus DVDFab's DVD Ripper Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/da-disco-facilita-guida-alla-trasformazione-di-dvd-musicali-in-formati-video-digitali-su-sistemi-operativi-windows-e-mac/"><u>Da Discò: Facilità Guida Alla Trasformazione Di DVD Musicali in Formati Video Digitali Su Sistemi Operativi Windows E Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevating-engagement-split-screen-tactics-on-social-media-platforms-for-2024/"><u>Elevating Engagement Split Screen Tactics on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/impress-locals-the-best-17-spanish-sayings/"><u>Impress Locals: The Best 17 Spanish Sayings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-note-12t-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi Note 12T Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/interactive-photography-sharing-immersive-360-photos-via-mobile-devices-for-2024/"><u>Interactive Photography Sharing Immersive 360 Photos via Mobile Devices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-how-to-repairing-whea-system-memory-failures-effectively/"><u>The Definitive How-To: Repairing WHEA System Memory Failures Effectively</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-guide-to-sharing-your-tiktok-content-on-twitter-for-2024/"><u>The Guide to Sharing Your TikTok Content on Twitter for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289646085-winxdvd/"><u>WinXDVD 專業輸入碼介面教程 - 完美安裝與使用</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: IPhone Models Supported by iOS N° 18 Upgrade – Identifying the Latest and Older iPhone Versions Affected
-date: 2024-12-07T00:35:07.354Z
-updated: 2024-12-07T23:04:10.515Z
+date: 2025-01-12T19:38:15.363Z
+updated: 2025-01-19T16:14:01.073Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-frame-rate-dilemma-30-vs-60-fps-in-video-production/"><u>[New] Frame Rate Dilemma 30 Vs. 60 FPS in Video Production</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-journey-begins-on-yt-ideas-take-flight-for-2024/"><u>[New] Green Screen Journey Begins on YT, Ideas Take Flight for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/"><u>[New] How to Increase YouTube Traffic by a Million Safely Done for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mediacollector-for-fb-groups/"><u>[New] MediaCollector for Fb Groups</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] 2024 Approved Foremost Guide to YouTube Equipment for Rookies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-beginners-guide-how-to-create-a-youtube-channel-and-make-money-for-2024/"><u>[Updated] Beginners’ Guide How To Create a YouTube Channel and Make Money for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-the-ultimate-list-of-video-converters-for-2024/"><u>[Updated] Guide The Ultimate List of Video Converters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-youtube-to-mp4-ensuring-data-security-for-2024/"><u>[Updated] Guide YouTube to MP4 - Ensuring Data Security for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flashflicker-artist/"><u>[Updated] In 2024, FlashFlicker Artist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-animate-and-make-your-own-effects/"><u>[Updated] In 2024, How to Animate and Make Your Own Effects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-joke-makers-haven-get-it-today/"><u>2024 Approved Joke Makers' Haven - Get It Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818320933-boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-transitional-beats-with-cross-sound-blending/"><u>Crafting Transitional Beats with Cross-Sound Blending</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-words-to-whispers-penning-poetic-masterpieces-with-the-help-of-chaturbate-gpt/"><u>From Words to Whispers: Penning Poetic Masterpieces with the Help of Chaturbate GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/installing-llama-2-on-your-machine-the-ultimate-tutorial/"><u>Installing Llama 2 on Your Machine – The Ultimate Tutorial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transferring-your-dvd-collection-step-by-step-guide-to-moving-content-from-dvds-to-ipads/"><u>Transferring Your DVD Collection: Step-by-Step Guide to Moving Content From DVDs to iPads</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-device-capture-to-viral-content-youtubes-upload-guide/"><u>[New] 2024 Approved From Device Capture to Viral Content YouTube's Upload Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-livestreaming-facebook-made-simple-for-all-tech-users/"><u>[New] 2024 Approved Livestreaming Facebook Made Simple for All Tech Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-turn-your-youtube-shorts-into-a-stream-of-income/"><u>[New] 2024 Approved Turn Your YouTube Shorts Into a Stream of Income</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flex-your-viewing-muscles-handling-multiple-youtube-videos-for-2024/"><u>[New] Flex Your Viewing Muscles Handling Multiple YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-playback-speed-control-in-youtube-for-2024/"><u>[New] Harness the Power of Playback Speed Control in YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-track-to-short-video-treasure-troves-free-access/"><u>[New] In 2024, Fast Track to Short Video Treasure Troves (Free Access)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-guru-setup-opt-for-studio-or-beta-option/"><u>[New] In 2024, YouTube Guru Setup Opt for Studio or Beta Option</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-exclusive-no-cost-premiere-pro-resource-pack/"><u>[Updated] 2024 Approved Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-online-tools-for-youtube-channel-starters/"><u>[Updated] 2024 Approved Free Online Tools for YouTube Channel Starters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-paid-transitioning-your-channel-via-partnership-for-2024/"><u>[Updated] From Free to Paid Transitioning Your Channel via Partnership for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gear-up-essential-asmr-microphones-to-consider-for-2024/"><u>[Updated] Gear Up Essential ASMR Microphones to Consider for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[Updated] In 2024, Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-propel-your-instagram-content-techniques-for-higher-interaction-for-2024/"><u>[Updated] Propel Your Instagram Content Techniques for Higher Interaction for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-who-reigns-supreme-obs-vs-twitch-live/"><u>[Updated] Who Reigns Supreme? OBS vs Twitch Live</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2020) Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-x-flip-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo X Flip in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Sony Xperia 5 V FRP</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Apple Introduces Live Podcast Subtitles: A Game-Changer for Accessibility on iTunes"
-date: 2025-01-06T16:02:45.062Z
-updated: 2025-01-13T17:21:18.887Z
+date: 2025-01-17T20:45:36.972Z
+updated: 2025-01-19T21:18:36.655Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -69,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,20 +122,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-timestamps-youtube-video-for-2024/"><u>[New] How to Add Timestamps YouTube Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-captivate-audience-attention-with-your-yt-shorts-for-2024/"><u>[New] How to Captivate Audience Attention with Your YT Shorts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-ps3-emulators-your-gateway-to-classic-games/"><u>[New] Top Ps3 Emulators Your Gateway to Classic Games</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-building-unique-instagram-profile-thumbnails-for-2024/"><u>[Updated] Building Unique Instagram Profile Thumbnails for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-creating-a-stellar-game-channels-look-a-step-by-step-approach/"><u>[Updated] Creating a Stellar Game Channels Look A Step-By-Step Approach</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-tips-for-smooth-youtube-content-trimming/"><u>[Updated] In 2024, Essential Tips for Smooth YouTube Content Trimming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-navigate-to-sites-where-you-can-procure-sponsorships-on-youtube/"><u>[Updated] Navigate to Sites Where You Can Procure Sponsorships on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[Updated] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-snap-and-share-pcmac-video-recording-for-youtube/"><u>[Updated] Snap & Share PC/Mac Video Recording for YouTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-strategies-to-address-windows-7s-unresponsive-headphone-problems/"><u>Effective Strategies to Address Windows 7'S Unresponsive Headphone Problems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-video-extraction-from-linkedin-using-these-6-choices/"><u>In 2024, Master Video Extraction From LinkedIn Using These 6 Choices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-setting-up-and-using-system-restore-feature-on-windows-10/"><u>Step-by-Step Guide: Setting Up & Using System Restore Feature on Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-easy-way-adding-external-yt-videos-to-your-powerpoint-sessions-for-2024/"><u>The Easy Way Adding External YT Videos to Your PowerPoint Sessions for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-creative-potential-in-lyric-videos-with-lyric-video-maker-for-2024/"><u>Unlocking Creative Potential in Lyric Videos with Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>[New] 2024 Approved Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hiring-heroes-the-most-motivating-vids-of-the-year-1-10/"><u>[New] 2024 Approved Hiring Heroes The Most Motivating Vids of the Year #1-10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-wealth-awaits-one-million-youtube-followers/"><u>[New] 2024 Approved How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-integrate-youtube-playlists-into-your-site/"><u>[New] 2024 Approved How to Integrate YouTube Playlists Into Your Site</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-soundtracks-law-and-ethics/"><u>[New] 2024 Approved Instagram Soundtracks Law & Ethics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transition-techniques-elevating-your-kinemaster-filmography/"><u>[New] 2024 Approved Transition Techniques Elevating Your Kinemaster Filmography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[New] In 2024, Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-trim-youtube-videos/"><u>[New] In 2024, How to Trim YouTube Videos?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-comprehensive-overview-of-final-cut-pro-techniques/"><u>[Updated] Comprehensive Overview of Final Cut Pro Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-rich-ambiance-for-video-content-for-2024/"><u>[Updated] Find Rich Ambiance for Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>[Updated] In 2024, From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-extract-youtube-content-easily/"><u>[Updated] In 2024, How to Extract YouTube Content Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-future-of-vlogging-top-12-camera-innovations/"><u>[Updated] In 2024, Unveiling the Future of Vlogging Top 12 Camera Innovations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-narzo-60-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme Narzo 60 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-prevent-youtube-from-starting-video-before-you-watch/"><u>How to Prevent YouTube From Starting Video Before You Watch</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-premiere-pro-transition-essentials-top-10-plugins-you-need/"><u>Updated 2024 Approved Premiere Pro Transition Essentials Top 10 Plugins You Need</u></a></li>
 </ul></div>
 

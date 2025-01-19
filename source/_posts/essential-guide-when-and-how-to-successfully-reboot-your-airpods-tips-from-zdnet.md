@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2025-01-09T19:42:19.031Z
-updated: 2025-01-13T19:55:35.885Z
+date: 2025-01-16T17:22:50.402Z
+updated: 2025-01-19T18:36:39.826Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -44,10 +48,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -58,13 +58,13 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -83,7 +83,7 @@ The boy
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -95,6 +95,10 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -111,10 +115,6 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -166,7 +166,7 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
@@ -191,6 +191,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -221,10 +225,6 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -275,18 +275,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finalizing-your-video-with-a-bold-statement/"><u>[New] 2024 Approved Finalizing Your Video with a Bold Statement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[New] 2024 Approved How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>[New] Simplified Protocol Effortless Video Conversion and DVD Making</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom-for-2024/"><u>[New] Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-historical-highlights-topping-the-list-of-learning-yt-sources/"><u>[Updated] 2024 Approved Historical Highlights Topping the List of Learning YT Sources</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion-for-2024/"><u>[Updated] Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fundamental-equipment-for-channel-foundations/"><u>[Updated] In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-navigate-your-gaming-world-with-steams-switch-controller/"><u>[Updated] Navigate Your Gaming World with Steam's Switch Controller</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dji-spark-and-you-a-comprehensive-review-of-portable-aerial-tech/"><u>DJI Spark and You A Comprehensive Review of Portable Aerial Tech</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-31-woes-comprehensive-guide-to-troubleshoot-and-repair-it-on-windows/"><u>Error Code 31 Woes? Comprehensive Guide to Troubleshoot and Repair It on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-8-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 8 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/perfecting-facebook-profile-altering-significant-personal-date/"><u>Perfecting Facebook Profile: Altering Significant Personal Date</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/say-hello-to-premium-entertainment-on-a-budget-the-impressive-lg-24lh4830-smart-tv/"><u>Say Hello to Premium Entertainment on a Budget: The Impressive LG 24LH4830 Smart TV</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-visual-storytelling-scribing-text-over-image-realms-online/"><u>[Updated] 2024 Approved Visual Storytelling Scribing Text over Image Realms Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-no-more-latency-choose-av1-for-youtube-playback/"><u>[Updated] No More Latency Choose AV1 for YouTube Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290120000-4k/"><u>「4Kビデオの高画質を守りつつ、完全無料で圧縮とリサイジングのテクニック」</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/avidvd3/"><u>無料ソフトでAVIをDVDに変換する方法：便利なコツと上位3選！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-halloween-thrills-and-chills-updated-list-of-top-10-spine-chilling-movies-available-on-physical-media/"><u>Best Halloween Thrills & Chills: Updated List of Top 10 Spine-Chilling Movies Available on Physical Media !</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/direktes-handbuch-zur-verlustfreien-umwandlung-von-hevc-in-das-mp4-format/"><u>Direktes Handbuch Zur Verlustfreien Umwandlung Von HEVC in Das MP4 Format</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-12-pro-4g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 12 Pro 4G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-piu-efficienti-conversori-videografici-gratis-del-2020-esclusivi-per-utenti-di-windows-11-miglioramenti-avanzati-della-qualita-video-hd4k/"><u>I Più Efficienti Conversori Videografici Gratis Del 2020 Esclusivi per Utenti Di Windows 11 | Miglioramenti Avanzati Della Qualità Video HD/4K</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/incorporating-real-time-photos-into-team-conversations-for-2024/"><u>Incorporating Real-Time Photos Into Team Conversations for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-online-gif-to-tiff/"><u>Movavi가 제공하는 원금 없이 Online GIF to TIFF 변환 - 단정한 지원</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/no-pocket-money-needed-heres-a-free-solution-to-coffee-stains-in-images-for-2024/"><u>No Pocket Money Needed? Here’s a FREE Solution to Coffee Stains in Images for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/powering-your-ssds-with-excellence-a-comprehensive-review-of-the-t-force-dark-airflow-i-heatsink/"><u>Powering Your SSDs with Excellence: A Comprehensive Review of the T-Force Dark AirFlow I Heatsink</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-platinum-v8220-save-15-with-exclusive-2023-discount-codes/"><u>WinX DVD Ripper Platinum V8.22.0 - Save $15 with Exclusive 2023 Discount Codes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-transformez-vos-fichiers-multimedias-en-une-fraction-du-temps-grace-a-lacceleration-gpu/"><u>Winxvideo AI - Transformez Vos Fichiers Multimédias en Une Fraction Du Temps Grâce À L'accélération GPU</u></a></li>
 </ul></div>
 

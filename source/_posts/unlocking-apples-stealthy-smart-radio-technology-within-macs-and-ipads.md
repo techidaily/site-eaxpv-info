@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2025-01-08T17:55:27.983Z
-updated: 2025-01-13T17:21:13.538Z
+date: 2025-01-15T21:42:00.902Z
+updated: 2025-01-19T17:22:45.806Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPads with a Thread radio:
@@ -62,16 +62,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
@@ -81,6 +77,10 @@ Most Apple devices, except iPhones, have this printed on the back. If you can't 
 You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacBook Air](https://support.apple.com/en-us/102869), and [MacBook Pro](https://support.apple.com/en-us/108052) models on Apple's Support page.
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Access the Apple FCC database
 
@@ -104,10 +104,6 @@ If a Thread radio exists in that device, you should find a report of its complia
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Thread?
 
 Thread is a low-energy wireless communication protocol for smart home devices created by the Thread Group. Like Zigbee, Thread is based on IEEE 802.15.4 and is designed to provide faster speeds and better range than Bluetooth within a home network. It's also part of the new smart home standard, [Matter](https://www.zdnet.com/home-and-office/smart-home/what-is-matter-how-the-connectivity-standard-can-change-your-smart-home/), which can run over Thread or Wi-Fi. Apple is one of the companies behind the development of Matter through the Connectivity Standards Alliance (CSA). 
@@ -117,7 +113,7 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Thread border router?
@@ -151,6 +147,10 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 **Also: [Govee's new smart outdoor lights brighten your home in three colorful ways](https://www.zdnet.com/home-and-office/smart-home/govees-new-smart-outdoor-lights-brighten-your-home-in-three-colorful-ways/)**
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the iPad a smart home hub?
 
@@ -204,19 +204,19 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-hit-the-town-non-gta-games-that-offer-similar-joy/"><u>[New] Hit the Town Non-GTA Games That Offer Similar Joy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[Updated] 2024 Approved How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-aspect-ratio-guide-to-enhanced-facebook-viewing-for-2024/"><u>[Updated] Aspect Ratio Guide to Enhanced Facebook Viewing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-playlist-on-youtube-a-complete-guide-for-2024/"><u>[Updated] How to Create a Playlist on Youtube - a Complete Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-purge-personal-youtube-history-records-for-2024/"><u>[Updated] How to Purge Personal YouTube History Records for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] In 2024, Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vlogs-to-viral-jake-pauls-online-empire-expansion/"><u>[Updated] In 2024, From Vlogs to Viral Jake Paul’s Online Empire Expansion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-themes-made-easy-by-the-coolest-logo-and-icon-stores-online/"><u>[Updated] YouTube Themes Made Easy by the Coolest Logo & Icon Stores Online</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-edge-2023-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Edge 2023 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/erfassen-sie-verlorene-bilder-wieder-professionelle-tipps-zur-wiederherstellung-von-dateien-unter-windows-11/"><u>Erfassen Sie Verlorene Bilder Wieder: Professionelle Tipps Zur Wiederherstellung Von Dateien Unter Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970001251-install-realtek-card-reader-software-on-windows-11-secure-your-files-now/"><u>Install RealTek Card Reader Software on Windows 11 - Secure Your Files Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-usb-hibernate-prevention-in-win-11/"><u>Quick Fixes for USB Hibernate Prevention in Win 11</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/sound-cleanup-a-comprehensive-tutorial-on-removing-drums-from-audio-files/"><u>Sound Cleanup A Comprehensive Tutorial on Removing Drums From Audio Files</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-15-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 15 Pro? How to Fix</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boosting-your-content-reach-with-eye-catching-youtube-video-thumbnails/"><u>[New] Boosting Your Content Reach with Eye-Catching YouTube Video Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-deep-dive-into-youtube-view-counts-and-more/"><u>[New] In 2024, A Deep Dive Into YouTube View Counts and More</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>[Updated] In 2024, Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-art-of-amplification-a-comprehensive-guide-to-sharing-videos-on-facebook/"><u>2024 Approved The Art of Amplification A Comprehensive Guide to Sharing Videos on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apoiar-pesquisa-cientifica/"><u>Apoiar Pesquisa Científica</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/efficiently-control-your-iphones-view-size/"><u>Efficiently Control Your iPhone's View Size</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transferring-dvd-content-onto-your-pc-or-mac-with-ease/"><u>Effortless Guide: Transferring DVD Content Onto Your PC or Mac with Ease</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/w-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-playstation-5-game-storage/"><u>Optimize Your PlayStation 5 Game Storage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-guide-converting-dvds-to-divx-format-using-windows-or-mac-os/"><u>Quick Guide: Converting DVDs to DivX Format Using Windows or Mac OS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2010-files-for-free-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2010 Files for Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/secure-your-copy-of-winx-dvdbluray-transcoder-and-editor-suite-from-reputable-retailers/"><u>Secure Your Copy of WinX DVD/Bluray Transcoder and Editor Suite From Reputable Retailers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-smart-video-upgrade-with-ai-powered-upscaling-stabilization-and-conversion-tools/"><u>WinxVideo AI: Smart Video Upgrade with AI-Powered Upscaling, Stabilization, and Conversion Tools</u></a></li>
 </ul></div>
 

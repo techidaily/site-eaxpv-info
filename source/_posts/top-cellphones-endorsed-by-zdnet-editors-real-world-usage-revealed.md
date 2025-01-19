@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2025-01-11T18:27:13.226Z
-updated: 2025-01-13T16:00:32.993Z
+date: 2025-01-18T16:52:09.650Z
+updated: 2025-01-19T19:50:57.994Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -70,10 +74,6 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy S21 Ultra
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
@@ -108,11 +108,11 @@ Cons
 
 Show Expert Take Show less 
 
-## iPhone SE (2020)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone SE (2020)
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -140,10 +140,6 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12
 
 ### Chris Matyszczyk
@@ -165,7 +161,7 @@ Cons
 ## iPhone 11 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ed Bott
@@ -177,10 +173,6 @@ Cons
 Show Expert Take Show less 
 
 ## Ulefone Armor 9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
 
@@ -215,7 +207,7 @@ Show less
 ## Huawei P20 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Federico Guerrini
@@ -233,14 +225,10 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone XR
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -266,10 +254,14 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone X
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Robin Harris
@@ -277,6 +269,10 @@ Show Expert Take Show less
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -297,10 +293,6 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 **Next phone or dream phone?** My upgrade cycle is based purely on when my contract runs out (outright cost in Australia is insane), so I guess my next device will be in the 13 range later this year (RIP bank account). 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone 7 Plus
 
@@ -336,6 +328,10 @@ Show less
 
 ## Samsung Galaxy Note 8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Charles McLellan
 
 I've been using Samsung's Note 8 for several years now, despite having seen all manner of new and improved flagship phones flow through the reviews system during this period. It's got an excellent 6.3-inch AMOLED display, a 3.5mm headphone slot, MicroSD storage to complement the 64GB on-board, two 12MP cameras at the back, plus an S Pen stylus and IP68 dust/water resistance. It's tough, too: I've broken plenty of phones before, but the Note 8 has survived the longest. Probably reaching the end of the road now, though.
@@ -343,6 +339,10 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -376,17 +376,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] 2024 Approved How to Optimally Utilize a Creative Commons License</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-venmo-photo-frame-guidelines/"><u>[New] 2024 Approved Venmo Photo Frame Guidelines</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[New] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[New] In 2024, How to Stand Out YT Thumbnail Size and Engagement Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-androids-step-by-step-to-rotate-and-unite-video-files-for-2024/"><u>[Updated] Android's Step-by-Step to Rotate & Unite Video Files for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-enhance-pc-listening-experience-install-x-recorder/"><u>[Updated] In 2024, Enhance PC Listening Experience - Install X-Recorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>[Updated] In 2024, How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-stages-of-change/"><u>[Updated] Stages of Change</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-hd-blackouts-on-facebook-live-tips-for-chromesafari-users/"><u>2024 Approved Navigating HD Blackouts on Facebook Live Tips for Chrome/Safari Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y36i-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y36i Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-renders-and-exports-videos-from-adobe-after-effects/"><u>Step-by-Step Guide: Renders and Exports Videos From Adobe After Effects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4v-mp4-movavi/"><u>오픈 소스에서 M4V MP4 영상 근로 바꾸기 - Movavi</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-must-have-programs-for-youtube-video-downloads/"><u>[New] In 2024, Must-Have Programs for YouTube Video Downloads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-proven-winners-the-top-5-tools-for-video-conference-recording/"><u>[New] In 2024, Proven Winners The Top 5 Tools for Video Conference Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-time-traveling-tactics-top-7-historic-battles-reimagined/"><u>[New] In 2024, Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-preserving-your-google-voice-history-a-step-by-step-guide/"><u>[New] Preserving Your Google Voice History A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-speed-up-your-photo-journey-creating-rapid-google-collages/"><u>[Updated] In 2024, Speed Up Your Photo Journey Creating Rapid Google Collages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4mov-moviconvert/"><u>免費網站從MP4到MOV格式提高 - 利用 MoviConvert</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aifc-file-transformation-no-cost-fast-and-easy-via-movavi/"><u>AIFC File Transformation: No Cost, Fast & Easy via Movavi</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-blue-screen-of-death-error-0xc000021a-on-win-108-issue-resolved/"><u>Comprehensive Solutions for Blue Screen of Death Error 0xC000021A on Win 10/8 [Issue Resolved]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-webm-to-swf-effortless-format-transformation-with-movavi/"><u>Free Online Converter: WEBM to SWF - Effortless Format Transformation with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-conversor-online-de-video-ogv-para-ogg-pela-movavi/"><u>Gratuito Conversor Online De Vídeo: OGV Para OGG Pela Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-archivos-m4a-a-avi-de-forma-gratuita-en-linea-con-emovavi/"><u>Guía Paso a Paso Para Convertir Archivos M4A a AVI De Forma Gratuita en Línea Con eMovavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-lava-blaze-2-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Lava Blaze 2 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-dts-to-wav-conversion-tool-free-service-by-movavi/"><u>Online DTS to WAV Conversion Tool: Free Service by Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/smart-analytics-driven-by-cookiebot-technology/"><u>Smart Analytics Driven by Cookiebot Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-downloading-podcast-episodes-across-various-platforms-pc-iphone-and-android-movavi/"><u>Step-by-Step Guide: Downloading Podcast Episodes Across Various Platforms (PC, iPhone & Android) - Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-entry-level-guide-to-superior-gaming-editing-systems/"><u>The Entry Level Guide to Superior Gaming Editing Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-acer-predator-orion-n5010-premium-gaming-laptop-at-a-bargain-price/"><u>The Ultimate Guide to the Acer Predator Orion N5010: Premium Gaming Laptop at a Bargain Price</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-editoras-mais-populares-de-filmes-mov-em-2024-acesso-completamente-livre/"><u>Top 5 Editoras Mais Populares De Filmes MOV Em 2024 - Acesso Completamente Livre</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wmv-aiff-movavi/"><u>무료 WMV, Aiff 데이터 간 온라인 전역 변환 - Movavi 기술</u></a></li>
 </ul></div>
 

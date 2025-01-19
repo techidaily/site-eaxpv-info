@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2025-01-06T18:34:36.217Z
-updated: 2025-01-13T19:52:02.767Z
+date: 2025-01-16T16:18:02.937Z
+updated: 2025-01-19T16:06:06.022Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-download-youtube-videos-without-any-software/"><u>[New] 2024 Approved How to Download YouTube Videos without Any Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/0plus-youtube-channel-names-for-vloggers-100-new-filmora-for-2024/"><u>[New] 50+ Youtube Channel Names for Vloggers [100% New] - Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-affiliate-allies-for-small-channels-an-easy-approach-for-2024/"><u>[New] Affiliate Allies for Small Channels An Easy Approach for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-buy-subscribers-wisely-watch-your-numbers-soar-for-2024/"><u>[New] Buy Subscribers Wisely, Watch Your Numbers Soar for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mosaicmind-pro-unleashing-creative-potential/"><u>[New] In 2024, MosaicMind Pro Unleashing Creative Potential</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/criptwriting-mastery-elevate-your-youtube-channels-content-quality/"><u>[New] Scriptwriting Mastery Elevate Your YouTube Channel's Content Quality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-path-to-profitable-partnership-with-your-audience/"><u>[New] The Path to Profitable Partnership with Your Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-does-mr-beast-make-for-2024/"><u>[Updated] How Much Money Does Mr. Beast Make for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-practices-in-extracting-youtube-media/"><u>[Updated] In 2024, Best Practices in Extracting YouTube Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-art-of-online-earnings-youtubes-money-matrix/"><u>[Updated] The Art of Online Earnings YouTube's Money Matrix</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-protocols-and-performance-macos-meets-mixer/"><u>2024 Approved Protocols and Performance MacOS Meets Mixer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/amp-up-your-computers-audio-correcting-underperforming-speakers-in-windows-11/"><u>Amp up Your Computer's Audio: Correcting Underperforming Speakers in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/install-and-enhance-edge-security-with-the-defender-application-guard-from-ms/"><u>Install and Enhance Edge Security with the Defender Application Guard From MS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-automated-audiences-into-authentic-engagement/"><u>Trick Automated Audiences Into Authentic Engagement</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-technology-secrets-with-toms-hardware-insights/"><u>Unlocking Technology Secrets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-raising-the-bar-youtubes-live-streaming-excellence/"><u>[Updated] 2024 Approved Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-troubleshooting-mute-reviving-sound-in-obs-recordings/"><u>[Updated] Troubleshooting Mute Reviving Sound in OBS Recordings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-decade-mondlyback-buttonfilter-triumph/"><u>A Decade: MondlyBack ButtonFilter Triumph</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cambiar-tus-archivos-sin-coste-convertidor-aif-a-aac-en-movavi-sin-compromiso/"><u>Cambiar Tus Archivos Sin Coste: Convertidor AIF a AAC en Movavi Sin Compromiso</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/decouvrez-les-top-alternatives-gratuites-a-davinci-resolve-pour-la-restauration-video-en-2024-un-guide-detaille/"><u>Découvrez Les Top Alternatives Gratuites À DaVinci Resolve Pour La Restauration Video en 2024 : Un Guide Détaillé</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-flip-5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Flip 5 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-secured-purchase-of-genuine-tiktok-enthusiasts/"><u>In 2024, Secured Purchase of Genuine TikTok Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-logiciels-genealogiques-numero-un-en-2024-notre-selection-des-9-meilleurs-selon-movavi/"><u>Les Logiciels Généalogiques Numéro Un en 2024: Notre Sélection Des 9 Meilleurs, Selon Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/modwav-movavi/"><u>MOD到WAV自由下載的線上 MOVAVI 無障礙音效轉換器</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-to-webm-conversion-made-easy-and-free-on-the-moveavi-platform/"><u>MP4 to WebM Conversion Made Easy and Free on the Moveavi Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-free-wmv-converted-to-avi-format-with-movavis-tool/"><u>Online Free WMV Converted to AVI Format with Movavi's Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-swf-a-flv-sin-coste-adicional-usando-la-herramienta-de-conversion-on-line-de-movavi/"><u>Transformar SWF a FLV Sin Coste Adicional Usando La Herramienta De Conversión On-Line De Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unleash-your-gameplays-social-impact-from-xbox-live-to-facebook-for-2024/"><u>Unleash Your Gameplay's Social Impact From Xbox Live to Facebook for 2024</u></a></li>
 </ul></div>
 

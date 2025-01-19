@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2025-01-07T17:15:18.689Z
-updated: 2025-01-13T16:45:33.529Z
+date: 2025-01-17T17:31:39.053Z
+updated: 2025-01-19T20:29:29.913Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,20 +122,20 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] 2024 Approved From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[New] 2024 Approved Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-attention-grabbing-video-teasers/"><u>[New] 2024 Approved Generating Attention-Grabbing Video Teasers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creator-to-earnings-successful-youtube-short-strategies/"><u>[New] In 2024, From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>[New] In 2024, How to Loop a YouTube Video The Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-freefire-gaming-guide-maximizing-video-impact/"><u>[Updated] FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-remove-background-noise-from-skype-video-calls/"><u>[Updated] How to Remove Background Noise From Skype Video Calls</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[Updated] In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-user-experience-through-smart-tracking/"><u>Cookiebot-Enabled: Enhancing User Experience Through Smart Tracking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/distinguishing-features-of-signal-and-whatsapp-which-is-better/"><u>Distinguishing Features of Signal and WhatsApp – Which Is Better?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-for-driverpowerstatefailure-problems-on-your-pc/"><u>DIY Troubleshooting for DRIVER_POWER_STATE_FAILURE Problems on Your PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-asus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Asus FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/is-there-an-onoff-function-for-annotations-in-flipbuilder-output-ebooks/"><u>Is There an On/Off Function for Annotations in FlipBuilder Output Ebooks?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackling-deskjet-driver-failures-os-fixes/"><u>Tackling Deskjet Driver Failures, OS Fixes</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-10-methods-for-effective-youtube-transcoding-for-2024/"><u>Top 10 Methods for Effective YouTube Transcoding for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bedtime-tales-in-motion-reviews-of-storytelling-videos/"><u>[New] Bedtime Tales in Motion Reviews of Storytelling Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-best-replacements-for-twitters-massive-network/"><u>[New] Best Replacements for Twitter's Massive Network</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-the-virtual-arena-engage-with-ease-during-live-streaming-for-2024/"><u>[Updated] Transform the Virtual Arena Engage with Ease During Live Streaming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-all-in-one-video-capture-solution-manycam-enhance-your-live-streaming-with-virtual-webcams/"><u>1. All-in-One Video Capture Solution: ManyCam - Enhance Your Live Streaming with Virtual Webcams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-apple-inspired-intelligence-justify-a-monthly-fee-industry-predicts-up-to-20-subscription-model/"><u>Can Apple-Inspired Intelligence Justify a Monthly Fee? Industry Predicts Up To $20 Subscription Model</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-moto-g13-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Moto G13?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts/"><u>Maximize Impact with Custom Icons and Graphics on Your Instagram Posts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/maximize-your-photo-and-video-library-with-these-apps-for-2024/"><u>Maximize Your Photo and Video Library with These Apps for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-restore-erased-messages-in-iphone-and-android-phones/"><u>Step-by-Step Tutorial: How to Restore Erased Messages in iPhone & Android Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/virtual-broadcasting-made-easy-with-manycam-leading-choice-in-live-video-solutions-and-online-webcams/"><u>Virtual Broadcasting Made Easy with ManyCam - Leading Choice in Live Video Solutions and Online Webcams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/virtual-cam-solutions-with-manycam-revolutionize-your-live-streams-with-cutting-edge-broadcasting-technology/"><u>Virtual Cam Solutions with ManyCam – Revolutionize Your Live Streams with Cutting-Edge Broadcasting Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/virtual-camcorder-expertise-how-to-use-manycam-for-online-broadcasts/"><u>Virtual Camcorder Expertise: How to Use ManyCam for Online Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/virtual-camcorder-revolutionized-unveiling-the-power-of-manycam-in-live-broadcasting-and-digital-meetings/"><u>Virtual Camcorder Revolutionized: Unveiling the Power of ManyCam in Live Broadcasting and Digital Meetings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/virtual-cameras-revolutionized-discover-top-manycam-features-for-professional-live-streaming/"><u>Virtual Cameras Revolutionized: Discover Top ManyCam Features for Professional Live Streaming</u></a></li>
 </ul></div>
 

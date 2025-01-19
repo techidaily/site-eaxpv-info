@@ -1,7 +1,7 @@
 ---
 title: "Exciting Upgrades for iPhone 16: Thinner Bezels and New-Age Spatial Video Abilities, as Reported"
-date: 2025-01-09T19:10:44.944Z
-updated: 2025-01-13T18:32:51.275Z
+date: 2025-01-16T17:30:05.372Z
+updated: 2025-01-19T16:48:52.524Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone models will get iOS 18?
 
 According to Apple, these iPhone models can get iOS 18 now that it's become widely available:
@@ -76,10 +80,6 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18 beta vs full release: What's the difference?
 
 The iOS 18 beta version differs slightly from the general release. Beta testers are given a release that has recently exited its alpha phase, so problems and bugs are expected to arise. The purpose of the beta phase is to gather user feedback to repair these bugs and address any user interface issues before the software is massively distributed.
@@ -92,6 +92,10 @@ The general release will have ironed out most of these bugs and problems using t
 
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When was iOS 18 released?
 
 Apple typically releases its new operating systems for public beta access a few weeks after WWDC. iOS 18 was released in public beta in mid-July. The public beta program lets users test developing software to pinpoint bugs and performance issues. This process lets software teams make any necessary fixes and releases before the new system reaches general availability.
@@ -101,7 +105,7 @@ Apple typically releases its new operating systems for public beta access a few 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a software beta?
@@ -113,7 +117,7 @@ A software beta is a version of a program or operating system initially released
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
@@ -124,16 +128,12 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
@@ -176,21 +176,20 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-curated-cinematic-journeys-the-best-yt-film-selections/"><u>[New] 2024 Approved Curated Cinematic Journeys The Best YT Film Selections</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-what-lies-beneath-understanding-trillers-different-tiktok-approach/"><u>[New] 2024 Approved What Lies Beneath Understanding Triller's Different TikTok Approach</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-boost-your-channel-top-14-gaming-vids-for-youtube-success-for-2024/"><u>[New] Boost Your Channel Top 14 Gaming Vids for YouTube Success for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-channel-confidence-tips-for-trending-on-youtube/"><u>[New] In 2024, Channel Confidence Tips for Trending on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-detailed-tips-for-adequate-lighting-in-youtube-video-production/"><u>[Updated] 2024 Approved Detailed Tips for Adequate Lighting in YouTube Video Production</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-steps-to-add-custom-imagery-in-youtube-videos/"><u>[Updated] 2024 Approved Essential Steps to Add Custom Imagery in YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[Updated] 2024 Approved Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[Updated] In 2024, From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-pruveeo-f5-1080p-full-hd-dashcam-evaluation-great-deal-for-road-safety/"><u>Affordable Pruveeo F5 1080P Full HD Dashcam Evaluation – Great Deal for Road Safety</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-strikes-at-global-leading-browser-through-spooky-marketing-tactics-explore-details-on-zdnet/"><u>Apple Strikes at Global Leading Browser Through Spooky Marketing Tactics – Explore Details on ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-wireless-experience-direct-links-to-download-eveos-official-adapter-drivers/"><u>Enhance Your Wireless Experience: Direct Links to Download Eveo's Official Adapter Drivers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-11r-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus 11R Phones with/without a PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-do-time-lapse-on-samsung-phones/"><u>In 2024, How to Do Time Lapse on Samsung Phones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-photographers-tale-assembly-tool-for-2024/"><u>Master Photographer's Tale Assembly Tool for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-web-based-vertical-video-editors-for-social-media/"><u>New Top-Rated Web-Based Vertical Video Editors for Social Media</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seduction-by-software-deception-in-digital-dating/"><u>Seduction by Software: Deception in Digital Dating</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-screenflow-extensive-review-unveiling-the-mac-experience/"><u>[New] 2024 Approved ScreenFlow Extensive Review Unveiling the Mac Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-artisans-guide-to-instagram-stories-preservation/"><u>[New] 2024 Approved The Artisan’s Guide to Instagram Stories Preservation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video-for-2024/"><u>[Updated] Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-premier-choices-8-linux-editing-tools/"><u>[Updated] In 2024, Premier Choices 8 Linux Editing Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225117222-vob-wmv-movavi/"><u>網路移動平台無限制自由式 VOB 到 WMV 格式改造 - 利用 Movavi 工具</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converting-mods-and-avcbs-into-mp4-formats-on-windowsmac-step-by-step-guide/"><u>Converting MODS and AVCBs Into MP4 Formats on Windows/Mac - Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-a25-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy A25 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-swf-files-into-webm-format-with-ease/"><u>Free Online Converter: Change SWF Files Into WebM Format with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-om-avi-files-naar-m4a-format-te-verwerpen-movavi/"><u>Gratuit Online Om Avi-Files Naar M4a-Format Te Verwerpen - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ricodifica-mp2-nel-formato-wmv-senza-costo-su-internet-scopri-il-metodo-di-conversione-rapida-di-movavi/"><u>Ricodifica MP2 Nel Formato WMV Senza Costo Su Internet: Scopri Il Metodo Di Conversione Rapida Di Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solve-mute-issues-in-screencasting-a-comprehensive-guide-using-movavi-tools/"><u>Solve Mute Issues in Screencasting: A Comprehensive Guide Using Movavi Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-vpns-for-enhanced-streaming-comprehensive-tests-and-reviews-by-experts-insights-from-zdnet/"><u>Top-Ranked VPNs for Enhanced Streaming: Comprehensive Tests & Reviews by Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformacion-gratuita-de-archivos-mxf-a-formato-mp3-con-movavi-online/"><u>Transformación Gratuita De Archivos MXF a Formato MP3 Con Movavi Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-square-to-wide-how-to-adjust-video-shape/"><u>Updated 2024 Approved From Square to Wide How to Adjust Video Shape</u></a></li>
 </ul></div>
 

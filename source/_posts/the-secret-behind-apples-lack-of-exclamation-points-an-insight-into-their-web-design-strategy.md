@@ -1,7 +1,7 @@
 ---
 title: "The Secret Behind Apple's Lack of Exclamation Points: An Insight Into Their Web Design Strategy"
-date: 2025-01-12T16:11:24.582Z
-updated: 2025-01-13T18:24:54.092Z
+date: 2025-01-13T20:37:06.139Z
+updated: 2025-01-19T20:04:09.375Z
 tags:
   - apple
 categories:
@@ -51,7 +51,7 @@ Please, then, let me emphasize one little thing about this alleged genius -- it 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Explaining the exclaiming
@@ -73,7 +73,7 @@ Yet no need for an exclamation point because, presumably, you already get the po
 But some tech companies still insist that their wares deserve some sort of exclamatory explanatory. It's a truly interesting phenomenon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The big startup exclamatory experiment
@@ -133,7 +133,7 @@ Screenshot by Chris Matyszczyk/ZDNET
 Oh!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The majority knows it's serious
@@ -155,7 +155,7 @@ I'm sure the management is excited about its product. I'm sure the product offer
 I'm equally sure that the lack of an exclamation point makes the products seem more, well, serious and important.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sell, don't shout
@@ -212,24 +212,24 @@ It worked for Apple. (I'm not sure the opposite worked quite so well for Yahoo!)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-crafting-the-ideal-youtube-playlist-an-easy-step-by-step-method-for-2024/"><u>[New] Crafting the Ideal YouTube Playlist An Easy, Step-by-Step Method for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-manual-for-crafting-youtube-playlists-for-2024/"><u>[New] How-To Manual for Crafting YouTube Playlists for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-add-a-professional-touch-youtube-video-image-crafting/"><u>[New] In 2024, Add a Professional Touch YouTube Video Image Crafting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-concealed-visibility-mastering-visual-obscurity-in-videos/"><u>[New] In 2024, Concealed Visibility Mastering Visual Obscurity in Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-cutting-edge-youtube-video-editing-techniques-premiere-pro/"><u>[New] In 2024, Cutting Edge YouTube Video Editing Techniques - Premiere Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-tips-for-immaculate-nighttime-photography/"><u>[New] In 2024, Tips for Immaculate Nighttime Photography</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[Updated] 2024 Approved The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ignite-curiosity-with-a-personal-touch-anime-subscribe-buttons-for-filmmakers-filmora/"><u>[Updated] Ignite Curiosity with a Personal Touch - Anime Subscribe Buttons for Filmmakers (Filmora)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices/"><u>[Updated] In 2024, How to Create GIFs From YouTube Videos on Desktop and Mobile Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mind-matters-top-educational-youtube-picks/"><u>[Updated] In 2024, Mind Matters Top Educational YouTube Picks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>[Updated] Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210349180-9782226308306-cheminer-contempler/"><u>Cheminer, contempler | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-m06s-wire-free-sound-quality-and-connectivity/"><u>Evaluating M06's Wire-Free Sound Quality & Connectivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fire-up-your-dreams-with-these-10-movie-gems-for-2024/"><u>Fire Up Your Dreams with These 10 Movie Gems for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y56-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-compre-written-by-jane-doe-phd-in-cognitive-psychology-and-behavioral-science-for-2024/"><u>The Compre Written By Jane Doe, PhD in Cognitive Psychology and Behavioral Science for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-financial-frontier-acquiring-high-value-youtubes-for-2024/"><u>The Financial Frontier Acquiring High-Value Youtubes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unseen-yet-seen-how-to-conceal-faces-and-objects-digitally-for-2024/"><u>Unseen Yet Seen How to Conceal Faces and Objects Digitally for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-cutting-edge-5k-displays-the-best-8-selections-for-you/"><u>[Updated] 2024 Approved Cutting-Edge 5K Displays The Best 8 Selections for You</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-10-virtual-reality-headgear-for-smartphones/"><u>[Updated] Best 10 Virtual Reality Headgear for Smartphones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-budget-friendly-chromebook-recorders/"><u>[Updated] In 2024, Top 5 Budget-Friendly Chromebook Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-plex-vs-streaming-titanique-for-2024/"><u>[Updated] Plex vs Streaming Titanique for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apples-audio-evolution-deciding-whether-to-go-big-or-small-with-homepod-vs-homepod-mini/"><u>Apple's Audio Evolution: Deciding Whether to Go Big or Small with HomePod vs HomePod Mini</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-12-discontinued-hunter-realm-saved/"><u>Error 12 Discontinued, Hunter Realm Saved</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/immediate-purchase-top-3-apple-innovations-unveiled-at-wwdc-available-for-pre-order-find-out-where/"><u>Immediate Purchase: Top 3 Apple Innovations Unveiled at WWDC, Available for Pre-Order - Find Out Where!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-basic-to-breakthrough-content-crafting-the-top-10-simplest-youtube-projects/"><u>In 2024, Basic to Breakthrough Content Crafting the Top 10 Simplest YouTube Projects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-energy-saving-a-guide-to-enable-and-utilize-low-power-mode-on-macos-monterey/"><u>Mastering Energy Saving: A Guide to Enable and Utilize Low Power Mode on macOS Monterey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/may-2024s-most-exciting-atandt-phone-offers-unveiled-by-experts-at-zdnet/"><u>May 2024'S Most Exciting AT&T Phone Offers Unveiled by Experts at ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/my-72-hours-of-testing-apple-vision-pro-uncovered-three-key-learnings-you-need-to-know-analysis-on-zdnet/"><u>My 72 Hours of Testing Apple Vision Pro Uncovered Three Key Learnings You Need to Know | Analysis on ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/my-top-pick-in-travel-accessories-the-ultimate-3-in-1-magsafe-charger-supports-qi-charging-a-game-changer/"><u>My Top Pick in Travel Accessories: The Ultimate 3-in-1 MagSafe Charger Supports Qi Charging, a Game Changer!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-feature-alert-listen-and-read-with-ease-on-apple-podcasts-via-innovative-closed-captioning-technology-tech-news/"><u>New Feature Alert! Listen & Read with Ease on Apple Podcasts via Innovative Closed Captioning Technology | Tech News</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-iphone-power-drain-issues-after-ios-cuetinado-1751-upgrade-top-7-fixes-revealed-zdnet/"><u>Resolving iPhone Power Drain Issues After iOS Cuetinado 17.5.1 Upgrade - Top 7 Fixes Revealed | ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssence-of-earnings-a-3-step-expedient-to-measure-your-youtube-profitability/"><u>The Essence of Earnings A 3-Step Expedient to Measure Your YouTube Profitability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-sunset-of-apples-bnpl-feature-discovering-new-financing-options-on-the-horizon-for-apple-users/"><u>The Sunset of Apple's BNPL Feature: Discovering New Financing Options on the Horizon for Apple Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-iphone-16-and-16-pro-protective-covers-2024s-ultimate-guide-by-tech-experts-zdnet/"><u>Top-Rated iPhone 16 & 16 Pro Protective Covers - 2024'S Ultimate Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-starfield-sound-glitches-cut-out-and-stuttering-fixed/"><u>Troubleshooting Starfield Sound Glitches: Cut Out and Stuttering Fixed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-academic-potential-with-ai-the-best-5-school-uses-of-chatgpt/"><u>Unlocking Academic Potential with AI: The Best 5 School Uses of ChatGPT</u></a></li>
 </ul></div>
 

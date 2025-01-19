@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2025-01-09T18:36:07.775Z
-updated: 2025-01-13T16:36:30.301Z
+date: 2025-01-14T16:43:43.591Z
+updated: 2025-01-19T17:53:41.722Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -60,7 +56,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -90,6 +86,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -109,10 +109,6 @@ Image: Apple
 The virtual Mac screen the Vision Pro now offers doesn't add much. But being able to wrap a Mac screen around a user and provide ultra-wide support is a major productivity win for some heavy Mac users. 
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
 
@@ -138,6 +134,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Stay away from cable tethering
 
 It makes sense to tether the Vision Pro to a Mac for an ultra-wide display. You want zero latency and uninterrupted power. But beyond that, tethering is annoying. Nothing says "early concept prototype" more than having to carry a tethered battery in your back pocket. 
@@ -151,7 +151,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,22 +227,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[New] 2024 Approved How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-quality-sound-adjustment-apps-for-content-casters/"><u>[New] In 2024, High-Quality Sound Adjustment Apps for Content Casters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-leave-a-lasting-impression-with-your-video-ending/"><u>[New] In 2024, How to Leave a Lasting Impression with Your Video Ending</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers-for-2024/"><u>[Updated] Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-incorporating-youtube-videos-in-google-slides-for-2024/"><u>[Updated] Guide Incorporating YouTube Videos in Google Slides for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula-for-2024/"><u>[Updated] How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-tailor-youtube-thumbnails-for-maximum-impact-for-2024/"><u>[Updated] How to Tailor YouTube Thumbnails for Maximum Impact for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-post-youtube-videos-as-instagram-stories/"><u>[Updated] In 2024, How to Post YouTube Videos as Instagram Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-needle-speed-of-videos-in-snapchat/"><u>[Updated] In 2024, Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
-<li><a href="https://discover-community.techidaily.com/adjusting-screen-brightness-and-contrast-a-comprehensive-guide-by-yl-computing/"><u>Adjusting Screen Brightness & Contrast: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-11-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 11 Pro Max? Find the Best Solution Here</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-practices-for-getting-high-quality-pictures-without-spending-money-for-2024/"><u>Best Practices for Getting High Quality Pictures Without Spending Money for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/cracking-the-code-expert-strategies-for-identifying-and-resolving-cryptic-hardware-issues-in-windows-10-systems/"><u>Cracking the Code: Expert Strategies for Identifying and Resolving Cryptic Hardware Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/vering-whos-watching-your-videos/"><u>Discovering Who's Watching Your Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/entering-the-virtual-realm-google-meet-for-2024/"><u>Entering the Virtual Realm Google Meet for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-uploading-videos-compliance-for-2024/"><u>Mastering Twitter Uploading Videos Compliance for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210685435-9781591434245-the-mystery-of-doggerland/"><u>The Mystery of Doggerland | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-downloadable-instagram-footage-tech-tips-for-computers-and-macs/"><u>[New] Downloadable Instagram Footage Tech Tips for Computers & Macs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-12th-circle-of-conversation-personalizing-whatsapp-bios-by-signs-for-2024/"><u>[New] The 12Th Circle of Conversation - Personalizing WhatsApp Bios by Signs for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-efficiency-upgrade-uncover-the-8-premier-facebook-timetables-for-2024/"><u>[Updated] Efficiency Upgrade Uncover the 8 Premier Facebook Timetables for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-hdr-evaluation-is-aurora-a-game-changer/"><u>[Updated] In 2024, HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/anleitung-zum-entfernen-von-schutzmechanismen-auf-disney-dvds-und-zur-gewinnung-wertvoller-inhalte/"><u>Anleitung Zum Entfernen Von Schutzmechanismen Auf Disney-DVDs Und Zur Gewinnung Wertvoller Inhalte</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fast-video-conversion-made-easy-winxvideos-powerful-gpu-acceleration/"><u>Fast Video Conversion Made Easy: Winxvideo's Powerful GPU Acceleration</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-best-vivo-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Vivo FRP Bypass Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-clearing-up-cloudy-content-on-androidiphone/"><u>In 2024, Clearing Up Cloudy Content on Android/iPhone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-frozen-pleasure-recording-review-deep-dive/"><u>In 2024, Frozen Pleasure Recording Review Deep Dive</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-it-possible-to-work-with-av1-codec-in-adobe-premiere-pro-during-file-importsexports/"><u>Is It Possible to Work with AV1 Codec in Adobe Premiere Pro During File Imports/Exports?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/meta-and-omni-universe-showcase-analysis/"><u>Meta & Omni Universe Showcase Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ps5-dvd-abspielfunktion-funktionsweise-und-anleitung-zum-betrachten-von-filmen-auf-der-playstation-5/"><u>PS5 DVD-Abspielfunktion: Funktionsweise Und Anleitung Zum Betrachten Von Filmen Auf Der PlayStation 5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-motivational-films-for-a-zestful-life/"><u>Top 10 Motivational Films for a Zestful Life</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-youtubes-401-unauthorized-error-a-step-by-step-guide-for-smartphones-and-tablets/"><u>Troubleshooting YouTube's '401 Unauthorized Error': A Step-by-Step Guide for Smartphones and Tablets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/44kz44k544oi44ov44oq44o844gq44ot44oh44kq5zyn57iu44og44kv44ol44od44kvic0g5asn44gn44ge5yuv55s744ks56plusa57se44gx44gplus44gz/"><u>コストフリーなビデオ圧縮テクニック - 大きい動画を節約します</u></a></li>
 </ul></div>
 

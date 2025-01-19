@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Enhancing Engagement  Adding Text and Links to YouTube Content\""
-date: 2024-08-20T13:24:41.520Z
-updated: 2024-08-21T13:24:41.520Z
+date: 2025-01-14T16:15:18.697Z
+updated: 2025-01-19T19:16:32.686Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
 
 # How to Add YouTube Annotations and Cards?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -48,15 +45,16 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
 
 * Click on the "Video Manager" tab
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
 * Click "Edit" tab under the video screen shot you want to add the card on
@@ -64,21 +62,27 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
 * Once you finish the subsequent information required click create card
 * Select the timeline for the playhead to appear which leads to the card slide
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to add YouTube annotations
 
 YouTube Annotation is addition of a text layer, link or hotspots over your video. They add interactive boxes which link to other websites or videos (any link you want).
@@ -92,10 +96,11 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -133,9 +138,6 @@ The best outros also include a subscribe button, which can be created using anno
 
 No matter what kind of annotations you are using, you should never use more than two of them at a time anywhere except for your outro. You should also never place annotations at the very top of your screen, or in the middle at the bottom. If your video is embedding on a separate website then the player will cover annotations at the top of the screen, and ads might cover annotations placed in the bottom-middle of the screen. Keep in mind when using annotations that they will not be visible to users watching your videos on mobile devices. If mobile traffic is very important to you then consider using YouTube Cards.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -144,8 +146,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,5 +153,24 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-vsdc-and-its-rivals/"><u>[Updated] In 2024, The Ultimate Guide to VSDC and Its Rivals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/44cq5yws5byp44cr44oe44od44kv44k544oh44oh44kj44ki44oi44op44oz44k5ic0g5lplush6ac844gn44gn44kl5a6m5ywo44gq44kq44oz44op44kk44oz44k344on44od44ou44oz44kw5l2t6ait.7/"><u>【公式】マックスメディアトランス - 信頼できる完全なオンラインショッピング体験</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-premium-8k-video-downloads-secrets-to-retaining-peak-resolution-and-authenticity/"><u>1. Premium 8K Video Downloads: Secrets to Retaining Peak Resolution & Authenticity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dive-into-todays-top-8-viral-video-phenomena-for-2024/"><u>Dive Into Today’s Top 8 Viral Video Phenomena for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-pc-gaming-step-up-to-a-new-level-with-asus-radeon-vii/"><u>Elevate PC Gaming: Step-Up to a New Level with Asus Radeon VII</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-visual-experience-preferred-picture-settings-for-a-samsung-ultra-hd-display/"><u>Enhancing Visual Experience: Preferred Picture Settings for a Samsung Ultra HD Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-video-conversion-tool-for-mac-users-transform-your-footage-into-imovie-compatible-formats-with-macx-easily/"><u>Free Video Conversion Tool for Mac Users - Transform Your Footage Into iMovie-Compatible Formats with MacX Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/from-the-main-menu-bar-select-file-)-new-project-n-indicates-a-new-line-for-readability/"><u>From the Main Menu Bar, Select File > New Project. ( N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-amplify-your-earnings-universal-strategies-for-youtube-revenue/"><u>In 2024, Amplify Your Earnings Universal Strategies for YouTube Revenue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-level-techniques-in-video-spinning-and-joining-on-android/"><u>In 2024, Expert-Level Techniques in Video Spinning and Joining on Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-reno-8t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo Reno 8T to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-11-and-pro-max-effortless-music-synchronization-without-using-itunes/"><u>IPhone 11 & Pro Max: Effortless Music Synchronization Without Using iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-hd-video-converter-pro-ultimate-guide-to-editing-and-downloading-videos-on-windows/"><u>MacX HD Video Converter Pro: Ultimate Guide to Editing & Downloading Videos on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/masterful-vlc-youtube-conversion-effortlessly-fix-playback-issues-and-enjoy-flawless-streaming/"><u>Masterful VLC Youtube Conversion – Effortlessly Fix Playback Issues and Enjoy Flawless Streaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-configuring-and-analyzing-facebooks-instream-ads-for-2024/"><u>The Ultimate Guide to Configuring & Analyzing Facebook's Instream Ads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-potential-of-close-up-videos-using-videoleap-for-2024/"><u>Unlock the Potential of Close-Up Videos Using Videoleap for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/which-is-better-compare-avchd-and-mts-formatted-mp4-videos-for-superior-quality-and-storage-efficiency/"><u>Which Is Better? Compare AVCHD and MTS Formatted MP4 Videos for Superior Quality and Storage Efficiency</u></a></li>
+</ul></div>
 

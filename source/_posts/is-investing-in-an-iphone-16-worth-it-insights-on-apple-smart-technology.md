@@ -1,7 +1,7 @@
 ---
 title: Is Investing in an iPhone 16 Worth It? Insights on Apple Smart Technology
-date: 2025-01-12T16:40:39.871Z
-updated: 2025-01-13T16:38:16.546Z
+date: 2025-01-12T22:10:52.606Z
+updated: 2025-01-19T22:20:24.143Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +99,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -113,10 +117,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,19 +158,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-a-comprehensible-list-of-the-leading-5-online-title-innovators/"><u>[New] A Comprehensible List of The Leading 5 Online Title Innovators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guidelines-for-effective-use-of-cc-licenses-for-2024/"><u>[New] Guidelines for Effective Use of CC Licenses for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-size-your-videos-youtubes-best-practices-unveiled-for-2024/"><u>[New] How to Size Your Videos YouTube's Best Practices Unveiled for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[New] In 2024, From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidelines-for-authoritative-life-lesson-videos/"><u>[Updated] 2024 Approved Guidelines for Authoritative Life Lesson Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-imagery-top-7-free-thumbnail-makers/"><u>[Updated] 2024 Approved Harness the Power of Imagery Top 7 Free Thumbnail Makers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[Updated] Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>2024 Approved Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-a-dual-video-display-a-step-by-step-guide-to-making-a-split-screen-video/"><u>Creating a Dual-Video Display: A Step-by-Step Guide to Making a Split Screen Video</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-serenity-at-your-desk-with-our-in-depth-review-of-the-cumuluspro-standing-pad/"><u>Discover Serenity at Your Desk with Our In-Depth Review of the CumulusPRO Standing Pad</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .wpd file</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-advanced-vr-tech-for-drone-enthusiasts/"><u>In 2024, Advanced VR Tech for Drone Enthusiasts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722549661001-top-tech-picks-expert-analysis-of-apples-201-11-ipad-pro-why-it-reigns-supreme-in-tablets/"><u>Top Tech Picks: Expert Analysis of Apple's 201# 11 iPad Pro – Why It Reigns Supreme in Tablets</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-guide-reactivate-disabled-slack-notifications/"><u>Win 11 Guide: Reactivate Disabled Slack Notifications</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-transforming-gamers-with-funimate-knowledge/"><u>[New] In 2024, Transforming Gamers with Funimate Knowledge</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exhilarating-freeness-of-screen-pairing-games-for-2024/"><u>[Updated] Exhilarating Freeness of Screen Pairing Games for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226309197-bmp-movavi/"><u>無料のオンラインBMP変換サービス – Movaviで簡単に実現!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-7-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 7 Plus</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-fixing-and-updating-broadcom-gigabit-ethernet-drivers-in-windows-10/"><u>Comprehensive Guide to Fixing and Updating Broadcom Gigabit Ethernet Drivers in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/crear-con-enfasis-en-simplidad-tus-directrices-para-inspiradoras-diapositivas-en-un-iphone-mediante-la-herramienta-de-movavi/"><u>Crear Con Énfasis en Simplidad: Tus Directrices Para Inspiradoras Diapositivas en Un iPhone Mediante La Herramienta De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fusao-de-midia-gratuita-transformando-wmv-em-ogg-com-o-convertidor-on-line-do-movavi/"><u>Fusão De Mídia Gratuita: Transformando WMV Em Ogg Com O Convertidor On-Line Do Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-e-online-converter-de-mp4-para-gif-com-o-movavi/"><u>Gratuito E Online: Converter De MP4 Para GIF Com O Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-5-essential-tiktok-to-gif-conversion-apps/"><u>In 2024, 5 Essential TikTok-to-GIF Conversion Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-top-tool-for-instant-wav-to-aac-transformation-get-started-today/"><u>Movavi's Top Tool for Instant WAV-to-AAC Transformation - Get Started Today!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professionelle-kostenlose-software-fur-schnelles-umwandeln-mkv-in-mp4-unter-windows-and-macos-beste-optionen/"><u>Professionelle Kostenlose Software Für Schnelles Umwandeln: MKV in MP4 Unter Windows & macOS - Beste Optionen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-altering-the-display-language-on-your-windows-7-system/"><u>Step-by-Step Guide: Altering the Display Language on Your Windows 7 System</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/the-best-solution-for-assessing-the-202e-year-with-everest-group-and-abbyys-peak-matrix/"><u>The Best Solution for Assessing the 202E Year with Everest Group and ABBYY's PEAK Matrix</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-hunt-cut-to-7-fps-giants-for-2024/"><u>The Ultimate Hunt Cut to 7 FPS Giants for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2025-01-07T17:04:55.321Z
-updated: 2025-01-13T18:16:13.280Z
+date: 2025-01-15T21:01:19.360Z
+updated: 2025-01-19T18:27:00.810Z
 tags:
   - apple
 categories:
@@ -27,17 +27,21 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -57,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,18 +140,15 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-esports-news-and-analysis-from-top-vloggers/"><u>[New] 2024 Approved Esports News and Analysis From Top Vloggers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-counterplay-creative-ways-to-watch-youtube-in-reverse/"><u>[New] The Counterplay Creative Ways to Watch YouTube in Reverse</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-outro-aesthetics-selecting-templates-any-budget/"><u>[Updated] 2024 Approved Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-discover-the-most-reliable-royalty-free-audio-libraries-for-2024/"><u>[Updated] Discover the Most Reliable Royalty-Free Audio Libraries for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-websites-for-youtube-preview-creation-tools/"><u>[Updated] In 2024, Essential Websites for YouTube Preview Creation Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>[Updated] In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-mastering-the-giant-amongst-rc-trucks-galaxy-ford-f150-edition/"><u>Comprehensive Review: Mastering the Giant Amongst RC Trucks, Galaxy Ford F150 Edition</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209636304-9781633411586-herbal-magick/"><u>Herbal Magick | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-12r-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus 12R FRP Bypass Instantly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-conversion-guide-youtube-to-igtv-for-2024/"><u>The Ultimate Conversion Guide YouTube to IGTV for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-vpn-apps-for-apple-devices-comprehensive-reviews-and-comparisons-by-experts/"><u>Top-Rated VPN Apps for Apple Devices: Comprehensive Reviews & Comparisons by Experts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tutorial-purging-your-youtube-download-history-for-2024/"><u>Tutorial Purging Your YouTube Download History for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-engagement-with-youtube-on-facebook-platforms/"><u>[New] Maximizing Engagement with YouTube on Facebook Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-guide-to-recording-private-whatsapp-communications-for-2024/"><u>[Updated] A Guide to Recording Private WhatsApp Communications for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free2x-webcam-recorder-software-review-for-2024/"><u>[Updated] Free2X Webcam Recorder Software Review for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-yuneec-typhoon-h-deep-dive-aerial-expert-review/"><u>2024 Approved Yuneec Typhoon H Deep Dive Aerial Expert Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortlessly-transform-avi-videos-to-animated-gifs-online-at-no-cost-movavi/"><u>Effortlessly Transform AVI Videos to Animated GIFs Online at No Cost - Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-innovation-in-action-sonys-s6500-player-redefined/"><u>In 2024, Innovation in Action Sony's S6500 Player Redefined</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-start-guide-to-resolve-latency-problems-in-assassins-creed-valhalla/"><u>Quick-Start Guide to Resolve Latency Problems in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rmvb-a-mkv-conversion-en-ligne-sans-frais-grace-a-videorevamp-transformez-votre-contenu-video-rapidement/"><u>RMVB À MKV : Conversion en Ligne Sans Frais Grâce À VideoRevamp - Transformez Votre Contenu Vidéo Rapidement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ogm-vob-movavi/"><u>무료 오픈소스에서 OGM를 VOB로 변환하기 – Movavi가 도울 페이지</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wmv-m4vmovavi/"><u>オンラインで簡単に WMV M4VファイルをMovavi無料コンバーター</u></a></li>
 </ul></div>
 

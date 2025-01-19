@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Guides on Creating Cost-Free YouTube Beginnings & Conclusions\""
-date: 2024-08-20T13:29:04.033Z
-updated: 2024-08-21T13:29:04.033Z
+date: 2025-01-16T21:54:56.492Z
+updated: 2025-01-19T18:23:40.768Z
 tags:
   - ai video
   - ai youtube
@@ -77,9 +77,6 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -113,9 +110,6 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -123,7 +117,6 @@ Shanoon Cox
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,10 +128,11 @@ Follow @Shanoon Cox
 
 # How to Make a Cooking Video in Steps - an Ultimate Guide
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Richard Bennett
 
@@ -165,10 +159,11 @@ Brainstorm this equation - **Main Content + Duration + Light + Sound + Camera + 
 
 Finally, comes the editing and finishing part. Eventually, you’ll need purposive video-editing software to help you work out the video transitions, sound, and visual effects.**Choose a toolkit that is easy to learn** and that you can get comfortable with so that the job of video editing doesn’t take the focus away from the main task of cooking.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Recipe Videos](https://images.wondershare.com/filmora/article-images/recipe-videos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, once you have all the essential ingredients to create your video, start practicing. Remember that it is the most natural thing for the first videos to appear amateurish or inept. And that is part of the plan. Don’t be disheartened and keep going.
 
@@ -177,6 +172,10 @@ Now, once you have all the essential ingredients to create your video, start pra
 As one of the easiest-to-use video editing tools, the full-featured Filmora is the right choice considering it can fit most of your needs. Moreover, you’d be delighted to know that the software also has a series of features and functions and even tutorial videos dedicated to cooking videos.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 1: Filming the Video
 
@@ -213,8 +212,9 @@ There are plenty of options that you can remove background noise, add voiceover,
 Once you are satisfied with your content, then go to Export. Choose the format of the video, MOV, MP4, MPG, etc. and whether you wish to publish directly or save to drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips to Make Your Cooking Videos Stand Out
 
 * Lighting is your best friend. Invest in some quality spotlights or use the best of daylight.
@@ -224,8 +224,9 @@ Once you are satisfied with your content, then go to Export. Choose the format o
 * Have a scrumptious custom thumbnail.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Promote Your Cooking Channel on YouTube
 
 * Create an inventory before publishing videos. YouTube vlogging is valued for consistency. If you have a list of 10, 15, 20 videos, then you can have enough time in hand to film your next videos.
@@ -244,7 +245,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,8 +252,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/eyond-views-and-likes-pursuing-profits-on-youtube/"><u>[New] Beyond Views and Likes Pursuing Profits on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2-step-by-step-buying-tips-for-the-professional-winx-dvd-and-blu-ray-copying-kit/"><u>2. Step-by-Step Buying Tips for the Professional WinX DVD & Blu-Ray Copying Kit!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/complete-understanding-of-srt-covering-everything-important-for-2024/"><u>Complete Understanding of SRT, Covering Everything Important for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-setup-for-corsair-mouse-free-download-and-instructions-inside/"><u>Comprehensive Setup for Corsair Mouse - Free Download and Instructions Inside</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290007734-dvdmp4/"><u>DVD到MP4视频格式转换秘技 - 使用者首选的转换软件列表</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288961011-dvdmp4/"><u>DVDプレイヤー用MP4動画を効果的に変換・記録するためのパソコンとスマホのチュートリアル</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/average-to-exceptional-discover-the-finest-free-intra-designs-for-2024/"><u>From Average to Exceptional Discover the Finest Free Intra Designs for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-does-the-fitbit-charge-3-hold-up-against-competitors/"><u>How Does the Fitbit Charge 3 Hold Up Against Competitors?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-poco-x5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Poco X5 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ios-16-a-step-by-step-guide-to-adding-songs-to-your-ipod-touch-without-using-itunes/"><u>IOS 16: A Step-by-Step Guide to Adding Songs to Your iPod Touch Without Using iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-steps-for-converting-dvd-content-for-editing-in-imovie-on-mac-computers/"><u>Seamless Steps for Converting DVD Content for Editing in iMovie on Mac Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-dvd-decrypting-solutions-upgraded-speed-and-enhanced-capabilities/"><u>Top DVD Decrypting Solutions : Upgraded Speed & Enhanced Capabilities</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-un-fichier-ts-au-format-vob-sur-votre-ordinateur-gratuitement-avec-movavi/"><u>Trier Un Fichier Ts Au Format Vob Sur Votre Ordinateur Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/user-experience-revolutionized-by-cookiebot-technology/"><u>User Experience Revolutionized by Cookiebot Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winfx-video-intelligence-expertly-minimize-videos-by-an-impressive-90/"><u>WinFX Video Intelligence: Expertly Minimize Videos by an Impressive 90%</u></a></li>
+</ul></div>
 

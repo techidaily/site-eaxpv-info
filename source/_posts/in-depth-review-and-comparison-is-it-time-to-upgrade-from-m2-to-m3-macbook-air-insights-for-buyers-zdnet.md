@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET"
-date: 2025-01-10T17:43:20.684Z
-updated: 2025-01-13T16:03:14.529Z
+date: 2025-01-16T18:56:32.393Z
+updated: 2025-01-19T19:26:30.287Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Apple has wrapped up its [year of iPad releases](https://www.zdnet.com/article/b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)
@@ -36,10 +40,6 @@ In the newest iPad Air 5 lives the company's tried-and-true [M1 processor](https
 But if pricing impacts your buying decision, then the similarly-designed iPad Air 4 is just as worthy of your consideration and can be had for noticeably less money. Read on to learn more about what the defining features are for both models and why you should pick one over the other.
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -68,10 +68,6 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You want a better front camera and FaceTime experience
 
 Camera performance isn't typically the key selling point for tablets, let alone iPads. But with the iPad Air 5, Apple does emphasize its new and improved front-facing camera.
@@ -89,12 +85,16 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
@@ -103,7 +103,7 @@ With the release of the new iPad Air, most third-party retailers have since mark
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -112,15 +112,15 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -162,18 +162,22 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-alternative-films-to-dive-into-7-favorites/"><u>[New] 2024 Approved Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators-for-2024/"><u>[New] Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formulating-final-fact-finding-flourishes/"><u>[New] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-beginners-pathway-building-a-simple-youtube-signup/"><u>[Updated] 2024 Approved A Beginner’s Pathway Building a Simple YouTube Signup</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-black-and-white-to-color-classic-video-transition-tips-for-2024/"><u>[Updated] From Black-and-White to Color Classic Video Transition Tips for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>[Updated] In 2024, Elevating Your Presence A Guide to Discord Broadcasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] In 2024, Free Method to Record Your YouTube Watching Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-craft-standout-names-for-your-youtube-channel/"><u>[Updated] In 2024, How to Craft Standout Names for Your YouTube Channel</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-win-10s-top-10-video-cam-applications/"><u>[Updated] In 2024, Win 10'S Top 10 Video Cam Applications</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-7-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 7 Plus</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Phone without Any Data Loss</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-incorinastrating-supplementary-imagery-in-projects/"><u>[New] 2024 Approved Incorinastrating Supplementary Imagery in Projects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-breaking-down-the-three-stages-of-snapchat-calls-and-chats/"><u>[Updated] In 2024, Breaking Down the Three Stages of Snapchat Calls and Chats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-art-of-machine-made-dialogues-le-chat-vs-gpt-3/"><u>Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-transforms-commutes-mercedes-integrates-voice-tech/"><u>ChatGPT Transforms Commutes: Mercedes Integrates Voice Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-recovering-missing-msconfig-component/"><u>Comprehensive Guide to Recovering Missing MSCONFIG Component</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/creating-an-effective-classroom-management-strategy-comprehensive-guides-and-expert-tips/"><u>Creating an Effective Classroom Management Strategy: Comprehensive Guides & Expert Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-strengths-and-weaknesses-of-pidgin-im-platform/"><u>Exploring the Strengths and Weaknesses of Pidgin IM Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-mg3620-drivers-now-quick-safe-and-trouble-free/"><u>Get Your Canon MG3620 Drivers Now - Quick, Safe, and Trouble-Free!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-moveave-wmv-versat-3g2-en-ligne-un-tutoriel-complet/"><u>Gratuit Moveave WMV Versat 3G2 en Ligne: Un Tutoriel Complet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-galaxy-m14-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Galaxy M14 5G?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-mp4gif/"><u>Movavi MP4至GIF自由下載 - 線上無限瀏覽及轉化功能</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-the-issue-of-realtek-audio-out-no-sound/"><u>Solved: Fixing the Issue of Realtek AUDIO OUT - No SOUND</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-audio-em-video-ferramenta-livre-do-movavi-para-converter-mp3-e-ogv-on-line/"><u>Transformar Áudio Em Video: Ferramenta Livre Do Movavi Para Converter Mp3 E Ogv On-Line</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-video-mp4-en-avi-gratis-en-linea-como-utilizar-la-herramienta-movavi-para-cambiar-de-formatos-sin-gastos-extras/"><u>Transformar Video Mp4 en Aví Gratis en Línea: Cómo Utilizar La Herramienta Movavi Para Cambiar De Formatos Sin Gastos Extras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforme-su-tiff-a-png-sin-gastos-el-mejor-siguiente-paso-con-movavi/"><u>Transforme Su TIFF a PNG Sin Gastos: El Mejor Siguiente Paso Con Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226183503-movmkv-movavi/"><u>オンライン無料MOV/MKVフォーマット変換ツール | 動画コンバーター - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726222923267-tga-movavi/"><u>オンラインで簡単なTGA画像の無料変換 - Movavi解説</u></a></li>
 </ul></div>
 

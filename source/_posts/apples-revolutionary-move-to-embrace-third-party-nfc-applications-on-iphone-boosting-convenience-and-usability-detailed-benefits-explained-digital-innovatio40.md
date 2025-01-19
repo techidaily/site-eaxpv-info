@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2025-01-06T16:56:24.682Z
-updated: 2025-01-13T18:19:41.344Z
+date: 2025-01-17T21:29:53.702Z
+updated: 2025-01-19T22:30:58.398Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -71,6 +75,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -90,6 +98,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -104,10 +116,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,19 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidelines-for-optimal-youtube-video-brightness/"><u>[New] 2024 Approved Guidelines for Optimal YouTube Video Brightness</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-long-to-brief-how-to-shorten-youtube-footage-for-2024/"><u>[New] From Long to Brief How to Shorten YouTube Footage for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-best-practices-for-compliant-twitter-videos/"><u>[New] In 2024, Best Practices for Compliant Twitter Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[New] In 2024, How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-quickly-clip-and-save-your-favorite-youtube-sections/"><u>[New] In 2024, How to Quickly Clip and Save Your Favorite YouTube Sections</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[Updated] 2024 Approved From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-basic-recorder-your-windows-10-companion-for-2024/"><u>[Updated] Basic Recorder - Your Windows 10 Companion for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-50plus-cool-discord-names-to-attract-attention-in-no-time/"><u>[Updated] In 2024, 50+ Cool Discord Names to Attract Attention in No Time</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-funding-fantasies-or-fiscal-facts/"><u>[Updated] In 2024, Funding Fantasies or Fiscal Facts?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-techniques-to-eliminate-repeated-entries-in-ios-contact-list/"><u>Effective Techniques to Eliminate Repeated Entries in iOS Contact List</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-7-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 7 without Password?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-sf7-pc-stability-issues-top-troubleshooting-tips/"><u>Solve Your SF7 PC Stability Issues: Top Troubleshooting Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-dealing-with-your-license-is-about-to-end-in-win11/"><u>Steps for Dealing with 'Your License Is About to End' In Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-dell-wireless-keypad-solutions-inside/"><u>Troubleshooting a Nonfunctional Dell Wireless Keypad – Solutions Inside</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-snippet-stardom-top-hashtags-for-elevating-your-viral-youtube-content/"><u>[New] In 2024, Snippet Stardom Top Hashtags for Elevating Your Viral YouTube Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-conduct-an-audiovisual-symphony-for-ppt/"><u>[Updated] Conduct an Audiovisual Symphony for PPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-en-ligne-pour-transferer-des-fichiers-webm-en-format-m4v-movavi/"><u>Convertisseur Gratuit en Ligne Pour Transférer Des Fichiers Webm en Format M4V - Movavi</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enveloped-by-shadow-adobe-technique-for-2024/"><u>Enveloped by Shadow Adobe Technique for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-logitech-webcams-up-and-running-free-windows-compatible-drivers/"><u>Get Logitech Webcams Up and Running: Free Windows-Compatible Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-simple-para-transferir-archivos-cr2-sin-costo-utilizar-el-servicio-en-linea-de-movavi/"><u>Guía Simple Para Transferir Archivos CR2 Sin Costo: Utilizar El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerate-or-slow-down-on-the-screen-netflix/"><u>In 2024, Accelerate or Slow Down on the Screen (Netflix)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-5-android-screen-recorders-essential-app-selection/"><u>In 2024, Top 5 Android Screen Recorders Essential App Selection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/piecing-together-memories-your-guide-to-montages/"><u>Piecing Together Memories Your Guide to Montages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/toutes-les-etapes-pour-changer-un-fichier-tga-en-jpg-sur-movavi-sans-frais/"><u>Toutes Les Étapes Pour Changer Un Fichier TGA en JPG Sur Movavi, Sans Frais</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-gratuitement-votre-fichier-mkv-en-format-mjpeg-sur-linternet-avec-moveave-conversion-video/"><u>Transformez Gratuitement Votre Fichier MKV en Format MJPEG Sur L'Internet Avec Moveave - Conversion Vidéo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-swf-in-gif-senza-costi-conversione-gratuita-online-con-movavi/"><u>Trasforma I Tuoi File SWF in GIF Senza Costi - Conversione Gratuita Online Con Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-audio-problems-in-flat-panel-videos-using-movavi-software/"><u>Troubleshooting Audio Problems in Flat Panel Videos Using Movavi Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis"
-date: 2025-01-12T19:04:03.149Z
-updated: 2025-01-13T19:47:50.839Z
+date: 2025-01-18T22:51:00.749Z
+updated: 2025-01-19T18:27:37.342Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,22 +126,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-haute-makeup-techniques-step-by-step-youtube-guide/"><u>[New] 2024 Approved Haute Makeup Techniques Step-by-Step YouTube Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-accelerate-access-funimates-download-demystified/"><u>[New] Accelerate Access Funimate's Download Demystified</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fix-noted-shorts-now-shown-prominently-for-2024/"><u>[New] Fix Noted Shorts Now Shown Prominently for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-design-youtube-introductory-videos-two-pathways-for-2024/"><u>[New] How to Design YouTube Introductory Videos Two Pathways for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-project-board-to-public-display-imovie-on-youtube/"><u>[New] In 2024, From Project Board to Public Display IMovie on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-excellent-ten-of-hexa-flying-drones/"><u>[New] The Excellent Ten of Hexa-Flying Drones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-beyond-youtube-with-these-top-5-video-tools/"><u>[Updated] 2024 Approved Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flip-the-script-unique-approaches-to-retracing-yt-content/"><u>[Updated] In 2024, Flip the Script Unique Approaches to Retracing YT Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[Updated] In 2024, Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-bare-walls-to-full-screens-10-fixes-for-no-video-views/"><u>[Updated] In 2024, From Bare Walls to Full Screens 10 Fixes for No Video Views</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-corporate-cloud-storage-platforms/"><u>[Updated] In 2024, Top Corporate Cloud Storage Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-videos-without-youtube-with-these-top-5-alternatives/"><u>[Updated] Transform Your Videos Without Youtube with These Top 5 Alternatives</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/breaking-down-instagrams-standard-video-cap-solutions/"><u>Breaking Down Instagram's Standard Video Cap Solutions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-the-web-to-reality-embedding-youtube-videos-in-slides-for-2024/"><u>Bringing the Web to Reality Embedding YouTube Videos in Slides for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-artificial-intelligence-in-music-creation-with-apples-updated-logic-pro-your-ipad-and-macs-new-virtual-band-members/"><u>Harness the Power of Artificial Intelligence in Music Creation with Apple's Updated Logic Pro – Your iPad and Mac's New Virtual Band Members</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-v30-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme V30 Without PUK Codes</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/quick-and-simple-guide-converting-your-kindle-books-into-pdf-format-on-a-mac/"><u>Quick & Simple Guide: Converting Your Kindle Books Into PDF Format on a Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-to-mp4-mastery-learn-how-to-convert-video-online-without-costs/"><u>[Updated] 2024 Approved Facebook to MP4 Mastery Learn How To Convert Video Online Without Costs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-child-stars-staggering-fortune-from-youtube-success/"><u>[Updated] In 2024, Child Star's Staggering Fortune From YouTube Success</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/alternativas-gratis-a-pinnacle-studio-top-5-opciones-ideales-para-windows-e-imac/"><u>Alternativas Gratis a Pinnacle Studio: Top 5 Opciones Ideales Para Windows E iMac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cambia-tus-graficos-apng-a-png-animados-gratuitamente-herramientas-online-para-conversiones-rapidas-y-faciles-movavi/"><u>Cambia Tus Gráficos APNG a Png Animados Gratuitamente: Herramientas Online Para Conversiones Rápidas Y Fáciles - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comctl32dll-missing-expert-tips-for-a-swift-recovery/"><u>Comctl32.dll Missing? Expert Tips for a Swift Recovery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-telegram-marketing-a-first-timers-primer/"><u>Dive Into Telegram Marketing A First Timer's Primer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-pdf-and-rw2-to-png-upgrade-free-downloads-via-rapidwidgets/"><u>Effortless PDF and RW2 to PNG Upgrade - Free Downloads via RapidWidgets!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-ogv-files-into-wmv-format-with-movavi/"><u>Free Online Converter: Change OGV Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-wav-files-to-wma-format-movavi/"><u>Free Online Converter: Change WAV Files to WMA Format - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-tool-for-mp3-to-wav-conversion-high-quality-audio-format-change-using-movavi/"><u>Free Online Tool for MP3 to WAV Conversion - High-Quality Audio Format Change Using Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-effectively-communicate-a-refund-request-on-facebook/"><u>How to Effectively Communicate a Refund Request on Facebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/quick-guide-how-to-move-your-applications-seamlessly-between-pcs-using-windows-11/"><u>Quick Guide: How to Move Your Applications Seamlessly Between PCs Using Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-video-mp4-a-formato-3gp-online-e-gratuito-con-movavi/"><u>Trasforma Video MP4 a Formato 3GP Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-god-of-war-on-windows/"><u>Troubleshooting Tips for Persistent Crashes in God of War on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/3gpp-avi/"><u>제공자 무료 - 이슈: 3GPP AVI를 원근 바이트 형식으로 전환하기</u></a></li>
 </ul></div>
 

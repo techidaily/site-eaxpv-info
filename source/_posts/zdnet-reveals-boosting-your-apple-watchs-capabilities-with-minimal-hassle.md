@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Boosting Your Apple Watch's Capabilities with Minimal Hassle"
-date: 2025-01-07T16:56:28.597Z
-updated: 2025-01-13T19:38:58.287Z
+date: 2025-01-16T22:39:34.128Z
+updated: 2025-01-19T21:00:45.625Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -54,6 +50,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -61,6 +61,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -87,7 +91,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -99,7 +103,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -111,7 +115,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -119,10 +123,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,24 +165,14 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-last-to-first-deconstructing-your-video-watch-list/"><u>[New] 2024 Approved From Last to First Deconstructing Your Video Watch List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-endless-video-on-iphone/"><u>[New] 2024 Approved How-To Create Endless Video on iPhone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-filmmakers-approach-to-youtube-splitscreen-videos-for-2024/"><u>[New] A Filmmaker's Approach to YouTube Splitscreen Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-earning-predictors-for-2024/"><u>[New] Free YouTube Earning Predictors for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards-for-2024/"><u>[New] Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube/"><u>[Updated] 2024 Approved Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-make-your-shorts-thumbnail-pop-up/"><u>[Updated] 2024 Approved Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-history-buffs-favorite-youtube-history-channels/"><u>[Updated] 2024 Approved History Buffs' Favorite YouTube History Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-and-easy-building-attractive-youtube-intros-without-expense-for-2024/"><u>[Updated] Free & Easy Building Attractive YouTube Intros without Expense for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-getting-unstuck-troubleshooting-absent-fb-vids/"><u>[Updated] Getting Unstuck Troubleshooting Absent FB Vids</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-headset-face-off-googles-simplicity-and-samsungs-complexity/"><u>[Updated] In 2024, Headset Face-Off Google's Simplicity and Samsung's Complexity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-screencast-primer-fundamental-knowledge-for-video-enthusiasts/"><u>[Updated] In 2024, The Screencast Primer Fundamental Knowledge for Video Enthusiasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>[Updated] The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-tutorial-on-youtube-thumbnail-extraction-for-all-os-enthusiasts/"><u>[Updated] Tutorial on YouTube Thumbnail Extraction for All OS Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-hp-touchscreen-notebook-with-keyboard-and-mouse-combo-plus-free-microsoft-office-suite-only-400-on-zdnet/"><u>Budget-Friendly HP Touchscreen Notebook with Keyboard & Mouse Combo + Free Microsoft Office Suite - Only $400 on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-the-department-of-justice-targeting-apple-might-influence-end-users-and-developers-insights-from-zdnet/"><u>How the Department of Justice Targeting Apple Might Influence End-Users & Developers, Insights From ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-c53-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on C53</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-profile-visibility-in-snapchat-spotlights-for-2024/"><u>Maximizing Profile Visibility in Snapchat Spotlights for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-address-parameter-errors-accurately/"><u>Troubleshooting Steps to Address Parameter Errors Accurately</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-extracting-images-from-videos-in-windows-11-photos/"><u>[New] 2024 Approved Extracting Images From Videos in Windows 11 Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-des-videos-vob-en-audiovideo-wma-gratuite-sur-internet-via-movavi/"><u>Convertissez Des Vidéos VOB en Audio/Vidéo WMA Gratuite Sur Internet via Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-convertisseur-pef-vers-png-movavi/"><u>Gratuit Online Convertisseur PEF Vers PNG - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-verbetering-van-voc-naar-wav-formaat-onlinereconvertisseur-von-movavi/"><u>Gratuit Verbetering Van VOC Naar WAV Formaat - Onlinereconvertisseur Von Movavi</u></a></li>
+<li><a href="https://techidaily.com/igura-and-abbyy-unite-to-revolutionize-corporate-invoice-management-and-streamline-ap-workflows/"><u>Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-or-enhance-your-mpow-bluetooth-drivers-for-windows-11-8-and-7-free/"><u>Install or Enhance Your MPOW Bluetooth Drivers for Windows 11, 8, and 7 Free</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-printer-service-not-running-issue-in-win/"><u>Overcoming Printer Service Not Running Issue in Win</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-gratuitamente-le-tue-playlist-aifc-in-file-m4r-personalizzati-con-lapplicazione-di-conversione-online-di-movavi/"><u>Trasforma Gratuitamente Le Tue Playlist AIFC in File M4R Personalizzati Con L'applicazione Di Conversione Online Di Movavi</u></a></li>
 </ul></div>
 

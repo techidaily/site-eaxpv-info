@@ -1,7 +1,7 @@
 ---
 title: Why Is Apple Vision Pro Facing Backlash? Discover Key User Grievances Highlighted by Reddit in Our ZDNet Report
-date: 2025-01-09T16:56:38.977Z
-updated: 2025-01-13T18:58:20.345Z
+date: 2025-01-17T20:10:02.359Z
+updated: 2025-01-19T17:41:37.184Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ It's unclear what percentage of [Vision Pro](https://www.zdnet.com/article/meet-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. It's a light seal problem
@@ -46,6 +46,10 @@ One might think that using your eyes and fingers to navigate a digital world wou
 
 Eye tracking on the AVP can be [exhausting](https://www.reddit.com/r/VisionPro/comments/1aixzwz/my%5Fonly%5Fcomplaint%5Feye%5Fstrain/), causing [eye soreness and fatigue](https://www.reddit.com/r/VisionPro/comments/1aqvsd8/love%5Fmy%5Favp%5Fbut%5Feye%5Fstrain%5Fis%5Freal%5Fand%5Fi%5Fthink/). Eye fatigue could be an issue that improves as the wearer's body becomes accustomed to the AVP, but it is a big reasons why some users are [considering returning](https://www.reddit.com/r/VisionPro/comments/1aiy4w7/anyone%5Fhaving%5Fbad%5Feye%5Fstrain%5F1015%5Fminutes%5Fafter/) the device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The Vision Pro is too heavy to wear for long periods
 
 The Vision Pro weighs between 21.2 and 22.9 ounces; that's a lot of weight to wear on your face. For reference, a 12.9-inch iPad Pro weighs 24 ounces, three iPhone 15 Pro Maxes stacked on top of each other weigh 23.4 ounces, and a bunch of five 7-inch bananas weighs 17.3 ounces.
@@ -53,10 +57,6 @@ The Vision Pro weighs between 21.2 and 22.9 ounces; that's a lot of weight to we
 **Also: [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)**
 
 Some users come up with [3D-printed modifications](https://www.reddit.com/r/VisionPro/comments/1anq3k9/almost%5Freturned%5Fit%5Fthis%5Fmod%5Fchanged%5Feverything/) to distribute the weight better; others report they can't wear it for the [length of a movie](https://www.reddit.com/r/VisionPro/comments/1any318/well%5Fafter%5Fa%5Fweek%5Fi%5Fhave%5Freturned%5Fthe%5Fvision%5Fpro/). If you want to return it, don't wait until you enter the [last stage of Vision Pro grief](https://www.reddit.com/r/VisionPro/comments/1ar2jtr/stages%5Fof%5Fvision%5Fpro%5Fgrief/) or you may miss your return window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The technology is just not there yet
 
@@ -69,7 +69,7 @@ Thankfully for Apple, the Vision Pro doesn't have as long of a road to travel as
 Complaints about poor text rendering for smaller text, especially compared to the Apple ecosystem's Retina Displays, and stuttering during standard computational tasks are common -- which is problematic for a device marketed for productivity and work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The world of spatial computing is too lonely
@@ -81,7 +81,7 @@ Using the Apple Vision Pro can be a beautiful experience for the wearer, but eve
 > Using the Apple Vision Pro is like putting on a pair of headphones. Once it's on, you're isolated, immersed, lonely. I'd like to be an optimist about it, thinking that this will only be a short-term phenomenon, as 1) With time, virtual reality headsets will eventually be accepted as a piece of apparel, 2) In social environments, we'll learn how to physically communicate with each other, even with the face barrier, and 3) There will be more meaningful ways to connect with people in VR. Bringing FaceTime to Vision Pro is just the beginning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. It's just too expensive
@@ -93,7 +93,7 @@ We know the Vision Pro was not marketed for the Americans struggling to afford g
 But $3,500 is a lot of money for a [VR headset](https://www.zdnet.com/article/best-vr-headset/) (and that's before accessories), even for enthusiastic early adopters. As the hype wears off for the AVP, many who spent over $4,000 on it (after accessories, AppleCare+, and taxes) are left [struggling to justify the cost](https://www.reddit.com/r/VisionPro/comments/1anit76/a%5Fpart%5Fof%5Fme%5Fwants%5Fto%5Freturn%5Fit%5Fand%5Fsee%5Fif%5Fi/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. 'I just wanted to try it out'
@@ -134,15 +134,22 @@ Apple's generous return policy enables this: The company lets you return any dev
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quality-streaming-balancing-webcam-and-gaming-recordings/"><u>[New] 2024 Approved Quality Streaming Balancing Webcam & Gaming Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-selection-of-cost-free-high-quality-video-editors/"><u>[New] The Ultimate Selection of Cost-Free, High-Quality Video Editors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-private-chronicles-in-snapchat-an-essential-guide/"><u>[Updated] 2024 Approved Private Chronicles in Snapchat An Essential Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-examining-youtubes-workflow-after-content-submission/"><u>[Updated] In 2024, Examining YouTube's Workflow After Content Submission</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>[Updated] Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-efficiency-and-consistency-of-sea-teche-external-usb-blu-ray-recorder-an-in-depth-product-review/"><u>Evaluating the Efficiency and Consistency of Sea Tech'e External USB Blu-Ray Recorder: An In-Depth Product Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-innovative-ways-to-infuse-voiceovers-into-your-media/"><u>In 2024, Innovative Ways to Infuse Voiceovers Into Your Media</u></a></li>
-<li><a href="https://common-error.techidaily.com/screen-fades-out-unsolved-mystery/"><u>Screen Fades Out: Unsolved Mystery</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-8-youtube-imagery-techniques-for-higher-engagement-for-2024/"><u>Top 8 YouTube Imagery Techniques for Higher Engagement for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-does-msda80dll-do-on-your-computer-and-how-to-manage-its-storage-safely/"><u>What Does MSDA80.DLL Do on Your Computer, and How to Manage Its Storage Safely?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-channeling-success-the-personal-brand-strategy-for-youtubers/"><u>[New] Channeling Success The Personal Brand Strategy for YouTubers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-soundwave-success-adding-audio-to-your-instastory/"><u>[New] In 2024, Soundwave Success Adding Audio to Your InstaStory</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-windows-best-chat-tools-ranked-3-1-for-2024/"><u>[New] Windows' Best Chat Tools Ranked #3-#1 for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-banner-bonanza-unlimited-50-free-youtube-designs/"><u>[Updated] 2024 Approved Banner Bonanza Unlimited 50 FREE YouTube Designs!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-epic-entertainment-a-rundown-of-hilarious-youtuber-hits/"><u>[Updated] Epic Entertainment A Rundown of Hilarious YouTuber Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/anticipating-the-next-generation-potential-revamp-for-apples-budget-friendly-watch-se-unveiled-zdnet-insights/"><u>Anticipating the Next Generation: Potential Revamp for Apple's Budget-Friendly Watch SE Unveiled | ZDNet Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-unveils-revolutionary-on-device-ai-realmsurpasses-gpt-4-in-performance/"><u>Apple Unveils Revolutionary On-Device AI, ReaLMSurpasses GPT-4 in Performance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apple-watch-series-4-review/"><u>Apple Watch Series 4 Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-your-hands-on-our-top-pick-of-iphone-cases-bogo-offer-shop-now-at-zdnet/"><u>Get Your Hands on Our Top Pick of iPhone Cases: BOGO Offer - Shop Now at ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-boost-your-polyglot-skills-using-the-power-of-chatgpt-plus/"><u>How to Boost Your Polyglot Skills Using the Power of ChatGPT Plus</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capture-and-share-the-top-10-free-screenshot-apps-on-macos/"><u>In 2024, Capture & Share The Top 10 FREE Screenshot Apps on MacOS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-mastering-slow-motion-on-tiktok-a-step-by-step-guide/"><u>In 2024, Mastering Slow Motion on TikTok A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macbook-showdown-deciding-whether-macbook-pro-or-macbook-air-fits-your-needs-techtalkzdnet/"><u>MacBook Showdown: Deciding Whether MacBook Pro or MacBook Air Fits Your Needs | TechTalkZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ipad-productivity-apps-streamline-your-task-management-and-enhance-efficiency-techadvisor/"><u>Top iPad Productivity Apps: Streamline Your Task Management & Enhance Efficiency | TechAdvisor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultra-fast-and-sleek-the-revolutionary-magsafe-battery-pack-that-defies-the-brick-reputation/"><u>Ultra-Fast and Sleek: The Revolutionary MagSafe Battery Pack That Defies the 'Brick' Reputation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uncluttered-inbox-revolutionized-with-one-simple-trick-say-goodbye-to-multiple-accounts-and-complex-rules/"><u>Uncluttered Inbox Revolutionized with One Simple Trick - Say Goodbye to Multiple Accounts and Complex Rules</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unmissable-savings-premier-laptop-bargains-for-july-24-revealed-techbargains/"><u>Unmissable Savings: Premier Laptop Bargains for July '24 Revealed | TechBargains</u></a></li>
 </ul></div>
 

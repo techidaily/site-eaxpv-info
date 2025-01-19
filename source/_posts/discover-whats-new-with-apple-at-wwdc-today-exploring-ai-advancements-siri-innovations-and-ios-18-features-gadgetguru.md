@@ -1,7 +1,7 @@
 ---
 title: Discover What's New with Apple at WWDC Today - Exploring AI Advancements, Siri Innovations, and iOS 18 Features | GadgetGuru
-date: 2025-01-07T19:23:45.130Z
-updated: 2025-01-13T18:01:33.935Z
+date: 2025-01-13T17:15:30.652Z
+updated: 2025-01-19T20:18:49.975Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,22 +110,17 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-cultivating-commitment-gentle-subscription-strategies/"><u>[New] 2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-apple-and-google-devices-best-mobile-editing-apps-for-2024/"><u>[New] Apple & Google Devices Best Mobile Editing Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-finalizing-account-deletion-on-instagram-method-and-tips/"><u>[New] Finalizing Account Deletion on Instagram Method and Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-standout-videos-with-professional-free-banner-samples/"><u>[New] In 2024, Craft Standout Videos with Professional, Free Banner Samples</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-explore-the-10-most-influential-makeup-personalities-online/"><u>[New] In 2024, Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-creative-communication-get-free-voice-effects-today/"><u>[New] Unlock Creative Communication - Get FREE Voice Effects Today</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[New] Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-advanced-techniques-using-jump-cuts-effectively/"><u>[Updated] 2024 Approved Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-commerce-vrs-role-in-modernizing-industries/"><u>[Updated] In 2024, Cutting-Edge Commerce VR's Role in Modernizing Industries</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[Updated] Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-influencer-integration-amplifying-engagement-through-collaborations/"><u>2024 Approved Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-vlogging-starting-kit-and-tools/"><u>2024 Approved Master the Art of Vlogging Starting Kit & Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-90-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor 90 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-vloggers-fears-decoded-combat-strategies-for-everyone/"><u>In 2024, Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/swift-channels-growth-optimizing-viewership-with-collaborative-videos-for-2024/"><u>Swift Channels Growth Optimizing Viewership with Collaborative Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transcribe-without-breaking-the-bank-learn-how-with-our-free-guide-for-2024/"><u>Transcribe Without Breaking the Bank Learn How with Our Free Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixing-popular-youtube-short-snafus-for-2024/"><u>[New] Fixing Popular YouTube Short Snafus for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-a-custom-youtube-subscriber-url-for-2024/"><u>[New] Generating a Custom YouTube Subscriber URL for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-vlog-confidently-like-popular-youtubers-in-2024/"><u>[New] How to Vlog Confidently Like Popular YouTubers, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-animated-bouncing-text/"><u>[New] In 2024, How to Create Animated Bouncing Text</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>2024 Approved Slowly Fading the Beat A Pro Guide for Audio Easing</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-smart-ai-solutions-with-gpt-3-in-the-realm-of-openai-playground/"><u>Crafting Smart AI Solutions with GPT-3 in the Realm of OpenAI Playground</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-xr-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone XR without Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-google-powered-success-in-podcast-submissions/"><u>In 2024, Google-Powered Success in Podcast Submissions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-nord-n30-se-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus Nord N30 SE Lock Screen Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-refuses-to-show-fullscreen-win10/"><u>Monitor Refuses to Show Fullscreen Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-resolving-miracast-issues-with-unsupported-graphics-drivers/"><u>Solved: Resolving Miracast Issues with Unsupported Graphics Drivers</u></a></li>
 </ul></div>
 

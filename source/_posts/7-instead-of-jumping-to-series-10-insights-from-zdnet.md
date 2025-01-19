@@ -1,7 +1,7 @@
 ---
 title: 7 Instead of Jumping to Series 10 - Insights From ZDNet
-date: 2025-01-10T16:32:56.394Z
-updated: 2025-01-13T19:24:28.383Z
+date: 2025-01-16T19:08:41.798Z
+updated: 2025-01-19T20:55:02.318Z
 tags:
   - apple
 categories:
@@ -30,13 +30,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -49,10 +49,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -88,9 +84,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -102,10 +106,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -115,7 +115,7 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -125,7 +125,7 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -168,17 +168,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-sonic-journey-top-pick-free-apps-downloading-youtube-tunes-to-mobile/"><u>[New] 2024 Approved Sonic Journey Top Pick Free Apps Downloading YouTube Tunes to Mobile</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-optimal-audio-bridge-for-podcasters-for-2024/"><u>[New] Optimal Audio Bridge for Podcasters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>[Updated] 2024 Approved How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-blueprint-for-money-making-for-2024/"><u>[Updated] Gamer’s Blueprint for Money-Making for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>[Updated] In 2024, From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-livecasting-google-meet-on-youtube/"><u>[Updated] In 2024, Guide to Livecasting Google Meet on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-parents-roadmap-to-understanding-chatgpt-and-the-world-of-generative-ai/"><u>A Parent's Roadmap to Understanding ChatGPT & the World of Generative AI</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fix-for-unity-initialization-graphics-glitch-beginner-friendly-tips/"><u>Effortless Fix for Unity Initialization Graphics Glitch - Beginner-Friendly Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-pixel-3-review-mastering-the-essence-of-android-technology/"><u>Google Pixel 3 Review: Mastering the Essence of Android Technology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-smile-signal-laughter-filled-download-sites/"><u>In 2024, Smile Signal Laughter-Filled Download Sites</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-itel-a60-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Itel A60 Phone Now with These Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1139009-9781780999593-shaman-pathways-web-of-life/"><u>Shaman Pathways - Web of Life | Free Book</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211383047-9798330230761-27/"><u> "27 " | Free Book</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-discover-the-finest-top-10-affordable-drawers-on-mac/"><u>[New] 2024 Approved Discover the Finest Top 10 Affordable Drawers on Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-youtube-comment-settings-tips-and-tricks/"><u>[New] In 2024, Navigating YouTube Comment Settings Tips and Tricks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfecting-speech-interpretation-using-google-tools/"><u>[New] Perfecting Speech Interpretation Using Google Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-cross-posting-strategies-sharing-tiktok-on-your-facebook-feed/"><u>2024 Approved Cross-Posting Strategies Sharing TikTok on Your Facebook Feed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-superior-class-of-8-best-4k-high-definition-players/"><u>2024 Approved Superior Class of 8 Best 4K High Definition Players</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gifgif5plus/"><u>動画から完璧なGIF作り：フリーGIF生成ソフト5選択肢+利用手引き</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-winxvideo-4k-8k-10k/"><u>AI 기법을 사용한 WinxVideo의 절전적인 이미지 해상도 증강: 4K, 8K, 10K에서</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-video-formats-a-comprehensive-guide-to-transforming-vob-files-into-mp4-on-pcs-windows-1011-and-macos/"><u>Convert Your Video Formats: A Comprehensive Guide to Transforming VOB Files Into MP4 on PCs (Windows 10/11 and macOS)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-15/"><u>DVD複写手順：合法的に映画のコピーとリッピング - 第15章</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-dvd-and-video-editing-tools-by-digiarty-leading-the-way-in-digital-conversion-technology/"><u>Expert DVD & Video Editing Tools by Digiarty: Leading the Way in Digital Conversion Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-des-questions-frequemment-posees-a-lia-winxvideo-avec-des-reponses-detaillees/"><u>Guide Des Questions Fréquemment Posées À L'IA Winxvideo Avec Des Réponses Détaillées</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-x-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone X With or Without Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-start-helldivers-2-on-steam-a-comprehensive-solution/"><u>How to Successfully Start Helldivers 2 on Steam – A Comprehensive Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reversing-your-footage-the-ultimate-guide-to-flipping-gopro-videos-vertically/"><u>Reversing Your Footage: The Ultimate Guide to Flipping GoPro Videos Vertically</u></a></li>
 </ul></div>
 

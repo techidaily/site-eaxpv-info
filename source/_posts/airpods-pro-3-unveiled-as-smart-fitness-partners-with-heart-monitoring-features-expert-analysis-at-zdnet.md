@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2025-01-06T16:58:59.222Z
-updated: 2025-01-13T17:32:00.523Z
+date: 2025-01-14T20:44:58.529Z
+updated: 2025-01-19T20:08:05.648Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch
@@ -75,7 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -91,7 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -140,22 +140,14 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[New] 2024 Approved Amplify Views Effortlessly Discovering the Best 20 YouTube Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-can-a-brief-subscribe-boost-your-content-viewing/"><u>[New] 2024 Approved Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[New] 2024 Approved Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavorful-funnels-catchy-recipe-channels-that-work/"><u>[New] 2024 Approved Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy-for-2024/"><u>[New] Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-ghastly-graphics-maker-for-2024/"><u>[New] Ghastly Graphics Maker for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-inspiring-ideas-gratis-graphics-for-your-channel/"><u>[New] Inspiring Ideas Gratis Graphics for Your Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] In 2024, Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[Updated] In 2024, How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-capturer-snappy-windows-snap/"><u>2024 Approved Professional Capturer Snappy Windows Snap</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>2024 Approved The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-6-finest-journaling-tools-for-on-the-go-note-taking/"><u>Discover the 6 Finest Journaling Tools for On-the-Go Note Taking</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-thunderbolt-g2-connectivity-software-from-hewlett-packard/"><u>How to Get the Latest Thunderbolt G2 Connectivity Software From Hewlett-Packard</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-content-size-on-igtv-top-5-expert-tips-to-consider/"><u>In 2024, Navigating Content Size on IGTV Top 5 Expert Tips to Consider</u></a></li>
-<li><a href="https://article-tips.techidaily.com/melodic-messaging-audio-enhancements-for-status-for-2024/"><u>Melodic Messaging Audio Enhancements for Status for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-solution-to-the-ashen-error-fast-and-effective-fixes-revealed/"><u>Trouble-Free Solution to the Ashen Error – Fast and Effective Fixes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-silence-solutions-for-a-quiet-laptop/"><u>Troubleshooting Complete Silence: Solutions for a Quiet Laptop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-record-gameplay-and-webcam/"><u>[New] In 2024, How to Record Gameplay and Webcam</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-accelerate-engagement-quick-instagram-likes-and-videos-strategy/"><u>[Updated] In 2024, Accelerate Engagement Quick Instagram Likes and Videos Strategy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-engaging-audiences-facebook-live-meets-tv/"><u>2024 Approved Engaging Audiences Facebook Live Meets TV</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-efficient-translation-the-top-8-best-apps-reviewed/"><u>2024 Approved Free, Efficient Translation The Top 8 Best Apps Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-audio-to-video-easily-and-for-free-using-the-movavi-file-converter/"><u>Convert Audio to Video Easily and for Free Using the Movavi File Converter</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2022-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-video-call-recording-solutions-a-comparative-review-of-the-leading-programs/"><u>Top 10 Video Call Recording Solutions: A Comparative Review of the Leading Programs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforma-tu-video-mxf-directamente-al-formato-popular-mp4-usando-el-servicio-en-linea-gratis-de-movavi/"><u>Transforma Tu Vídeo MXF Directamente Al Formato Popular MP4 Usando El Servicio en Línea Gratis De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-gratuitement-un-fichier-swf-en-mov-sur-internet-moovavi/"><u>Transformez Gratuitement Un Fichier SWF en MOV Sur Internet - Moovavi</u></a></li>
 </ul></div>
 

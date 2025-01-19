@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2025-01-08T17:55:41.845Z
-updated: 2025-01-13T17:57:59.710Z
+date: 2025-01-12T20:31:02.202Z
+updated: 2025-01-19T20:20:44.415Z
 tags:
   - apple
 categories:
@@ -45,16 +45,12 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -74,7 +70,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -95,13 +91,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -112,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,16 +157,18 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rafting-standout-youtube-thumbnails-with-ease/"><u>[New] Crafting Standout YouTube Thumbnails with Ease</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[New] In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-best-screen-recorder-apowersoft-vs-others/"><u>[New] In 2024, The Best Screen Recorder Apowersoft vs Others</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-vloggers-ultimate-guide-to-best-gaming-microphones/"><u>[New] Vloggers' Ultimate Guide to Best Gaming Microphones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>[Updated] 2024 Approved How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-dreamcolor-spectrum-redefined-insight-into-the-z32x-monitor-for-2024/"><u>[Updated] The DreamColor Spectrum Redefined Insight Into the Z32X Monitor for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-rise-and-challenges-of-video-streaming-profits/"><u>[Updated] The Rise and Challenges of Video Streaming Profits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enjoy-immersive-3d-viewing-with-apple-on-your-meta-quest-3-the-ultimate-guide-to-accessing-the-content/"><u>Enjoy Immersive 3D Viewing with Apple on Your Meta Quest 3 – The Ultimate Guide to Accessing the Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photographic-fusion-at-full-speeds-google-collage-techniques-for-2024/"><u>Photographic Fusion at Full Speeds Google Collage Techniques for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-onedrive-authentication-xyz-error-on-windows-11/"><u>Steps to Overcome ONEDRIVE Authentication XYZ Error on Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook-for-2024/"><u>Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/crea-videos-sin-coste-con-la-herramienta-de-edicion-en-linea-de-movavi/"><u>¡Crea Videos Sin Coste Con La Herramienta De Edición en Línea De Movavi!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-chorus-and-bass-macs-sound-control/"><u>[New] In 2024, Chorus & Bass Mac's Sound Control</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-save-movs-on-windows-10-for-2024/"><u>[New] Step-by-Step Save MOVs on Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-glassify-privacy-webcam-panel/"><u>[Updated] Glassify Privacy Webcam Panel</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-piecing-together-memories-your-guide-to-montages/"><u>[Updated] Piecing Together Memories Your Guide to Montages</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726223114269-2024-10/"><u>2024년 베스트 영화 추천: 영화 전략을 위한 10가지 필수 사이트</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225995978-bmp-movavi/"><u>網路安全地免费下载 BMP 图像转换工具 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuita-transformar-archivos-jp2-en-formatos-de-imagen-estandar-jpegjpg/"><u>Conversión Gratuita: Transformar Archivos JP2 en Formatos De Imagen Estándar (JPEG/JPG)</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gratis-omzetten-en-online-beheer-van-raf-documenten-met-movavi/"><u>Gratis Omzetten En Online Beheer Van RAF Documenten Met Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-ogg-flac-converter-naar-mp4-professionele-online-losung-mit-movavi/"><u>Gratuit Ogg-Flac Converter Naar MP4: Professionele Online Lösung Mit Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-gt-10-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix GT 10 Pro Is Unlocked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-screen-recorder-comprehensive-guide-and-latest-updates-reviews/"><u>Movavi Screen Recorder: Comprehensive Guide and Latest Updates - Reviews</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g84-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G84 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
 

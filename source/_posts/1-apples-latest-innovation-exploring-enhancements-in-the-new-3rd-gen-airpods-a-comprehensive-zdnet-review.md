@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2025-01-08T17:06:28.728Z
-updated: 2025-01-13T17:43:10.856Z
+date: 2025-01-16T16:06:13.243Z
+updated: 2025-01-19T21:14:03.981Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -60,7 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -92,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -107,10 +103,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -122,6 +114,10 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -152,7 +148,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -169,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,17 +210,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-firstrow-leisure-without-the-sports-commitment/"><u>[New] 2024 Approved FirstRow Leisure Without the Sports Commitment</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>[New] 2024 Approved From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-streamlined-subscription-links-for-video-channels/"><u>[New] 2024 Approved Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-premiere-pro-speed-blackouts/"><u>[New] In 2024, Premiere Pro Speed Blackouts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[Updated] 2024 Approved Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[Updated] In 2024, From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-video-soundtracks-into-audible-files/"><u>[Updated] In 2024, How to Turn Video Soundtracks Into Audible Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997092103-boosting-your-cyberpunk-2077-playthrough-overcome-past-fps-challenges-easily-now/"><u>Boosting Your Cyberpunk 2077 Playthrough: Overcome Past FPS Challenges Easily Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/desktop-and-online-guide-mastering-video-watermarking-techniques-on-your-pc/"><u>Desktop and Online Guide: Mastering Video Watermarking Techniques on Your PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-with-the-latest-geforce-rtx/"><u>Enhance Your Gameplay with the Latest GeForce RTX</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-on-high-performance-gaming-laptop-before-memorial-day-sale-save-250-now-with-our-guide-at-zdnet/"><u>Huge Discount on High-Performance Gaming Laptop Before Memorial Day Sale - Save $250 Now with Our Guide at ZDNet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-upside-of-asmr-a-closer-look-at-its-advantages-for-2024/"><u>The Upside of ASMR A Closer Look At Its Advantages for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-expert-tips-extracting-audio-from-youtube-video-playback/"><u>[New] 2024 Approved Expert Tips Extracting Audio From YouTube Video Playback</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onfiguring-who-can-see-your-youtube-clips/"><u>[New] Configuring Who Can See Your YouTube Clips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-editors-roadmap-to-perfection-in-fcp-for-2024/"><u>[New] The Editor's Roadmap to Perfection in FCP for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-guide-converting-dvd-videots-to-high-quality-avi-files-effortlessly/"><u>1. Ultimate Guide: Converting DVD Video_TS to High-Quality AVI Files Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287958833-dvd-dvd/"><u>DVDレコード作成ツール紹介 - 市販DVDや地上波のダビングソフト</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-mac-dvd-ripping-software-convert-dvds-to-mp4mov-with-hevc-and-watch-on-your-iphone/"><u>Free Mac DVD Ripping Software: Convert DVDs to MP4/MOV with HEVC & Watch on Your iPhone!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-simple-como-optimizar-y-reducir-tamanos-de-videos-para-su-correcta-carga-en-facebook/"><u>Guía Simple: Cómo Optimizar Y Reducir Tamaños De Videos Para Su Correcta Carga en Facebook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-the-rotibox-bluetooth-beanie-delivers-top-notch-comfort-and-audio-performance/"><u>How the Rotibox Bluetooth Beanie Delivers Top-Notch Comfort and Audio Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-hd-video-conversion-with-handbrake-on-android-tablets-essential-setup-tips/"><u>Mastering HD Video Conversion with Handbrake on Android Tablets - Essential Setup Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-hevch265-a-comprehensive-guide-for-mac-users/"><u>Mastering HEVC/H.265: A Comprehensive Guide for Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-persona-building-in-chatgpt-driven-design/"><u>Streamlining Persona Building in ChatGPT-Driven Design</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999742301-troubleshooting-your-total-war-saga-troy-pc-game-crash-solutions-inside/"><u>Troubleshooting Your 'Total War Saga: Troy' PC Game Crash - Solutions Inside!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-dualtracksync-the-ultimate-audio-matching-solution-for-adobe-premiere-pro-users/"><u>Updated In 2024, DualTrackSync The Ultimate Audio Matching Solution for Adobe Premiere Pro Users</u></a></li>
 </ul></div>
 

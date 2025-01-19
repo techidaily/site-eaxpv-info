@@ -1,7 +1,7 @@
 ---
 title: "Upgrading to the Newest: A Side-by-Side Look at iPad Air 4 and iPad Air Er | Technology Insights"
-date: 2025-01-10T18:33:29.600Z
-updated: 2025-01-13T18:34:52.393Z
+date: 2025-01-12T16:30:09.456Z
+updated: 2025-01-19T22:17:14.906Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Apple has wrapped up its [year of iPad releases](https://www.zdnet.com/article/b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)
@@ -36,6 +40,10 @@ In the newest iPad Air 5 lives the company's tried-and-true [M1 processor](https
 But if pricing impacts your buying decision, then the similarly-designed iPad Air 4 is just as worthy of your consideration and can be had for noticeably less money. Read on to learn more about what the defining features are for both models and why you should pick one over the other.
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -54,16 +62,12 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
@@ -92,24 +96,16 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
 
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
@@ -121,6 +117,10 @@ You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -162,22 +162,20 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>[New] 2024 Approved Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-share-a-private-youtube-video-with-google-account/"><u>[New] 2024 Approved How to Share a Private YouTube Video with Google Account?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-do-youtube-channels-get-paid-regularly-in-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly, In 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-your-facebook-cache-securely-download-messages-and-vids-for-2024/"><u>[New] Unlock Your Facebook Cache Securely Download Messages & Vids for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>[Updated] 2024 Approved From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-voice-on-youtube-a-guide-to-selective-audiences-for-2024/"><u>[Updated] Finding Your Voice on YouTube A Guide to Selective Audiences for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>[Updated] In 2024, Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-film-and-image-repository-highlights/"><u>[Updated] In 2024, Free Film and Image Repository Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-filming-gurus-on-yt-transform-your-set-with-greenscreens/"><u>[Updated] In 2024, Green Filming Gurus on YT Transform Your Set with Greenscreens</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/1-pre-school-education-law-draft-reached-congress-kindergartens-to-focus-on-early-childhood-learning-say-chinese-media-insights-from-yl-computing-and-yl-sof72/"><u>1. 'Pre-School Education Law Draft Reached Congress: Kindergartens to Focus on Early Childhood Learning, Say Chinese Media - Insights From YL Computing & YL Software'</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-select-the-top-ios-apps-for-thorough-iphone-data-deletion/"><u>How to Select the Top iOS Apps for Thorough iPhone Data Deletion</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-narzo-n53-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-next-gen-storage-the-ultimate-five/"><u>In 2024, Navigating Next-Gen Storage The Ultimate Five</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-websites-for-seamless-integration-of-text-overlays/"><u>Leading Websites for Seamless Integration of Text Overlays</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-installing-zexmt-bluetooth-adapter-drivers-on-windows-xpvista7/"><u>Ultimate Guide to Installing Zexmt Bluetooth Adapter Drivers on Windows (XP/Vista/7)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-ussd-an-in-depth-look-at-data-messaging-protocols/"><u>Unlocking the Secrets of USSD: An In-Depth Look at Data Messaging Protocols</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-seamless-closure-in-digital-landscapes-for-2024/"><u>[New] Seamless Closure in Digital Landscapes for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-stock-photos-free-flawless-and-legal/"><u>[Updated] 2024 Approved Navigating Stock Photos Free, Flawless, and Legal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vobogm-movavi/"><u>「完全無償でオンラインVOBファイルをOGMに簡単変換: Movaviの解決方法」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726222121917-20245/"><u>最新！2024年にハイテクな動画変換ツールベスト5を無料でご紹介</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/airbus-defence-and-space/"><u>Airbus Defence & Space</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-video-editing-programs-of-2024-top-picks-for-no-cost-online-editors/"><u>Best Free Video Editing Programs of 2024 - Top Picks for No-Cost Online Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descubre-el-tratodo-sobre-la-conversion-de-archivos-video-wmv-usando-ram-en-linea-gratis-la-solucion-de-movavi/"><u>Descubre El Tratodo Sobre La Conversión De Archivos Vídeo WMV Usando RAM en Línea Gratis: La Solución De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gifmp4movavimobile/"><u>GIFファイルのMP4への高速コンバート手法：MovaviとMobileで使用者をサポートします</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-quickly-overcome-roblox-issue-524-with-step-by-step-troubleshooting-guide/"><u>How to Quickly Overcome Roblox Issue 524 with Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-fight-night-on-nintendo-switch-top-ten-picks/"><u>In 2024, Fight Night on Nintendo Switch - Top Ten Picks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-plus-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 15 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-gratuit-mov-naar-mjpeg-konvertor-efficient-en-gemakkelijk-met-moveavi/"><u>Online Gratuit MOV Naar MJPEG Konvertor: Efficiënt en Gemakkelijk Met Moveavi</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-htc-u23-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from HTC U23 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vobasf-movavi/"><u>VOB/ASF 파일 제자리에서 오픈 소스에서 쉽게 바이널을 조정하는 방법 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/web-wmv-f4v/"><u>영상 제한 없이 Web에서 자유성 비용 WMV, F4V 전환 - 모바이브</u></a></li>
 </ul></div>
 

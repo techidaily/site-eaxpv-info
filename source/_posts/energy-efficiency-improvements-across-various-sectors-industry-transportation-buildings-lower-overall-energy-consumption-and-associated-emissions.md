@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2025-01-07T17:30:00.047Z
-updated: 2025-01-13T16:46:20.397Z
+date: 2025-01-14T22:44:13.568Z
+updated: 2025-01-19T16:00:23.998Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -111,10 +111,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -137,6 +133,10 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,21 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-epic-encounters-a-selection-of-supreme-7-total-war-conflicts/"><u>[New] 2024 Approved Epic Encounters A Selection of Supreme 7 Total War Conflicts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-youtube-shorts-guide-for-2024/"><u>[New] From Novice to Pro YouTube Shorts Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-webinar-technology-hacks-with-no-financial-cost/"><u>[New] In 2024, Webinar Technology Hacks with No Financial Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[Updated] 2024 Approved How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-igtv-followers-essential-techniques-to-grow-your-audience/"><u>[Updated] 2024 Approved Mastering IGTV Followers Essential Techniques to Grow Your Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-adobe-premiere-tips-youtube-video-uploads-for-2024/"><u>[Updated] Adobe Premiere Tips YouTube Video Uploads for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-best-budget-edits-8-no-charge-video-editing-software-for-2024/"><u>[Updated] Best Budget Edits 8 No-Charge Video Editing Software for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube-for-2024/"><u>[Updated] From Concept to Classroom A Guide to Creating Engaging Edu-Videos on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-your-new-youtube-premium-account/"><u>[Updated] In 2024, Getting Started with Your New YouTube Premium Account</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/classic-meets-modern-in-the-latest-ratchet-and-clank-overhaul-a-comprehensive-review/"><u>Classic Meets Modern in the Latest Ratchet & Clank Overhaul – A Comprehensive Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-geforce-experiences-unable-to-retrieve-settings-error-in-windows-10-and-11/"><u>How to Fix GeForce Experience’s “Unable to Retrieve Settings” Error in Windows 10 & 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-10-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 10 4G Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-new-era-of-youtube-branding-best-titles-for-video-content-creators-limit-it-to-156-characters/"><u>In 2024, The New Era of YouTube Branding Best Titles for Video Content Creators (Limit It to 156 Characters)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tips-for-inserting-captions-in-youtube-videos-for-2024/"><u>Tips for Inserting Captions in YouTube Videos for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-dark-screens-on-streams/"><u>Troubleshooting Dark Screens on Streams</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ectification-of-injustice-for-2024/"><u>[New] Rectification of Injustice for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-compelling-narratives-with-facebook-cover-vids-for-2024/"><u>[Updated] Crafting Compelling Narratives with Facebook Cover Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-adjust-your-timeline-facebook-look-back-guide/"><u>[Updated] In 2024, Adjust Your Timeline Facebook Look Back Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rawmovavi/"><u>「RAW画像を無料にしっかり変換！オンラインでMovaviが君の力」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-virtual-environments-in-cinema/"><u>2024 Approved The Art of Virtual Environments in Cinema</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/anonymity-achieved-simplified-strategies-to-pixelate-photos-for-2024/"><u>Anonymity Achieved Simplified Strategies to Pixelate Photos for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/compatibility-check-for-your-gpu-expert-advice-from-yls-tech-team/"><u>Compatibility Check for Your GPU: Expert Advice From YL's Tech Team</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuit-de-fichiers-ogg-vers-flac-avec-movavi-faitez-le-vous-meme/"><u>Conversion Gratuit De Fichiers OGG Vers FLAC Avec Movavi - Faitez-Le Vous Même !</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-mp4-file-combination-a-three-step-tutorial/"><u>Effortless MP4 File Combination: A Three-Step Tutorial</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevating-learning-with-pearsons-precise-gsl-and-mondly/"><u>Elevating Learning with Pearson's Precise GSL and Mondly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/free-guide-transforming-your-dvds-into-mp4-format-on-windows-11/"><u>Free Guide: Transforming Your DVDs Into MP4 Format on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mettre-votre-photo-en-ligne-gratuitement-convertissez-vos-images-au-format-mpe-avec-movavi/"><u>Mettre Votre Photo en Ligne Gratuitement: Convertissez Vos Images Au Format MPE Avec Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-innovative-memes-with-kinemaster-for-2024/"><u>Pushing Boundaries Innovative Memes with KineMaster for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/scambia-file-aac-con-mp3-senza-costi-servizio-online-gratuito-di-movavi/"><u>Scambia File AAC Con MP3 Senza Costi - Servizio Online Gratuito Di Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ten-underbara-strategier-for-att-flytta-en-hinter-video-fond-utan-en-gron-fonster/"><u>Ten Underbara Strategier För Att Flytta En Hinter Video-Fond Utan En Grön Fönster</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-innovative-substitutes-for-a-traditional-loom-a-comprehensive-guide/"><u>Top 12 Innovative Substitutes for a Traditional Loom: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4vvob/"><u>オンラインでのただ今、完全無償でM4V/VOBフォーマットを変換: ムヴァビ - 手軽に動画コンバート!</u></a></li>
 </ul></div>
 

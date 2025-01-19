@@ -1,7 +1,7 @@
 ---
 title: "Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe | ZDNET News"
-date: 2025-01-06T17:01:47.992Z
-updated: 2025-01-13T18:08:23.164Z
+date: 2025-01-17T17:14:06.039Z
+updated: 2025-01-19T17:43:08.529Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The 5x zoom comes to the Pro
@@ -35,7 +35,7 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -53,7 +53,7 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -71,7 +71,7 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -87,7 +87,7 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -124,19 +124,22 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>[New] In 2024, Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-monetize-mastery-series-behind-the-scenes-with-carminati-ajay/"><u>[New] Monetize Mastery Series Behind the Scenes with Carminati (AJay)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-dial-back-your-playlist-quick-steps-to-reverse-order/"><u>[Updated] 2024 Approved Dial Back Your Playlist Quick Steps to Reverse Order</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixed-youtubes-missing-minute-media/"><u>[Updated] 2024 Approved Fixed YouTube's Missing Minute Media</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-guide-to-premium-free-mobile-video-calls-ios-and-android-edition/"><u>[Updated] 2024 Approved Guide to Premium-Free Mobile Video Calls - iOS & Android Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-film-like-a-pro-with-macbook-webcam-tutorial-for-2024/"><u>[Updated] Film Like a Pro with MacBook Webcam Tutorial for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-streamline-yt-playlist-integration-in-htmlcss-for-2024/"><u>[Updated] Guide to Streamline YT Playlist Integration in HTML/CSS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-a-streamline-of-youtube-playlists-on-your-website/"><u>[Updated] In 2024, How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-low-cost-gopro-cameras-where-to-find-them/"><u>[Updated] Low-Cost GoPro Cameras Where to Find Them</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-breaking-down-the-abcd-a-guide-to-crafting-compelling-fb-text/"><u>In 2024, Breaking Down the ABCD A Guide to Crafting Compelling FB Text</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-searching-for-suitable-printer-driver-solved/"><u>Troubleshooting: Windows Searching for Suitable Printer Driver - SOLVED</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-integration-a-deep-dive-into-seven-popular-apps-utilizing-gpt-4-technology/"><u>Understanding the Integration: A Deep Dive Into Seven Popular Apps Utilizing GPT-4 Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unusual-liquid-found-in-iphone-charger-port-what-are-the-fixes/"><u>Unusual Liquid Found in iPhone Charger Port: What Are the Fixes?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-view-count-explore-these-12-effective-youtube-strategies-for-2024/"><u>[Updated] Boost Your View Count Explore These 12 Effective YouTube Strategies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bid-farewell-to-the-iphone-13-and-15-pro-top-recommendations-for-consumers-guides-by-zdnet/"><u>Bid Farewell to the iPhone 13 and 15 Pro: Top Recommendations for Consumers | Guides by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/boost-your-apple-watchs-battery-longevit-with-8-essential-tips-zdnet/"><u>Boost Your Apple Watch's Battery Longevit with 8 Essential Tips - ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/crazy-iphone-glitches-demand-attention-how-apple-can-resolve-these-frustrating-flaws/"><u>Crazy iPhone Glitches Demand Attention - How Apple Can Resolve These Frustrating Flaws</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/digiarty-winxdvdwinx-hd-video-converter-mac/"><u>Digiarty WinXDVD＆WinX HD Video Converter (Mac)を使い方・問題回答集</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-new-ios-18-update-on-your-iphone-compatible-models-and-step-by-step-guide/"><u>Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-open-and-work-with-pages-files-on-personal-computers/"><u>Easy Ways to Open and Work with Pages Files on Personal Computers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-productivity-zoom-features-for-windows-users-win10/"><u>Enhancing Productivity Zoom Features for Windows Users (Win10)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/flexible-connection-setup-on-macos-with-multiple-network-locations-tips/"><u>Flexible Connection Setup on macOS with Multiple Network Locations - Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bring-out-the-splendor-in-your-iphone-reflections/"><u>In 2024, Bring Out the Splendor in Your iPhone Reflections</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/izing-impact-livestreaming-360-degree-video-magic-on-youtube-for-2024/"><u>Maximizing Impact Livestreaming 360-Degree Video Magic on YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-new-playstation-in-depth-differences/"><u>Old Vs. New PlayStation: In-Depth Differences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-battle-reveals-unexpected-victor-techspot/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Battle Reveals Unexpected Victor | TechSpot</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-pro-case-for-202n4-expert-ratings-and-insights-zdnet/"><u>Ultimate Guide to Choosing the Ideal iPad Pro Case for 202N4 – Expert Ratings and Insights | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/user-experience-shifted-the-need-for-apple-to-facilitate-android-conversion-discussed/"><u>User Experience Shifted: The Need for Apple to Facilitate Android Conversion Discussed</u></a></li>
 </ul></div>
 

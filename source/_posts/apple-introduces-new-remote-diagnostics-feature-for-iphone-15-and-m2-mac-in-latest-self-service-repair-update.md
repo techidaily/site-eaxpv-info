@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2025-01-12T19:49:04.884Z
-updated: 2025-01-13T18:00:07.791Z
+date: 2025-01-13T19:50:51.124Z
+updated: 2025-01-19T20:08:37.407Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -37,7 +41,7 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -48,29 +52,21 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -97,6 +93,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,21 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-discovering-income-monetization-through-youtube-sponsored-videos/"><u>[New] 2024 Approved Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-frameworks-amplify-your-youtube-vision/"><u>[New] In 2024, Free Frameworks Amplify Your YouTube Vision</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-futures-edge-the-top-10-sci-fi-movies-shaping-new-realities/"><u>[New] In 2024, Future's Edge The Top 10 Sci-Fi Movies Shaping New Realities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-making-your-slides-come-alive-with-youtube-in-ppt/"><u>[New] Making Your Slides Come Alive with YouTube in PPT</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ideos-to-viral-guide-for-computer-and-phone-upload-of-youtube-shorts/"><u>[New] Videos to Viral Guide for Computer & Phone Upload of YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-modify-comment-accessibility-on-youtube/"><u>[Updated] 2024 Approved Guide to Modify Comment Accessibility on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-channel-studio-upgrade-vs-beta-shift/"><u>[Updated] In 2024, Elevate Your Channel Studio Upgrade Vs. Beta Shift</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-policies-versus-creative-commons-a-comparative-study/"><u>2024 Approved Youtube Policies Versus Creative Commons A Comparative Study</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-photo-correction-fixing-animal-eye-discoloration-in-pictures/"><u>DIY Photo Correction: Fixing Animal Eye Discoloration in Pictures</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-12-mini-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 12 mini</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-ultimate-dvd-ripping-tool-winx-for-windows-nk-11-quick-and-simple-dvd-to-mp4-conversion-utility/"><u>Free Ultimate DVD Ripping Tool WinX for Windows Nk-11: Quick and Simple DVD to MP4 Conversion Utility</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-t630-driver-download-for-windows-7810/"><u>Logitech T630 Driver Download for Windows 7/8/10</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mantau-buku-catatnya-dalam-onenote-dengan-tidak-terhapus-petualangan-langkah-4-kunci-cerdik/"><u>Mantau Buku Catatnya Dalam OneNote Dengan Tidak Terhapus: Petualangan Langkah-4 Kunci Cerdik</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/streamers-selection-most-popular-livestream-software-and-devices-for-2024/"><u>Streamer's Selection Most Popular Livestream Software and Devices for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-luminous-videos-an-android-lighting-guide/"><u>[New] Luminous Videos An Android Lighting Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamlining-video-features-youtube-annotations-guide/"><u>[New] Streamlining Video Features YouTube Annotations Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-no-money-just-screen-time-how-to-record-youtube-for-2024/"><u>[Updated] No Money, Just Screen Time How To Record YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-no-flair-just-facts-dissecting-recordcast/"><u>2024 Approved No Flair, Just Facts Dissecting RecordCast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gifswf-movavi-gifswf/"><u>無限制網路免費GIF轉變成SWF - 利用Movavi GIF到SWF自動轉換工具</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726223519490-3gpavimovavi/"><u>直接上網無成本轉動3GP到AVI影片：Movavi自由化映像轉移工具</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertidor-online-sem-custo-para-mp3-wav-flac-em-mp4-com-o-movavi/"><u>Convertidor Online Sem Custo Para MP3, WAV, FLAC Em MP4 Com O Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999472996-facing-a-dota-2-vac-ban-heres-how-you-can-fix-it-and-prevent-future-issues/"><u>Facing a Dota 2 VAC Ban ? Here's How You Can Fix It & Prevent Future Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-e-facil-maiores-programas-para-alterar-tamanho-do-video-em-qualquer-lugar/"><u>Gratuito E Fácil: Maiores Programas Para Alterar Tamanho Do Vídeo Em Qualquer Lugar!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-guide-for-aspiring-graders-essential-tips-from-these-top-7/"><u>In 2024, A Guide for Aspiring Graders Essential Tips From These Top 7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-film-to-instagram-editing-tall-videos-on-fcpx/"><u>In 2024, From Film to Instagram Editing Tall Videos on FCPX</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-all-encompassing-guide-to-dji-phantom-4s-capabilities/"><u>In 2024, The All-Encompassing Guide to DJI Phantom 4'S Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4r-mp3-movavi/"><u>M4R프레임 속성을 사용한 원근 개방: 이웃 구역에서 무료 MP3 변환기 – Movavi</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-pro-audio-in-fcp-expert-tips-for-enhancing-your-video-soundtrack/"><u>New In 2024, Pro Audio in FCP Expert Tips for Enhancing Your Video Soundtrack</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-konvertoren-3gpp-naar-mp4-zonder-kostprijzen-met-movavis-hulpbronnen/"><u>Online Konvertoren: 3GPP Naar MP4 Zonder Kostprijzen Met Movavi's Hulpbronnen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/scambio-libero-trasformare-il-video-webm-nel-formato-mp4-utilizzando-il-servizio-gratuito-di-convertivideo-online/"><u>Scambio Libero: Trasformare Il Video WebM Nel Formato MP4 Utilizzando Il Servizio Gratuito Di ConvertiVideo Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>Swiftly Move Data Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226016237-apngpng-movavi/"><u>オンラインで簡単に！フリーAPNGからPNGへの画像変換 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mjpegmp4/"><u>ビデオフォーマット変更無料: MJPEGからMP4へのスムーズな移行手順</u></a></li>
 </ul></div>
 

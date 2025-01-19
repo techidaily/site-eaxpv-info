@@ -1,7 +1,7 @@
 ---
 title: The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18)
-date: 2025-01-09T19:35:14.483Z
-updated: 2025-01-13T18:08:04.914Z
+date: 2025-01-16T16:39:12.161Z
+updated: 2025-01-19T19:51:14.919Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,14 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-framemorph-editor/"><u>[New] 2024 Approved FrameMorph Editor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] 2024 Approved From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-choose-best-free-youtube-video-editor-apps-on-ios/"><u>[New] 2024 Approved How to Choose Best-Free YouTube Video Editor Apps on iOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-guide-transforming-images-into-youtube-desktop-thumbnails/"><u>[New] In 2024, Fast Guide Transforming Images Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers/"><u>[New] In 2024, Foremost Frame Starters Leading 16 YouTube Videos for More Watchers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-high-fidelity-mp4-converter-to-fb/"><u>[New] In 2024, High-Fidelity MP4 Converter to FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-enhance-clarity-of-online-video-content/"><u>[New] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-seamlessly-download-igtv-for-iphoneandroid-users/"><u>[New] In 2024, Seamlessly Download IGTV for iPhone/Android Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-superior-liquid-games-for-2024/"><u>[New] The Ultimate Guide to Superior Liquid Games for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-viral-hits-the-top-10-music-videos-on-fb-now/"><u>[New] Viral Hits The Top 10 Music Videos on FB Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-started-with-youtube-tv-a-must-read-article/"><u>[Updated] 2024 Approved Getting Started with YouTube TV A Must-Read Article</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-content-makers-conference/"><u>[Updated] 2024 Approved Global Content Makers' Conference</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-galaxy-100plus-spaces-of-play-for-2024/"><u>[Updated] Gamer's Galaxy 100+ Spaces of Play for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-sprint-towards-subscriber-goal-reach-1000/"><u>[Updated] In 2024, Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/firmware-solution-from-asus-tackles-gaming-instabilities-in-newest-intel-cpus-raptor-lake-and-refresh-models-covered/"><u>Firmware Solution From Asus Tackles Gaming Instabilities in Newest Intel CPUs - Raptor Lake & Refresh Models Covered</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-must-know-definition-of-digital-storytelling/"><u>In 2024, Must-Know Definition of Digital Storytelling</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/learn-the-easy-ways-to-turn-your-watching-experience-on-youtube-into-a-screencast-without-money-for-2024/"><u>Learn the Easy Ways to Turn Your Watching Experience on YouTube Into a Screencast Without Money for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pinnacle-creations-synopsis-in-depth-studio-scrutiny/"><u>Pinnacle Creations Synopsis In-Depth Studio Scrutiny</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-rpcrt4dll-is-not-found-windows-error/"><u>Troubleshooting the 'Rpcrt4.dll Is Not Found' Windows Error</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-ultra-short-timelapse-capture-methods-for-2024/"><u>[New] Top Ultra-Short Timelapse Capture Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-sin-costo-de-audio-wav-a-formato-m4a-usando-movavi-en-linea/"><u>Conversión Sin Costo De Audio WAV a Formato M4A Usando Movavi en Línea</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-convertidor-de-mkv-a-formato-aac-sin-coste-conversion-en-vivo/"><u>Descargar Convertidor De MKV a Formato AAC Sin Coste - Conversión en Vivo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-latest-video-stabilizers-in-202email-protected-a-comprehensive-guide-to-both-gratis-and-premium-software-solutions/"><u>Discover the Latest Video Stabilizers in 202([Email Protected])! A Comprehensive Guide to Both Gratis and Premium Software Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-offline-audio-to-text-solutions/"><u>Expert Offline Audio to Text Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-konverteren-van-aiff-naar-m4a-ladder-online-en-meteen/"><u>Gratuit Konverteren Van AIFF Naar M4A-Ladder - Online en Meteen</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-data-deluge-infographics-on-youtubes-intriguing-insights/"><u>In 2024, Data Deluge Infographics on YouTube's Intriguing Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

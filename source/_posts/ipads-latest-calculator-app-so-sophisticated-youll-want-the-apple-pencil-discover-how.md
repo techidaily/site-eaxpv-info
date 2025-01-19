@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2025-01-07T18:13:28.596Z
-updated: 2025-01-13T19:19:43.499Z
+date: 2025-01-17T16:52:40.226Z
+updated: 2025-01-19T21:20:16.471Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,18 +121,22 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-revenue-predictor-tools/"><u>[New] In 2024, Free YouTube Revenue Predictor Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-narratives-before-night-an-analysis-of-storytelling-videos/"><u>[New] In 2024, Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[Updated] 2024 Approved Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[Updated] 2024 Approved From Beginners to Pros Choosing Webcams for YouTube Live</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-setup-a-mac-studio-for-sports-content/"><u>[Updated] In 2024, How to Setup a Mac Studio for Sports Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-symbiotic-relationship-between-cities-and-ecology/"><u>[Updated] In 2024, The Symbiotic Relationship Between Cities and Ecology</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtubes-rapid-rise-top-10-in-a-flash/"><u>2024 Approved Youtube's Rapid Rise Top 10 in a Flash</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-speedster-compact-sandisk-flash-drive-with-lightning-quick-data-transfer-tech-insight/"><u>Affordable Speedster: Compact SanDisk Flash Drive with Lightning Quick Data Transfer | Tech Insight</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compact-and-portable-model-0-the-flamingo-pc-case-with-folding-design-for-mini-itx-systems/"><u>Compact & Portable Model 0: The Flamingo PC Case with Folding Design for Mini-ITX Systems</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/dynamic-interactions-key-to-enhancing-page-visibility/"><u>Dynamic Interactions Key to Enhancing Page Visibility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-entertainment-6-amazing-no-cost-movies-websites-for-kids/"><u>Unlock Entertainment: 6 Amazing No-Cost Movies Websites for Kids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-periscopes-mystique-is-it-free-and-how-to-signup-for-2024/"><u>Unraveling Periscope's Mystique Is It Free and How to Signup for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-7-hd-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 7 HD Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-gear-helmet-cams-the-most-trusted-choice-riders/"><u>[New] 2024 Approved Top Gear Helmet Cams - The Most Trusted Choice Riders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapt-chatgpt-for-personal-writing-imitation-expert-strategies-revealed/"><u>Adapt ChatGPT for Personal Writing Imitation: Expert Strategies Revealed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-12-mini-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/creative-ways-to-combine-your-mp4-files-seamlessly/"><u>Creative Ways to Combine Your MP4 Files Seamlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-effektivsten-wege-zum-kopieren-von-dvds-auf-die-festplatte-eine-schritt-fur-schritt-anleitung/"><u>Die Effektivsten Wege Zum Kopieren Von DVDs Auf Die Festplatte: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-film-and-disc-transformation-the-expertise-of-digiarty-software/"><u>Effortless Film & Disc Transformation: The Expertise of Digiarty Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-clock-watchdog-timeout-blue-screen-error-on-windows-11/"><u>Fixing the Clock Watchdog Timeout Blue Screen Error on Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-leading-linux-editors-top-8-video-cutters/"><u>In 2024, Leading Linux Editors Top 8 Video Cutters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-mastering-facebooks-live-features-for-optimal-performance/"><u>In 2024, Mastering Facebook's Live Features for Optimal Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-converting-your-vhs-collection-into-dvds-using-a-personal-computer/"><u>Step-by-Step Guide: Converting Your VHS Collection Into DVDs Using a Personal Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/testing-apples-push-can-your-old-iphone-really-make-do-insights-from-an-experiment/"><u>Testing Apple's Push: Can Your Old iPhone Really Make Do? Insights From an Experiment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-leading-point-of-sale-software-for-modern-businesses-not-gpt/"><u>The Leading Point-of-Sale Software for Modern Businesses, Not GPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformation-facile-de-videos-mkv-vers-mp4-preservation-exacte-de-la-qualite-et-vitesse-acceleree/"><u>Transformation Facile De Vidéos MKV Vers MP4: Préservation Exacte De La Qualité Et Vitesse Accélérée</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-11-dvd/"><u>Windows 11に最適化 - DVD コンプレッション用高画質ソフトウェアとその使い方</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-film-assistant-ultimate-free-edition-secure-and-instant-software-downloads-for-dvd-ripping-and-hd-video-transcoding/"><u>WinX Film Assistant Ultimate Free Edition – Secure & Instant Software Downloads for DVD Ripping and HD Video Transcoding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-aiwav/"><u>Winxvideo AIを使用したWAV ファイルコンバートガイド:専門的な方法</u></a></li>
 </ul></div>
 

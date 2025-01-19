@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Disregarding Harmful YouTube Comments"
-date: 2024-08-20T13:28:00.375Z
-updated: 2024-08-21T13:28:00.375Z
+date: 2025-01-15T22:53:27.014Z
+updated: 2025-01-19T16:07:05.489Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -58,18 +56,17 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -78,5 +75,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools/"><u>[New] In 2024, Easy Path From Spotify to YouTube Discover the Best Playlist Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-stress-relieving-games-for-2024/"><u>[Updated] Top 10 Stress Relieving Games for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elden-ring-update-understanding-the-games-new-release-timeline/"><u>Elden Ring Update: Understanding the Game's New Release Timeline</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s17-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S17 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-motorola-moto-g14-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Motorola Moto G14 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-itel-p55-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Itel P55</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/no-cost-hevc-encoder-unlock-stunning-4k-and-eby-8k-video-viewing-experience-with-a-free-download/"><u>No Cost HEVC Encoder: Unlock Stunning 4K & Eby 8K Video Viewing Experience with a Free Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/optimize-your-browser-experience-exploring-pip-features-in-microsoft-edge-for-2024/"><u>Optimize Your Browser Experience Exploring PIP Features in Microsoft Edge for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-effective-setting-up-powershell-script-policies-right/"><u>Secure, Effective: Setting Up PowerShell Script Policies Right</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/sing-your-favorites-on-every-occasion-join-the-party-tyme-247-hits-channel-dj-karaoke-subscription-pcdj-since-april-10th-2018/"><u>Sing Your Favorites on Every Occasion – Join the Party Tyme 24/7 Hits Channel, DJ Karaoke Subscription | PCDJ, Since April 10Th, 2018</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-ai-video-enhancement-software-tools-you-cant-miss/"><u>Top 6 AI Video Enhancement Software Tools You Can't Miss</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-cutting-down-video-size-by-90-while-keeping-quality-at-90/"><u>Ultimate Guide: Cutting Down Video Size by 90% While Keeping Quality at 90%</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-list-of-top-ranking-free-ai-tools-for-restoring-vintage-images/"><u>Ultimate List of Top-Ranking Free AI Tools for Restoring Vintage Images</u></a></li>
+</ul></div>
 

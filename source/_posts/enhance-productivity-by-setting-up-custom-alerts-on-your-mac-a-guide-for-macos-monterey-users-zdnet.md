@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2025-01-08T18:54:55.055Z
-updated: 2025-01-13T16:32:38.943Z
+date: 2025-01-16T17:04:25.057Z
+updated: 2025-01-19T22:12:34.657Z
 tags:
   - apple
 categories:
@@ -26,18 +26,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Create a custom Focus
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Create a custom Focus
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,10 +48,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -81,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,20 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-see-your-subscribers-on-youtube/"><u>[New] 2024 Approved How to See Your Subscribers on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-exploring-m1s-potential-in-streamlining-editing-tasks/"><u>[New] Exploring M1’s Potential in Streamlining Editing Tasks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-getting-acquainted-with-youtube-tvs-distinctive-features/"><u>[New] In 2024, Getting Acquainted with YouTube TV's Distinctive Features</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-lost-your-tiktok-progress-refresh-reversed-for-2024/"><u>[New] Lost Your TikTok Progress? Refresh Reversed for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-photo-mosaics-unveiled-a-journey-to-brighter-spaces-for-2024/"><u>[New] Photo Mosaics Unveiled A Journey to Brighter Spaces for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-content-creator-to-earnings-expert-on-youtube/"><u>[Updated] 2024 Approved From Content Creator to Earnings Expert on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-build-successful-youtube-advertisements-for-free-in-2024/"><u>[Updated] How to Build Successful YouTube Advertisements for Free, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-and-share-the-world-in-high-definition-with-mi-11s-screenshot-capabilities/"><u>[Updated] In 2024, Capture and Share the World in High Definition with Mi 11'S Screenshot Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-yourself-from-video-edges-on-youtube/"><u>[Updated] In 2024, Free Yourself From Video Edges on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[Updated] In 2024, From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-find-a-niche-market-on-youtube/"><u>[Updated] In 2024, How to Find A Niche Market on YouTube</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leading-the-charge-in-sustainable-filmmaking/"><u>In 2024, Leading the Charge in Sustainable Filmmaking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-firewall-and-network-settings-visibility/"><u>Navigating Windows Firewall & Network Settings Visibility</u></a></li>
-<li><a href="https://win-able.techidaily.com/superior-iphone-video-editor-ultimate-pro-convert-any-video-format-effortlessly/"><u>Superior iPhone Video Editor Ultimate Pro - Convert Any Video Format Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-playflixapp-user-feedback-synopsis-for-2024/"><u>[New] PlayFlixApp User Feedback Synopsis for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>[Updated] In 2024, Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovative-recording-methods-windows-10-guide/"><u>[Updated] Innovative Recording Methods Windows 10 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-shutdown-interval-for-executing-jobstasks/"><u>Adjusting Windows 11 Shutdown Interval for Executing Jobs/Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-boost-your-sites-performance-and-analytics/"><u>Cookiebot-Enabled: Boost Your Site's Performance and Analytics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-audio-verification-mastering-the-art-of-rapid-microphone-tests/"><u>Effortless Audio Verification: Mastering the Art of Rapid Microphone Tests</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-xs-max-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone XS Max Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-vision-ai-photography-workshop/"><u>In 2024, Ultimate Vision AI Photography Workshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-zoom-features-for-improved-tiktok-videos/"><u>Leveraging Zoom Features for Improved TikTok Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-pro-master-the-art-of-broadcasting-with-manycam-and-virtual-webcams/"><u>Live Streaming Pro: Master the Art of Broadcasting with ManyCam and Virtual Webcams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-your-online-presence-using-manycams-powerful-live-webcam-software-solutions/"><u>Master Your Online Presence Using ManyCam's Powerful Live Webcam Software Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/overcoming-the-activation-threshold-on-manycam-tips-for-unlimited-access-and-enhanced-performance/"><u>Overcoming the Activation Threshold on ManyCam: Tips for Unlimited Access & Enhanced Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-broadcasting-mastery-discover-the-power-of-manycam-live-streaming-and-virtual-camera-integration/"><u>Real-Time Broadcasting Mastery: Discover the Power of ManyCam Live Streaming and Virtual Camera Integration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-streaming-with-manycam-professional-live-video-production-and-virtual-camera-solutions/"><u>Real-Time Streaming with ManyCam: Professional Live Video Production and Virtual Camera Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-streaming-discover-manycam-the-ultimate-virtual-camera-solution/"><u>Real-Time Streaming: Discover ManyCam - The Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-your-broadcasts-with-manycam-advanced-live-video-software-and-virtually-flawless-webcams/"><u>Transform Your Broadcasts with ManyCam: Advanced Live Video Software and Virtually Flawless Webcams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-manycam-and-top-live-streaming-solutions-with-integrated-virtual-webcams/"><u>Ultimate Guide: ManyCam & Top Live Streaming Solutions with Integrated Virtual Webcams</u></a></li>
 </ul></div>
 

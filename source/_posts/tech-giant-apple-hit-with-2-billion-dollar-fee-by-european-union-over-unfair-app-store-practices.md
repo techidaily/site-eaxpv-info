@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2025-01-09T17:38:22.068Z
-updated: 2025-01-13T18:20:15.897Z
+date: 2025-01-15T18:54:42.998Z
+updated: 2025-01-19T16:46:43.369Z
 tags:
   - apple
 categories:
@@ -25,20 +25,20 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to swap faces on your Apple Watch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
 
 If you're still running watchOS 9 or earlier, the older method of switching watch faces is still the norm. Just swipe left or right. If you already updated to watchOS 10 to gain all the latest features, such as new watch faces, fitness routines, and Health app tools, then the newer method is in effect.
 
 screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
 
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update to watchOS 10.2
@@ -69,7 +69,7 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
@@ -81,7 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -120,24 +120,21 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[New] 2024 Approved Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-bland-to-brilliant-transform-your-youtube-channels-image-for-2024/"><u>[New] From Bland to Brilliant Transform Your YouTube Channels' Image for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[New] In 2024, How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-10-best-intro-maker-apps-for-iphone-and-android/"><u>[Updated] 2024 Approved FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[Updated] 2024 Approved From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-beyond-the-basics-streamlabs-competitors-analyzed/"><u>[Updated] Beyond the Basics Streamlabs Competitors Analyzed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[Updated] Hitting High Notes Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[Updated] In 2024, From Fringe to Mainstream Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[Updated] In 2024, How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[Updated] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-video-quality-at-your-fingertips-ois-powered-choices/"><u>[Updated] Professional Video Quality at Your Fingertips OIS-Powered Choices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1149-off-shop-the-newly-discounted-m3-macbook-air-laptop-16gb-memory-and-13-inch-screen/"><u>$1,149 OFF! Shop the Newly Discounted M3 MacBook Air Laptop - 16GB Memory & 13-Inch Screen</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/deskrec-per-pc-impara-come-registrare-facilmente-il-tuo-schermo-con-movavi/"><u>Deskrec per PC: Impara Come Registrare Facilmente Il Tuo Schermo Con Movavi!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c65-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C65 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/imaginarium-collagecraft-cutting-edge-assembler/"><u>Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-class-engagement-with-visual-media-usage/"><u>In 2024, Optimizing Class Engagement with Visual Media Usage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-mobile-apps-for-slow-motion-video-iosandroid-for-2024/"><u>Premium Mobile Apps for Slow Motion Video iOS/Android for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-art-of-video-filming-across-various-computing-platforms/"><u>The Art of Video Filming Across Various Computing Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-bluetooth-mouse-not-working-on-windows/"><u>[FIXED] Bluetooth Mouse Not Working on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[New] In 2024, Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/in-and-mac-mp3-converter-unlock-your-music-from-youtube/"><u>[New] Win & Mac MP3 Converter Unlock Your Music From YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization-for-2024/"><u>[Updated] Maximizing YouTube Gains A Comprehensive Approach for Mobile Monetization for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converting-mp2-files-to-free-flac-format-online-effortless-with-movavi/"><u>Converting MP2 Files to Free Flac Format Online - Effortless with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dng-web-movavi/"><u>DNG 이미지를 비용 없이 Web에서 변환: Movavi 사용</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/flac-put-aac-movavi/"><u>FLAC 아웃PUT, AAC로 맞추기: Movavi의 원격 모드 정교하고 무료 오디오/이미지 변환 기능</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-mp4mpeg-4-a-partir-de-fichier-vob-solution-en-ligne-avec-movavi/"><u>Gratuit MP4/MPEG-4 À Partir De Fichier VOB : Solution en Ligne Avec Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-12-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-play-7t-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Play 7T?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-gratis-online-dts-aac-konvertierung-fur-multimedia-dateien/"><u>Movavi - Gratis Online DTS AAC Konvertierung Für Multimedia-Dateien</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/turn-wma-audiovideo-into-mp4-hands-free-editing-with-movavis-powerful-tools/"><u>Turn WMA Audio/Video Into MP4 - Hands-Free Editing with Movavi's Powerful Tools!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vrije-converteer-tool-voor-gif-naar-asterisk-3p-online-weg-met-movavi/"><u>Vrije Converteer-Tool Voor GIF Naar Asterisk 3P: Online-Weg Met Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo Find N3? | Dr.fone</u></a></li>
 </ul></div>
 

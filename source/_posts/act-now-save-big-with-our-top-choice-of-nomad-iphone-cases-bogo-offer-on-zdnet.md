@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2025-01-06T19:19:49.249Z
-updated: 2025-01-13T17:11:59.262Z
+date: 2025-01-15T19:56:11.047Z
+updated: 2025-01-19T17:28:17.685Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,16 +124,16 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-casino-contestant-commentary/"><u>[New] 2024 Approved CASINO CONTESTANT COMMENTARY</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-differences-between-igtv-and-youtube-for-effective-posts/"><u>[New] 2024 Approved Exploring Differences Between IGTV and YouTube for Effective Posts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[New] 2024 Approved From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-formulating-an-easy-to-use-youtube-subscriber-link-for-2024/"><u>[New] Formulating an Easy-to-Use YouTube Subscriber Link for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coloredge-clarity-redefined-examining-eizos-4kcg318-display/"><u>[Updated] 2024 Approved ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[Updated] 2024 Approved From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans-for-2024/"><u>[Updated] From Passive to Active Earnings Unlocking Youtube with 500+ Fans for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[Updated] In 2024, From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-microsoft-drivers-made-simple-for-windows-users-windows-1087/"><u>Download & Update Microsoft Drivers Made Simple for Windows Users (Windows 10/8/7)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/effortless-time-lapse-videos-with-samsung-tech/"><u>Effortless Time-Lapse Videos with Samsung Tech</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/silver-winners-prime-dvd-software-for-sierra-os-for-2024/"><u>Silver Winners Prime Dvd Software for Sierra OS for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-guide-becoming-a-reel-star-on-instagram/"><u>[New] 2024 Approved Step-by-Step Guide Becoming a Reel Star on Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-the-yuneec-typhoon-h-expert-drone-review-for-2024/"><u>[New] Exploring the Yuneec Typhoon H Expert Drone Review for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-archive-hunt-accessing-yesteryears-facebook-stories-for-2024/"><u>[Updated] Archive Hunt Accessing Yesteryear's Facebook Stories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/accelerer-lencodage-hevch265-astuces-pour-ameliorer-la-vitesse/"><u>Accélérer L'encodage HEVC/H.265 : Astuces Pour Améliorer La Vitesse</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-ideal-apple-laptop-comparing-the-latest-m3-vs-m2-macbook-air-a-comprehensive-guide/"><u>Choosing Your Ideal Apple Laptop: Comparing the Latest M3 Vs. M2 MacBook Air - A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/diastolic-dysfunction-can-occur-with-a-preserved-ejection-fraction-which-is-why-its-associated-with-hfpef-heart-failure-with-preserved-ejection-fraction/"><u>Diastolic Dysfunction Can Occur with a Preserved Ejection Fraction, Which Is Why It's Associated with HFpEF (Heart Failure with Preserved Ejection Fraction).</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-conversion-from-hevc-x265-to-mov-files-guide/"><u>Seamless Conversion From HEVC X.265 To MOV Files - Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/virtual-spaces-for-real-solutions/"><u>Virtual Spaces for Real Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287573027-winxvideo-ai/"><u>WinXVideo AI 기술 패턴 분석 - 시장 가장칼라</u></a></li>
 </ul></div>
 

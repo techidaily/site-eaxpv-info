@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? Analysis"
-date: 2025-01-10T18:17:27.204Z
-updated: 2025-01-13T16:25:46.540Z
+date: 2025-01-14T19:36:18.465Z
+updated: 2025-01-19T17:34:20.119Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -48,10 +52,6 @@ Cons
 
 ## iPhone 12 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Jason Cipriani and Simon Bisson
 
 **Jason Cipriani:** I've almost always used an iPhone as my daily driver, but the iPhone 12 lineup has solidified it for me. The camera with improved portrait mode thanks to the Lidar sensor and HDR video is truly impressive. And MagSafe, which I thought was a gimmick, has turned into a very useful feature for me. Between the Shortcuts app and HomeKit devices around the house, there's not much I can't do from my phone. 
@@ -73,6 +73,10 @@ Pros
 
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy S21 Ultra
 
@@ -98,11 +102,11 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro Max
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -113,10 +117,6 @@ Cons
 Show Expert Take Show less 
 
 ## iPhone SE (2020)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -165,7 +165,7 @@ Cons
 ## iPhone 11 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ed Bott
@@ -177,6 +177,10 @@ Cons
 Show Expert Take Show less 
 
 ## Ulefone Armor 9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
 
@@ -191,10 +195,6 @@ Pros
 
 Cons 
 * Strong battery life Good performance More affordable
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google Pixel 2
 
@@ -211,10 +211,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Huawei P20 Pro
 
@@ -254,19 +250,23 @@ Cons
 
 Show Expert Take Show less 
 
-###   
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###   
 
+###   
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone X
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Robin Harris
 
@@ -285,7 +285,7 @@ Cons
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone XS Max
@@ -320,10 +320,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lumia 1520
 
 ### Mary Branscombe
@@ -333,6 +329,10 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 **Next phone or dream phone?** An Arm-based Windows 10 phone with integrated Skype in a phablet form factor with 5G; while I hope that a project like Empirion can succeed, I'm not banking on it. But surely we need a third OS to balance Android and iOS as the government investigations continue?
 
 Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
 
@@ -376,24 +376,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-letter-not-working-on-keyboard-win-1011/"><u>[FIXED] Letter Not Working On Keyboard Win 10/11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-broadcast-strategies-share-twitch-videos-on-fb/"><u>[New] Broadcast Strategies Share Twitch Videos on FB</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-gopro-hero5-premium-showdown-black-edition/"><u>[New] GoPro Hero5 Premium Showdown Black Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-earning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>[New] In 2024, Earning Strategies with Youtube's AdSense Payout per K Viewers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-integrating-youtube-tracks-into-imovie-projects-easily/"><u>[New] Integrating YouTube Tracks Into iMovie Projects Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-mastering-youtube-traffic-for-new-content-creators/"><u>[New] Mastering YouTube Traffic for New Content Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-watchlist-experience-with-youtubes-av1-settings-for-2024/"><u>[Updated] Elevate Your Watchlist Experience with YouTube's AV1 Settings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-detailed-guidance-on-crafting-dynamic-yt-profiles/"><u>[Updated] In 2024, Detailed Guidance on Crafting Dynamic YT Profiles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-discovering-income-monetization-through-youtube-sponsored-videos/"><u>[Updated] In 2024, Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[Updated] In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-much-can-you-earn-on-youtube-via-ad-revenue/"><u>[Updated] In 2024, How Much Can You Earn on YouTube via Ad Revenue?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-live-techniques-lowering-volume-gradually/"><u>[Updated] Live Techniques Lowering Volume Gradually</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-policies-versus-creative-commons-a-comparative-study/"><u>[Updated] Youtube Policies Versus Creative Commons A Comparative Study</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/formulating-fascinating-film-moments-for-2024/"><u>Formulating Fascinating Film Moments for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/free-web-based-converter-transform-opus-to-wma-using-moveai/"><u>Free Web-Based Converter: Transform Opus to WMA Using Move.ai</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-vip-racing-edition-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 VIP Racing Edition Phone Screen?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-into-the-world-of-precise-editing-tiktok-number-modification/"><u>In 2024, Step Into the World of Precise Editing TikTok Number Modification</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/newbies-navigation-to-net-worth-on-periscope-for-2024/"><u>Newbie's Navigation to Net Worth on Periscope for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-camon-20-premier-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Camon 20 Premier 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-campaigns-selecting-the-best-7-total-war-victories-for-2024/"><u>[New] Ultimate Campaigns Selecting the Best 7 Total War Victories for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elevating-video-quality-incorporating-bb-and-lc-elements-in-fb/"><u>[Updated] Elevating Video Quality Incorporating BB and LC Elements in FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-highlighting-the-leading-10-shadowy-story-viewers/"><u>[Updated] In 2024, Highlighting the Leading 10 Shadowy Story Viewers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-finding-your-digital-filming-suite-on-youtube-for-2024/"><u>[Updated] Step-by-Step Finding Your Digital Filming Suite on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-content-strategies-to-climb-youtube-ranks/"><u>2024 Approved Elevate Your Content Strategies to Climb YouTube Ranks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-files-at-no-cost-quickly-change-rmvb-to-m4v-using-movavis-online-tool/"><u>Convert Your Files at No Cost - Quickly Change RMVB to M4V Using Movavi's Online Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/creazione-di-uno-studio-cinematografico-stop-motion-il-tuo-percorso-dettagliato-passo-dopo-passo-movavi/"><u>Creazione Di Uno Studio Cinematografico Stop Motion: Il Tuo Percorso Dettagliato Passo Dopo Passo - Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-xps-13-7390-2-in-1-review/"><u>Dell XPS 13 7390 2-in-1 Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/est-ce-que-capter-une-conversation-implique-des-risques-legaux-si-on-na-pas-la-consentement/"><u>Est-Ce Que Capter Une Conversation Implique Des Risques Légaux Si On N'A Pas La Consentement?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-amv-to-mp3-converter-by-movavi/"><u>Free Online AMV to MP3 Converter by Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-gratuitamente-musica-wav-a-mpeg-usando-servicios-en-linea-soluciones-recomendadas/"><u>Guía Paso a Paso Para Convertir Gratuitamente Música WAV a MPEG Usando Servicios en Línea: Soluciones Recomendadas</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-screen-with-vidmore-screen-recorder-for-2024/"><u>How to Record Screen with Vidmore Screen Recorder for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-following-fades-track-losses-on-insta/"><u>In 2024, Following Fades Track Losses on Insta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/konvertereen-m4v-naar-mpeg-vrij-bekijkbaar-en-kostenloos-movavi/"><u>Konvertereen M4V Naar MPEG Vrij Bekijkbaar en Kostenloos - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4vwav-movavi/"><u>M4VとWAVファイルを無料で簡単に変換 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-prodotto-mov-da-file-mp4mpeg-4-gratuito-e-online-trasformazione-facile/"><u>Movavi Prodotto MOV Da File MP4/MPEG-4 Gratuito E Online: Trasformazione Facile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-eliminate-stuck-images-and-prevent-burn-in-effects/"><u>Step-by-Step Solutions: Eliminate Stuck Images & Prevent Burn-In Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-png-in-formato-bmp-senza-costi-con-la-guida-di-conversione-online-facile-movavi/"><u>Trasforma File PNG in Formato BMP Senza Costi Con La Guida Di Conversione Online Facile – Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-htc-u23-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On HTC U23? | Dr.fone</u></a></li>
 </ul></div>
 

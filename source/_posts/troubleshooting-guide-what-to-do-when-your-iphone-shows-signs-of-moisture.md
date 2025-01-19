@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: What to Do When Your iPhone Shows Signs of Moisture?"
-date: 2025-01-07T19:36:19.415Z
-updated: 2025-01-13T16:27:00.468Z
+date: 2025-01-16T18:37:28.194Z
+updated: 2025-01-19T16:21:46.613Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,21 +109,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[New] 2024 Approved Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-wipe-out-your-youtube-buffered-videos/"><u>[New] 2024 Approved How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels-for-2024/"><u>[New] Focus on the Essentials The Compreenas for Removing Youtube Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-tape-to-broadcast-ready-using-studio-editor-for-2024/"><u>[New] From Raw Tape to Broadcast-Ready Using Studio Editor for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[New] In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[New] In 2024, Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-successful-videos-on-youtube-for-beginners-for-2024/"><u>[Updated] Crafting Successful Videos on YouTube for Beginners for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-revenue-predictor-tools-for-2024/"><u>[Updated] Free YouTube Revenue Predictor Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-focused-gaming-recordings-software/"><u>[Updated] In 2024, Focused Gaming Recordings Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-8-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 8 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-parents-primer-on-generative-technology/"><u>A Parent’s Primer on Generative Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/download-episodes-from-tvplayer-securely-on-your-desktop-mac-and-windows-steps/"><u>Download Episodes From TVPlayer Securely on Your Desktop - Mac & Windows Steps</u></a></li>
-<li><a href="https://win-updates.techidaily.com/overcoming-installation-issues-uninstalling-stubborn-onedrive-on-your-pc-running-windows-10-solution-guide/"><u>Overcoming Installation Issues: Uninstalling Stubborn OneDrive on Your PC Running Windows 10 (Solution Guide)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/racing-cameras-clash-is-black-hero-4-or-ghost-s-better-for-2024/"><u>Racing Cameras Clash Is Black Hero 4 or Ghost-S Better for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-unblock-access-of-closed-email-folders/"><u>Step-by-Step Guide to Unblock Access of Closed Email Folders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/timing-talk-how-chatgpt-4-measures-up-to-35/"><u>Timing Talk: How ChatGPT-4 Measures Up to 3.5</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-leading-websites-for-free-game-of-thrones-ringtones/"><u>[New] 2024 Approved Leading Websites for Free Game of Thrones Ringtones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dslr-or-mirrorless-for-high-quality-video-recording-in-2024/"><u>[New] DSLR or Mirrorless for High-Quality Video Recording, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastering-zooms-video-enhancements-filter-techniques/"><u>[New] In 2024, Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023/"><u>[New] In 2024, The Ultimate Entry Editor for Diverse Tech Landscape of 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/compreendendo-o-formato-de-video-m4v-e-tecnicas-para-abertura-do-mp4/"><u>Compreendendo O Formato De Vídeo M4V E Técnicas Para Abertura Do MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-des-fichiers-avi-avec-la-meilleure-solution-de-conversion-video-movavi/"><u>Conversion Gratuite Des Fichiers AVI Avec La Meilleure Solution De Conversion Vidéo: Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customizing-chatgpt-techniques-for-developing-personalized-ai-conversations/"><u>Customizing ChatGPT: Techniques for Developing Personalized AI Conversations</u></a></li>
+<li><a href="https://article-files.techidaily.com/glacial-glory-pinnacle-sports-achievements/"><u>Glacial Glory Pinnacle Sports Achievements</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-refresh-or-replace-your-present-graphic-processor-tips-from-yl-software-experts/"><u>How to Refresh or Replace Your Present Graphic Processor - Tips From YL Software Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/sucasny-prekonanie-videokonvertovanie-do-formatu-mp3-behem-a-prstoustopnymi-zrucnostmi/"><u>Súčasný Prekonanie Vídeokonvertovanie Do Formátu MP3 Behém a Prstoustopnými Zručnosťmi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-14-fabricantes-de-gifs-ultimo-programa-de-edicion-para-crear-animaciones-perfectas/"><u>Top 14 Fabricantes De GIFs: Último Programa De Edición Para Crear Animaciones Perfectas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-wav-en-video-mp4-facilement-et-sans-frais-avec-movavi/"><u>Transformez Votre Fichier WAV en Vidéo MP4 Facilement Et Sans Frais - Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-file-mp2-in-wav-liberamente-su-internet-con-convertitore-di-movavi/"><u>Trasforma I File MP2 in WAV Liberamente Su Internet Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sh-creativity-exclusive-free-youtube-banner-templates-for-2024/"><u>Unleash Creativity - Exclusive Free YouTube Banner Templates for 2024</u></a></li>
 </ul></div>
 

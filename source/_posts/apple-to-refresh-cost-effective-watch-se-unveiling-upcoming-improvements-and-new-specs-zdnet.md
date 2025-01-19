@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2025-01-09T16:40:58.953Z
-updated: 2025-01-13T17:09:17.036Z
+date: 2025-01-18T20:44:20.084Z
+updated: 2025-01-19T19:46:16.775Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Writing tools
@@ -45,7 +45,7 @@ Jason Hiner/ZDNET
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Photo features
@@ -72,6 +72,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Mail assistance
 
 To help you get through your emails, Apple Intelligence will [try to understand their content](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) and identify those that are time-sensitive. Any emails that fit the criteria will be treated as priority messages. Instead of just previewing the first few lines of an email, AI will summarize the key details. 
@@ -79,6 +83,10 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -94,14 +102,10 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What will come later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image playground
@@ -115,10 +119,6 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -158,24 +158,24 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-pushing-boundaries-in-youtube-cinematography-for-2024/"><u>[New] Cutting Edge Techniques Pushing Boundaries in YouTube Cinematography for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-ajeys-youtube-earnings-insight-2023/"><u>[New] In 2024, Ajey's YouTube Earnings Insight - 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-knowledge-currents-best-yt-for-academic-growth/"><u>[New] Knowledge Currents Best YT for Academic Growth</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-mastering-mobile-asmr-must-have-apps/"><u>[New] Mastering Mobile ASMR Must-Have Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-strategic-steps-to-elevate-your-podcast-imagery/"><u>[New] Strategic Steps to Elevate Your Podcast Imagery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-popularity-myths-the-real-truth-about-instagram-reels/"><u>[New] Unraveling Popularity Myths The Real Truth About Instagram Reels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>[Updated] 2024 Approved Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-video-promo-tips-for-startups-infographic/"><u>[Updated] 2024 Approved Essential Video Promo Tips for Startups (Infographic)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>[Updated] 2024 Approved Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-video-gamings-top-10-capture-card-recommendations/"><u>[Updated] Video Gaming's Top 10 Capture Card Recommendations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>2024 Approved Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-by-drfone-ios/"><u>How to Unlock iPhone XR?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-poco-x6-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Poco X6 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/microsoft-teams-not-responding-determining-the-root-cause-of-your-connectivity-woes/"><u>Microsoft Teams Not Responding? Determining the Root Cause of Your Connectivity Woes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-and-perfection-applying-luts-in-video-post-production-for-2024/"><u>Precision and Perfection Applying LUTs in Video Post-Production for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/premier-selector-exclusive-app-selection-for-your-videos-for-2024/"><u>Premier Selector Exclusive App Selection for Your Videos for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-90-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor 90 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Tips - Restoring Functionality to Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-video-content-creation-evolution-choosing-studio-over-beta/"><u>[New] 2024 Approved Video Content Creation Evolution Choosing Studio Over Beta</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instavoice-top-100-captions-that-define-your-personal-narrative/"><u>[New] InstaVoice Top 100 Captions That Define Your Personal Narrative</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-speed-skaters-showcase-at-the-olympics-2022-edition/"><u>[New] Speed Skaters' Showcase at the Olympics, 2022 Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transforming-flat-text-into-sculptable-3d-characters/"><u>[New] Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/202n4-hivatalos-convert-imovie-filmek-windows-videokonyveszetossegbe-szepsugo/"><u>202N4 HIVATALOS: Convert iMovie Filmek Window's Videokönyveszetösségbe - Szépsugó</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparacoes-diretas-entre-intel-i5-e-intel-i7-para-jogos-qual-e-a-escolha-certa/"><u>Comparações Diretas Entre Intel I5 E Intel I7 Para Jogos – Qual É a Escolha Certa?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/delving-into-the-world-of-mixed-reality-technology/"><u>Delving Into the World of Mixed Reality Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/filtro-online-e-sem-custo-converter-audio-wav-em-formatos-flac-com-o-movavi/"><u>Filtro Online E Sem Custo: Converter Áudio WAV Em Formatos FLAC Com O Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converter-de-arquivos-caf-para-mp4-com-o-software-de-edicao-de-video-da-movavi/"><u>Gratis Online Converter De Arquivos CAF Para MP4 Com O Software De Edição De Vídeo Da Movavi</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revealed-top-windows-11-gems-that-could-boost-your-user-performance/"><u>In 2024, Revealed Top Windows 11 Gems That Could Boost Your User Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>In 2024, Slick Shots From Yesteryear Mastering VHS Hacks in Modern Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mp4-en-naar-mpeg-bewerkt-veranderen-voor-gratis-expertiseverlend-movavi/"><u>Online MP4-En Naar MPEG Bewerkt Veranderen Voor Gratis - Expertiseverlend Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/passos-eficientes-para-recuperar-fotografias-distorcidas-ou-embacadas/"><u>Passos Eficientes Para Recuperar Fotografias Distorcidas Ou Embaçadas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-m4a-to-wav-file-conversion-get-started-with-movavis-free-service-now/"><u>Quick and Easy M4A to WAV File Conversion - Get Started With Movavi's Free Service Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-remote-working-with-ipad-pro-a-comprehensive-guide-to-building-an-efficient-home-office-experts/"><u>Revolutionize Remote Working with iPad Pro: A Comprehensive Guide to Building an Efficient Home Office Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sleek-60-second-fades/"><u>Sleek 60-Second Fades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trier-gratuitement-un-fichier-mxf-au-format-gif-en-ligne-guide-de-convertisseurs-movavi/"><u>Trier Gratuitement Un Fichier MXF Au Format GIF en Ligne : Guide De Convertisseurs - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726223161773-wmaaac-movavi/"><u>WMA/AAC 오픈 소스에서 무료 변환: Movavi의 속삭임</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/x230-thinkpad-speedy-driver-download-and-setup-for-peak-performance/"><u>X230 ThinkPad - Speedy Driver Download & Setup for Peak Performance</u></a></li>
 </ul></div>
 

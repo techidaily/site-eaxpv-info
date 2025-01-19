@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back"
-date: 2025-01-12T16:09:53.697Z
-updated: 2025-01-13T17:50:44.973Z
+date: 2025-01-17T16:07:07.711Z
+updated: 2025-01-19T19:25:56.787Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed/"><u>[New] In 2024, From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-smiles-snorts-and-sighs-top-10-ig-meme-communities-of-the-decade/"><u>[New] In 2024, Smiles, Snorts & Sighs Top 10 IG Meme Communities of the Decade</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-practical-steps-in-mastering-telegram-web-services-for-2024/"><u>[New] Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-supercharge-your-media-download-sounds-for-editing/"><u>[New] Supercharge Your Media Download Sounds for Editing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhancing-engagement-essential-video-formats-for-youtube-viewers/"><u>[Updated] 2024 Approved Enhancing Engagement Essential Video Formats for YouTube Viewers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-expert-tips-for-fixing-non-displaying-shorts-thumbnails-for-2024/"><u>[Updated] Expert Tips for Fixing Non-Displaying Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhancing-video-appeal-mac-thumbnails-tutorial/"><u>[Updated] In 2024, Enhancing Video Appeal Mac Thumbnails Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-ten-lady-gamers-on-youtube-rising/"><u>[Updated] Top Ten Lady Gamers on YouTube Rising</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-updated-discussion-treasures-for-listener-retention-for-2024/"><u>[Updated] Updated Discussion Treasures for Listener Retention for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-realiser-une-image-de-reprise-pour-windows-11-deux-methodes-simples/"><u>Comment Réaliser Une Image De Reprise Pour Windows 11 : Deux Méthodes Simples</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-vn-video-editor-review-the-good-the-bad-and-the-ugly/"><u>In 2024, VN Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-put-an-end-to-non-stop-rebooting-on-your-windows-11-pc-today/"><u>Mastering the Fix: Put an End to Non-Stop Rebooting on Your Windows 11 PC Today!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-no-expense-high-quality-topping-chromebook-screen-capture-apps/"><u>[New] No Expense, High Quality – Topping Chromebook Screen Capture Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-10-inspirational-hr-journeys-unveiled-for-2024/"><u>[New] Top 10 Inspirational HR Journeys Unveiled for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-nintendo-switch-battle-selection-max-156/"><u>[Updated] 2024 Approved Elite Nintendo Switch Battle Selection (Max 156)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-arcade-avenue-a-million-paths-in-play-for-2024/"><u>[Updated] Arcade Avenue A Million Paths in Play for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-solo-streamer-to-global-content-powerhouse/"><u>[Updated] From Solo Streamer to Global Content Powerhouse</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gifgif/"><u>「急速なGIF変換：効果的に動画をGIFに転写する手順」</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-targets-dominant-web-browser-with-alarming-new-ad-campaign-revealed/"><u>Apple Targets Dominant Web Browser with Alarming New Ad Campaign Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apples-new-wave-of-creative-accessories-released-under-the-radar-insights-from-zdnet/"><u>Apple's New Wave of Creative Accessories Released Under the Radar - Insights From ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boost-your-insta-reels-with-tiktok-inspired-hits-and-stats-for-2024/"><u>Boost Your Insta Reels with TikTok-Inspired Hits and Stats for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-the-new-iphone-15-pro-with-the-iphone-13-pro-worth-the-upgrade-cnet-reviews/"><u>Comparing the New iPhone 15 Pro with the iPhone 13 Pro: Worth the Upgrade? | CNET Reviews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-apples-fall-lineup-innovative-ai-infused-upgrades-coming-to-iphone-ipad-and-mac-full-expose/"><u>Discover Apple's Fall Lineup: Innovative AI-Infused Upgrades Coming to iPhone, iPad, and Mac - Full Exposé</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-did-my-climb-up-apples-ladder-begin-insights-and-factors-explored-by-zdnet/"><u>How Did My Climb Up Apple's Ladder Begin? Insights and Factors Explored by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/make-the-most-of-your-workspace-with-dual-displays-on-your-m3-macbook-pro-inspired-by-successful-setups-on-the-m3-macbook-air/"><u>Make The Most Of Your Workspace With Dual Displays on Your M3 MacBook Pro, Inspired By Successful Setups On the M3 MacBook Air</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-smartphone-savings-unbeatable-offers-available-in-march-2024/"><u>Top Smartphone Savings: Unbeatable Offers Available in March 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/upcoming-iphone-16-leak-new-features-include-advanced-spatial-recording-and-slimmer-edges-across-models-insights/"><u>Upcoming iPhone 16 Leak: New Features Include Advanced Spatial Recording & Slimmer Edges Across Models - Insights</u></a></li>
 </ul></div>
 
