@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: IPhone 14 Strikes a Perfect Balance - Just What We Needed"
-date: 2025-01-14T21:53:37.954Z
-updated: 2025-01-19T18:12:18.024Z
+date: 2025-01-19T20:30:11.537Z
+updated: 2025-01-25T20:31:23.576Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,6 +63,10 @@ How and why did I come to those conclusions? Let's dig in.
 | Colors           | Midnight, Starlight, Blue, Purple, Product RED                    |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Familiar design, with one exception
 
@@ -87,7 +91,7 @@ Jason Cipriani/ZDNET
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -111,7 +115,7 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -132,10 +136,6 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -147,7 +147,7 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,24 +186,20 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-leveraging-lut-technology-in-adobe-premiere/"><u>[New] 2024 Approved Leveraging LUT Technology in Adobe Premiere</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-enhance-your-beats-free-luts-galore-on-mini-and-air-series/"><u>[Updated] Enhance Your Beats - Free LUTS Galore on Mini & Air Series</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[Updated] In 2024, A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-uniting-content-streams-tiktoks-journey-to-facebook/"><u>[Updated] In 2024, Uniting Content Streams TikTok's Journey to Facebook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-the-ultimate-list-youtubes-premier-mp3-extractors/"><u>[Updated] Unveiling the Ultimate List YouTube's Premier MP3 Extractors</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tsmovavi/"><u>快適なツールでTSファイル変換：Movaviのお得なオンライン解決策</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726224231934-movmp3-movavi/"><u>線上MOV/MP3轉換工具 - 儘管是免費且迅速的方法 - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aac-to-mpeg-conversion-at-no-cost-using-the-web-based-tool-from-moveavi/"><u>AAC to MPEG Conversion at No Cost: Using the Web-Based Tool From MoveAVI</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-wmv-videos-to-asf-files-quickly-and-effortlessly-no-cost-required/"><u>Convert Your WMV Videos to ASF Files Quickly & Effortlessly, No Cost Required!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-pour-changer-un-fichier-m4a-en-format-m4r-sur-internet-movavi/"><u>Convertisseur Gratuit Pour Changer Un Fichier M4A en Format M4R Sur Internet - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converteer-ape-naar-wma-simpelweg-en-efficient-met-movavi/"><u>Gratis Online Converteer APE Naar WMA: Simpelweg en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-farm-family-fun-pack-the-ultimate-agritainment-guide/"><u>In 2024, Farm Family Fun-Pack The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-narzo-n53-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme Narzo N53 Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-stock-photographs-meme-lives-and-histories/"><u>In 2024, Iconic Stock Photographs Meme Lives and Histories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-premier-tools-for-video-creation-on-android-and-desktop-oses/"><u>In 2024, Premier Tools for Video Creation on Android & Desktop OSes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/liberar-el-audio-de-tu-musica-flac-para-reproducir-en-mp3-gratis-usando-movavi/"><u>Liberar El Audio De Tu Música FLAC Para Reproducir en MP3 Gratis Usando Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/riconverti-file-qt-in-formato-mp4-senza-costi-su-movavi-guida-rapida-e-gratuita/"><u>Riconverti File QT in Formato MP4 Senza Costi Su Movavi - Guida Rapida E Gratuita</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-7-essential-tools-for-transforming-flac-audio-into-mp3-format-on-macos/"><u>Top 7 Essential Tools for Transforming FLAC Audio Into MP3 Format on macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-budget-friendly-stopwatch-service/"><u>[New] Best Budget-Friendly Stopwatch Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-youtube-collaboration-partners-for-2024/"><u>[New] How to Find YouTube Collaboration Partners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-endings-that-wow-ranked-for-you-top-6/"><u>[New] In 2024, Free Endings That Wow - Ranked for You (Top 6)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-webinar-creation-and-management-on-youtube/"><u>[New] In 2024, Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-successfully-integrate-high-definition-videos-on-youtube-platform/"><u>[New] In 2024, How To Successfully Integrate High-Definition Videos on Youtube Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-validate-your-youtube-profile-a-simple-guide/"><u>[New] In 2024, How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-tailoring-youtube-experience-on-the-worlds-largest-social-network/"><u>[New] In 2024, Tailoring YouTube Experience on the World's Largest Social Network</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-audio-tools-crafting-perfect-virtual-performances/"><u>[Updated] 2024 Approved Innovative Audio Tools Crafting Perfect Virtual Performances</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>[Updated] In 2024, How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-your-digital-world/"><u>2024 Approved Capturing Your Digital World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-m1-deciphered-apples-computing-game-changer/"><u>2024 Approved M1 Deciphered Apple's Computing Game-Changer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-k70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi K70 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-a05s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy A05s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mapping-out-your-connections-a-netstat-guide-for-windows-11-users/"><u>Mapping Out Your Connections: A Netstat Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smile-signal-laughter-filled-download-sites-for-2024/"><u>Smile Signal Laughter-Filled Download Sites for 2024</u></a></li>
 </ul></div>
 

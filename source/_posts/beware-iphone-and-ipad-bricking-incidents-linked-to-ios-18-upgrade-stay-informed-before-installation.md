@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2025-01-12T20:31:02.202Z
-updated: 2025-01-19T20:20:44.415Z
+date: 2025-01-21T20:44:32.685Z
+updated: 2025-01-25T21:33:59.062Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -49,10 +53,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -68,10 +68,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,12 +87,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -108,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,18 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/crea-videos-sin-coste-con-la-herramienta-de-edicion-en-linea-de-movavi/"><u>¡Crea Videos Sin Coste Con La Herramienta De Edición en Línea De Movavi!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-chorus-and-bass-macs-sound-control/"><u>[New] In 2024, Chorus & Bass Mac's Sound Control</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-save-movs-on-windows-10-for-2024/"><u>[New] Step-by-Step Save MOVs on Windows 10 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-glassify-privacy-webcam-panel/"><u>[Updated] Glassify Privacy Webcam Panel</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-piecing-together-memories-your-guide-to-montages/"><u>[Updated] Piecing Together Memories Your Guide to Montages</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726223114269-2024-10/"><u>2024년 베스트 영화 추천: 영화 전략을 위한 10가지 필수 사이트</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726225995978-bmp-movavi/"><u>網路安全地免费下载 BMP 图像转换工具 - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuita-transformar-archivos-jp2-en-formatos-de-imagen-estandar-jpegjpg/"><u>Conversión Gratuita: Transformar Archivos JP2 en Formatos De Imagen Estándar (JPEG/JPG)</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/gratis-omzetten-en-online-beheer-van-raf-documenten-met-movavi/"><u>Gratis Omzetten En Online Beheer Van RAF Documenten Met Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-ogg-flac-converter-naar-mp4-professionele-online-losung-mit-movavi/"><u>Gratuit Ogg-Flac Converter Naar MP4: Professionele Online Lösung Mit Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-gt-10-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix GT 10 Pro Is Unlocked</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-screen-recorder-comprehensive-guide-and-latest-updates-reviews/"><u>Movavi Screen Recorder: Comprehensive Guide and Latest Updates - Reviews</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g84-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G84 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flair-in-your-makeup-routine-top-tutorial-insights/"><u>[New] 2024 Approved Flair in Your Makeup Routine Top Tutorial Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flashflicker-artist/"><u>[New] 2024 Approved FlashFlicker Artist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-digital-asset-valuation-tools/"><u>[New] 2024 Approved Free Digital Asset Valuation Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gratis-design-elements-for-youtube-channel/"><u>[New] 2024 Approved Gratis Design Elements for YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[New] 2024 Approved Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-youtube-banners-and-thumbnails/"><u>[New] 2024 Approved How to Make YouTube Banners and Thumbnails</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-discovering-the-details-a-guide-to-roblox-closeups/"><u>[Updated] 2024 Approved Discovering the Details A Guide to Roblox Closeups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-creator-to-business-transforming-your-youtube-experience/"><u>[Updated] 2024 Approved From Creator to Business Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-seamlessly-integrate-captions-into-youtube-videos/"><u>[Updated] 2024 Approved How to Seamlessly Integrate Captions Into YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[Updated] In 2024, Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069298311-updated-in-2024-sprightly-spirits-top-kid-approved-games/"><u>[Updated] In 2024, Sprightly Spirits Top Kid-Approved Games!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-smartphone-tools-for-crafting-your-ideal-vocal-sound-for-2024/"><u>[Updated] Smartphone Tools for Crafting Your Ideal Vocal Sound for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-creators-guide-to-mastering-youtube-aspect-ratios/"><u>2024 Approved The Creator's Guide to Mastering YOUTUBE Aspect Ratios</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity-for-2024/"><u>Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity) for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-amd-rx-6800-drivers-on-any-windows-device-versions-111087/"><u>How to Install AMD RX 6800 Drivers on Any Windows Device (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube/"><u>In 2024, Your Pathway to Profit The Most Straightforward Top 10 Business Channels on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rotating-iphone-photos-for-perfect-angles/"><u>Rotating iPhone Photos for Perfect Angles</u></a></li>
 </ul></div>
 

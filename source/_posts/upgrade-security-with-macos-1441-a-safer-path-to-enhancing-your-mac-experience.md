@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Security with macOS 14.4.1: A Safer Path to Enhancing Your Mac Experience"
-date: 2025-01-15T17:20:40.728Z
-updated: 2025-01-19T19:50:06.592Z
+date: 2025-01-19T16:43:46.148Z
+updated: 2025-01-25T17:49:06.202Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,10 +72,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -87,6 +83,10 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -101,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,18 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-the-ultimate-list-of-tiktok-phenomena-on-twitter/"><u>[New] The Ultimate List of TikTok Phenomena on Twitter</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-eyecatcher-ultimate-screen-capture-guide/"><u>[Updated] EyeCatcher Ultimate Screen Capture Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-precise-process-installing-snapchat-on-a-mac-os-for-2024/"><u>[Updated] Precise Process Installing Snapchat on a Mac OS for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-gamification-unleashed-djis-air-vs-spark-duel-revealed/"><u>2024 Approved Gamification Unleashed DJI's Air Vs. Spark Duel Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aac-to-wav-conversion-en-online-gratis-movavi/"><u>AAC to WAV Conversion en Online Gratis - Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-physical-keyboard-discovering-the-hidden-gems-in-this-standout-iphone-case-tech-insights/"><u>Beyond the Physical Keyboard: Discovering the Hidden Gems in This Standout iPhone Case | Tech Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-jpeg-converter-convert-mef-to-jpg-with-movavi/"><u>Free Online JPEG Converter - Convert MEF to JPG with Movavi</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/leveraging-s2t-technology-in-professional-decks/"><u>Leveraging S2T Technology in Professional Decks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-methods-transforming-pin-videos-to-mp3-format/"><u>Prime Methods Transforming Pin Videos To MP3 Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionele-online-lusmaatrix-3g2-in-mpeg-konverteren-gratis-bij-movavi/"><u>Professionele Online Lusmaatrix: 3G2 in MPEG Konverteren Gratis Bij Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/riconverti-i-tuoi-gif-in-formato-png-senza-costi-su-movavi-servizio-di-conversione-on-the-go/"><u>Riconverti I Tuoi GIF in Formato PNG Senza Costi Su Movavi - Servizio Di Conversione on the Go</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-11-profesjonelle-video-editing-tools-2024-optimert-for-nyttark/"><u>Top 11 Profesjonelle Video Editing Tools 2024 - Optimert For Nyttark</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wmv-webm-movavi/"><u>WMV, WEBM 영상 무료 변환: 온라인에서 제공하는 속임수를 효과적으로 사용하기 - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-offer-secure-total-access-to-macxdvd-suite-with-a-complimentary-license-upgrade/"><u>[EXCLUSIVE OFFER] Secure Total Access to macXDVD Suite with a Complimentary License Upgrade!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[New] 2024 Approved Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-youtube-intro-with-best-youtube-intro-makers/"><u>[New] 2024 Approved How to Make a YouTube Intro With Best YouTube Intro Makers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-smooth-processes-for-recording-online-meetings-with-gotomeeting/"><u>[New] 2024 Approved Smooth Processes for Recording Online Meetings with GoToMeeting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-professional-youtube-editing-secrets-for-2024/"><u>[New] From Script to Screen Professional YouTube Editing Secrets for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-out-the-best-8-youtube-engagement-tools/"><u>[Updated] 2024 Approved Find Out The Best 8 Youtube Engagement Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>[Updated] 2024 Approved Hilarious YouTube Moments Top 10 Quirky Short Film Concepts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frameworks-for-compelling-youtube-content-layouts-for-2024/"><u>[Updated] Frameworks for Compelling YouTube Content Layouts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freely-accessible-cutting-edge-video-editor-tools-for-2024/"><u>[Updated] Freely Accessible Cutting Edge Video Editor Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-purchasing-followers-impacts-the-integrity-of-youtube-content-creators-for-2024/"><u>[Updated] How Purchasing Followers Impacts the Integrity of YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-create-a-square-video-for-instagram-in-imovie-for-2024/"><u>[Updated] How to Create a Square Video for Instagram in iMovie for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-future-of-fb-advertising-key-predictions-for-2024/"><u>[Updated] Navigating the Future of FB Advertising – Key Predictions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assessing-your-needs-selecting-the-optimal-4k-camera-lens/"><u>Assessing Your Needs Selecting the Optimal 4K Camera Lens</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-steam-deck-worth-it-4-reasons-why-you-should-get-this-pc-gaming-handheld/"><u>Is the Steam Deck Worth It? 4 Reasons Why You Should Get This PC Gaming Handheld</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/isolating-image-moments-from-videos-using-windows-photos-software/"><u>Isolating Image Moments From Videos Using Windows Photos Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-easy-to-use-cartoon-video-creation-tools-online-and-pc-for-2024/"><u>Top 10 Easy-to-Use Cartoon Video Creation Tools (Online & PC) for 2024</u></a></li>
 </ul></div>
 

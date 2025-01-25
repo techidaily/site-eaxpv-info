@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2025-01-15T19:56:11.047Z
-updated: 2025-01-19T17:28:17.685Z
+date: 2025-01-21T18:20:05.307Z
+updated: 2025-01-25T21:03:06.540Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,16 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-guide-becoming-a-reel-star-on-instagram/"><u>[New] 2024 Approved Step-by-Step Guide Becoming a Reel Star on Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-exploring-the-yuneec-typhoon-h-expert-drone-review-for-2024/"><u>[New] Exploring the Yuneec Typhoon H Expert Drone Review for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-archive-hunt-accessing-yesteryears-facebook-stories-for-2024/"><u>[Updated] Archive Hunt Accessing Yesteryear's Facebook Stories for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/accelerer-lencodage-hevch265-astuces-pour-ameliorer-la-vitesse/"><u>Accélérer L'encodage HEVC/H.265 : Astuces Pour Améliorer La Vitesse</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-ideal-apple-laptop-comparing-the-latest-m3-vs-m2-macbook-air-a-comprehensive-guide/"><u>Choosing Your Ideal Apple Laptop: Comparing the Latest M3 Vs. M2 MacBook Air - A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/diastolic-dysfunction-can-occur-with-a-preserved-ejection-fraction-which-is-why-its-associated-with-hfpef-heart-failure-with-preserved-ejection-fraction/"><u>Diastolic Dysfunction Can Occur with a Preserved Ejection Fraction, Which Is Why It's Associated with HFpEF (Heart Failure with Preserved Ejection Fraction).</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/seamless-conversion-from-hevc-x265-to-mov-files-guide/"><u>Seamless Conversion From HEVC X.265 To MOV Files - Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/virtual-spaces-for-real-solutions/"><u>Virtual Spaces for Real Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287573027-winxvideo-ai/"><u>WinXVideo AI 기술 패턴 분석 - 시장 가장칼라</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-embedding-on-screen-text-on-youtube-clips/"><u>[New] 2024 Approved Guide to Embedding On-Screen Text on YouTube Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-delete-comments-from-youtube-with-minimal-hassle/"><u>[New] 2024 Approved How to Delete Comments From YouTube with Minimal Hassle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finalcut-pro-101-crafting-professional-youtube-edits-for-2024/"><u>[New] FinalCut Pro 101 Crafting Professional YouTube Edits for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-forget-youtube-try-these-top-5-video-editor-options/"><u>[New] In 2024, Forget Youtube? Try These Top 5 Video Editor Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[New] In 2024, From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clicks-to-cash-elevating-exposure-economics/"><u>[Updated] In 2024, From Clicks to Cash Elevating Exposure Economics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-view-exclusive-alternative-video-websites/"><u>[Updated] Transform Your View Exclusive Alternative Video Websites</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-beyond-limits-a-critical-look-at-panasonics-hx-a1-actionrecorder/"><u>2024 Approved Beyond Limits - A Critical Look at Panasonic’s HX-A1 ActionRecorder</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-defy-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Defy 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-10-playful-linux-tricks-perfect-for-curiosity-and-downtime/"><u>Explore These 10 Playful Linux Tricks - Perfect for Curiosity and Downtime!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-gratis-mkv-converter-para-gerar-gifs-facil-e-rapido-com-moveavi/"><u>Online Gratis MKV Converter Para Gerar GIFs Fácil E Rápido Com MoveaVi</u></a></li>
+<li><a href="https://win-news.techidaily.com/raid4/"><u>RAID陣列を効率よくコピーするためのシンプルな4ステップガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-facebook-video-sounds-ultimate-troubleshooting-guide-for-a-noisy-free-viewing-experience-on-windows-pcs/"><u>Revive Your Facebook Video Sounds: Ultimate Troubleshooting Guide for a Noisy-Free Viewing Experience on Windows PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-instructions-for-showing-gifs-on-different-devices-including-pc-and-mobile/"><u>Step-by-Step Instructions for Showing GIFs on Different Devices Including PC and Mobile</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18)
-date: 2025-01-16T16:39:12.161Z
-updated: 2025-01-19T19:51:14.919Z
+date: 2025-01-19T21:21:06.348Z
+updated: 2025-01-25T19:04:57.736Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,14 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-ultra-short-timelapse-capture-methods-for-2024/"><u>[New] Top Ultra-Short Timelapse Capture Methods for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-sin-costo-de-audio-wav-a-formato-m4a-usando-movavi-en-linea/"><u>Conversión Sin Costo De Audio WAV a Formato M4A Usando Movavi en Línea</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descargar-convertidor-de-mkv-a-formato-aac-sin-coste-conversion-en-vivo/"><u>Descargar Convertidor De MKV a Formato AAC Sin Coste - Conversión en Vivo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-latest-video-stabilizers-in-202email-protected-a-comprehensive-guide-to-both-gratis-and-premium-software-solutions/"><u>Discover the Latest Video Stabilizers in 202([Email Protected])! A Comprehensive Guide to Both Gratis and Premium Software Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-offline-audio-to-text-solutions/"><u>Expert Offline Audio to Text Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-konverteren-van-aiff-naar-m4a-ladder-online-en-meteen/"><u>Gratuit Konverteren Van AIFF Naar M4A-Ladder - Online en Meteen</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-data-deluge-infographics-on-youtubes-intriguing-insights/"><u>In 2024, Data Deluge Infographics on YouTube's Intriguing Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-imagememe-magic-instant-jokes/"><u>[New] 2024 Approved ImageMeme Magic Instant Jokes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-explore-the-best-facebook-lite-video-downloader-picks-of-2023-for-2024/"><u>[New] Explore the Best Facebook Lite Video Downloader Picks of 2023 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-free-to-fortune-carryminatis-youtube-transformation-ajey-for-2024/"><u>[New] From Free to Fortune CarryMinati’s YouTube Transformation (Ajey) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-formatting-youtubes-auto-subscribe-page-easily/"><u>[New] In 2024, Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-sustainable-cinematography-gear/"><u>[New] In 2024, Premier Sustainable Cinematography Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers/"><u>[Updated] 2024 Approved Foremost Frame Starters Leading 16 YouTube Videos for More Watchers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[Updated] 2024 Approved Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-going-against-the-flow-youtube-video-opposites/"><u>[Updated] 2024 Approved Going Against the Flow YouTube Video Opposites</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adapt-innovate-and-conquer-mastering-professional-growth-in-an-artificially-intelligent-world-discover-how/"><u>Adapt, Innovate & Conquer: Mastering Professional Growth in an Artificially Intelligent World - Discover How!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/making-the-leap-a-pros-guide-on-purchasing-your-first-8k-television-insights-and-tips-from-a-zdnet-specialist/"><u>Making the Leap: A Pro's Guide on Purchasing Your First 8K Television - Insights & Tips From a ZDNet Specialist</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y78-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y78 5G</u></a></li>
 </ul></div>
 

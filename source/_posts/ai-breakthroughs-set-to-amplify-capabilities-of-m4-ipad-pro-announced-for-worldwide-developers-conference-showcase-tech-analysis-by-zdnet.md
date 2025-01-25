@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2025-01-12T19:54:57.552Z
-updated: 2025-01-19T21:55:02.063Z
+date: 2025-01-24T19:30:37.100Z
+updated: 2025-01-25T16:17:01.986Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -61,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -78,6 +78,10 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -89,7 +93,7 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -111,7 +115,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,20 +171,15 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pro-rated-cameras-for-windows-11-the-top-lineup-reviewed/"><u>[New] 2024 Approved Pro-Rated Cameras for Windows 11 - The Top Lineup Reviewed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-styling-your-content-a-compreran-guide-to-insta-photo-watermarks/"><u>[New] 2024 Approved Styling Your Content A Compreran Guide to Insta Photo Watermarks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/evolutionize-channel-wrapping-with-expert-templates-and-how-tos/"><u>[New] Revolutionize Channel Wrapping with Expert Templates & How-Tos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-future-is-now-leveraging-10-innovative-igtv-strategies-to-elevate-your-brand-for-2024/"><u>[New] The Future Is Now Leveraging 10 Innovative IGTV Strategies to Elevate Your Brand for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-symphony-of-selection-assembling-your-best-music-choices-on-youtube/"><u>[Updated] 2024 Approved A Symphony of Selection Assembling Your Best Music Choices on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversione-gratuita-dei-file-audio-mpeg-a-formato-aiff-online-usando-movavi-ottenere-la-massima-qualita-senza-costi-aggiuntivi/"><u>Conversione Gratuita Dei File Audio MPEG a Formato AIFF Online Usando Movavi - Ottenere La Massima Qualità Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-enhanced-analytics-unleashing-new-possibilities-in-user-tracking/"><u>Cookiebot-Enhanced Analytics: Unleashing New Possibilities in User Tracking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-the-no-cost-movavi-tool-to-transform-m4r-files-into-wav-format-directly-online/"><u>Download the No-Cost Movavi Tool to Transform M4R Files Into WAV Format Directly Online!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S17</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-gpt-4-all-revealing-how-it-powers-ai-technology/"><u>Inside GPT- 4 All: Revealing How It Powers AI Technology</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-veilig-en-gedoe-vrij-converteer-3gp-naar-wmv-gratis-met-movavi-elkebeurige-liefhebbers/"><u>Online Veilig en Gedoe-Vrij: Converteer 3GP Naar WMV Gratis Met Movavi - Elkebeurige Liefhebbers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/topo-abrangente-convertendo-sucessivamente-swf-em-mp4-sem-custo-dicas-e-guias/"><u>Topo Abrangente: Convertendo Sucessivamente Swf Em Mp4 Sem Custo - Dicas E Guias</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wi-fi-amv-movavi/"><u>무료 Wi-Fi 안내용 AMV 편집 - Movavi의 방법</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/avim4v/"><u>무제한 AVI/M4V 영상 전환: 웹에서 기회의 가장 좋은 시간!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726224933249-movm4v-movavi/"><u>オンラインで簡単にMovとM4Vを変換: 無料ソフトウェア - MOVAVI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[Updated] 2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-security-settings-for-2024/"><u>[Updated] Guiding You Through YouTube's Security Settings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[Updated] In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-enhance-clarity-of-online-video-content/"><u>[Updated] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-reimagining-home-security-the-rise-of-multi-camera-recorders-for-2024/"><u>[Updated] Reimagining Home Security The Rise of Multi-Camera Recorders for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-strategies-for-efficient-business-teleconferencing-for-2024/"><u>[Updated] Strategies for Efficient Business Teleconferencing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fabulous-critique-and-diverse-suggestions/"><u>2024 Approved Fabulous Critique & Diverse Suggestions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy M54 5G Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-motorola-edge-40-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Motorola Edge 40 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-15-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 15 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
 </ul></div>
 

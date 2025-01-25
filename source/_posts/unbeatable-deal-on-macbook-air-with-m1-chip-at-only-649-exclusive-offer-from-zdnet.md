@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer From ZDNet
-date: 2025-01-14T18:00:01.860Z
-updated: 2025-01-19T16:23:07.381Z
+date: 2025-01-23T19:29:10.252Z
+updated: 2025-01-25T20:56:32.430Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/achieve-stunning-visuals-premium-4k-projectors-under-2k-dollars-s-market-sweepstakes/"><u>Achieve Stunning Visuals: Premium 4K Projectors Under 2K Dollars 'S Market Sweepstakes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ameliorez-votre-numerique-avec-la-version-complete-du-winx-dvd-ripper-platine-achat-et-mise-a-niveau-inclusive/"><u>Améliorez Votre Numérique Avec La Version Complète Du WinX DVD Ripper Platine - Achat Et Mise À Niveau Inclusive!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-unwrapped-an-easier-way-to-comprehend-ai/"><u>Artificial Intelligence Unwrapped: An Easier Way to Comprehend AI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-when-your-computer-cant-find-d3dx927dll/"><u>Comprehensive Fixes for When Your Computer Can't Find d3dx9_27.dll</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-how-to-refresh-dns-cache-in-windows-operating-systems/"><u>Comprehensive Tutorial: How To Refresh DNS Cache in Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-top-picks-unmissable-amazon-prime-day-2024-offers-early-access-and-savings/"><u>Exclusive Top Picks: Unmissable Amazon Prime Day 2024 Offers - Early Access & Savings!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fehler-bei-der-verwendung-von-handbrake-unter-windows-11-erkunde-wege-zur-behebung-und-andere-optionen/"><u>Fehler Bei Der Verwendung Von HandBrake Unter Windows 11? Erkunde Wege Zur Behebung Und Andere Optionen.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gpu-beschleunigte-h265-kodierung-wie-sie-schnelleres-streamen-gewahrleisten-konnen/"><u>GPU-Beschleunigte H.265 Kodierung: Wie Sie Schnelleres Streamen Gewährleisten Können</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-xiaomi-redmi-13c-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-x100-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo X100 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlocking-fast-video-transcoding-on-handbrake-no-need-for-cuda/"><u>Unlocking Fast Video Transcoding on Handbrake: No Need for CUDA!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-experts-picks-best-free-video-tools-for-pc-and-mac/"><u>[New] 2024 Approved Expert's Picks Best Free Video Tools for PC & Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness/"><u>[New] 2024 Approved How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube/"><u>[New] 2024 Approved How to Optimize Video Engagement Through Resizing Thumbnails on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-designing-engaging-podcast-teasers-for-2024/"><u>[New] Designing Engaging Podcast Teasers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>[New] Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-guide-culinary-video-production/"><u>[New] In 2024, Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-conquering-cross-platform-content-sharing-youtubes-and-fbs/"><u>[Updated] 2024 Approved Conquering Cross-Platform Content Sharing YouTubes & FBs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[Updated] 2024 Approved From Scripted to Spontaneous Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-startup-to-stardom-with-youtube-seo-basics-for-2024/"><u>[Updated] From Startup to Stardom with YouTube SEO Basics for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-online-aggregators-for-securing-affiliates-on-googles-platform/"><u>2024 Approved Online Aggregators for Securing Affiliates on Google's Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/crafting-compelling-vo-for-visual-storytelling-success/"><u>Crafting Compelling VO for Visual Storytelling Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creative-potential-the-ultimate-hdr-guide-for-2024/"><u>Unleash Creative Potential The Ultimate HDR Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/witwizards-your-go-to-meme-app/"><u>WitWizards Your Go-To Meme App</u></a></li>
 </ul></div>
 

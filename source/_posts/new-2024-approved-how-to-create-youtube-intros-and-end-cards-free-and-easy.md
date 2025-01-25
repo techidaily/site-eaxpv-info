@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Create YouTube Intros & End Cards - Free and Easy\""
-date: 2024-08-20T13:32:16.630Z
-updated: 2024-08-21T13:32:16.630Z
+date: 2025-01-21T21:42:13.639Z
+updated: 2025-01-25T20:37:50.352Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -77,9 +81,6 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -115,18 +116,25 @@ Some creators will leave their end cards at that and play music overtop, but it 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Monthly Earnings From YouTube for Creators
 
@@ -140,9 +148,6 @@ For anyone looking to start earning passive income via YouTube, but have the que
 
 * [More FAQs About How Much YouTubers Make](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How Often Does YouTube Pay
 
 As mentioned earlier, YouTube pays monthly. It’s usually within the first 10-14 days of a new month (10th day or 14th day of a new month). However, to be able to receive your funds, you must reach the minimum threshold of your local currency as required by YouTube. For example, $100 for content creators within the United States.
@@ -175,20 +180,18 @@ Besides ads, there are other ways to monetize your YouTube channel. You could al
 
 ![youtube affilate marketing](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You might have come across YouTube videos where the creators talk about their favorite brands and add links to the platform for the brand. Well, that’s a form of affiliate marketing.
 
 YouTube Affiliate marketing involves a creator reviewing a product like makeup, digital cameras, mobile phone, and lots more including services in their video. Plus, the links to the recommended product or services are usually added to the description of the video. So, once a viewer clicks on the link and purchases the product or service, the YouTuber gets a certain percentage of the money.
 
 If you get an affiliate link to a product on a platform, you can create a video relating to that product, then in your video description, you’ll add the affiliate link there. So, when anyone purchases the product using your affiliate link, you’ll get your percentage off the price they paid. On average, companies will be willing to pay within 5% to 50% of the purchase price.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Brand Sponsorship
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube brand spinsorship](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-3.jpg)
 
 The fact YouTube is the most used video-playing platform makes it a great spot for businesses and organizations to promote their product or services. So, once you grow your YouTube subscribers to a certain level, you’ll receive emails from companies and brands to partner with you to sponsor their products or service. Honestly, there are lots of brands who will be happy to pay you to promote their products/services,
@@ -197,34 +200,30 @@ Research shows that sponsorship deals are usually within the range of $200 to ov
 
 Also, your YouTube channel data statistics such as total subscribers, average video impressions in the past months, likes, comments, and more are other factors that will determine how much brands will offer you to seal a sponsorship deal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Selling Own Products or Services
 
 ![sell products on youtube](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selling your products or services is another great way to monetize your YouTube channel. You could sell your merch, gaming tools, and other things related to the theme of the content you create for your loyal fans to purchase.
 
 If you don’t have a product, you could charge your viewers for exclusive content, sell online courses for dropshipping, sell cryptocurrency trading e-books, etc. The only thing is you need to have a large following to earn well from this YouTube monetization option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: More FAQs About How Much YouTubers Make
 
 At this point, you should already have a brief idea of how YouTube monetization works. However, if you still want to discover more information, keep reading to check out more FAQs on how much YouTubers make.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Who is The Richest YouTuber?
 
 The richest YouTuber as of 2021 is Mr. Beast. He has made up to $54 million in revenue from his YouTube channel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Do YouTubers Get Paid Well?
 
 The rate at which YouTubers get paid depends on certain factors like the audience they aim for, how frequently they publish the nature of their material, and lots more. As we mentioned in the article, the average pay rate on YouTube is within the range of $0.01 to $0.03 per ad view, while for every 1,000 video views, you could earn $3 to $5\. Also, research shows that the highest-paying YouTube category is the “Make Money Online” category with an average CPM of $13.52.
@@ -247,9 +246,6 @@ As mentioned earlier, YouTube pays monthly. It’s usually within the first 10-1
 
 Also, you must comply with the YouTube monetization policies and not be suspended by YouTube in the past month.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How Does YouTube Pay – Typical Methods Used
 
 Research shows that YouTube’s average pay rate is within the range of $0.01 to $0.03 per ad view. This means for every 1,000 ad views, a YouTuber could earn $18, while for every 1,000 video views, you could earn $3 to $5\. You might ask “Does YouTube pay creators per view?’ Well, the answer is NO, YouTube doesn’t pay creators per view. They pay per monetized view.
@@ -272,12 +268,17 @@ The image below displays the requirement to start displaying ads on your YouTube
 
 Besides ads, there are other ways to monetize your YouTube channel. You could also earn through a corporate sponsorship from brands, selling your products, etc. Keep reading to find out more ways to earn money from YouTube.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Affiliate Marketing
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube affilate marketing](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You might have come across YouTube videos where the creators talk about their favorite brands and add links to the platform for the brand. Well, that’s a form of affiliate marketing.
 
@@ -287,9 +288,6 @@ If you get an affiliate link to a product on a platform, you can create a video 
 
 ### 2\. Brand Sponsorship
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube brand spinsorship](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-3.jpg)
 
 The fact YouTube is the most used video-playing platform makes it a great spot for businesses and organizations to promote their product or services. So, once you grow your YouTube subscribers to a certain level, you’ll receive emails from companies and brands to partner with you to sponsor their products or service. Honestly, there are lots of brands who will be happy to pay you to promote their products/services,
@@ -299,11 +297,16 @@ Research shows that sponsorship deals are usually within the range of $200 to ov
 Also, your YouTube channel data statistics such as total subscribers, average video impressions in the past months, likes, comments, and more are other factors that will determine how much brands will offer you to seal a sponsorship deal.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Selling Own Products or Services
 
 ![sell products on youtube](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selling your products or services is another great way to monetize your YouTube channel. You could sell your merch, gaming tools, and other things related to the theme of the content you create for your loyal fans to purchase.
 
@@ -317,9 +320,6 @@ At this point, you should already have a brief idea of how YouTube monetization 
 
 The richest YouTuber as of 2021 is Mr. Beast. He has made up to $54 million in revenue from his YouTube channel.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Do YouTubers Get Paid Well?
 
 The rate at which YouTubers get paid depends on certain factors like the audience they aim for, how frequently they publish the nature of their material, and lots more. As we mentioned in the article, the average pay rate on YouTube is within the range of $0.01 to $0.03 per ad view, while for every 1,000 video views, you could earn $3 to $5\. Also, research shows that the highest-paying YouTube category is the “Make Money Online” category with an average CPM of $13.52.
@@ -349,8 +349,19 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[New] 2024 Approved Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning/"><u>[New] 2024 Approved Go Professional, Stay Budgeted Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-intrinsic-insights-for-instant-identification-in-fb/"><u>[New] Intrinsic Insights for Instant Identification in FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits/"><u>[Updated] In 2024, From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[Updated] In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-simplify-streaming-with-obs-studio-techniques-android/"><u>2024 Approved Simplify Streaming with OBS Studio Techniques (Android)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-tecno-pova-6-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Pova 6 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-the-future-of-home-device-orchestration/"><u>ChatGPT and the Future of Home Device Orchestration</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-f04-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy F04 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-side-content-a-filmmakers-guide/"><u>In 2024, Incorporating Side Content A Filmmaker's Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/must-have-3d-model-systems-in-animation-for-2024/"><u>Must-Have 3D Model Systems in Animation for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2025-01-14T16:43:43.591Z
-updated: 2025-01-19T17:53:41.722Z
+date: 2025-01-18T16:27:11.401Z
+updated: 2025-01-25T19:12:21.683Z
 tags:
   - apple
 categories:
@@ -55,10 +55,6 @@ During this time, the company focused on providing viable mixed reality and VR e
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  That old Apple magic
 
 Apple, on the other hand, has a problem. It no longer has Steve Jobs to ruthlessly remove features and capabilities added by over-enthusiastic engineers and designers. Instead, Apple sometimes has a myopic focus on being special, on producing something "magic." 
@@ -87,7 +83,7 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -110,6 +106,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -124,6 +124,10 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -135,7 +139,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -151,7 +155,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -173,10 +177,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,20 +227,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-downloadable-instagram-footage-tech-tips-for-computers-and-macs/"><u>[New] Downloadable Instagram Footage Tech Tips for Computers & Macs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-12th-circle-of-conversation-personalizing-whatsapp-bios-by-signs-for-2024/"><u>[New] The 12Th Circle of Conversation - Personalizing WhatsApp Bios by Signs for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-efficiency-upgrade-uncover-the-8-premier-facebook-timetables-for-2024/"><u>[Updated] Efficiency Upgrade Uncover the 8 Premier Facebook Timetables for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-hdr-evaluation-is-aurora-a-game-changer/"><u>[Updated] In 2024, HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/anleitung-zum-entfernen-von-schutzmechanismen-auf-disney-dvds-und-zur-gewinnung-wertvoller-inhalte/"><u>Anleitung Zum Entfernen Von Schutzmechanismen Auf Disney-DVDs Und Zur Gewinnung Wertvoller Inhalte</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fast-video-conversion-made-easy-winxvideos-powerful-gpu-acceleration/"><u>Fast Video Conversion Made Easy: Winxvideo's Powerful GPU Acceleration</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-best-vivo-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Vivo FRP Bypass Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-clearing-up-cloudy-content-on-androidiphone/"><u>In 2024, Clearing Up Cloudy Content on Android/iPhone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-frozen-pleasure-recording-review-deep-dive/"><u>In 2024, Frozen Pleasure Recording Review Deep Dive</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/is-it-possible-to-work-with-av1-codec-in-adobe-premiere-pro-during-file-importsexports/"><u>Is It Possible to Work with AV1 Codec in Adobe Premiere Pro During File Imports/Exports?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/meta-and-omni-universe-showcase-analysis/"><u>Meta & Omni Universe Showcase Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ps5-dvd-abspielfunktion-funktionsweise-und-anleitung-zum-betrachten-von-filmen-auf-der-playstation-5/"><u>PS5 DVD-Abspielfunktion: Funktionsweise Und Anleitung Zum Betrachten Von Filmen Auf Der PlayStation 5</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-motivational-films-for-a-zestful-life/"><u>Top 10 Motivational Films for a Zestful Life</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-youtubes-401-unauthorized-error-a-step-by-step-guide-for-smartphones-and-tablets/"><u>Troubleshooting YouTube's '401 Unauthorized Error': A Step-by-Step Guide for Smartphones and Tablets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/44kz44k544oi44ov44oq44o844gq44ot44oh44kq5zyn57iu44og44kv44ol44od44kvic0g5asn44gn44ge5yuv55s744ks56plusa57se44gx44gplus44gz/"><u>コストフリーなビデオ圧縮テクニック - 大きい動画を節約します</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-regular-are-youtube-monetization-payments/"><u>[New] 2024 Approved How Regular Are YouTube Monetization Payments?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-loop-youtube-videos-on-tv/"><u>[New] 2024 Approved How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-to-refined-expert-techniques-for-youtube-content-creators-for-2024/"><u>[New] From Raw to Refined Expert Techniques for YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-seamless-text-overlay-the-key-to-interactive-instagram-media/"><u>[New] In 2024, Seamless Text Overlay The Key to Interactive Instagram Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-signal-id-video-overview-width-x-height-encoding-minutes/"><u>[New] In 2024, Signal ID Video Overview Width X Height, Encoding, Minutes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-2023-strategy-easily-discovering-what-youve-lately-watched-on-fb/"><u>[Updated] 2024 Approved 2023 Strategy Easily Discovering What You've Lately Watched on Fb</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-toward-monetary-success-on-youtube/"><u>[Updated] 2024 Approved First Steps Toward Monetary Success on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-on-steps-for-crafting-an-influential-online-gamers-channel/"><u>[Updated] 2024 Approved Game On Steps for Crafting an Influential Online Gamers' Channel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-hack-the-art-of-instagram-reels-creation-for-2024/"><u>[Updated] Hack the Art of Instagram Reels Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>[Updated] In 2024, Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-your-display-a-users-manual-for-hp-laptop-shots/"><u>Capturing Your Display: A User's Manual for HP Laptop Shots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/granulation-tissue-formation/"><u>Granulation Tissue Formation</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728498304841-minecraft/"><u>Minecraft截图缺踹了，你该如何重获？ - 步骤分明解决方案</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/safeguard-your-secrets-how-pc-technicians-may-access-more-than-just-hardware-according-to-latest-study/"><u>Safeguard Your Secrets: How PC Technicians May Access More Than Just Hardware, According to Latest Study</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-15-smartest-ways-to-watch-nba-live-in-action/"><u>The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2025-01-15T21:01:19.360Z
-updated: 2025-01-19T18:27:00.810Z
+date: 2025-01-23T16:24:39.345Z
+updated: 2025-01-25T21:42:01.506Z
 tags:
   - apple
 categories:
@@ -27,22 +27,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -52,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,10 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -81,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,15 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-maximizing-engagement-with-youtube-on-facebook-platforms/"><u>[New] Maximizing Engagement with YouTube on Facebook Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-guide-to-recording-private-whatsapp-communications-for-2024/"><u>[Updated] A Guide to Recording Private WhatsApp Communications for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-free2x-webcam-recorder-software-review-for-2024/"><u>[Updated] Free2X Webcam Recorder Software Review for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-yuneec-typhoon-h-deep-dive-aerial-expert-review/"><u>2024 Approved Yuneec Typhoon H Deep Dive Aerial Expert Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortlessly-transform-avi-videos-to-animated-gifs-online-at-no-cost-movavi/"><u>Effortlessly Transform AVI Videos to Animated GIFs Online at No Cost - Movavi</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-innovation-in-action-sonys-s6500-player-redefined/"><u>In 2024, Innovation in Action Sony's S6500 Player Redefined</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-start-guide-to-resolve-latency-problems-in-assassins-creed-valhalla/"><u>Quick-Start Guide to Resolve Latency Problems in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rmvb-a-mkv-conversion-en-ligne-sans-frais-grace-a-videorevamp-transformez-votre-contenu-video-rapidement/"><u>RMVB À MKV : Conversion en Ligne Sans Frais Grâce À VideoRevamp - Transformez Votre Contenu Vidéo Rapidement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ogm-vob-movavi/"><u>무료 오픈소스에서 OGM를 VOB로 변환하기 – Movavi가 도울 페이지</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wmv-m4vmovavi/"><u>オンラインで簡単に WMV M4VファイルをMovavi無料コンバーター</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-free-online-video-editors-for-youtube/"><u>[New] 2024 Approved 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-prominent-comment-spotlights/"><u>[New] 2024 Approved Finding Prominent Comment Spotlights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-videos-to-vault-ajays-revenue-journey-on-youtube-for-2024/"><u>[New] From Videos to Vault AJay’s Revenue Journey on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-future-earnings-gaming-geeks-on-youtube-for-2024/"><u>[Updated] Future Earnings Gaming Geeks on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac-2023-update/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac-2023 Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>[Updated] In 2024, Gaming Channel Evolution Best 14 Video Ideas on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-universal-templates-galore-for-youtube-crafting/"><u>[Updated] Universal Templates Galore – For YouTube Crafting</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-breaking-down-the-barriers-to-knowing-your-fans/"><u>2024 Approved Breaking Down the Barriers to Knowing Your Fans</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-begin-with-educational-and-tutorial-podcasting-steps/"><u>How to Begin with Educational & Tutorial Podcasting Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pictureweaversierra-blending-apple-media-artfully/"><u>PictureWeaverSierra Blending Apple Media Artfully</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-eco-performance-dissecting-the-power-of-teamgroups-ddr5-6000-t-force-vulcan-c30-memory-kit/"><u>The Future of Eco Performance: Dissecting the Power of TeamGroup's DDR5-6000 T-Force Vulcan C30 Memory Kit</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nail-artistry-for-engaging-youtube-channels/"><u>Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/viber-out-service-evaluation-a-comprehensive-analysis/"><u>Viber Out Service Evaluation: A Comprehensive Analysis</u></a></li>
 </ul></div>
 

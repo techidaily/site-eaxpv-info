@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Vs. Apple Vision Pro: Who Wins in the AI Race? Activate Advanced Features Now | Innovative Tech Insights"
-date: 2025-01-14T16:09:38.335Z
-updated: 2025-01-19T16:48:17.971Z
+date: 2025-01-23T18:08:13.503Z
+updated: 2025-01-25T20:56:45.731Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,24 +120,15 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/que-razones-impiden-que-cambie-el-dvd-directamente-a-un-disco-duro-sin-ripear/"><u>¿Qué Razones Impiden Que Cambie El DVD Directamente a Un Disco Duro Sin Ripear?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>[New] Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience/"><u>[New] In 2024, Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-boosting-channel-success-scaling-for-a-million-viewers/"><u>[Updated] Boosting Channel Success Scaling for a Million Viewers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/nosub/"><u>無料アニメチケットを見つける: Nosub復活後、簡単なダウンロードステップ概説</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/como-transformar-archivos-ts-en-mp4-sin-perder-la-fidelidad-guia-paso-a-paso/"><u>Cómo Transformar Archivos TS en MP4 Sin Perder La Fidelidad - Guía Paso a Paso</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290025377-dvddvd-shrink/"><u>DVD復元ソフト「DVD Shrink」使用中のエラーを解消し、スムーズな作業を再開する方法</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>Elevate with IG Stories Constructing an Impactful Marketing Strategy</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-audio-clarity-guide-to-scarlett-6i6-drivers-update/"><u>Enhance Audio Clarity: Guide to Scarlett 6I6 Drivers Update</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-efficient-content-curation-multiple-photosvideos-to-instagram-storyboard/"><u>In 2024, Efficient Content Curation Multiple Photos/Videos to Instagram Storyboard</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287731193-iphone/"><u>IPhoneで頻発する予期せぬ再起動:原因と解決策を解明</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/jetzt-ist-es-zeit-fur-einen-4k-fernseher-grunde-warum-sie-den-sprung-auf-ultra-hd-machen-sollten/"><u>Jetzt Ist Es Zeit Für Einen 4K-Fernseher: Gründe, Warum Sie Den Sprung Auf Ultra HD Machen Sollten!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287550116-mac/"><u>Macで動画のサイズをコンパクトに:高画質・最適な圧縮方法三つ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smoother-gaming-experience-increasing-fps-in-titanfall-2/"><u>Quick Fixes for Smoother Gaming Experience: Increasing FPS in Titanfall 2</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-interlacing-in-dvd-ripped-videos-causes-and-solutions/"><u>Resolving Interlacing in DVD-Ripped Videos - Causes & Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wie-man-mit-handbrake-verzerrt-erscheinende-videos-bei-der-dvd-extraktion-unter-windows-11-repariert/"><u>Wie Man Mit HandBrake Verzerrt Erscheinende Videos Bei Der DVD-Extraktion Unter Windows 11 Repariert</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[New] In 2024, Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-growth-catalysts-increasing-audience-engagement-on-youtube/"><u>[Updated] 2024 Approved Growth Catalysts Increasing Audience Engagement on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-top-10-free-stock-footage-websites-you-should-know/"><u>[Updated] 2024 Approved Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-inner-voice-how-to-confidently-share-stories-online/"><u>[Updated] In 2024, Finding Inner Voice How to Confidently Share Stories Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-your-youtube-investments-through-famebit-networking-tactics/"><u>[Updated] Maximizing Your YouTube Investments Through FameBit Networking Tactics</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-access-to-cbs-content-expert-tips-for-securely-downloading-videos-on-pcs-and-macs/"><u>Effortless Access to CBS Content: Expert Tips for Securely Downloading Videos on PCs & Macs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-streaming-beyond-streamlabs-a-comparative-study/"><u>In 2024, Streaming Beyond StreamLabs A Comparative Study</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-6-overrated-chatgpt-extensions/"><u>Scrutinizing 6 Overrated ChatGPT Extensions</u></a></li>
 </ul></div>
 

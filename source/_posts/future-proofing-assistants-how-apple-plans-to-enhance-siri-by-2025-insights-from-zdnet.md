@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights From ZDNet"
-date: 2025-01-13T18:19:50.141Z
-updated: 2025-01-19T22:21:59.333Z
+date: 2025-01-19T22:05:33.848Z
+updated: 2025-01-25T16:04:42.454Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -59,7 +59,7 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -69,7 +69,7 @@ Over the past week and a half, I've used (or attempted to use) the 11-inch iPad 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
@@ -110,6 +110,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -128,10 +132,6 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Final thought
 
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
@@ -139,7 +139,7 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,22 +176,21 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-how-to-fix-obs-high-encoding-problem/"><u>[New] How To Fix OBS High Encoding Problem?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-movavi-image-editing-suite-buy-now-and-transform-your-pictures/"><u>1. Movavi Image Editing Suite: Buy Now & Transform Your Pictures!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-vote-players-best-political-game-reviews/"><u>2024 Approved Ultimate Vote-Players Best Political Game Reviews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726220768037-movavi/"><u>如何高效使用Movavi學習平台: 最新指南和建議技巧</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-your-edits-mastering-picart-backdrop-blanking/"><u>Elevate Your Edits Mastering PicArt Backdrop Blanking</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-free-masterpieces-in-premiere-pro-templates-2023/"><u>In 2024, Free Masterpieces in Premiere Pro Templates, 2023</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/jpg-to-tiff-conversion-free-tiff-converter-tool-and-format-changing-options/"><u>JPG to TIFF Conversion - Free TIFF Converter Tool & Format Changing Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movaviwebmm4a/"><u>MOVAVI免費在線解決方案：高效變更WEBM到M4A音頻</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/moveavis-picks/"><u>Moveavi's Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-hogwarts-legacy-pro-tips-for-a-smooth-game-start/"><u>Overcoming Launch Hurdles in Hogwarts Legacy: Pro Tips for a Smooth Game Start</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/televersement-gratuit-de-lediteur-video-movavi-logiciel-dedition-et-montage-professionnel-facile-a-utiliser/"><u>Téléversement Gratuit De L'éditeur Vidéo Movavi : Logiciel D'édition Et Montage Professionnel Facile À Utiliser</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-on-the-go-clicker-experience-unmatched-precision-and-connectivity-with-the-sabrent-mini-mouse/"><u>The Ultimate On-the-Go Clicker: Experience Unmatched Precision and Connectivity with the Sabrent Mini Mouse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-archivos-avi-en-gif-sin-costo-con-la-herramienta-de-conversion-en-linea-de-movavi/"><u>Transformar Archivos AVI en GIF Sin Costo Con La Herramienta De Conversión en Línea De Movavi</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/flac-and-mkv-movavi/"><u>무료 인터넷 공급 - FLAC & MKV 비디오를 원형으로 전환: Movavi 소개</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[New] 2024 Approved Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-hobby-to-hustle-making-money-with-videos-for-2024/"><u>[New] From Hobby to Hustle Making Money with Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies/"><u>[Updated] 2024 Approved From Global Reach to Engagement Deciphering IGTV & YouTube’s Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gameplay-recording-must-haves/"><u>[Updated] 2024 Approved Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-begin-a-new-era-of-editing-with-xps-video-suite/"><u>[Updated] Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-livecasting-google-meet-on-youtube-for-2024/"><u>[Updated] Guide to Livecasting Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-increase-your-youtube-fanbase-to-one-million-for-2024/"><u>[Updated] How to Safely Increase Your YouTube Fanbase To One Million for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[Updated] In 2024, Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-entrepreneurs-lifeline-critical-items-every-startup-needs-right-now/"><u>[Updated] In 2024, The Entrepreneur's Lifeline Critical Items Every Startup Needs Right Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-altering-articulations-in-free-fire-arena/"><u>2024 Approved Altering Articulations in Free Fire Arena</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cutting-costs-on-cam-recording-a-compreited-analysis-and-recommendations-for-2024/"><u>Cutting Costs on Cam Recording – A Compreited Analysis & Recommendations for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-p55t-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel P55T Phone Pattern Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-work-efficiency-with-split-screen-functionality-on-your-macbook-air/"><u>Maximizing Work Efficiency with Split Screen Functionality on Your MacBook Air</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-10-best-cartoon-video-maker-apps-for-android-and-iphone/"><u>New The Ultimate List 10 Best Cartoon Video Maker Apps for Android & iPhone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266580859-next-level-web-insights-without-cookiebot-find-out-how/"><u>Next-Level Web Insights without Cookiebot - Find Out How</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lava-by-drfone-android/"><u>Three Ways to Sim Unlock Lava</u></a></li>
 </ul></div>
 

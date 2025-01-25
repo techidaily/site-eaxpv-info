@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2025-01-15T18:54:42.998Z
-updated: 2025-01-19T16:46:43.369Z
+date: 2025-01-22T17:55:51.663Z
+updated: 2025-01-25T16:12:50.404Z
 tags:
   - apple
 categories:
@@ -25,20 +25,20 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to swap faces on your Apple Watch
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
 
 If you're still running watchOS 9 or earlier, the older method of switching watch faces is still the norm. Just swipe left or right. If you already updated to watchOS 10 to gain all the latest features, such as new watch faces, fitness routines, and Health app tools, then the newer method is in effect.
 
 screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
 
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update to watchOS 10.2
@@ -69,7 +69,7 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
@@ -81,7 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -120,21 +120,24 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-bluetooth-mouse-not-working-on-windows/"><u>[FIXED] Bluetooth Mouse Not Working on Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[New] In 2024, Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/in-and-mac-mp3-converter-unlock-your-music-from-youtube/"><u>[New] Win & Mac MP3 Converter Unlock Your Music From YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization-for-2024/"><u>[Updated] Maximizing YouTube Gains A Comprehensive Approach for Mobile Monetization for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converting-mp2-files-to-free-flac-format-online-effortless-with-movavi/"><u>Converting MP2 Files to Free Flac Format Online - Effortless with Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dng-web-movavi/"><u>DNG 이미지를 비용 없이 Web에서 변환: Movavi 사용</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/flac-put-aac-movavi/"><u>FLAC 아웃PUT, AAC로 맞추기: Movavi의 원격 모드 정교하고 무료 오디오/이미지 변환 기능</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-mp4mpeg-4-a-partir-de-fichier-vob-solution-en-ligne-avec-movavi/"><u>Gratuit MP4/MPEG-4 À Partir De Fichier VOB : Solution en Ligne Avec Movavi</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-12-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 12?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-play-7t-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Play 7T?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-gratis-online-dts-aac-konvertierung-fur-multimedia-dateien/"><u>Movavi - Gratis Online DTS AAC Konvertierung Für Multimedia-Dateien</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/turn-wma-audiovideo-into-mp4-hands-free-editing-with-movavis-powerful-tools/"><u>Turn WMA Audio/Video Into MP4 - Hands-Free Editing with Movavi's Powerful Tools!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vrije-converteer-tool-voor-gif-naar-asterisk-3p-online-weg-met-movavi/"><u>Vrije Converteer-Tool Voor GIF Naar Asterisk 3P: Online-Weg Met Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flipping-scripts-generating-parody-content/"><u>[New] 2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[New] 2024 Approved From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] 2024 Approved From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-professionally-speaking-the-top-5-drone-recommendations/"><u>[New] 2024 Approved Professionally Speaking The Top 5 Drone Recommendations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-transforming-imagery-with-quantum-hdr/"><u>[New] 2024 Approved Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-first-to-last-your-guide-to-youtube-video-looping-101-for-2024/"><u>[New] From First to Last Your Guide to YouTube Video Looping 101 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-minecraft-branding-tools-download/"><u>[New] In 2024, Free Minecraft Branding Tools Download</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hot-yt-videos-best-music-dance-and-responses-23/"><u>[New] In 2024, Hot YT Videos Best Music Dance & Responses '23</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-leading-ps2-game-emulation-tools/"><u>[New] IOS Leading PS2 Game Emulation Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[New] Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-slice-and-capture-best-cam-reevaluation/"><u>[Updated] 2024 Approved Slice and Capture Best Cam Reevaluation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-audio-treasures-to-amplify-youtube-for-2024/"><u>[Updated] Free Audio Treasures to Amplify YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hidden-channels-to-the-throne-of-1k-subscribers-for-2024/"><u>[Updated] From Hidden Channels to the Throne of 1K Subscribers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-static-to-sprightly-bouncing-text-animations-for-2024/"><u>[Updated] From Static to Sprightly Bouncing Text Animations for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-speed-up-your-logitech-keyboard-a-hassle-free-approach/"><u>How to Speed Up Your Logitech Keyboard: A Hassle-Free Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-technicalities-of-podcast-rss-file-design/"><u>In 2024, The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-updated-drivers-for-your-hp-officejet-pro-8620-on-a-windows-pc-step-by-step-tutorial/"><u>Installing Updated Drivers for Your HP OfficeJet Pro 8620 on a Windows PC - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-computer-maintenance-how-to-perform-a-defrag-on-windows-11-with-revo-uninstaller-instructions/"><u>Mastering Computer Maintenance: How to Perform a Defrag on Windows 11 with Revo Uninstaller Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-memory-consumption-from-microsoft-compatibility-services-on-windows-11/"><u>Troubleshooting High Memory Consumption From Microsoft Compatibility Services on Windows 11</u></a></li>
 </ul></div>
 

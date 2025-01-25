@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2025-01-16T16:06:13.243Z
-updated: 2025-01-19T21:14:03.981Z
+date: 2025-01-22T17:38:25.515Z
+updated: 2025-01-25T20:36:56.809Z
 tags:
   - apple
 categories:
@@ -56,7 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -75,6 +75,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -88,7 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -116,7 +120,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -148,7 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,19 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-expert-tips-extracting-audio-from-youtube-video-playback/"><u>[New] 2024 Approved Expert Tips Extracting Audio From YouTube Video Playback</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/onfiguring-who-can-see-your-youtube-clips/"><u>[New] Configuring Who Can See Your YouTube Clips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-editors-roadmap-to-perfection-in-fcp-for-2024/"><u>[New] The Editor's Roadmap to Perfection in FCP for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-guide-converting-dvd-videots-to-high-quality-avi-files-effortlessly/"><u>1. Ultimate Guide: Converting DVD Video_TS to High-Quality AVI Files Effortlessly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287958833-dvd-dvd/"><u>DVDレコード作成ツール紹介 - 市販DVDや地上波のダビングソフト</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-mac-dvd-ripping-software-convert-dvds-to-mp4mov-with-hevc-and-watch-on-your-iphone/"><u>Free Mac DVD Ripping Software: Convert DVDs to MP4/MOV with HEVC & Watch on Your iPhone!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-simple-como-optimizar-y-reducir-tamanos-de-videos-para-su-correcta-carga-en-facebook/"><u>Guía Simple: Cómo Optimizar Y Reducir Tamaños De Videos Para Su Correcta Carga en Facebook</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-the-rotibox-bluetooth-beanie-delivers-top-notch-comfort-and-audio-performance/"><u>How the Rotibox Bluetooth Beanie Delivers Top-Notch Comfort and Audio Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-hd-video-conversion-with-handbrake-on-android-tablets-essential-setup-tips/"><u>Mastering HD Video Conversion with Handbrake on Android Tablets - Essential Setup Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-hevch265-a-comprehensive-guide-for-mac-users/"><u>Mastering HEVC/H.265: A Comprehensive Guide for Mac Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-persona-building-in-chatgpt-driven-design/"><u>Streamlining Persona Building in ChatGPT-Driven Design</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999742301-troubleshooting-your-total-war-saga-troy-pc-game-crash-solutions-inside/"><u>Troubleshooting Your 'Total War Saga: Troy' PC Game Crash - Solutions Inside!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-dualtracksync-the-ultimate-audio-matching-solution-for-adobe-premiere-pro-users/"><u>Updated In 2024, DualTrackSync The Ultimate Audio Matching Solution for Adobe Premiere Pro Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimize-youtube-tagstitledescription-for-more-views-for-2024/"><u>[New] How to Optimize YouTube Tags/Title/Description for More Views for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-stream-to-file-conversion-effortless-archive-creation/"><u>[New] In 2024, Stream-to-File Conversion Effortless Archive Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-guide-to-record-online-video-calls/"><u>[New] Step-by-Step Guide to Record Online Video Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-groan-inducing-humor-in-hits/"><u>[Updated] 2024 Approved Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grow-your-streams-money-potential-anywhere-on-devices/"><u>[Updated] 2024 Approved Grow Your Stream's Money Potential Anywhere on Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-equipment-selection-for-youtube-creators/"><u>[Updated] 2024 Approved Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level/"><u>[Updated] In 2024, From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-transcribe-a-youtube-video-for-free/"><u>[Updated] In 2024, How to Transcribe a YouTube Video for FREE</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-vivid-vistas-in-video-a-closer-look-at-lgs-monitor-31mu97-b-for-2024/"><u>[Updated] Vivid Vistas in Video A Closer Look at LG's Monitor, 31MU97-B for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-best-fb-videos-top-10-watcher-tools/"><u>2024 Approved Best FB Videos Top 10 Watcher Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/launching-with-precision-how-team-collaboration-fuels-market-debuts/"><u>Launching with Precision: How Team Collaboration Fuels Market Debuts</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/losung-fur-die-nicht-funktionierende-dateisynchronisation-in-windows-betriebssystemen-11-10-8-7/"><u>Lösung Für Die Nicht Funktionierende Dateisynchronisation in Windows-Betriebssystemen (11, 10, 8, 7)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
 </ul></div>
 

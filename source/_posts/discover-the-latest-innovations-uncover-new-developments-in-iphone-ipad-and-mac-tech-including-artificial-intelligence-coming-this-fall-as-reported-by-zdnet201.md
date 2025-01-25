@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2025-01-12T19:29:54.657Z
-updated: 2025-01-19T16:44:13.300Z
+date: 2025-01-18T19:39:20.784Z
+updated: 2025-01-25T16:45:23.596Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +75,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +98,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -112,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -138,7 +138,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -210,24 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-understanding-facebooks-new-ranking-system/"><u>[New] 2024 Approved Understanding Facebook's New Ranking System</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-mastering-whatsapp-audio-chats-for-2024/"><u>[Updated] Mastering WhatsApp Audio Chats for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/convert-fb-video-to-downloadable-mp3-for-2024/"><u>Convert FB Video to Downloadable MP3 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-apples-new-vision-pro-spatial-persona-features-a-detailed-guide/"><u>Discover Apple's New Vision Pro Spatial Persona Features - A Detailed Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvddvd-styler-making-perfect-dvds-with-ease-using-dvd-stylers-finalize-feature/"><u>DVD生成における最終処理DVD Stylerで完璧な作品を手軽に作れます - Making Perfect DVDs with Ease Using DVD Styler's Finalize Feature</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-tutorial-on-installing-and-configuring-winxdvd-tool-suite/"><u>Expert Tutorial on Installing and Configuring WinXDVD Tool Suite</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/getting-started-with-windows-11-mobile-a-step-by-step-tutorial-for-insiders/"><u>Getting Started with Windows 11 Mobile - A Step-by-Step Tutorial for Insiders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-definitiva-para-reducir-tamano-de-archivo-conversion-de-4k-a-full-hd-en-windowsmac/"><u>Guía Definitiva Para Reducir Tamaño De Archivo: Conversión De 4K a Full HD en Windows/Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-turn-off-handbrakes-automatic-cropping-feature-and-edit-video-frames-by-yourself/"><u>How to Turn Off Handbrake's Automatic Cropping Feature and Edit Video Frames by Yourself</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-mix-fold-3-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Mix Fold 3 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/is-cortanas-german-language-support-featured-on-windows-11-phones/"><u>Is Cortana's German Language Support Featured on Windows 11 Phones?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-productivity-with-splitscreen-functionality-on-your-macbook-air-a-comprehensive-guide/"><u>Maximize Productivity with Splitscreen Functionality on Your MacBook Air - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-deal-alert-samsung-4tb-external-ssd-on-a-steep-discount-over-50-off-prime-your-digital-storage-this-labor-day/"><u>Mega Deal Alert: Samsung 4TB External SSD on a Steep Discount Over 50% Off - Prime Your Digital Storage This Labor Day!</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-boards-recommended-for-next-gen-gaming-systems/"><u>Power Boards Recommended for Next Gen Gaming Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/schadhafte-dvds-wiederherstellen-and-kopieren-auf-windows-11-einfache-losung-von-winxdvd/"><u>Schadhafte DVDs Wiederherstellen & Kopieren Auf Windows 11 - Einfache Lösung Von WinXDVD</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-realme-11x-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme 11X 5G FRP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-5-4k-ultra-hd-video-players-para-computadoras-y-macs-una-guia-completa/"><u>Top 5 4K Ultra HD Video Players Para Computadoras Y Macs: Una Guía Completa</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-10-and/"><u>Windows 10 ガイド：無料ダウンロード&アップグレード手順、そしてコルタナ・スパルタン・ホロラブズの簡単な紹介</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exploring-the-efficiency-of-modern-tunefab-recorders/"><u>[New] 2024 Approved Exploring the Efficiency of Modern Tunefab Recorders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-channel-description-for-2024/"><u>[New] How to Edit YouTube Channel Description for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[New] In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-content-creation-the-future-of-live-video-on-facebook/"><u>[New] In 2024, Revolutionizing Content Creation The Future of Live Video on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-economical-mic-options-for-youtube-vloggers/"><u>[Updated] 2024 Approved Economical Mic Options for YouTube Vloggers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>[Updated] A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-film-substitutes-to-stream-top-7-picks-for-2024/"><u>[Updated] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-real-broadcast-your-life-on-youtube-using-obs-for-2024/"><u>[Updated] Getting Real Broadcast Your Life on Youtube Using OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[Updated] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[Updated] In 2024, How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/flashcapture-quick-image-hold-manual/"><u>FlashCapture Quick Image Hold Manual</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-craft-of-online-title-perfection/"><u>Mastering the Craft of Online Title Perfection</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-most-popular-video-editing-software-for-mac-computers-for-2024/"><u>New S Most Popular Video Editing Software for Mac Computers for 2024</u></a></li>
 </ul></div>
 

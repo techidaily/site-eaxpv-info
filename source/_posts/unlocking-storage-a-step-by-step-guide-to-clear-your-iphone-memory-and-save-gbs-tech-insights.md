@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2025-01-17T22:35:32.798Z
-updated: 2025-01-19T18:13:52.257Z
+date: 2025-01-18T16:11:42.676Z
+updated: 2025-01-25T20:31:20.285Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,15 +58,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,21 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/12-techniques-expertes-pour-capturer-une-ecran-sur-votre-portable-asus-tutoriel-fiable-et-facile-dutilisation-de-movavi/"><u>[12 Techniques Expertes Pour Capturer Une Écran Sur Votre Portable ASUS] - Tutoriel Fiable Et Facile D'Utilisation De Movavi</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminating-odd-shades-a-step-by-step-guide-to-flawless-greenscreens-for-2024/"><u>[Updated] Eliminating Odd Shades A Step-by-Step Guide to Flawless Greenscreens for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-transform-your-videos-expert-choices-for-thumbnails/"><u>2024 Approved Transform Your Videos Expert Choices for Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/changer-votre-video-wmv-en-image-animee-gif-sans-frais-par-methode-de-conversion-numerique/"><u>Changer Votre Vidéo WMV en Image Animée GIF Sans Frais - Par Méthode De Conversion Numérique</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-video-files-for-free-transform-flv-into-high-quality-flac-using-movavis-service/"><u>Convert Video Files for Free - Transform FLV Into High-Quality FLAC Using Movavi's Service</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-m4v-videos-into-avi-format-at-no-cost-online-tool-by-moveavi/"><u>Convert Your M4V Videos Into AVI Format at No Cost - Online Tool by Moveavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/efficiently-convert-your-vlc-files-into-mp4-using-the-movavi-video-tool-a-comprehensive-guide/"><u>Efficiently Convert Your VLC Files Into MP4 Using the Movavi Video Tool - A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-videos-wmv-a-formato-libre-gif-con-el-servicio-web-gratuito-de-movavi/"><u>Guía Paso a Paso Para Convertir Vídeos WMV a Formato Libre GIF Con El Servicio Web Gratuito De Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-s23plus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy S23+ Phone Screen?</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-note-30-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Note 30 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-for-productivity-add-software-actions/"><u>Optimizing Windows for Productivity: Add Software Actions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-workflows-nircmds-win-shortcut-guide/"><u>Simplified Workflows: NirCmd's Win Shortcut Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-restoring-wi-fi-functionality-on-surface-pro-devices/"><u>Step-by-Step Guide: Restoring Wi-Fi Functionality on Surface Pro Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/surprisingly-economical-yet-resilient-in-depth-look-at-a-superior-smartwatch-value-zdnet-insights/"><u>Surprisingly Economical Yet Resilient: In-Depth Look at a Superior Smartwatch Value | ZDNET Insights</u></a></li>
-<li><a href="https://win-superb.techidaily.com/the-upswing-of-precious-metals-and-energy-commodities-amidst-geopolitical-uncertainty-expert-analysis-by-yl-computing-yl-software/"><u>The Upswing of Precious Metals and Energy Commodities Amidst Geopolitical Uncertainty: Expert Analysis by YL Computing, YL Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726226691480-jpeg-movavi/"><u>お使いのパソコンで即座にJPEGへ変更可能な無料オンライン画像変換 - Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-advice-on-lighting-your-youtube-content-perfectly/"><u>[New] 2024 Approved Expert Advice on Lighting Your YouTube Content Perfectly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes-for-2024/"><u>[New] From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-cinematic-success-in-your-youtube-channel-for-2024/"><u>[New] From Raw Footage to Cinematic Success in Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts-for-2024/"><u>[New] Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-enhance-your-vlogs-pacing-using-jump-cuts-for-2024/"><u>[New] How to Enhance Your Vlog's Pacing Using Jump Cuts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-10-best-flvto-alternatives-youtube-converter-you-can-try-for-2024/"><u>[New] Top 10 Best Flvto Alternatives YouTube Converter You Can Try for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hire-wisdom-top-10-recruiting-video-guide-for-2024/"><u>[Updated] Hire Wisdom Top 10 Recruiting Video Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[Updated] In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-the-complete-creator-hub-guide/"><u>[Updated] In 2024, From Novice to Pro The Complete Creator Hub Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-twitter-the-dual-streaming-of-nba-events/"><u>Facebook, Twitter: The Dual Streaming of NBA Events</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x9b-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X9b Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-90-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-meets-the-multiverse-a-detailed-comparison/"><u>In 2024, Metaverse Meets the Multiverse A Detailed Comparison</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-savings-unlock-36-discount-on-the-8tb-samsung-portable-ssd-now-available-on-amazon-technews-by-zdnet/"><u>Massive Savings: Unlock 36% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/speech-to-text-efficient-conversion-techniques-for-microsoft-word-users-for-2024/"><u>Speech to Text Efficient Conversion Techniques for Microsoft Word Users for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/syma-x8c-performance-breakdown/"><u>Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-role-of-supplemental-imagery-in-storytelling/"><u>The Role of Supplemental Imagery in Storytelling</u></a></li>
 </ul></div>
 

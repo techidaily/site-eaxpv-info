@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2025-01-16T17:29:43.388Z
-updated: 2025-01-19T16:08:55.764Z
+date: 2025-01-18T22:00:31.162Z
+updated: 2025-01-25T17:50:30.706Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -41,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -51,7 +55,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -70,19 +74,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -94,15 +90,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,22 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-mastering-social-media-splitscreen-a-facebook-guide/"><u>[New] 2024 Approved Mastering Social Media Splitscreen A Facebook Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-android-developers-insider-take-scouting-the-leading-fb-video-extractors-for-2024/"><u>[New] Android Developer's Insider Take Scouting the Leading FB Video Extractors for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-online-income-tally-for-youtube-stars/"><u>[New] In 2024, Online Income Tally for YouTube Stars</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-piecing-together-memories-your-guide-to-montages/"><u>[New] Piecing Together Memories Your Guide to Montages</u></a></li>
-<li><a href="https://win-docs.techidaily.com/boosting-your-roi-with-effective-mobile-coupon-campaigns-a-guide-using-massmail/"><u>Boosting Your ROI with Effective Mobile Coupon Campaigns: A Guide Using Massmail</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-augmenter-la-definition-de-votre-photo-guide-des-meilleures-pratiques-2024/"><u>Comment Augmenter La Définition De Votre Photo - Guide Des Meilleures Pratiques 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-video-avancee-avec-winx-deluxe-transformez-et-reduisez-votre-contenu-multimedia-rapidement-grace-a-lacceleration-du-gpu/"><u>Conversion Vidéo Avancée Avec WinX Deluxe: Transformez Et Réduisez Votre Contenu Multimédia Rapidement Grâce À L'Accélération Du GPU</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-se-2022ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone SE (2022)/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvdblu-ray-powerdvd/"><u>DVD/Blu-Rayプレーヤーが動かない時のトラブルシューティング - PowerDVD対応ソリューション</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/efficiently-shrinking-avi-files-with-no-quality-compromise-in-windows-10/"><u>Efficiently Shrinking AVI Files with No Quality Compromise in Windows 10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhancing-midjourney-photos-a-guide-to-upscaling-images-to-4k-and-beyond-perfect-quality-for-high-end-print/"><u>Enhancing MidJourney Photos: A Guide to Upscaling Images to 4K and Beyond Perfect Quality for High-End Print</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gpu-powered-video-and-audio-conversion-made-easy-with-winxvideo-ai/"><u>GPU-Powered Video and Audio Conversion Made Easy with Winxvideo AI</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-tailoring-your-way-to-youtube-subtitles-srt/"><u>In 2024, Step-by-Step Tailoring Your Way to YouTube Subtitles (SRT)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/inteligencia-artificial-en-interpolacion-de-fotogramas-incrementando-la-rendimiento-de-fps-y-transiciones-sin-escalonamiento-visual/"><u>Inteligencia Artificial en Interpolación De Fotogramas: Incrementando La Rendimiento De FPS Y Transiciones Sin Escalonamiento Visual</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/sdhd/"><u>SDからHDへの変更：動画画質の向上に必要なステップを解説</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-stream-to-high-fidelity-choosing-budget-friendly-wav-tools/"><u>[New] 2024 Approved From Live Stream to High Fidelity Choosing Budget-Friendly WAV Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[New] In 2024, How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-money-on-youtube-shorts-effective-practical-ways/"><u>[New] In 2024, How to Make Money on YouTube Shorts? [Effective Practical Ways]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagrams-most-trusted-grid-creation-applications-ranked-anew/"><u>[New] Instagram's Most Trusted Grid Creation Applications Ranked Anew</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/witching-onoff-comment-functionality-on-youtube/"><u>[New] Switching On/Off Comment Functionality on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-no-one-watching-to-huge-engagement-10-proven-ways-to-increase-video-popularity/"><u>[Updated] 2024 Approved From No One Watching to Huge Engagement 10 Proven Ways to Increase Video Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-success-with-freefire-hashtag-tips/"><u>[Updated] 2024 Approved Harnessing Success with FreeFire Hashtag Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-satirize-a-guide-to-parody-production/"><u>[Updated] 2024 Approved How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dji-drone-artistry-unlocked-first-20-free-lutts-available-for-2024/"><u>[Updated] DJI Drone Artistry Unlocked – First 20 Free LUTTs Available for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-guide-screen-capture-on-windows-8-devices/"><u>[Updated] Expert Guide Screen Capture on Windows 8 Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>[Updated] In 2024, Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies/"><u>[Updated] In 2024, From Good to Great Elevate Reactions in YouTube Videos with These 3 Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlock-creative-potential-with-kinemaster-skills-plus-10-superior-alternatives/"><u>[Updated] Unlock Creative Potential with KineMaster Skills + 10 Superior Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-gradual-volume-change/"><u>2024 Approved Advanced Techniques for Gradual Volume Change</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027590826-it/"><u>専門的なITサポート・対応方法とヒント - 難しい問題を解決する</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/all-advantages-with-real-time-chatgpt-data/"><u>All Advantages with Real-Time ChatGPT Data</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-of-lost-or-absent-helperdll-files-step-by-step-strategies-for-victory/"><u>Overcoming the Challenge of Lost or Absent Helper.dll Files: Step-by-Step Strategies for Victory</u></a></li>
 </ul></div>
 

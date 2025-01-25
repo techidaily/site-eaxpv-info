@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2025-01-14T19:49:46.332Z
-updated: 2025-01-19T21:06:09.714Z
+date: 2025-01-19T18:20:52.309Z
+updated: 2025-01-25T18:00:57.282Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Let me show you both approaches.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update MacOS apps from the App Store
@@ -39,7 +39,7 @@ Let me show you both approaches.
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -70,12 +70,16 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
@@ -83,7 +87,7 @@ This is a bit more complicated, for two reasons: first, you have to find out wha
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check for available updates
@@ -97,10 +101,6 @@ You will be prompted for your sudo password (which is your MacOS user password).
 **Also: [How to update every Apple device (iPhone, iPad, Apple Watch, Mac, more)](https://www.zdnet.com/article/how-to-update-every-apple-device/)**
 
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update the apps
 
@@ -144,16 +144,15 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-ios-gaming-experience-top-emulators-for-your-favorite-psp-titles/"><u>[New] In 2024, Best iOS Gaming Experience Top Emulators for Your Favorite PSP Titles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-smartphone-shots-best-camera-accessories-for-filmmakers/"><u>[New] In 2024, Elevate Your Smartphone Shots Best Camera Accessories for Filmmakers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>[Updated] Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transform-your-dvds-into-digital-files-across-pc-mac-and-smartphone/"><u>Effortless Guide: Transform Your DVDs Into Digital Files Across PC, Mac, and Smartphone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-zte-nubia-flip-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your ZTE Nubia Flip 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macmovmp4/"><u>MacからMOVファイルをMP4へ完全忠実移行:電光石火の速度で</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mejora-la-velocidad-de-codificacion-hevch265-consejos-para-acelerar-el-proceso/"><u>Mejora La Velocidad De Codificación HEVC/H.265: Consejos Para Acelerar El Proceso</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-handling-rockaldlldll-absence-errors/"><u>Step-by-Step Solution: Handling rockaldll.dll Absence Errors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformation-libre-et-rapide-des-fichiers-wmv-au-format-mp4-avec-precision-qualitative-de-98/"><u>Transformation Libre Et Rapide Des Fichiers WMV Au Format MP4 Avec Précision Qualitative De 98%</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-note-30-vip-racing-edition-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Note 30 VIP Racing Edition Screen | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tutorial-rapide-convertissez-vos-disques-dvd-en-versions-video-numeriques-pour-windows-et-macos/"><u>Tutorial Rapide : Convertissez Vos Disques DVD en Versions Vidéo Numériques Pour Windows Et macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-in-focus-building-a-foundation-of-youtube-backlinks-for-2024/"><u>[New] Growth in Focus Building a Foundation of YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>[New] In 2024, Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[Updated] 2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-more-video-views-on-youtube/"><u>[Updated] In 2024, How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-foremost-android-alternatives-for-playstation-2-emulation/"><u>2024 Approved Unveiling The Foremost Android Alternatives for PlayStation 2 Emulation</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/disabling-notification-alerts-via-control-panel-a-step-by-step-guide-from-yl-computing/"><u>Disabling Notification Alerts via Control Panel - A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-import-and-export-av1-files-in-adobe-premiere-pro/"><u>How to Import and Export AV1 Files in Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y36i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y36i Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steady-connection-reinstating-atheros-adapter-driver/"><u>Steady Connection: Reinstating Atheros Adapter Driver</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-obstacles-of-shipping-tokens-through-apple-products-a-guide-to-5-key-issues/"><u>The Obstacles of Shipping Tokens Through Apple Products: A Guide to 5 Key Issues</u></a></li>
 </ul></div>
 

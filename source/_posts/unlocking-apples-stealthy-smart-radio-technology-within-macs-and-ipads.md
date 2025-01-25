@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2025-01-15T21:42:00.902Z
-updated: 2025-01-19T17:22:45.806Z
+date: 2025-01-22T17:36:46.509Z
+updated: 2025-01-25T20:50:40.909Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPads with a Thread radio:
@@ -66,10 +66,6 @@ Since the iPad and Mac run Apple's Home app, they could function as Thread borde
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Find your device's model number or FCC ID
 
 Most Apple devices, except iPhones, have this printed on the back. If you can't find this number on the device, go to Settings, General, select About**,** and look for the model number.
@@ -79,7 +75,7 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Access the Apple FCC database
@@ -89,6 +85,10 @@ You can access the Apple FCC database by clicking [FCC.Report/company/Apple](htt
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -102,6 +102,10 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## What is Thread?
@@ -113,7 +117,7 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Thread border router?
@@ -147,10 +151,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 **Also: [Govee's new smart outdoor lights brighten your home in three colorful ways](https://www.zdnet.com/home-and-office/smart-home/govees-new-smart-outdoor-lights-brighten-your-home-in-three-colorful-ways/)**
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the iPad a smart home hub?
 
@@ -204,19 +204,22 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-boosting-your-content-reach-with-eye-catching-youtube-video-thumbnails/"><u>[New] Boosting Your Content Reach with Eye-Catching YouTube Video Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-deep-dive-into-youtube-view-counts-and-more/"><u>[New] In 2024, A Deep Dive Into YouTube View Counts and More</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>[Updated] In 2024, Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-art-of-amplification-a-comprehensive-guide-to-sharing-videos-on-facebook/"><u>2024 Approved The Art of Amplification A Comprehensive Guide to Sharing Videos on Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/apoiar-pesquisa-cientifica/"><u>Apoiar Pesquisa Científica</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/efficiently-control-your-iphones-view-size/"><u>Efficiently Control Your iPhone's View Size</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transferring-dvd-content-onto-your-pc-or-mac-with-ease/"><u>Effortless Guide: Transferring DVD Content Onto Your PC or Mac with Ease</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/w-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-playstation-5-game-storage/"><u>Optimize Your PlayStation 5 Game Storage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-guide-converting-dvds-to-divx-format-using-windows-or-mac-os/"><u>Quick Guide: Converting DVDs to DivX Format Using Windows or Mac OS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2010-files-for-free-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2010 Files for Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/secure-your-copy-of-winx-dvdbluray-transcoder-and-editor-suite-from-reputable-retailers/"><u>Secure Your Copy of WinX DVD/Bluray Transcoder and Editor Suite From Reputable Retailers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-smart-video-upgrade-with-ai-powered-upscaling-stabilization-and-conversion-tools/"><u>WinxVideo AI: Smart Video Upgrade with AI-Powered Upscaling, Stabilization, and Conversion Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-tools-and-tricks-creating-compelling-youtube-video-ads-for-2024/"><u>[New] Free Tools and Tricks Creating Compelling YouTube Video Ads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-casual-follower-to-dedicated-subscriber-inspirational-journey-for-2024/"><u>[New] From Casual Follower to Dedicated Subscriber Inspirational Journey for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-search-patterns-to-screenplay-crafting-videos-from-google-data-for-2024/"><u>[New] From Search Patterns to Screenplay Crafting Videos From Google Data for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[New] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[New] In 2024, Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-equipment-selection-for-youtube-creators/"><u>[New] In 2024, Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-what-are-the-disadvantages-of-vr/"><u>[New] In 2024, What Are the Disadvantages of VR?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-videos-shared-directly-from-phones/"><u>[New] Twitter Videos Shared Directly From Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[Updated] 2024 Approved From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-use-dslr-for-facebook-live-on-you-pc-or-mac/"><u>[Updated] How to Use DSLR for Facebook Live on You PC or Mac?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamified-design-making-your-youtube-banner-unforgettable/"><u>[Updated] In 2024, Gamified Design Making Your YouTube Banner Unforgettable</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-the-secrets-of-ios-visual-data-repository-for-2024/"><u>[Updated] Unlocking the Secrets of IO's Visual Data Repository for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-high-end-computers-a-showcase-of-excellence/"><u>2024 Approved High-End Computers A Showcase of Excellence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-resonance-of-rhythm-music-that-echoes-films/"><u>2024 Approved The Resonance of Rhythm Music That Echoes Films</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-overcome-no-image-problem-in-youtube-shorts-for-2024/"><u>How To Overcome No Image Problem in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-5-best-free-mov-video-joiners/"><u>New 2024 Approved 5 Best Free MOV Video Joiners</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-address-unsupported-peripheral-devices-with-idt-software/"><u>Step-by-Step Guide to Address Unsupported Peripheral Devices with IDT Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2025-01-17T21:29:53.702Z
-updated: 2025-01-19T22:30:58.398Z
+date: 2025-01-21T22:02:36.669Z
+updated: 2025-01-25T19:30:01.352Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -99,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -137,6 +133,10 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,20 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-snippet-stardom-top-hashtags-for-elevating-your-viral-youtube-content/"><u>[New] In 2024, Snippet Stardom Top Hashtags for Elevating Your Viral YouTube Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-conduct-an-audiovisual-symphony-for-ppt/"><u>[Updated] Conduct an Audiovisual Symphony for PPT</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertisseur-gratuit-en-ligne-pour-transferer-des-fichiers-webm-en-format-m4v-movavi/"><u>Convertisseur Gratuit en Ligne Pour Transférer Des Fichiers Webm en Format M4V - Movavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enveloped-by-shadow-adobe-technique-for-2024/"><u>Enveloped by Shadow Adobe Technique for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-logitech-webcams-up-and-running-free-windows-compatible-drivers/"><u>Get Logitech Webcams Up and Running: Free Windows-Compatible Drivers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-simple-para-transferir-archivos-cr2-sin-costo-utilizar-el-servicio-en-linea-de-movavi/"><u>Guía Simple Para Transferir Archivos CR2 Sin Costo: Utilizar El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerate-or-slow-down-on-the-screen-netflix/"><u>In 2024, Accelerate or Slow Down on the Screen (Netflix)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-5-android-screen-recorders-essential-app-selection/"><u>In 2024, Top 5 Android Screen Recorders Essential App Selection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/piecing-together-memories-your-guide-to-montages/"><u>Piecing Together Memories Your Guide to Montages</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/toutes-les-etapes-pour-changer-un-fichier-tga-en-jpg-sur-movavi-sans-frais/"><u>Toutes Les Étapes Pour Changer Un Fichier TGA en JPG Sur Movavi, Sans Frais</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-gratuitement-votre-fichier-mkv-en-format-mjpeg-sur-linternet-avec-moveave-conversion-video/"><u>Transformez Gratuitement Votre Fichier MKV en Format MJPEG Sur L'Internet Avec Moveave - Conversion Vidéo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-swf-in-gif-senza-costi-conversione-gratuita-online-con-movavi/"><u>Trasforma I Tuoi File SWF in GIF Senza Costi - Conversione Gratuita Online Con Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-audio-problems-in-flat-panel-videos-using-movavi-software/"><u>Troubleshooting Audio Problems in Flat Panel Videos Using Movavi Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-top-templates-for-youtube-previews/"><u>[New] 2024 Approved Guide to Top Templates for YouTube Previews</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-the-art-of-using-telegram-online/"><u>[New] 2024 Approved Mastering the Art of Using Telegram Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-filmoras-quick-start-approach-for-youtube-trailers-for-2024/"><u>[New] Filmora's Quick-Start Approach for YouTube Trailers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hidden-gems-to-youtube-sensations-the-top-reasons-for-zero-views/"><u>[New] In 2024, From Hidden Gems to YouTube Sensations The Top Reasons for Zero Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-youtube-elite-earnings-leader/"><u>[New] In 2024, Global YouTube Elite Earnings Leader</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>[New] In 2024, How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-secrets-of-valheim-crop-cultivation-for-2024/"><u>[New] Unveiling the Secrets of Valheim Crop Cultivation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[Updated] In 2024, From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-static-to-sprightly-bouncing-text-animations/"><u>[Updated] In 2024, From Static to Sprightly Bouncing Text Animations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-high-dynamic-range-battle-black-hero5-and-sj7/"><u>[Updated] In 2024, High Dynamic Range Battle Black Hero5 & SJ7</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transform-videos-into-attractors-try-these-7-thumbnail-makers/"><u>[Updated] In 2024, Transform Videos Into Attractors - Try These 7 Thumbnail Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-short-form-video-content-top-strategies-revealed/"><u>[Updated] Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/gratis-ogv-to-mp3-versterking-online-met-movavi-converter-tool/"><u>Gratis OGV-to-MP3-Versterking Online Met Movavi Converter Tool</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y28-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y28 5G FRP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/innovative-ideas-for-fb-slideshow-creations/"><u>Innovative Ideas for FB Slideshow Creations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mf8200c-driver-download-supports-windows-7-81-and-10-systems/"><u>Latest Canon MF8200C Driver Download: Supports Windows 7, 8.1 & 10 Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia FRP</u></a></li>
 </ul></div>
 

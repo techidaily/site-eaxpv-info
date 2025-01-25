@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2025-01-14T19:53:46.891Z
-updated: 2025-01-19T16:47:55.167Z
+date: 2025-01-21T19:25:55.600Z
+updated: 2025-01-25T17:19:54.743Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,14 +126,17 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-reducing-audio-dynamics-in-live-sessions-for-2024/"><u>[New] Reducing Audio Dynamics in LIVE Sessions for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-7-lut/"><u>2024년에 제공하는 7대 상위 LUT 컬러 조정 소프트와 비교</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertissez-votre-fichier-wav-en-video-3gp-gratuitement-easy-online-conversion-a-laide-de-movavi/"><u>Convertissez Votre Fichier .wav en Vidéo 3GP Gratuitement - Easy Online Conversion À L'aide De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-wmv-teams-in-mp4-online-vervangen-professioneel-en-efficient/"><u>Gratis WMV-Teams in MP4 Online Vervangen - Professioneel en Efficiënt</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/make-gif-on-iphone-top-10-gif-apps-for-iphone-x876-for-2024/"><u>Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6 for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-update-6-best-voice-changers-you-cant-miss/"><u>New Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-moment-for-an-instagram-revival-has-arrived/"><u>The Moment for an Instagram Revival Has Arrived</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-capturing-screen-activity-on-iphone-11-using-the-best-techniques-by-movavi/"><u>Ultimate Tutorial: Capturing Screen Activity on iPhone 11 Using the Best Techniques by Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>[New] 2024 Approved First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license-for-2024/"><u>[New] How to Retain Video Engagement Sustained Use of YouTube's CC License for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-a-niche-market-on-youtube/"><u>[New] In 2024, How to Find A Niche Market on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[Updated] 2024 Approved From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-creator-to-kingmaker-ajays-youtube-revenue-revolution-for-2024/"><u>[Updated] From Creator to Kingmaker Ajay’s YouTube Revenue Revolution for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nokia-c12-plus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nokia C12 Plus to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cure-your-sony-vegas-breakdowns-with-these-troubleshooting-steps/"><u>Cure Your Sony Vegas Breakdowns with These Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-prevent-call-of-duty-modern-warfare-from-breaking-down/"><u>Effective Solutions to Prevent Call of Duty: Modern Warfare From Breaking Down</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-13-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 13 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c12-plus-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C12 Plus Phone Screen?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-definitive-guide-for-effective-and-smooth-youtube-video-uploads-for-2024/"><u>The Definitive Guide for Effective and Smooth YouTube Video Uploads for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: What to Do When Your iPhone Shows Signs of Moisture?"
-date: 2025-01-16T18:37:28.194Z
-updated: 2025-01-19T16:21:46.613Z
+date: 2025-01-21T18:54:34.930Z
+updated: 2025-01-25T21:11:50.295Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,21 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-leading-websites-for-free-game-of-thrones-ringtones/"><u>[New] 2024 Approved Leading Websites for Free Game of Thrones Ringtones</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-dslr-or-mirrorless-for-high-quality-video-recording-in-2024/"><u>[New] DSLR or Mirrorless for High-Quality Video Recording, In 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastering-zooms-video-enhancements-filter-techniques/"><u>[New] In 2024, Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023/"><u>[New] In 2024, The Ultimate Entry Editor for Diverse Tech Landscape of 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/compreendendo-o-formato-de-video-m4v-e-tecnicas-para-abertura-do-mp4/"><u>Compreendendo O Formato De Vídeo M4V E Técnicas Para Abertura Do MP4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-des-fichiers-avi-avec-la-meilleure-solution-de-conversion-video-movavi/"><u>Conversion Gratuite Des Fichiers AVI Avec La Meilleure Solution De Conversion Vidéo: Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizing-chatgpt-techniques-for-developing-personalized-ai-conversations/"><u>Customizing ChatGPT: Techniques for Developing Personalized AI Conversations</u></a></li>
-<li><a href="https://article-files.techidaily.com/glacial-glory-pinnacle-sports-achievements/"><u>Glacial Glory Pinnacle Sports Achievements</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-refresh-or-replace-your-present-graphic-processor-tips-from-yl-software-experts/"><u>How to Refresh or Replace Your Present Graphic Processor - Tips From YL Software Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavis-complimentary-video-converter-turn-your-voc-videos-into-high-quality-avi/"><u>Movavi's Complimentary Video Converter - Turn Your VOC Videos Into High-Quality AVI</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/sucasny-prekonanie-videokonvertovanie-do-formatu-mp3-behem-a-prstoustopnymi-zrucnostmi/"><u>Súčasný Prekonanie Vídeokonvertovanie Do Formátu MP3 Behém a Prstoustopnými Zručnosťmi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-14-fabricantes-de-gifs-ultimo-programa-de-edicion-para-crear-animaciones-perfectas/"><u>Top 14 Fabricantes De GIFs: Último Programa De Edición Para Crear Animaciones Perfectas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-wav-en-video-mp4-facilement-et-sans-frais-avec-movavi/"><u>Transformez Votre Fichier WAV en Vidéo MP4 Facilement Et Sans Frais - Avec Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-file-mp2-in-wav-liberamente-su-internet-con-convertitore-di-movavi/"><u>Trasforma I File MP2 in WAV Liberamente Su Internet Con Convertitore Di Movavi</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/sh-creativity-exclusive-free-youtube-banner-templates-for-2024/"><u>Unleash Creativity - Exclusive Free YouTube Banner Templates for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[New] 2024 Approved From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamified-learning-educational-youtubers-to-subscribe-for-2024/"><u>[New] Gamified Learning Educational YouTubers to Subscribe for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-no-pressure-pc-games-guide/"><u>[Updated] In 2024, Best No-Pressure PC Games Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels/"><u>[Updated] In 2024, Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>[Updated] In 2024, How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sierra-unlocking-all-access-to-icloud-files-and-desktop/"><u>2024 Approved Sierra Unlocking All Access to iCloud Files and Desktop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-by-step-save-gifs-from-fb-on-different-devices/"><u>2024 Approved Step-by-Step Save GIFs From FB on Different Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-viral-video-legends-youtubed-for-millions/"><u>2024 Approved Viral Video Legends YouTubed for Millions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/premium-listings-where-to-download-snappy-tones-directly-for-2024/"><u>Premium Listings Where to Download Snappy Tones Directly for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prime-voice-capture-apps-for-mac-users-feature-spotlight/"><u>Prime Voice Capture Apps for Mac Users Feature Spotlight</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-11-pro-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 11 Pro Activation Lock</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-removing-background-music-and-sounds-from-new-avi-files/"><u>Updated Removing Background Music and Sounds From New AVI Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Analysis Editorial Team
-date: 2025-01-15T16:15:08.776Z
-updated: 2025-01-19T16:21:14.007Z
+date: 2025-01-23T21:42:16.133Z
+updated: 2025-01-25T18:51:22.623Z
 tags:
   - apple
 categories:
@@ -30,17 +30,9 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -55,7 +47,7 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -71,7 +63,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -96,9 +88,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -119,7 +119,7 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -168,20 +168,21 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-elevate-your-reddit-presence-with-these-essentials-for-2024/"><u>[New] Elevate Your Reddit Presence with These Essentials for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stream-away-the-leading-online-video-havens/"><u>[New] Stream Away The Leading Online Video Havens</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instagram-tutorial-upload-and-share-video/"><u>[Updated] In 2024, Instagram Tutorial Upload and Share Video</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>[Updated] In 2024, The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/choosing-the-best-camera-for-filming-mirrorless-or-dslr/"><u>Choosing the Best Camera for Filming Mirrorless or DSLR</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converti-gratuitamente-gif-al-formato-bmp-online-con-movavi/"><u>Converti Gratuitamente GIF Al Formato BMP Online Con Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhancing-your-content-with-music-and-dynamic-effects-in-slide-shows-for-pc-and-mac-users/"><u>Enhancing Your Content with Music and Dynamic Effects in Slide Shows for PC & Mac Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-items-accompanying-the-nintendo-switch-purchase/"><u>Essential Items Accompanying the Nintendo Switch Purchase</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuito-online-converter-de-audio-para-mp3-wav-e-m4a-software-livre-e-gratuito-de-movavi/"><u>Gratuito Online: Converter De Audio Para MP3, WAV E M4A - Software Livre E Gratuito De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-rapido-e-facil-converter-arquivos-ts-em-mp4-com-o-movavi/"><u>Guia Rápido E Fácil: Converter Arquivos TS Em MP4 Com O Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-blaze-2-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Blaze 2 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-prohibited-to-save-youtube-footage-in-2024/"><u>Is It Prohibited to Save YouTube Footage, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/techniques-gratuites-pour-convertir-des-fichiers-ape-au-format-aac-guides-de-conversion-en-ligne-par-movavi/"><u>Techniques Gratuites Pour Convertir Des Fichiers APE Au Format AAC - Guides De Conversion en Ligne Par Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tecnicas-avanzadas-para-mejorar-videos-oscuros-en-2024-dos-metodos-innovadores/"><u>Técnicas Avanzadas Para Mejorar Videos Oscuros en 2024 - Dos Métodos Innovadores</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-setup-a-mac-studio-for-sports-content/"><u>[New] 2024 Approved How to Setup a Mac Studio for Sports Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here-for-2024/"><u>[New] From Zero to Cool Video Star Your Mac Youtube Journey Starts Here for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-professional-youtube-editing-secrets/"><u>[New] In 2024, From Script to Screen Professional YouTube Editing Secrets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-vlog-discussion-ideas-each-day/"><u>[Updated] 2024 Approved Fresh Vlog Discussion Ideas Each Day</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-clarity-on-your-youtube-audiences-behavior/"><u>[Updated] 2024 Approved Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-invisible-broadcasts-anonymous-instagram-live-tips/"><u>[Updated] 2024 Approved Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube-for-2024/"><u>[Updated] From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac-for-2024/"><u>[Updated] How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac] for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-recorders-eye-a-snapshot-of-best-tools/"><u>[Updated] The Recorder's Eye A Snapshot of Best Tools</u></a></li>
+<li><a href="https://win-top.techidaily.com/alexandrias-premier-seo-firms-discover-expert-services-with-seo-powersuite/"><u>Alexandria's Premier SEO Firms : Discover Expert Services with SEO PowerSuite</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-cloak-of-secrecy-for-your-photos/"><u>Crafting a Cloak of Secrecy for Your Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-landscape-of-gptzero-and-ai-text/"><u>Navigating the Landscape of GPTZero and AI Text</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>New 2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New In 2024, The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-iphones-video-length-tailoring/"><u>Ultimate Guide to iPhone's Video Length Tailoring</u></a></li>
 </ul></div>
 

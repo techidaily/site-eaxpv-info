@@ -1,7 +1,7 @@
 ---
 title: Flexible Connection Setup on macOS with Multiple Network Locations - Tips
-date: 2025-01-15T22:13:06.032Z
-updated: 2025-01-19T20:58:28.294Z
+date: 2025-01-18T18:46:34.222Z
+updated: 2025-01-25T22:02:21.553Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
@@ -36,35 +40,27 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
-## How to create different network locations in MacOS
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to create different network locations in MacOS
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create a new network location
 
@@ -73,6 +69,10 @@ From the Location drop-down, select Edit Locations. In the resulting pop-up, cli
 Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Configure the new location
 
@@ -85,7 +85,7 @@ Image: Jack Wallen
 Once you've configured the location exactly how you need it, click Apply to save everything.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Switching to a different Network Location
@@ -131,24 +131,18 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-win-11-strategies-to-successfully-save-mov-files-for-2024/"><u>[New] Win 11 Strategies to Successfully Save .mov Files for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-complete-guide-to-prevent-and-repair-fb-video-issues-for-2024/"><u>[Updated] The Complete Guide to Prevent and Repair FB Video Issues for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-compilation-the-top-5-high-fidelity-cameras/"><u>[Updated] Ultimate Compilation The Top 5 High Fidelity Cameras</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversor-de-video-gratuito-on-line-formatos-amv-e-avi-para-video-tudo-facilitado-pelo-movavi/"><u>Conversor De Vídeo Gratuito On-Line: Formatos AMV E Avi Para Video, Tudo Facilitado Pelo Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-mov-files-into-3gp-format-for-free-on-movavi-web-platform/"><u>Convert MOV Files Into 3GP Format for Free on Movavi Web Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descubra-os-melhores-programas-de-edicao-de-video-para-entusiastas-de-games-no-pc-selecao-exclusiva-pela-movavi/"><u>Descubra Os Melhores Programas De Edição De Vídeo Para Entusiastas De Games No PC - Seleção Exclusiva Pela Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-m4v-to-mkv-without-extra-costs-movavi/"><u>Free Online Converter - M4V to MKV Without Extra Costs | Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-tools-how-to-transform-avi-videos-into-mp4-format-on-pcs-and-mac-computers/"><u>Free Tools: How to Transform AVI Videos Into MP4 Format on PCs and Mac Computers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-g22-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia G22</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-poco-x5-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Poco X5 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/leading-security-consultancy-enhances-offerings-and-scales-operations-through-innovative-autoform-technology/"><u>Leading Security Consultancy Enhances Offerings & Scales Operations Through Innovative Autoform Technology</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-correcting-acrocefexe-system-errors/"><u>Mastering the Art of Correcting AcroCEF.exe System Errors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavimp3-mp4/"><u>Movaviで無償オンライン音楽形式(MP3, MP4)変換機能 - 利用ガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-opus-m4a-movavi/"><u>Online OPUS M4A 항공전화 무료 변환 - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tournez-gratuitement-un-fichier-avi-en-format-aac-avec-online-converter-movavi/"><u>Tournez Gratuitement Un Fichier AVI en Format AAC Avec Online Converter - Movavi</u></a></li>
-<li><a href="https://win-info.techidaily.com/transferring-music-from-spotify-to-a-separate-hard-drive-a-simple-how-to-tutorial/"><u>Transferring Music From Spotify to a Separate Hard Drive – A Simple How-To Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformacion-gratuita-de-archivos-pef-a-png-por-medio-de-la-herramienta-online-de-movavi/"><u>Transformación Gratuita De Archivos PEF a PNG Por Medio De La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-video-mp4mpeg-en-animation-flash-swf-gratuitement-sur-le-site-de-conversion-de-movavi/"><u>Transformez Votre Fichier Vidéo MP4/MPEG en Animation Flash SWF Gratuitement Sur Le Site De Conversion De Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-film-substitutes-to-stream-top-7-picks/"><u>[New] 2024 Approved Film Substitutes to Stream - Top 7 Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-youtube-auto-subscribe-link-for-2024/"><u>[New] How to Create a YouTube Auto-Subscribe Link for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-deal-with-youtube-trolls-and-negative-comments-for-2024/"><u>[New] How To Deal with YouTube Trolls and Negative Comments for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grasping-your-youtube-popularity-with-precision/"><u>[Updated] 2024 Approved Grasping Your YouTube Popularity with Precision</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-uncover-these-top-ten-thriving-youtube-communities-today/"><u>[Updated] 2024 Approved Uncover These Top Ten Thriving YouTube Communities Today</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-soundbank-freeness-central-for-2024/"><u>[Updated] FB Soundbank Freeness Central for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>[Updated] In 2024, How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-xsplit-database-comprehensive-review-archives-for-2024/"><u>[Updated] XSplit Database Comprehensive Review Archives for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/yl-computing-insights/"><u>吉娜·雷蒙多与李克强会面深入探讨美中经贸合作及安全挑战 - YL Computing Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-11-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/livestream-giants-rivalry-facebook-vs-youtube-vs-periscope-for-2024/"><u>Livestream Giants' Rivalry Facebook Vs. YouTube Vs. Periscope for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/samsungs-galaxy-s8-unveiled-redefining-video-standards-for-2024/"><u>Samsung’s Galaxy S8 Unveiled Redefining Video Standards for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/teamwork-makes-the-dream-work-collaborating-on-adventures-in-pokemon-go/"><u>Teamwork Makes the Dream Work: Collaborating on Adventures in Pokémon GO</u></a></li>
 </ul></div>
 

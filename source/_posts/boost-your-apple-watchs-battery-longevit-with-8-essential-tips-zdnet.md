@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery Longevit with 8 Essential Tips - ZDNet
-date: 2025-01-14T17:16:00.630Z
-updated: 2025-01-19T17:27:52.624Z
+date: 2025-01-18T17:02:51.330Z
+updated: 2025-01-25T17:04:16.484Z
 tags:
   - apple
 categories:
@@ -36,19 +36,11 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -57,6 +49,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **How to:** Lift your Apple Watch and press the side button to bring up the quick settings menu. Tap your battery percentage, then hit the "Low Power Mode" button. From there, scroll down through the list of features that Apple says the feature will disable. Then, tap the yellow "Turn On" button. You can also schedule it to turn off after a while, if you want.
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
 
@@ -67,7 +63,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -88,11 +84,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -103,7 +107,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -113,10 +117,6 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 **How to:** On your Apple Watch, head to Settings > Siri and under "Ask Siri," choose "Listen For." From that list, tap the "Off" button. This will disable the mics and only let you trigger Siri by long-pressing the Digital Crown.
 
 Adrian Kingsley-Hughes/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
@@ -165,16 +165,21 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>[Updated] 2024 Approved Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-beginners-guide-video-setup-must-haves/"><u>[Updated] In 2024, Beginner's Guide Video Setup Must-Haves</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728506289344-ssd/"><u>既存のSSDでは起動ができないときのデータ回復手順</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wma-mkv-movavi/"><u>網路直接 WMA 到 MKV 無限制下載：利用 Movavi 優化影片格式</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726223380696-wav3g2movavi/"><u>無料で効果的なWAVファイルと3G2形式間のMovaviオンライン変換ツール</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-video-frames-to-photos-top-7-techniques-by-movavi/"><u>Convert Video Frames to Photos: Top 7 Techniques by Movavi</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrating-zoom-and-fb-live-effortlessly/"><u>In 2024, Integrating ZOOM and FB Live Effortlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/law-and-ai-navigating-chatgpts-legal-impact/"><u>Law & AI: Navigating ChatGPT's Legal Impact</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp3-downloads-into-mp4-format-cost-free-online-transformation-with-movavi/"><u>MP3 Downloads Into MP4 Format: Cost-Free Online Transformation with Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-e-gratuito-converter-arquivos-para-o-formato-ogv-com-a-ferramenta-do-movavi/"><u>Online E Gratuito: Converter Arquivos Para O Formato OGV Com a Ferramenta Do Movavi</u></a></li>
-<li><a href="https://win-unique.techidaily.com/resolving-connectivity-problems-linking-your-windows-pc-with-an-outer-hard-disk-expert-tips-from-yl-computing/"><u>Resolving Connectivity Problems: Linking Your Windows PC with an Outer Hard Disk - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonic-haven-best-dj-template-selections-for-2024/"><u>[New] Harmonic Haven Best DJ Template Selections for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>[New] In 2024, History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-money-on-youtube-without-ads/"><u>[New] In 2024, How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-livestream-leap-backwards-twenty-efficient-ways-for-twitch-enthusiasts/"><u>[New] Livestream Leap Backwards Twenty Efficient Ways for Twitch Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[Updated] 2024 Approved Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[Updated] 2024 Approved From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tips-for-adding-mp4-files-from-windows-movie-maker-onto-vimeo/"><u>[Updated] 2024 Approved Tips for Adding MP4 Files From Windows Movie Maker Onto Vimeo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fullframe-alliance-how-to-choose-your-mcn-strategically-for-2024/"><u>[Updated] FullFrame Alliance How to Choose Your MCN Strategically for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-video-scaling-for-perfect-mac-display/"><u>[Updated] In 2024, Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-and-paid-iphone-photo-experience-top-app-lineup-for-2024/"><u>Free & Paid iPhone Photo Experience - Top App Lineup for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy A15 5G.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-8-best-mirrorless-cameras-vloggers-should-know/"><u>In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-showcase-splendor-best-cover-apps-for-iphones-and-android/"><u>In 2024, Showcase Splendor Best Cover Apps for iPhones & Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-vyprasovaci-sluzba-konecneho-konverzora-mov-na-vob-movavi-s-nami-gratitujucich/"><u>Online Vyprašovací Služba Konečného Konverzora MOV Na VOB - Movavi S Námi Gratitujúcich</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-pro-17-a-powerful-portable-tech-marvel/"><u>Razer Blade Pro 지도 17 - A Powerful Portable Tech Marvel</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
 </ul></div>
 

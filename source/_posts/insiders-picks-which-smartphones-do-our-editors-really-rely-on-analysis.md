@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? Analysis"
-date: 2025-01-14T19:36:18.465Z
-updated: 2025-01-19T17:34:20.119Z
+date: 2025-01-21T21:07:53.163Z
+updated: 2025-01-25T19:09:15.984Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -74,10 +70,6 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy S21 Ultra
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
@@ -104,10 +96,6 @@ Cons
 
 ## iPhone 12 Pro Max
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Matthew Miller
 
 **Matthew Miller:** After a couple years of favoring the smaller iPhone X and XS, I made the leap to the big iPhone 12 Pro Max. As a phone reviewer, I usually move my SIM along every month or so, but it's now been four months with this phone serving as my daily driver, and not even the best Samsung S21 Ultra can knock it from my hands. The built quality is fantastic, the cameras let me capture content to my heart's delight, and regular updates keep it running perfectly for me. The addition of 5G and move to Qualcomm was the icing on the cake that set the bar for all other phones.
@@ -116,7 +104,15 @@ Cons
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone SE (2020)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -164,10 +160,6 @@ Cons
 
 ## iPhone 11 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ed Bott
 
 **Ed Bott:** I switch between two phones regularly, the iPhone 11 Pro and a newish Galaxy S21 5G, because a lot of what I do requires that I understand both platforms well. I generally stay roughly one generation behind the current models, which avoids hardware teething issues and lets me save a ton of money. I picked up the iPhone, which was only about three months old, from a seller on Swappa, replacing my old iPhone XS and paying about $500 less than a new model would have cost. The Galaxy was a deal from Xfinity Mobile that basically gave me a flagship Samsung phone at half price with no contract or commitment. I like both phones about equally and have been pleasantly surprised by the smoothness of the interface on the Samsung.
@@ -179,7 +171,7 @@ Show Expert Take Show less
 ## Ulefone Armor 9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
@@ -197,6 +189,10 @@ Cons
 * Strong battery life Good performance More affordable
 
 ## Google Pixel 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -228,7 +224,15 @@ Pros
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone XR
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -250,23 +254,15 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-###   
-
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###   
 
 ## iPhone X
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Robin Harris
 
@@ -284,10 +280,6 @@ Pros
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone XS Max
 
 ### Asha Barbaschow
@@ -300,13 +292,25 @@ Show Expert Take Show less
 
 ## iPhone 7 Plus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tiernan Ray
 
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 6s Plus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -329,10 +333,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 **Next phone or dream phone?** An Arm-based Windows 10 phone with integrated Skype in a phablet form factor with 5G; while I hope that a project like Empirion can succeed, I'm not banking on it. But surely we need a third OS to balance Android and iOS as the government investigations continue?
 
 Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
 
@@ -376,24 +376,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-campaigns-selecting-the-best-7-total-war-victories-for-2024/"><u>[New] Ultimate Campaigns Selecting the Best 7 Total War Victories for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elevating-video-quality-incorporating-bb-and-lc-elements-in-fb/"><u>[Updated] Elevating Video Quality Incorporating BB and LC Elements in FB</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-highlighting-the-leading-10-shadowy-story-viewers/"><u>[Updated] In 2024, Highlighting the Leading 10 Shadowy Story Viewers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-finding-your-digital-filming-suite-on-youtube-for-2024/"><u>[Updated] Step-by-Step Finding Your Digital Filming Suite on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-content-strategies-to-climb-youtube-ranks/"><u>2024 Approved Elevate Your Content Strategies to Climb YouTube Ranks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-your-files-at-no-cost-quickly-change-rmvb-to-m4v-using-movavis-online-tool/"><u>Convert Your Files at No Cost - Quickly Change RMVB to M4V Using Movavi's Online Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/creazione-di-uno-studio-cinematografico-stop-motion-il-tuo-percorso-dettagliato-passo-dopo-passo-movavi/"><u>Creazione Di Uno Studio Cinematografico Stop Motion: Il Tuo Percorso Dettagliato Passo Dopo Passo - Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dell-xps-13-7390-2-in-1-review/"><u>Dell XPS 13 7390 2-in-1 Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/est-ce-que-capter-une-conversation-implique-des-risques-legaux-si-on-na-pas-la-consentement/"><u>Est-Ce Que Capter Une Conversation Implique Des Risques Légaux Si On N'A Pas La Consentement?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-amv-to-mp3-converter-by-movavi/"><u>Free Online AMV to MP3 Converter by Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-gratuitamente-musica-wav-a-mpeg-usando-servicios-en-linea-soluciones-recomendadas/"><u>Guía Paso a Paso Para Convertir Gratuitamente Música WAV a MPEG Usando Servicios en Línea: Soluciones Recomendadas</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-screen-with-vidmore-screen-recorder-for-2024/"><u>How to Record Screen with Vidmore Screen Recorder for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-following-fades-track-losses-on-insta/"><u>In 2024, Following Fades Track Losses on Insta</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/konvertereen-m4v-naar-mpeg-vrij-bekijkbaar-en-kostenloos-movavi/"><u>Konvertereen M4V Naar MPEG Vrij Bekijkbaar en Kostenloos - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/m4vwav-movavi/"><u>M4VとWAVファイルを無料で簡単に変換 - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-prodotto-mov-da-file-mp4mpeg-4-gratuito-e-online-trasformazione-facile/"><u>Movavi Prodotto MOV Da File MP4/MPEG-4 Gratuito E Online: Trasformazione Facile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-eliminate-stuck-images-and-prevent-burn-in-effects/"><u>Step-by-Step Solutions: Eliminate Stuck Images & Prevent Burn-In Effects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-png-in-formato-bmp-senza-costi-con-la-guida-di-conversione-online-facile-movavi/"><u>Trasforma File PNG in Formato BMP Senza Costi Con La Guida Di Conversione Online Facile – Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-htc-u23-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-10-best-intro-maker-apps-for-iphone-and-android/"><u>[New] 2024 Approved FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-template-to-tutorial-gamers-channel-design-for-2024/"><u>[New] From Template to Tutorial Gamers' Channel Design for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cyberlink-screen-recorder-review-and-the-best-alternative-for-2024/"><u>[Updated] Cyberlink Screen Recorder Review and the Best Alternative for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-power-of-color-difference-keying-methods-for-2024/"><u>[Updated] Harnessing the Power of Color Difference Keying Methods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>[Updated] In 2024, From Dull to Delightful How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[Updated] In 2024, Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-become-an-instagram-star-expert-5-strategies-and-illustrative-examples/"><u>2024 Approved Become an Instagram Star Expert 5 Strategies and Illustrative Examples</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-mp3-players-of-2024-features-comparisons-and-buyers-guide/"><u>Discover the Ultimate MP3 Players of 2024: Features, Comparisons & Buyer's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-wmi-service-resource-consumption/"><u>Minimizing WMI Service Resource Consumption</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1078468-9781846949685-soul-to-soul-connections/"><u>Soul to Soul Connections | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-problem-detected-on-startup-in-windows-11-easily/"><u>Troubleshooting and Solving the ‘Problem Detected on Startup’ in Windows 11 Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2025-01-16T21:05:07.192Z
-updated: 2025-01-19T19:54:00.700Z
+date: 2025-01-23T21:33:05.584Z
+updated: 2025-01-25T20:41:07.095Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,21 +176,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-engage-and-grow-a-curated-list-of-popular-tiktok-hashes-for-2024/"><u>[Updated] Engage and Grow A Curated List of Popular TikTok Hashes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-futureproofing-your-data-with-budgeted-cloud-choices/"><u>[Updated] Futureproofing Your Data with Budgeted Cloud Choices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-create-gifs-from-youtube-videos/"><u>[Updated] In 2024, How to Create GIFs From YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/como-cambiar-vob-a-video-hd-libremente-en-la-web-sin-costes-la-facil-solucion-de-movavi/"><u>Cómo Cambiar VOB a Video HD Libremente en La Web Sin Costes: La Fácil Solución De Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichier-pcx-a-bmp-en-ligne-movavi/"><u>Conversion Gratuite De Fichier PCX À BMP en Ligne - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cr2-ad-image-png-trasforma-il-tuo-raw-fotografico-online-e-ingrandisci-le-tue-foto-con-movavi-partecipare-gratis/"><u>CR2 Ad Image PNG: Trasforma Il Tuo Raw Fotografico Online E Ingrandisci Le Tue Foto Con Movavi - Partecipare Gratis!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-secrets-how-to-show-all-apps-on-your-iphone-screen/"><u>Discover the Secrets: How to Show All Apps on Your iPhone Screen</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/effortless-techniques-to-clean-up-your-system-removing-redundant-programs-with-yls-guide/"><u>Effortless Techniques to Clean Up Your System: Removing Redundant Programs with YL's Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/experts-selection-free-mp3-conversion-tools-for-pc-users-of-windows-1187-including-movavi/"><u>Expert's Selection: Free MP3 Conversion Tools for PC Users of Windows 11/8/7 Including Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-achievements-and-impacts-of-jonathan-ojedas-career-journey/"><u>Exploring the Achievements and Impacts of Jonathan Ojeda's Career Journey</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-intova-x-changes-action-camera-game-for-2024/"><u>How Intova X Changes Action Camera Game for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-2-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze 2 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-understanding-and-curating-instagram-story-segments-with-ease/"><u>In 2024, Understanding and Curating Instagram Story Segments with Ease</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211010397-9781088244197-love-your-enemies/"><u>Love Your Enemies | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-aifc-files-to-aiff-format-for-free-using-movavis-online-tool/"><u>Transform AIFC Files to AIFF Format for Free - Using Movavi's Online Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726226709138-jpeg-moviavi/"><u>オンラインで利用可能なJPEG形式に自動変換: MoviAVIのフリーツール</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-studio-to-screen-uploading-melodies-online/"><u>[New] 2024 Approved From Studio to Screen Uploading Melodies Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-virality-to-value-ajays-playbook-for-profitable-content-creation-for-2024/"><u>[New] From Virality to Value Ajay’s Playbook for Profitable Content Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>[New] In 2024, Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-method-to-record-your-youtube-watching-experience/"><u>[New] In 2024, Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-vs-twitch-studio-which-is-better/"><u>[New] OBS Vs Twitch Studio Which Is Better?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>[New] Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-phone-videos-to-channel-fame-an-easy-path-for-new-entrepreneurs/"><u>[Updated] 2024 Approved From Phone Videos to Channel Fame An Easy Path for New Entrepreneurs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[Updated] 2024 Approved How to Play YouTube in Background on iPhone and Android</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-tiktok-tricks-faster-video-loading/"><u>[Updated] 2024 Approved TikTok Tricks Faster Video Loading</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-engagement-with-these-10-igtv-branding-techniques-for-2024/"><u>[Updated] Elevate Engagement with These 10 IGTV Branding Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-game-analysis-premier-insights-in-graphs/"><u>[Updated] In 2024, Football Game Analysis Premier Insights in Graphs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-from-4k-to-concert-chaos-the-yi-vlogger-experience/"><u>[Updated] In 2024, From 4K to Concert Chaos The Yi Vlogger Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y100i-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y100i</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-x100-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo X100?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-erase-everything-and-reboot-your-lenovo-computer-factory-reset-explained/"><u>How To Erase Everything and Reboot Your Lenovo Computer - Factory Reset Explained</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-stream-your-favorite-games-online/"><u>New How To Stream Your Favorite Games Online</u></a></li>
 </ul></div>
 

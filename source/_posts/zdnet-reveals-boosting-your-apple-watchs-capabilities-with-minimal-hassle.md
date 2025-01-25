@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Boosting Your Apple Watch's Capabilities with Minimal Hassle"
-date: 2025-01-16T22:39:34.128Z
-updated: 2025-01-19T21:00:45.625Z
+date: 2025-01-23T20:08:26.256Z
+updated: 2025-01-25T16:16:15.578Z
 tags:
   - apple
 categories:
@@ -51,7 +51,7 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -63,7 +63,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -84,6 +84,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -91,7 +95,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -102,10 +106,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -115,7 +115,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -165,14 +165,21 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-extracting-images-from-videos-in-windows-11-photos/"><u>[New] 2024 Approved Extracting Images From Videos in Windows 11 Photos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertissez-des-videos-vob-en-audiovideo-wma-gratuite-sur-internet-via-movavi/"><u>Convertissez Des Vidéos VOB en Audio/Vidéo WMA Gratuite Sur Internet via Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-convertisseur-pef-vers-png-movavi/"><u>Gratuit Online Convertisseur PEF Vers PNG - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-verbetering-van-voc-naar-wav-formaat-onlinereconvertisseur-von-movavi/"><u>Gratuit Verbetering Van VOC Naar WAV Formaat - Onlinereconvertisseur Von Movavi</u></a></li>
-<li><a href="https://techidaily.com/igura-and-abbyy-unite-to-revolutionize-corporate-invoice-management-and-streamline-ap-workflows/"><u>Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-or-enhance-your-mpow-bluetooth-drivers-for-windows-11-8-and-7-free/"><u>Install or Enhance Your MPOW Bluetooth Drivers for Windows 11, 8, and 7 Free</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-printer-service-not-running-issue-in-win/"><u>Overcoming Printer Service Not Running Issue in Win</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-gratuitamente-le-tue-playlist-aifc-in-file-m4r-personalizzati-con-lapplicazione-di-conversione-online-di-movavi/"><u>Trasforma Gratuitamente Le Tue Playlist AIFC in File M4R Personalizzati Con L'applicazione Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-does-t-series-generate-revenue/"><u>[New] 2024 Approved How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-evaluating-cloud-options-price-and-performance-for-2024/"><u>[New] Evaluating Cloud Options Price & Performance for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos-for-2024/"><u>[New] From Watcher to Writer How to Set Up a Sports Channel on macOS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullscape-synergy-the-smart-mcn-picking-game/"><u>[New] In 2024, FullScape Synergy The Smart MCN Picking Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-hits-with-powerful-hashtag-strategies/"><u>[New] In 2024, Gaming Hits with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-iphone-videos-size-and-length-optimization/"><u>[New] Streamline iPhone Videos Size & Length Optimization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free-for-2024/"><u>[Updated] From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-iciness-to-comfort-five-warm-backdrops-ideas-for-2024/"><u>[Updated] From Iciness to Comfort Five Warm Backdrops Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hand-held-balance-for-sharp-images/"><u>[Updated] In 2024, Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-chrome-os-snapshotting-for-2024/"><u>[Updated] The Ultimate Guide to Chrome OS Snapshotting for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-30-splitting-apps-like-xsplit/"><u>[Updated] Top 30 Splitting Apps Like Xsplit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-professional-picture-taking-within-microsoft-teams/"><u>2024 Approved Professional Picture Taking Within Microsoft Teams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-macxdvd-suite-buy-the-full-license-with-a-complimentary-update/"><u>Complete MacXDVD Suite: Buy the Full License with a Complimentary Update!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-beginner-to-expert-navigating-instagrams-virtual-conversations-for-2024/"><u>From Beginner to Expert Navigating Instagram’s Virtual Conversations for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-undetected-bluetooth-connections-on-your-windows-10-pc/"><u>Solve Undetected Bluetooth Connections on Your Windows 10 PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Poco C55 | Dr.fone</u></a></li>
 </ul></div>
 

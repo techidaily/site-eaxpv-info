@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2025-01-16T16:46:01.628Z
-updated: 2025-01-19T20:51:02.041Z
+date: 2025-01-19T17:20:15.548Z
+updated: 2025-01-25T17:18:55.142Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,7 +63,7 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -73,10 +73,6 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -95,7 +91,7 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want a traditional Apple Watch design
@@ -108,6 +104,10 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -117,10 +117,6 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -133,6 +129,10 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -170,22 +170,19 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-dive-into-crossfade-excellence-with-audacitys-comprehensive-tutorials-for-2024/"><u>[New] Dive Into Crossfade Excellence with Audacity's Comprehensive Tutorials for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-flv-a-avi-directement-en-lignes-transformez-vos-fichiers-videos-gratuitement-via-movavi/"><u>Conversion FLV À AVI Directement en Lignes - Transformez Vos Fichiers Vidéos Gratuitement via Movavi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converter-online-de-3g2-para-flv-gratuito-movavi/"><u>Converter Online De 3G2 Para FLV Gratuito - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descubre-el-proceso-de-convertir-archivos-en-imovie-tus-mejores-practicas-para-importar-peliculas/"><u>Descubre El Proceso De Convertir Archivos en iMovie: Tus Mejores Prácticas Para Importar Películas</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-prime-day-bargains-where-to-find-elite-deals-on-acer-products/"><u>Discover Prime Day Bargains: Where to Find Elite Deals on Acer Products</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-launch-loop-how-to-overcome-the-endless-load-screen/"><u>Fortnite Launch Loop: How to Overcome the Endless Load Screen</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-omzetten-van-snd-folders-naar-veilige-online-toestand-movavi/"><u>Gratis Omzetten Van SND Folders Naar Veilige Online Toestand - Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-konverteren-van-tiff-naar-gif-zoek-jouw-bewerkt-movavi/"><u>Gratuit Online Konverteren Van TIFF Naar GIF - Zoek Jouw Bewerkt Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-organize-photo-album-on-iphone-and-icloud-for-2024/"><u>How To Organize Photo Album On iPhone And iCloud for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-best-10-apps-to-add-stickers-to-photos-for-iphone-and-android/"><u>In 2024, Best 10 Apps to Add Stickers to Photos for iPhone and Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-exclusive-roundup-affordable-high-quality-live-streaming-services/"><u>In 2024, Exclusive Roundup Affordable, High-Quality Live Streaming Services</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mpeg-to-3gp-file-conversion-made-easy-and-free-with-movavis-expert-hack/"><u>MPEG to 지포 (3GP) File Conversion Made Easy & FREE with Movavi’s Expert Hack!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/section-3a-next-concept-carpal-tunnel-syndrome-and-nerve-entrapment/"><u>Section 3A: Next Concept - Carpal Tunnel Syndrome and Nerve Entrapment</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/technique-simple-pour-transformer-un-fichier-amv-en-mp3-sans-frais-video-facile/"><u>Technique Simple Pour Transformer Un Fichier AMV en MP3 Sans Frais - Vidéo Facile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforma-tus-animaciones-gif-en-videos-mp4-geniales-usando-el-conversor-de-movavi/"><u>Transforma Tus Animaciones GIF en Videos MP4 Geniales Usando El Conversor De Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-iphone-hdr-a-professionals-secret-weapon/"><u>[New] 2024 Approved IPhone HDR A Professional's Secret Weapon</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel-for-2024/"><u>[New] From Beauty Brows to Perfect Portraits Crafting Your Cosmetic Chanel for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans/"><u>[New] In 2024, From Passive to Active Earnings Unlocking Youtube with 500+ Fans</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-spearheading-immersive-worlds-top-vr-minds/"><u>[New] In 2024, Spearheading Immersive Worlds Top VR Minds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/inimizing-moments-edit-longer-videos-for-youtube/"><u>[New] Minimizing Moments Edit Longer Videos for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[Updated] 2024 Approved From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fullview-media-collaboration-guidebook/"><u>[Updated] 2024 Approved FullView Media Collaboration Guidebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-the-science-of-verbal-recording/"><u>[Updated] 2024 Approved Mastering the Science of Verbal Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-tested-streaming-software-picks/"><u>[Updated] In 2024, Gamer-Tested Streaming Software Picks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211154000-9798886741049-deciphering-angel-numbers/"><u>Deciphering Angel Numbers | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-defy-2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Defy 2 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-resource-for-boosting-your-intel-based-imac-efficiency/"><u>The Ultimate Resource for Boosting Your Intel-Based iMac Efficiency</u></a></li>
 </ul></div>
 

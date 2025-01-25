@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2025-01-16T16:18:02.937Z
-updated: 2025-01-19T16:06:06.022Z
+date: 2025-01-18T19:19:48.312Z
+updated: 2025-01-25T16:22:14.466Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -109,7 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-raising-the-bar-youtubes-live-streaming-excellence/"><u>[Updated] 2024 Approved Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-troubleshooting-mute-reviving-sound-in-obs-recordings/"><u>[Updated] Troubleshooting Mute Reviving Sound in OBS Recordings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-decade-mondlyback-buttonfilter-triumph/"><u>A Decade: MondlyBack ButtonFilter Triumph</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cambiar-tus-archivos-sin-coste-convertidor-aif-a-aac-en-movavi-sin-compromiso/"><u>Cambiar Tus Archivos Sin Coste: Convertidor AIF a AAC en Movavi Sin Compromiso</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/decouvrez-les-top-alternatives-gratuites-a-davinci-resolve-pour-la-restauration-video-en-2024-un-guide-detaille/"><u>Découvrez Les Top Alternatives Gratuites À DaVinci Resolve Pour La Restauration Video en 2024 : Un Guide Détaillé</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-flip-5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Flip 5 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-secured-purchase-of-genuine-tiktok-enthusiasts/"><u>In 2024, Secured Purchase of Genuine TikTok Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/les-logiciels-genealogiques-numero-un-en-2024-notre-selection-des-9-meilleurs-selon-movavi/"><u>Les Logiciels Généalogiques Numéro Un en 2024: Notre Sélection Des 9 Meilleurs, Selon Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/modwav-movavi/"><u>MOD到WAV自由下載的線上 MOVAVI 無障礙音效轉換器</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-to-webm-conversion-made-easy-and-free-on-the-moveavi-platform/"><u>MP4 to WebM Conversion Made Easy and Free on the Moveavi Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-free-wmv-converted-to-avi-format-with-movavis-tool/"><u>Online Free WMV Converted to AVI Format with Movavi's Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-swf-a-flv-sin-coste-adicional-usando-la-herramienta-de-conversion-on-line-de-movavi/"><u>Transformar SWF a FLV Sin Coste Adicional Usando La Herramienta De Conversión On-Line De Movavi</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unleash-your-gameplays-social-impact-from-xbox-live-to-facebook-for-2024/"><u>Unleash Your Gameplay's Social Impact From Xbox Live to Facebook for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-googles-enhanced-technique-for-flawless-speech-transcription/"><u>[New] 2024 Approved Google's Enhanced Technique for Flawless Speech Transcription</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-next-big-idea-in-iconography-at-these-6-places-for-2024/"><u>[New] Finding Your Next Big Idea in Iconography at These 6 Places for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-jams-and-indie-project-highlights-for-2024/"><u>[New] Game Jams and Indie Project Highlights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-chapters-to-youtube-videos/"><u>[New] In 2024, How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>[New] The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-fluctuating-led-on-dell-laptop/"><u>[Resolved] Fluctuating LED on Dell Laptop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-unwatched-to-watched-top-10-reasons-and-solutions-for-no-views/"><u>[Updated] 2024 Approved From Unwatched to Watched Top 10 Reasons & Solutions for No Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[Updated] 2024 Approved How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-outsmart-youtube-sanctions/"><u>[Updated] 2024 Approved How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-modify-youtube-video-visibility-with-ease/"><u>[Updated] 2024 Approved Modify YouTube Video Visibility with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance-for-2024/"><u>[Updated] First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-your-pathway-to-mastery-in-youtube-vids-on-twitter/"><u>2024 Approved Your Pathway to Mastery in YouTube Vids on Twitter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comparando-tiff-y-jpeg-cual-es-la-mejor-opcion-para-almacenar-imagenes/"><u>Comparando TIFF Y JPEG: ¿Cuál Es La Mejor Opción Para Almacenar Imágenes?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008646838-solving-the-msvcr110dll-missing-issue-in-helldivers-2/"><u>Solving the 'MSVCR110.dll Missing' Issue in HellDivers 2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-your-phoenix-point-crash-issues/"><u>Troubleshooting Steps: Resolving Your Phoenix Point Crash Issues</u></a></li>
 </ul></div>
 

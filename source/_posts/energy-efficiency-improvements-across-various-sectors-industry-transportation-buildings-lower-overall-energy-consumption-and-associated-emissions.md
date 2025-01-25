@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2025-01-14T22:44:13.568Z
-updated: 2025-01-19T16:00:23.998Z
+date: 2025-01-21T17:05:30.709Z
+updated: 2025-01-25T16:31:21.252Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -72,10 +72,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -95,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -112,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,7 +138,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -153,10 +157,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,22 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ectification-of-injustice-for-2024/"><u>[New] Rectification of Injustice for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-compelling-narratives-with-facebook-cover-vids-for-2024/"><u>[Updated] Crafting Compelling Narratives with Facebook Cover Vids for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-adjust-your-timeline-facebook-look-back-guide/"><u>[Updated] In 2024, Adjust Your Timeline Facebook Look Back Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rawmovavi/"><u>「RAW画像を無料にしっかり変換！オンラインでMovaviが君の力」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-virtual-environments-in-cinema/"><u>2024 Approved The Art of Virtual Environments in Cinema</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/anonymity-achieved-simplified-strategies-to-pixelate-photos-for-2024/"><u>Anonymity Achieved Simplified Strategies to Pixelate Photos for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/compatibility-check-for-your-gpu-expert-advice-from-yls-tech-team/"><u>Compatibility Check for Your GPU: Expert Advice From YL's Tech Team</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuit-de-fichiers-ogg-vers-flac-avec-movavi-faitez-le-vous-meme/"><u>Conversion Gratuit De Fichiers OGG Vers FLAC Avec Movavi - Faitez-Le Vous Même !</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-mp4-file-combination-a-three-step-tutorial/"><u>Effortless MP4 File Combination: A Three-Step Tutorial</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/elevating-learning-with-pearsons-precise-gsl-and-mondly/"><u>Elevating Learning with Pearson's Precise GSL and Mondly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/free-guide-transforming-your-dvds-into-mp4-format-on-windows-11/"><u>Free Guide: Transforming Your DVDs Into MP4 Format on Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mettre-votre-photo-en-ligne-gratuitement-convertissez-vos-images-au-format-mpe-avec-movavi/"><u>Mettre Votre Photo en Ligne Gratuitement: Convertissez Vos Images Au Format MPE Avec Movavi</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-innovative-memes-with-kinemaster-for-2024/"><u>Pushing Boundaries Innovative Memes with KineMaster for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/scambia-file-aac-con-mp3-senza-costi-servizio-online-gratuito-di-movavi/"><u>Scambia File AAC Con MP3 Senza Costi - Servizio Online Gratuito Di Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ten-underbara-strategier-for-att-flytta-en-hinter-video-fond-utan-en-gron-fonster/"><u>Ten Underbara Strategier För Att Flytta En Hinter Video-Fond Utan En Grön Fönster</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-12-innovative-substitutes-for-a-traditional-loom-a-comprehensive-guide/"><u>Top 12 Innovative Substitutes for a Traditional Loom: A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/m4vvob/"><u>オンラインでのただ今、完全無償でM4V/VOBフォーマットを変換: ムヴァビ - 手軽に動画コンバート!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[New] 2024 Approved From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-inner-voice-how-to-confidently-share-stories-online/"><u>[New] In 2024, Finding Inner Voice How to Confidently Share Stories Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>[New] In 2024, From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>[New] In 2024, From Script to Screen Methods of Inserting Dialogue Into Online Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-10-tools-to-grab-youtube-images-online/"><u>[New] In 2024, Harness 10 Tools to Grab YouTube Images Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unleashing-virtual-reality-the-ultimate-iphone-experience-for-2024/"><u>[New] Unleashing Virtual Reality The Ultimate IPhone Experience for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-exemplars-crafting-multimedia-narratives-with-images-and-melody/"><u>[Updated] Exemplars Crafting Multimedia Narratives with Images & Melody</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-play-to-pixels-compreehensive-ps4-recording-with-obs-studio/"><u>[Updated] From Play to Pixels Compreehensive PS4 Recording with OBS Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account-for-2024/"><u>[Updated] How To Get Paid on YouTube - From AdSense to Your Bank Account for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[Updated] In 2024, From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hack-your-channels-identity-with-these-11-budget-tools/"><u>[Updated] In 2024, Hack Your Channel's Identity with These 11 Budget Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effortless-techniques-for-saving-youtube-videos-for-2024/"><u>Effortless Techniques for Saving YouTube Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-savings-alert-the-most-attractive-apple-watch-offers-for-this-month/"><u>Exclusive Savings Alert: The Most Attractive Apple Watch Offers for This Month</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-streaming-supremacy-pick-the-best-tool-for-your-vlogs-and-streams/"><u>In 2024, Streaming Supremacy Pick the Best Tool for Your Vlogs & Streams</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-c33-2023-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme C33 2023 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/integrating-your-podcast-into-apple-music-for-2024/"><u>Integrating Your Podcast Into Apple Music for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/uniting-platforms-post-videos-across-twitter-and-tumblr-for-2024/"><u>Uniting Platforms Post Videos Across Twitter & Tumblr for 2024</u></a></li>
 </ul></div>
 

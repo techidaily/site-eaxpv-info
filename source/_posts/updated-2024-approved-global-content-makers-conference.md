@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Global Content Makers' Conference\""
-date: 2024-08-20T13:31:16.127Z
-updated: 2024-08-21T13:31:16.127Z
+date: 2025-01-20T20:17:36.008Z
+updated: 2025-01-25T20:28:19.235Z
 tags:
   - ai video
   - ai youtube
@@ -41,9 +41,6 @@ _Lilly’s Creator Summit adventures._
 
 The Creator Summit is invite-only, and only 120 YouTubers attended including Grace Helbig, Lilly Singh, Matthew Santoro, Eva Gutowski, Jon Cozart, and Hannah Hart. We can really only imagine what went on based on what some YouTubers chose to share with us over social media. That’s how we know there were appearances from off-YouTube celebrities too, like Will Smith and Riz Ahmed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube Creator Summit Group Photo](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-2017.jpg)
 
 _Will Smith was one of the speakers at the summit. Turns out_ [_he’s a big fan of Lilly Singh_](https://www.youtube.com/watch?v=AGlcsogbAQY) _._
@@ -54,6 +51,10 @@ _Nick talks about arriving in New York and goes through the swag box waiting in 
 
 There were some clues as to what the rest of the summit was like hiding amongst the swag too. Here’s what was in the box:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A map of Dumbo
 
 The hotel YouTube put the creators up in was in Dumbo, Brooklyn. ‘Dumbo’ is an acronym for Down Under the Manhattan Bridge Overpass. While it used to be primarily an industrial area, Dumbo is now the most expensive neighborhood in Brooklyn with many of the old industrial spaces now serving as luxury residential lofts. Dumbo is also a hub for tech startups.
@@ -62,30 +63,33 @@ _Tess takes you to some of her favorite places in Dumbo._
 
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Post Cards
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. S’well bottle
 
 S’well bottles are stainless steel beverage containers that keep drinks hot or cold. They retail for around $45\. YouTubers invited to the Creator Summit received ones with YouTube branding on them. A good water bottle is a convention/conference essential, so this was a very practical gift.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Branded slippers
 
 To help them relax after long days at the summit, YouTube provided creators with YouTube-branded slippers. They look pretty comfy. Plus, now every time these YouTubers look down at their feet they’ll be reminded to go make some videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
 _thinknoodles wearing his YouTube slippers._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Pins, pins, pins
 
@@ -113,36 +117,42 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exclusive Free MCB Banner Designs
 
 # Free Minecraft YouTube Banners with Templates
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[New] In 2024, From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-view-youtube-statistics/"><u>[New] In 2024, How to View YouTube Statistics?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-visualcapturew11-windows-11-simple-recording-app/"><u>[New] In 2024, VisualCaptureW11 Windows 11 Simple Recording App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-topnotch-recorder-for-windows-users-win-10/"><u>[New] TopNotch Recorder for Windows Users (Win 10)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-flourishing-with-glamour-vlogs/"><u>[Updated] 2024 Approved Financial Flourishing with Glamour Vlogs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-foremost-10-video-subtitling-services-online/"><u>[Updated] 2024 Approved Foremost 10 Video Subtitling Services Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-revenue-predictor-tools/"><u>[Updated] 2024 Approved Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques-for-2024/"><u>[Updated] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-seamlessly-incorporate-video-game-banners-for-2024/"><u>[Updated] How to Seamlessly Incorporate Video Game Banners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-funnels-catchy-recipe-channels-that-work/"><u>[Updated] In 2024, Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-digital-avatars-to-internet-stardom-becoming-a-vtuber/"><u>[Updated] In 2024, From Digital Avatars to Internet Stardom – Becoming a Vtuber?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-history-streams-that-will-transform-your-study-habits/"><u>[Updated] In 2024, History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>[Updated] In 2024, How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-present-trends-in-drone-technology-for-the-future-for-2024/"><u>[Updated] Present Trends in Drone Technology for the Future for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gentle-guidance-to-good-slumber-top-asmr-pros/"><u>2024 Approved Gentle Guidance to Good Slumber Top ASMR Pros</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/fortifying-your-digital-interactions-facebooks-latest-upgrades-bring-stronger-privacy-with-new-chat-and-call-security-tools/"><u>Fortifying Your Digital Interactions: Facebook's Latest Upgrades Bring Stronger Privacy with New Chat and Call Security Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-components-of-podcast-scripting-guide-plus-free-examples/"><u>In 2024, The Essential Components of Podcast Scripting (Guide + Free Examples)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-alternative-to-apples-mac-studio-tailored-for-windows-fans-with-potential-advantages-over-the-standard-model/"><u>Introducing Lenovo's Alternative to Apple's Mac Studio – Tailored for Windows Fans, With Potential Advantages Over the Standard Model!</u></a></li>
+</ul></div>
 
