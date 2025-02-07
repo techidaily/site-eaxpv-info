@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Analysis Editorial Team
-date: 2025-01-23T21:42:16.133Z
-updated: 2025-01-25T18:51:22.623Z
+date: 2025-02-02T16:44:23.176Z
+updated: 2025-02-07T17:12:26.017Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
@@ -46,10 +50,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -63,7 +63,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -88,17 +88,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -110,6 +102,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -119,7 +115,7 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -127,6 +123,10 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,21 +168,19 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-setup-a-mac-studio-for-sports-content/"><u>[New] 2024 Approved How to Setup a Mac Studio for Sports Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here-for-2024/"><u>[New] From Zero to Cool Video Star Your Mac Youtube Journey Starts Here for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-professional-youtube-editing-secrets/"><u>[New] In 2024, From Script to Screen Professional YouTube Editing Secrets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-vlog-discussion-ideas-each-day/"><u>[Updated] 2024 Approved Fresh Vlog Discussion Ideas Each Day</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-clarity-on-your-youtube-audiences-behavior/"><u>[Updated] 2024 Approved Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-invisible-broadcasts-anonymous-instagram-live-tips/"><u>[Updated] 2024 Approved Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube-for-2024/"><u>[Updated] From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac-for-2024/"><u>[Updated] How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac] for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-recorders-eye-a-snapshot-of-best-tools/"><u>[Updated] The Recorder's Eye A Snapshot of Best Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/alexandrias-premier-seo-firms-discover-expert-services-with-seo-powersuite/"><u>Alexandria's Premier SEO Firms : Discover Expert Services with SEO PowerSuite</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/crafting-a-cloak-of-secrecy-for-your-photos/"><u>Crafting a Cloak of Secrecy for Your Photos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-landscape-of-gptzero-and-ai-text/"><u>Navigating the Landscape of GPTZero and AI Text</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>New 2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New In 2024, The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-iphones-video-length-tailoring/"><u>Ultimate Guide to iPhone's Video Length Tailoring</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-your-editing-game-with-kinemaster-insight-plus-best-allies-online-for-2024/"><u>[New] Elevate Your Editing Game with KineMaster Insight + Best Allies Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtubes-movie-maker-for-professionals-for-2024/"><u>[New] Harness the Power of YouTube's Movie Maker for Professionals for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-youtube-channel-today-for-2024/"><u>[New] How to Create A YouTube Channel Today for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-beginners-tutorial-adobe-capture-screen-sharing-techniques/"><u>[New] In 2024, Beginner's Tutorial Adobe Capture Screen Sharing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flash-video-insights-guide/"><u>[Updated] 2024 Approved Flash Video Insights Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-banner-templates-and-makers-for-youtube-for-2024/"><u>[Updated] Free Banner Templates & Makers for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[Updated] In 2024, From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-sierras-best-curated-list-of-exceptional-mac-video-tools/"><u>[Updated] In 2024, Sierra's Best Curated List of Exceptional Mac Video Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-ultimate-web-tools-for-superb-video-subtitles/"><u>[Updated] Unraveling the Ultimate Web Tools for Superb Video Subtitles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-path-to-your-facebook-status-video-archive-for-2024/"><u>[Updated] Unveiling the Path to Your Facebook Status Video Archive for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-graph-gems-2017s-statistical-youtube-surprises/"><u>2024 Approved Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>2024 Approved Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-income-investigation-the-streamlined-3-part-method-to-assess-your-youtube-income-levels/"><u>In 2024, Income Investigation The Streamlined 3-Part Method to Assess Your YouTube Income Levels</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-linux-command-landscape-in-windows/"><u>Navigating the Linux Command Landscape in Windows</u></a></li>
 </ul></div>
 

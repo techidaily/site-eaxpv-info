@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2025-01-21T20:52:45.585Z
-updated: 2025-01-25T18:59:13.260Z
+date: 2025-02-04T16:54:12.600Z
+updated: 2025-02-07T16:49:46.156Z
 tags:
   - apple
 categories:
@@ -27,21 +27,17 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,10 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -80,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,17 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[New] 2024 Approved Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-happy-days-with-anime-discovering-the-best-channels-of-2023-for-2024/"><u>[New] Happy Days with Anime Discovering the Best Channels of 2023 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[New] In 2024, How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools/"><u>[Updated] 2024 Approved Unleashing Creativity in AR A Comprehensive Guide to LUT Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage-for-2024/"><u>[Updated] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-compose-captivating-youtube-intros-for-free/"><u>[Updated] In 2024, How To Compose Captivating YouTube Intros for FREE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-zero-to-trendsetter-solo-podcast-success-story-for-2024/"><u>From Zero to Trendsetter Solo Podcast Success Story for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-razer-blade-stealth-13s-cutting-edge-performance-boost-in-lightweight-laptop-segment/"><u>In-Depth Analysis of Razer Blade Stealth 13'S Cutting-Edge Performance Boost in Lightweight Laptop Segment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-visual-stories-through-hyperlapse/"><u>Innovating Visual Stories Through Hyperlapse</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-are-you-looking-for-a-video-dubbing-software-for-pc-with-a-free-download-option-here-is-a-detailed-comparison-of-the-6-best-video-dubbing-software-for-p/"><u>New Are You Looking for a Video Dubbing Software for PC with a Free Download Option? Here Is a Detailed Comparison of the 6 Best Video Dubbing Software for PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-cartoon-video-creation-tools-for-pc-and-online-use/"><u>New In 2024, Top Cartoon Video Creation Tools for PC and Online Use</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preserve-illustrations-saving-pngs-while-converting-docx-files/"><u>Preserve Illustrations: Saving PNGs While Converting DocX Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-crafting-an-authoritative-online-self-for-2024/"><u>[New] From Zero to Hero Crafting an Authoritative Online Self for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-mastery-seamless-yt-integration-for-2024/"><u>[New] Green Screen Mastery Seamless YT Integration for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hourly-heavy-hitters-top-ten-youtube-video-rankings-in-a-day/"><u>[New] In 2024, Hourly Heavy Hitters Top Ten YouTube Video Rankings in a Day</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams/"><u>[Updated] 2024 Approved Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[Updated] 2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] 2024 Approved How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-7-best-online-voice-recorders-2023/"><u>[Updated] 7 Best Online Voice Recorders 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-leaderboard-top-subscribers-by-youtube-star/"><u>[Updated] In 2024, Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] In 2024, Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-note-12r-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi Note 12R Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-unlink-gadgets-from-google-home-networks/"><u>Expert Tips on How to Unlink Gadgets From Google Home Networks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-legitimacy-of-a-career-in-prompt-engineering-essential-considerations/"><u>Exploring the Legitimacy of a Career in Prompt Engineering: Essential Considerations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-overcome-challenges-when-your-computer-wont-shut-down-in-windows-11/"><u>How to Overcome Challenges When Your Computer Won't Shut Down in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-through-complete-circles-on-screen/"><u>In 2024, Navigating Through Complete Circles on Screen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-secrets-to-flawless-hdr-image-creation-and-merging-in-lightroom/"><u>The Secrets to Flawless HDR Image Creation and Merging in Lightroom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Reno 9A? | Dr.fone</u></a></li>
 </ul></div>
 

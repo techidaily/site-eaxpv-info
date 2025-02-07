@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Zero to Viral Video  Top 10 User-Friendly YouTube Concepts\""
-date: 2024-08-20T13:37:32.635Z
-updated: 2024-08-21T13:37:32.635Z
+date: 2025-02-03T16:37:19.395Z
+updated: 2025-02-07T16:56:12.512Z
 tags:
   - ai video
   - ai youtube
@@ -41,9 +41,6 @@ They say that less is more, so let's have a look at how you can apply this princ
 9. [10 Things About You](#nine)
 10. [Video Rant](#ten)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Introduce Yourself
 
 Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
@@ -56,9 +53,6 @@ Anything that happens during your day can become a topic for your YouTube vlog. 
 
 Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Express An Opinion
 
 Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
@@ -67,11 +61,19 @@ Opinion videos are great conversation starters. Expressing an opinion through a 
 
 You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Review Anything
 
 Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
 
 Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Your Favorite Songs / Movies / Etc
 
@@ -97,9 +99,6 @@ Education is our only hope for a better world so if you know how to do something
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. 10 Things About You
 
 Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
@@ -114,21 +113,12 @@ Don't try to fake a rant, because they only work if they are natural. Scripting 
 
 Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start Editing Videos with Beginner-friendly Software
 
 If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -137,12 +127,15 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ingenious Name Makers: Elevate Your Channels
 
@@ -187,14 +180,19 @@ Here’s what happened when I tried to name a hypothetical baking channel:
 
 ![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Not all of the results are great, but there are some cool sounding options in there.
 
 One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Name Generator
 
@@ -208,9 +206,17 @@ This is a fairly limited generator. You plunk in a prefix and a suffix, and it g
 
 ![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
 
 ![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
 
@@ -224,18 +230,12 @@ You can pick your favorite names and it’ll list them out so you can easily cop
 
 For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
 
 The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
 
 ![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
 
 The name of your YouTube channel needs to accomplish two things:
@@ -269,6 +269,10 @@ In the early days of YouTube, you couldn’t change your name, but now you can!
 2. Click **Edit on Google**.
 3. Update your name and click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Requesting a Custom URL for YouTube
 
 Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
@@ -291,17 +295,17 @@ You can delete your custom URL and claim a new one, but doing this might be conf
 
 If you already have a YouTube channel name – are you happy with it? How did you choose it?
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -310,8 +314,21 @@ Follow @Liza Brown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-online-services-for-youtube-images-extraction-for-2024/"><u>[New] FREE Online Services for YouTube Images Extraction for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-female-gamers-faction-yts-10-stars/"><u>[New] In 2024, Female Gamers Faction YT's #10 Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-clips-to-classrooms-harnessing-youtubes-potential-for-teaching/"><u>[New] In 2024, From Clips to Classrooms Harnessing YouTube's Potential for Teaching</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[New] In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pros-guide-crafting-authentic-3d-characters-in-ps-for-2024/"><u>[New] Pro's Guide Crafting Authentic 3D Characters in PS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>[Updated] 2024 Approved From Vision to Execution The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flexibility-in-viewing-with-youtube-tv-options/"><u>[Updated] In 2024, Flexibility in Viewing with YouTube TV Options</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-visual-dominance-best-ps5-compatible-high-res-hdmi-21-screens/"><u>[Updated] In 2024, Visual Dominance Best PS5 Compatible High-Res (HDMI 2.1) Screens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-analog-to-digital-safeguarding-older-photographic-memories/"><u>From Analog to Digital Safeguarding Older Photographic Memories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-engaging-audiences-on-multiple-digital-landscapes/"><u>In 2024, Engaging Audiences on Multiple Digital Landscapes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-pro-rated-cameras-for-windows-11-the-top-lineup-reviewed/"><u>In 2024, Pro-Rated Cameras for Windows 11 - The Top Lineup Reviewed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95804041-9781634311205-no-sacred-cows/"><u>No Sacred Cows | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/reel-riches-understanding-metas-monetary-mechanisms-for-artists/"><u>Reel Riches: Understanding Meta’s Monetary Mechanisms for Artists</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ess-online-sound-conversion-ideal-tools-for-iphone-and-youtube-mp3s-for-2024/"><u>Seamless Online Sound Conversion Ideal Tools for iPhone and YouTube MP3s for 2024</u></a></li>
+</ul></div>
 

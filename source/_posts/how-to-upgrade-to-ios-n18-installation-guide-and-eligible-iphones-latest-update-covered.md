@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered"
-date: 2025-01-23T20:45:54.419Z
-updated: 2025-01-25T22:10:53.722Z
+date: 2025-02-04T17:05:09.414Z
+updated: 2025-02-07T16:38:20.287Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -44,16 +44,12 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -62,15 +58,15 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -79,7 +75,7 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -100,6 +96,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,19 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>[New] 2024 Approved First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-online-editors-the-essential-guide-for-2024/"><u>[New] Free Online Editors The Essential Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bite-sized-content-explanation-the-lowdown/"><u>[Updated] 2024 Approved Bite-Sized Content Explanation The Lowdown</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-moonbeam-methods-crafting-perfect-night-photography/"><u>[Updated] 2024 Approved Moonbeam Methods Crafting Perfect Night Photography</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-websites-reviewed-secure-purchase-of-custom-youtube-soundtracks-for-2024/"><u>[Updated] Best Websites Reviewed Secure Purchase of Custom YouTube Soundtracks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation-for-2024/"><u>[Updated] Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools-for-2024/"><u>[Updated] Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-more-subscribers-on-youtube-for-2024/"><u>[Updated] How to Get More Subscribers on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs-for-2024/"><u>[Updated] How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/comprehensive-tutorial-creating-and-burning-your-first-cd-with-windows-11/"><u>Comprehensive Tutorial: Creating and Burning Your First CD with Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-picks-superior-hanging-speaker-systems-of-2024-revealed/"><u>Expert Picks: Superior Hanging Speaker Systems of 2024 Revealed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y78-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y78 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/optimizing-your-streams-sound-advanced-tips-for-using-obs-audio-ducking/"><u>Optimizing Your Streams Sound Advanced Tips for Using OBS Audio Ducking</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winx-dvd-transcoder-free-converts-dvds-to-mp4-avi-for-ios-and-android/"><u>WinX DVD Transcoder Free: Converts DVDs to MP4, AVI for iOS & Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-video-capture-for-beginner-creators/"><u>[New] 2024 Approved High-Quality Video Capture for Beginner Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[New] 2024 Approved Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[New] 2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guardians-of-the-most-watched-youtube-edition-for-2024/"><u>[New] Guardians of the Most Watched YouTube Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] In 2024, From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-youtube-studio-editing-workshop-guide/"><u>[New] In 2024, From Script to Screen YouTube Studio Editing Workshop Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-master-the-art-of-youtube-thumbnails-in-minutes/"><u>[New] In 2024, Master the Art of YouTube Thumbnails in Minutes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-fan-to-earner-understanding-view-requirements/"><u>[Updated] 2024 Approved From Fan to Earner Understanding View Requirements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[Updated] 2024 Approved Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-innovative-mac-live-streaming-options-ranked-1-5/"><u>[Updated] 2024 Approved Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>[Updated] A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[Updated] In 2024, First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-outro-mastery-top-6-free-video-closers-for-2024/"><u>[Updated] Outro Mastery Top 6 Free Video Closers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-pathway-to-adding-sound-in-adobe-premiere-for-2024/"><u>A Step-by-Step Pathway to Adding Sound in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips/"><u>In 2024, Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-instagrams-authenticity-rules-for-2024/"><u>Navigating Instagram’s Authenticity Rules for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ryzens-cold-war-an-ultra-cooled-cpu-battle-for-the-highest-oc-achievements-using-ln2-techniques/"><u>Ryzen's Cold War: An Ultra-Cooled CPU Battle for the Highest OC Achievements Using LN2 Techniques</u></a></li>
 </ul></div>
 

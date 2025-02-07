@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2025-01-21T17:05:30.709Z
-updated: 2025-01-25T16:31:21.252Z
+date: 2025-02-02T16:03:58.076Z
+updated: 2025-02-07T17:36:21.799Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,6 +75,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -90,10 +98,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -157,6 +153,10 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,22 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[New] 2024 Approved From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-inner-voice-how-to-confidently-share-stories-online/"><u>[New] In 2024, Finding Inner Voice How to Confidently Share Stories Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>[New] In 2024, From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>[New] In 2024, From Script to Screen Methods of Inserting Dialogue Into Online Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-10-tools-to-grab-youtube-images-online/"><u>[New] In 2024, Harness 10 Tools to Grab YouTube Images Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unleashing-virtual-reality-the-ultimate-iphone-experience-for-2024/"><u>[New] Unleashing Virtual Reality The Ultimate IPhone Experience for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-exemplars-crafting-multimedia-narratives-with-images-and-melody/"><u>[Updated] Exemplars Crafting Multimedia Narratives with Images & Melody</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-from-play-to-pixels-compreehensive-ps4-recording-with-obs-studio/"><u>[Updated] From Play to Pixels Compreehensive PS4 Recording with OBS Studio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account-for-2024/"><u>[Updated] How To Get Paid on YouTube - From AdSense to Your Bank Account for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[Updated] In 2024, From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hack-your-channels-identity-with-these-11-budget-tools/"><u>[Updated] In 2024, Hack Your Channel's Identity with These 11 Budget Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/effortless-techniques-for-saving-youtube-videos-for-2024/"><u>Effortless Techniques for Saving YouTube Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-savings-alert-the-most-attractive-apple-watch-offers-for-this-month/"><u>Exclusive Savings Alert: The Most Attractive Apple Watch Offers for This Month</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-streaming-supremacy-pick-the-best-tool-for-your-vlogs-and-streams/"><u>In 2024, Streaming Supremacy Pick the Best Tool for Your Vlogs & Streams</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-c33-2023-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme C33 2023 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/integrating-your-podcast-into-apple-music-for-2024/"><u>Integrating Your Podcast Into Apple Music for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/uniting-platforms-post-videos-across-twitter-and-tumblr-for-2024/"><u>Uniting Platforms Post Videos Across Twitter & Tumblr for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-an-awesome-valorant-thumbnail-for-youtube-videos/"><u>[New] 2024 Approved How To Create an Awesome Valorant Thumbnail for YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[New] 2024 Approved How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[New] In 2024, From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-turn-video-soundtracks-into-audible-files/"><u>[Updated] 2024 Approved How to Turn Video Soundtracks Into Audible Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-capture-your-favorite-youtube-audio-for-free-for-2024/"><u>[Updated] How to Safely Capture Your Favorite YouTube Audio for Free for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-accelerated-windows-content-verification/"><u>[Updated] In 2024, Accelerated Windows Content Verification</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[Updated] In 2024, From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masterful-guide-to-gaming-banners-on-youtube/"><u>2024 Approved Masterful Guide to Gaming Banners on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-hide-subtitle-feature-on-prime-video-platform/"><u>Steps to Hide Subtitle Feature on Prime Video Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-macos-software-exclusive-picks-by-tech-experts/"><u>Top-Ranked macOS Software : Exclusive Picks by Tech Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcribe-speech-to-text-seamlessly-using-words-tools-for-2024/"><u>Transcribe Speech to Text Seamlessly Using Word's Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-movavis-approach-to-asylum-policy-reform/"><u>Understanding Movavi's Approach to Asylum Policy Reform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/viewers-delight-discovering-top-6-engaging-content-formats/"><u>Viewer's Delight Discovering Top 6 Engaging Content Formats</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/xd/"><u>XDカードのデータ回復ガイド【具体的な手順とポイント】</u></a></li>
 </ul></div>
 

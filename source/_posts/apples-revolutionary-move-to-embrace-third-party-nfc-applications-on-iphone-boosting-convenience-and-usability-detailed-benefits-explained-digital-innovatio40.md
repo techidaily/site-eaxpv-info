@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2025-01-21T22:02:36.669Z
-updated: 2025-01-25T19:30:01.352Z
+date: 2025-02-02T16:52:36.434Z
+updated: 2025-02-07T16:18:01.276Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -63,10 +63,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -94,10 +90,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -122,6 +114,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-top-templates-for-youtube-previews/"><u>[New] 2024 Approved Guide to Top Templates for YouTube Previews</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-the-art-of-using-telegram-online/"><u>[New] 2024 Approved Mastering the Art of Using Telegram Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-filmoras-quick-start-approach-for-youtube-trailers-for-2024/"><u>[New] Filmora's Quick-Start Approach for YouTube Trailers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hidden-gems-to-youtube-sensations-the-top-reasons-for-zero-views/"><u>[New] In 2024, From Hidden Gems to YouTube Sensations The Top Reasons for Zero Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-youtube-elite-earnings-leader/"><u>[New] In 2024, Global YouTube Elite Earnings Leader</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>[New] In 2024, How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-secrets-of-valheim-crop-cultivation-for-2024/"><u>[New] Unveiling the Secrets of Valheim Crop Cultivation for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[Updated] In 2024, From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-static-to-sprightly-bouncing-text-animations/"><u>[Updated] In 2024, From Static to Sprightly Bouncing Text Animations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-high-dynamic-range-battle-black-hero5-and-sj7/"><u>[Updated] In 2024, High Dynamic Range Battle Black Hero5 & SJ7</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transform-videos-into-attractors-try-these-7-thumbnail-makers/"><u>[Updated] In 2024, Transform Videos Into Attractors - Try These 7 Thumbnail Makers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-short-form-video-content-top-strategies-revealed/"><u>[Updated] Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/gratis-ogv-to-mp3-versterking-online-met-movavi-converter-tool/"><u>Gratis OGV-to-MP3-Versterking Online Met Movavi Converter Tool</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y28-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y28 5G FRP</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/innovative-ideas-for-fb-slideshow-creations/"><u>Innovative Ideas for FB Slideshow Creations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-mf8200c-driver-download-supports-windows-7-81-and-10-systems/"><u>Latest Canon MF8200C Driver Download: Supports Windows 7, 8.1 & 10 Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia FRP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fresh-alternative-films-to-dive-into-7-favorites-for-2024/"><u>[New] Fresh Alternative Films to Dive Into, #7 Favorites for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>[New] In 2024, Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-playlist-integration-techniques-in-web-development/"><u>[New] In 2024, Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor/"><u>[New] Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-strategies-capturing-saving-and-sharing-ps4-experiences/"><u>[Updated] 2024 Approved Top Strategies Capturing, Saving & Sharing PS4 Experiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-50-free-youtube-banners-come-see-them-all-for-2024/"><u>[Updated] 50 FREE YouTube Banners - Come See Them All for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gaming-history-told-by-top-video-makers-for-2024/"><u>[Updated] Gaming History Told by Top Video Makers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] In 2024, Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>[Updated] Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-videos-using-video-enhancer-v22/"><u>[Updated] Transform Your Videos Using Video Enhancer V2.2</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/decoding-instagrams-trends-reels-and-stories-comparison/"><u>Decoding Instagram's Trends Reels & Stories Comparison</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 13 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016047602-pubg-mobile-voice-chatting-issues-heres-how-you-can-get-it-working-again/"><u>PUBG Mobile Voice Chatting Issues? Here's How You Can Get It Working Again</u></a></li>
 </ul></div>
 

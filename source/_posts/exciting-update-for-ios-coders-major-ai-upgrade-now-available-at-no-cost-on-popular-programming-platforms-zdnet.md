@@ -1,7 +1,7 @@
 ---
 title: Exciting Update for iOS Coders! Major AI Upgrade Now Available at No Cost on Popular Programming Platforms | ZDNET
-date: 2025-01-20T21:42:58.296Z
-updated: 2025-01-25T20:33:46.125Z
+date: 2025-02-06T17:32:44.339Z
+updated: 2025-02-07T17:33:32.306Z
 tags:
   - apple
 categories:
@@ -50,10 +50,6 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You need more battery life
 
 While you might expect the newest device to have the [better battery life](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/), the extra processing power does take a toll. In terms of pure battery life, the M1 beats the M3 by a decent margin. For general use, the M1 has up to 17 hours while the M3 only makes it to 12\. Solely on streaming, the gap lessens a little at 20 hours compared to 18\. 
@@ -63,7 +59,7 @@ While you might expect the newest device to have the [better battery life](https
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
@@ -82,10 +78,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
@@ -93,7 +85,7 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
@@ -103,7 +95,7 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You're working outside or in other very bright environments
@@ -118,11 +110,19 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You want a new-conditioned laptop
 
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -158,19 +158,19 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-secrets-to-unlocking-costless-image-streams/"><u>[New] 2024 Approved Secrets to Unlocking Costless Image Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads-for-2024/"><u>[New] Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-embed-a-youtube-playlist-on-a-website-for-2024/"><u>[New] How To Embed A YouTube Playlist On a Website for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamps-on-youtube-video-link/"><u>[New] In 2024, How to Add Timestamps on YouTube Video Link?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-turn-mundane-games-into-epic-scenes/"><u>[New] In 2024, How to Turn Mundane Games Into Epic Scenes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-cinematicwave-win8-software-for-2024/"><u>[Updated] CinematicWave Win8 Software for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financial-foresight-select-youtube-stocks-hubs-for-2024/"><u>[Updated] Financial Foresight Select YouTube Stocks Hubs for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-cinematic-content-on-instagram/"><u>[Updated] Mastering the Art of Cinematic Content on Instagram</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-14-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 14 Pro Max Stuck On Activation Lock?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-the-art-of-using-cc-copyrights-wisely/"><u>Mastering the Art of Using CC Copyrights Wisely</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-with-toms-expertise/"><u>Navigating the World of Gadgets with Tom's Expertise</u></a></li>
-<li><a href="https://os-tips.techidaily.com/proven-methods-for-swift-iphone-call-failure-repairs/"><u>Proven Methods for Swift iPhone Call Failure Repairs</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-in-system-idle-process-a-comprehensive-guide/"><u>Resolving Elevated CPU Consumption in System Idle Process: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-why-is-the-mass-effect-legendary-edition-failing-to-start/"><u>Troubleshooting: Why Is the Mass Effect Legendary Edition Failing to Start?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps/"><u>[New] 2024 Approved How To Broadcast Your Online Meeting via YouTube - Google Meet Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-spark-interest-with-unique-channel-names/"><u>[New] 2024 Approved How to Spark Interest With Unique Channel Names</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-exploring-the-future-of-social-sharing-with-tiktok-vs-snapchat/"><u>[New] Exploring the Future of Social Sharing with TikTok vs Snapchat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-narratives-through-captioning-for-2024/"><u>[New] Mastering Instagram Narratives Through Captioning for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-endless-entertainment-loop-youtube-content-on-tv/"><u>[Updated] 2024 Approved Endless Entertainment Loop YouTube Content on TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-way-to-youtube-studio-a-comprehensive-overview/"><u>[Updated] 2024 Approved Find Your Way to YouTube Studio A Comprehensive Overview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fluid-fusion-combining-videos-for-a-unified-youtube-presence/"><u>[Updated] 2024 Approved Fluid Fusion Combining Videos for a Unified Youtube Presence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-finding-those-who-fled-my-insta-friends/"><u>[Updated] Finding Those Who Fled My Insta Friends</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-instantly-design-custom-coverage-for-your-short-videos-for-2024/"><u>[Updated] How To Instantly Design Custom Coverage For Your Short Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-avi-to-gif-conversion-windows-and-mac-edition-using-filmora/"><u>2024 Approved Mastering AVI-to-GIF Conversion Windows & Mac Edition Using Filmora</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-durable-comprehensive-review-of-the-omoton-t1-compact-desktop-mount/"><u>Affordable & Durable: Comprehensive Review of the Omoton T1 Compact Desktop Mount</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/linking-up-tweeted-movies-and-music-on-fb-platform/"><u>Linking Up Tweeted Movies and Music on FB Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-steps-transferring-your-dvd-collection-from-itunes-to-ios-devices/"><u>Seamless Steps: Transferring Your DVD Collection From iTunes to iOS Devices</u></a></li>
+<li><a href="https://discover-best.techidaily.com/top-5-user-friendly-dvd-menu-makers-reviewed-simplify-your-video-projects-with-these-tools/"><u>Top 5 User-Friendly DVD Menu Makers Reviewed: Simplify Your Video Projects with These Tools</u></a></li>
 </ul></div>
 

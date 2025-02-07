@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2025-01-19T16:20:22.747Z
-updated: 2025-01-25T20:08:11.475Z
+date: 2025-02-06T16:44:59.575Z
+updated: 2025-02-07T16:01:17.203Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,20 +122,18 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[New] 2024 Approved Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-essentials-of-clear-coherent-ps3-game-recordings/"><u>[New] 2024 Approved The Essentials of Clear, Coherent PS3 Game Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-full-time-careers-meet-video-content-a-harmonious-mix/"><u>[New] In 2024, Full-Time Careers Meet Video Content A Harmonious Mix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>[Updated] 2024 Approved From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[Updated] 2024 Approved Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-go-global-with-music-transform-your-spotify-lists-into-youtube-videos-for-2024/"><u>[Updated] Go Global with Music Transform Your Spotify Lists Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online-for-2024/"><u>[Updated] Harness the Power of Youtube Videos to Create Stunning Gifs Online for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-automate-iphones-video-repetition/"><u>[Updated] In 2024, How to Automate iPhone's Video Repetition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-aims-to-boost-health-features-with-breath-tracking-for-the-next-gen-vision-pro-says-zdnet-report/"><u>Apple Aims to Boost Health Features with Breath Tracking for the Next-Gen Vision Pro, Says ZDNet Report</u></a></li>
-<li><a href="https://solve-news.techidaily.com/convert-nsv-format-to-mpeg-for-free-using-movavis-web-based-editor/"><u>Convert NSV Format to MPEG for Free Using Movavi's Web-Based Editor</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-laughs-the-ultimate-resource-for-free-templates-for-2024/"><u>Crafting Laughs The Ultimate Resource for Free Templates for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracker-the-ultimate-gps-device-compacted-in-your-wallet/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracker: The Ultimate GPS Device Compacted in Your Wallet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-gaming-woes-fixing-the-non-functional-microphone-in-dota-2/"><u>Solve Your Gaming Woes: Fixing the Non-Functional Microphone in Dota 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/undersea-creations-the-innovative-3d-printer-running-in-a-water-tank/"><u>Undersea Creations: The Innovative 3D Printer Running in a Water Tank</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[New] 2024 Approved Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch-for-2024/"><u>[New] Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-template-to-tutorial-gamers-channel-design/"><u>[New] In 2024, From Template to Tutorial Gamers' Channel Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] In 2024, Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-galaxy-100plus-spaces-of-play/"><u>[Updated] 2024 Approved Gamer's Galaxy 100+ Spaces of Play</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-splitcams-rated-or-not-in-2024/"><u>[Updated] Cutting-Edge SplitCams Rated or Not, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-youtube-images-download-without-any-cost-for-2024/"><u>[Updated] High-Quality YouTube Images Download Without Any Cost for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] In 2024, How to Spot and Secure Top Monetization Potential</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-multi-platform-content-delivery-youtube-and-beyond/"><u>[Updated] Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/como-restaurar-un-punto-de-restauracion-del-sistema-en-windows-11-metodos-y-guias-paso-a-paso-4-formas-diferentes/"><u>Cómo Restaurar Un Punto De Restauración Del Sistema en Windows 11: Métodos Y Guías Paso a Paso (4 Formas Diferentes)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-nhl-19-guide-a-deep-dive-into-virtual-hockey-action/"><u>Comprehensive NHL '19 Guide: A Deep Dive Into Virtual Hockey Action</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-comparison-can-github-copilot-outperform-chatgpt-in-coding/"><u>In-Depth Comparison: Can GitHub Copilot Outperform ChatGPT in Coding?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-a14-4g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy A14 4G, is it possible?</u></a></li>
 </ul></div>
 

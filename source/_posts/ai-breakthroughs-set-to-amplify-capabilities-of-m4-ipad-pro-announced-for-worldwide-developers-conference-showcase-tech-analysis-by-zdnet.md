@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2025-01-24T19:30:37.100Z
-updated: 2025-01-25T16:17:01.986Z
+date: 2025-02-04T16:56:13.154Z
+updated: 2025-02-07T16:41:13.254Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -45,6 +45,10 @@ Now, Apple has announced that it's using machine learning to derive a left eye a
 Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+ on the Vision Pro. All the Marvel movies were filmed in 2D and digitally remastered into 3D movies. The 3D effect is pretty underwhelming. Sometimes an object seems to be pulled from the background, but otherwise, it's not much to write home about. 
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
 
@@ -61,7 +65,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -78,10 +82,6 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -91,10 +91,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -115,7 +111,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,15 +171,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[Updated] 2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-security-settings-for-2024/"><u>[Updated] Guiding You Through YouTube's Security Settings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[Updated] In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-enhance-clarity-of-online-video-content/"><u>[Updated] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-reimagining-home-security-the-rise-of-multi-camera-recorders-for-2024/"><u>[Updated] Reimagining Home Security The Rise of Multi-Camera Recorders for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-strategies-for-efficient-business-teleconferencing-for-2024/"><u>[Updated] Strategies for Efficient Business Teleconferencing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fabulous-critique-and-diverse-suggestions/"><u>2024 Approved Fabulous Critique & Diverse Suggestions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy M54 5G Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-motorola-edge-40-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Motorola Edge 40 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-15-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 15 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[New] 2024 Approved Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge-for-2024/"><u>[New] From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-middle-ground-working-and-youtube/"><u>[New] In 2024, Finding the Middle Ground Working & YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-football-film-study-premier-insights-infographic/"><u>[New] In 2024, Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-more-video-views-on-youtube/"><u>[New] In 2024, How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[New] In 2024, How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-7-amazing-builds-in-creative-mode/"><u>[Updated] 7 Amazing Builds in Creative Mode</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-authentic-audience-growth-tricks-for-sustainable-views/"><u>[Updated] Authentic Audience Growth Tricks for Sustainable Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-free-youtube-downloads-without-programs-for-2024/"><u>[Updated] Guide Free YouTube Downloads Without Programs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse/"><u>2024 Approved A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/essential-guide-to-producing-quality-igtv-on-smartphonesdslrs/"><u>Essential Guide to Producing Quality IGTV on Smartphones/DSLRs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/level-up-your-retro-experience-instructions-for-increasing-game-selection-on-nes-classic/"><u>Level Up Your Retro Experience: Instructions for Increasing Game Selection on NES Classic</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-connection-problem-with-mb-services-in-win11/"><u>Overcoming the Connection Problem with MB Services in Win11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/playing-with-preferences-how-does-the-nintendo-switch-lite-stack-up-to-the-oled-version/"><u>Playing with Preferences: How Does the Nintendo Switch Lite Stack Up to the OLED Version?</u></a></li>
 </ul></div>
 

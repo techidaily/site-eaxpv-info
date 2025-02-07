@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Hosting YouTube Webinars for No Charge\""
-date: 2024-08-20T13:39:44.893Z
-updated: 2024-08-21T13:39:44.893Z
+date: 2025-02-01T16:21:26.185Z
+updated: 2025-02-07T16:03:25.039Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,6 @@ Promoting products, offering educational content or in-depth tutorials on virtua
 
 An alternative solution is available if your budget is tight, but you'd still like to produce a great webinar. We are going to take you through all the steps you'll need to take if you'd like to host a webinar for free and help you spread the word about the products and services you're offering.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -48,10 +45,11 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hosting a Webinar for Free
 
@@ -83,12 +81,15 @@ Hit the Go Live Now button, when you are ready to start your first webinar and e
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,6 +111,10 @@ Do you wonder how to turn on **AV1 settings on YouTube**? For your information, 
 
 ![youtube settings](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To turn on the AV1 settings, go to your YouTube account, after that click "Playback and Performance".
 * In the AV1 settings. Besides "Auto (Recommended)", there are other two options, which are "Prefer AV1 for SD" and also "Always prefer SD".
 * "Always Prefer AV1" uses the codec whenever it is available for a video while "Prefer AV1 for SD" limits it to SD videos. There are two options to avoid low-performance devices when AV1 videos are played on YouTube. You can select "Always Prefer AV1" to see if your device performance is good enough when you play videos on YouTube that support AV1.
@@ -126,35 +131,35 @@ Now, do you need a reason why you should choose AV1 compared to VP9 and the othe
 
 The main thing is, as mentioned before, AV1 is developed by a consortium of companies founded in 2015\. It is supported by The Alliance for Open Media (AOMedia) such as Amazon, Facebook, Google, Microsoft, and Netflix, and also by web browser developers and semiconductor firms. Aomedia made it clear the algorithm is free-to-use. It means that there are no greedy negotiators that will be dependent on the developers.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![giant techs behind av1](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also, these days, with a format that provides a much smaller workload for internet providers. Their today focus is, that AV1 can reach the quality but can get the job done with 20% more efficiency. Then, with AV1 encoding, a "standard" 4K movie will be much more accessible than it is now. These are some more reasons why you should choose AV1.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Royalty-free
 
 As mentioned before, AV1 is royalty-free. AV1 is such a next-generation of royalty video codec. It means that it is not just free to use, but also free of charge, obligations, or even liability. It is an open and royalty-free video codec that the video platform will not charge to pay royalties to the Moving Picture Experts Group (MPEG), the developer of video codecs.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![av1 is royalty-free](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-5.jpg)
 
 When it comes to the group that will ask for the royalty, MPEG is not the only one. There are also other patent groups and companies that can ask for it. Aomedia integrated Google, Mozilla, and Cisco, while they were busy creating their new video codec. However, the three companies joined together to create one codec to beat them all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Better performance
 
 It is said that the AV1 codec is 30% more efficient. According to the tests conducted by Moscow State University, AV1 can outperform AV1 by about 28% in the efficiency of encoding and decoding. As per the performance graph from the Graphics & Media Lab Video Group, MSU below, AV1 can offer the exactly same quality as X264 at 55% of the average bitrate.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![av1 benefit](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 AV1 is designed so exclusively to function better than all the other codecs in the market. It is an open-sourced codec with simple patent licensing, and the integration manages to save, as mentioned, up to 30% of the bandwidth for the exactly same image quality. In other words, with AV1, distributors can send streams much faster and cheaper and we can enjoy higher definitions in the same bandwidth.
 
@@ -164,16 +169,10 @@ AV1 is undoubtedly superior if we compare it to other available video codecs and
 
 There are also three essential improvements, which are simplifying the existing feature (also complete removal) and picking the tool used by VVC/H.266 (It is lack originality but so much work on it) and improvement periodically improvement of an existing tool, it is too few and also not original. We haven't known yet when AV2 will be done completely though, maybe there still be some more essential improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: What's the best video editor for YouTubers with AV1 format?
 
 When we talk about YouTube, it feels incomplete if we don't talk about the video editor. So, what is the best video editing software for YouTubers with AV1 format? Yes, it is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is such a great video editing software that allows you to import and edit many video file formats. Filmora also allows users to export AV1 MP4 format video and then can directly upload it to YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora logo](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-7.jpg)
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) gives some ways to export your videos. Here are the five ways. You can also customize the export settings then you can save them to reuse the same settings next time. The first is you can export your project file and video to the local computer. It supports export as MP4, AVI, WMV, AV1, MOV, GoPro Cineform, F4V, MKV, TS, and 3GP.
@@ -183,6 +182,10 @@ After that, you can export your video to any device you want, such as iPhone, iP
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: FAQ: Does YouTube use AV1 or VP9?
 
@@ -207,8 +210,21 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>[New] 2024 Approved From Video Lessons to Visual Gigs YouTube Videos Converted Seamlessly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-storage-exploration-how-many-vids-can-64128gb-hold/"><u>[New] 2024 Approved Storage Exploration How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ace-set-of-rotational-recording-devices/"><u>[New] Ace Set of Rotational Recording Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-youtube-video-creation-made-simple-for-2024/"><u>[New] From Script to Screen YouTube Video Creation Made Simple for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] In 2024, Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/"><u>[Updated] 2024 Approved Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonic-haven-best-dj-template-selections/"><u>[Updated] 2024 Approved Harmonic Haven Best DJ Template Selections</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/free-tv-streaming-9-sites-you-need-to-know-for-2024/"><u>Free TV Streaming 9 Sites You Need To Know for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-post-share-a-video-from-youtube-on-instagram-for-2024/"><u>How to Post /Share a Video From YouTube on Instagram for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-virtual-venture-gears-choosing-best-metaverse-headsets/"><u>In 2024, Virtual Venture Gears Choosing Best Metaverse Headsets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-talks-with-these-7-ai-tools/"><u>Mastering Talks with These 7 AI Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-soundscape-auditions-for-videos/"><u>Prime Soundscape Auditions for Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/remove-faded-appearance-of-windows-volume-extend/"><u>Remove Faded Appearance of Windows' Volume Extend</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tailor-videos-for-impact-on-instagram-feed-for-2024/"><u>Tailor Videos for Impact on Instagram Feed for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2025-01-18T19:19:48.312Z
-updated: 2025-01-25T16:22:14.466Z
+date: 2025-02-01T16:55:24.073Z
+updated: 2025-02-07T16:09:26.625Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -59,10 +63,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -90,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -104,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,21 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-googles-enhanced-technique-for-flawless-speech-transcription/"><u>[New] 2024 Approved Google's Enhanced Technique for Flawless Speech Transcription</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-next-big-idea-in-iconography-at-these-6-places-for-2024/"><u>[New] Finding Your Next Big Idea in Iconography at These 6 Places for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-game-jams-and-indie-project-highlights-for-2024/"><u>[New] Game Jams and Indie Project Highlights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-chapters-to-youtube-videos/"><u>[New] In 2024, How to Add Chapters to YouTube Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>[New] The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-fluctuating-led-on-dell-laptop/"><u>[Resolved] Fluctuating LED on Dell Laptop</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-unwatched-to-watched-top-10-reasons-and-solutions-for-no-views/"><u>[Updated] 2024 Approved From Unwatched to Watched Top 10 Reasons & Solutions for No Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[Updated] 2024 Approved How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-outsmart-youtube-sanctions/"><u>[Updated] 2024 Approved How to Outsmart Youtube Sanctions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-modify-youtube-video-visibility-with-ease/"><u>[Updated] 2024 Approved Modify YouTube Video Visibility with Ease</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance-for-2024/"><u>[Updated] First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-your-pathway-to-mastery-in-youtube-vids-on-twitter/"><u>2024 Approved Your Pathway to Mastery in YouTube Vids on Twitter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comparando-tiff-y-jpeg-cual-es-la-mejor-opcion-para-almacenar-imagenes/"><u>Comparando TIFF Y JPEG: ¿Cuál Es La Mejor Opción Para Almacenar Imágenes?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008646838-solving-the-msvcr110dll-missing-issue-in-helldivers-2/"><u>Solving the 'MSVCR110.dll Missing' Issue in HellDivers 2</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-your-phoenix-point-crash-issues/"><u>Troubleshooting Steps: Resolving Your Phoenix Point Crash Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hand-held-balance-for-sharp-images/"><u>[New] 2024 Approved Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space-for-2024/"><u>[New] From Playtime to Peak Time Top Gaming Women in the Digital Space for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-income-optimization-tips/"><u>[New] In 2024, Gaming Income Optimization Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-social-media-collages-made-fast/"><u>[New] Innovative Social Media Collages Made Fast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-engagement-boosting-youtube-traffic/"><u>[Updated] 2024 Approved Harness the Power of Engagement Boosting YouTube Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-your-favorite-podcasts-and-videos-anytime-on-the-go-with-these-tools-for-2024/"><u>[Updated] Get Your Favorite Podcasts & Videos Anytime, On-the-Go, With These Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-views-the-power-of-synergistic-youtube-content-partnerships/"><u>[Updated] In 2024, Elevate Views The Power of Synergistic YouTube Content Partnerships</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] In 2024, From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-revenue-streaming-star-across-the-globe/"><u>[Updated] In 2024, High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unique-coverage-awaits-crafting-your-own-custom-youtube-shorts-images/"><u>[Updated] Unique Coverage Awaits Crafting Your Own Custom YouTube Shorts Images</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-90-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor 90 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-error-while-opening-sound-device-issue-in-windows-11-and-11/"><u>How to Fix Audacity’s “Error While Opening Sound Device” Issue in Windows 11 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-correct-windows-update-error-0x8007001f-issue/"><u>How to Successfully Correct Windows Update Error 0X8007001f Issue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-prime-mobile-tools-to-enhance-dji-drone-imagery/"><u>In 2024, Prime Mobile Tools to Enhance DJi Drone Imagery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-propel-your-youtube-presence-via-advanced-creator-studio-techniques/"><u>In 2024, Propel Your Youtube Presence via Advanced Creator Studio Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-8-filter-trios-for-broadcast-excellence/"><u>In 2024, Superior 8 Filter Trios for Broadcast Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-chatgpt-mobile-app-right-for-you-consider-these-reasons-to-avoid-downloading/"><u>Is the ChatGPT Mobile App Right for You? Consider These Reasons to Avoid Downloading</u></a></li>
 </ul></div>
 

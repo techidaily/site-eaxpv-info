@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Guide to Incorited Visuals in Text Without Cost\""
-date: 2024-08-20T13:40:53.289Z
-updated: 2024-08-21T13:40:53.289Z
+date: 2025-02-03T16:51:30.195Z
+updated: 2025-02-07T16:28:49.586Z
 tags:
   - ai video
   - ai youtube
@@ -38,19 +38,21 @@ You should start by creating a new slide and adding a textbox to it. Proceed to 
 
 Head over to the Insert tab, select Rectangle from the Shapes menu, and create a rectangular shape over the entire slide. Right-click on the slide and choose the Send to Back option from the menu. In this manner, you will position the rectangle you created behind the textbox.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
 
 Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down menu. The shape of the text in the textbox will be applied to the object in the background, which enables you to add a video to that text.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- substract](https://images.wondershare.com/filmora/article-images/subtract-from-merge-shapes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the Insert tab, and then choose the Video option from the Media menu. You can [insert a video](https://tools.techidaily.com/wondershare/filmora/download/) that is stored on a local hard drive or the Internet to PowerPoint. The video will cover the entire slide, so you must right-click on it and select the Send to Back option.
 
@@ -61,6 +63,10 @@ You can then fine-tune the video playback settings from the Playback tab. Previe
 Besides presentation software, you can also use video editing software products to add a video to text. Filmora lets you add a video to text in just a few simple steps. You can first make a text video with animation first, and then use the picture in picture feature to add the video to text. Here are the detailed information about how to add a video to text in Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
@@ -94,7 +100,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -105,9 +110,6 @@ Follow @Liza Brown
 
 # How to Make a YouTube Reaction Video?
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -127,6 +129,10 @@ The process of **making a YouTube reaction video** is not overly technical, alth
 Using the footage without the consent of the copyright owner is punishable by the law, which means that you can only include the footage in a reaction video if you have the owner’s consent. Consequently, the selection of videos you can comment on is going to be limited, since it is entirely up to the creator of the video if they are going to give you permission to use their footage in your reaction video.
 
 You can use the following video editing techniques, once you have access to the video you would like to comment on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Making a reaction video with the Picture-in-Picture feature in Filmora
 
@@ -150,6 +156,10 @@ Moreover, Filmora video editing software offers a variety of blending modes, and
 
 **Pros of using the Picture in Picture feature to make reaction videos in Filmora:** You can place and adjust the videos with more customizable options. Get more tips about [Making a PIP video in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Create several reaction windows with the Split Screen feature
 
 Besides the Picture-in-Picture option, Filmora also enables you to [play two or more videos simultaneously](https://tools.techidaily.com/wondershare/filmora/download/) with Split Screen templates. Drag and drop the template you want to use in your reaction video to the timeline and click on the Enable Split Screen Animation tick box if you want to use the template without animations.
@@ -158,9 +168,6 @@ Besides the Picture-in-Picture option, Filmora also enables you to [play two or 
 
 Afterward, you should drag the video clips from the Media tab and drop them onto the section of the preview window where you want them to be located. Keep in mind that you cannot add more than six videos to a split-screen template.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora  Edit Reaction Video with Split Screen Video](https://images.wondershare.com/filmora/article-images/reaction-video-advanced-split-screen-edit.jpg)
 
 All videos you add to a split-screen template can be edited, and you just have to click on them if you want to adjust their sizes, enhance colors, mute their audio tracks or add a new audio file to the template.
@@ -169,23 +176,12 @@ Check the details about [How to make a split-screen video](https://tools.techida
 
 **Pros of using Split-screen template to make reaction video in Filmora:** various templates for creating stylish video side by side easily.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Create A YouTube Reaction Video with AI Portrait
 
 With the human segmentation effect in AI Portrait, you can now blend the reaction video in a more natural way. The human segmentation effect will isolate people from the background, you can use any background in the video.
@@ -196,10 +192,11 @@ Note: You can use this feature after version after V 10.5 for Windows, and V 10.
 
 **Step 1:** Import the videos to the media library, and then drag the background video to the first video track, and the reaction video to the track above.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import reaction videos to Filmora](https://images.wondershare.com/filmora/article-images/import-reaction-videos-to-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Go to the Effects tab at the top, and click the AI Portrait category, and then you will see many effects such as Human Segmentation, Human Pixelate, Human Noise, and lighting flash. Here, drag and drop the Human segmentation effect to the reaction video.
 
@@ -207,23 +204,22 @@ Note: You can use this feature after version after V 10.5 for Windows, and V 10.
 
 **Step 3**: Select the reaction video in the timeline, and then adjust its size and position by dragging it on the preview window. See, the reaction video is fine blended with the background video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust reaction video size](https://images.wondershare.com/filmora/article-images/customize-reaction-video-size.jpg)
 
 **Step 4:** That’s the basic editing of making a reaction video. You can also add the neon or flashing effect to the video. If everything goes well, click Export and save the video.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![add neon flash effects to reaction video](https://images.wondershare.com/filmora/article-images/add-neon-flash-effects-to-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can find out more details about using the [AI Portrait effect to make a reaction video](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Avoid Copyright Infringements While Making a YouTube Reaction Video
 
 All videos you can find on YouTube are protected by intellectual property regulations, and you can’t use them without the copyright owner’s permission. The only way to avoid being absolutely sure that your reaction video isn’t violating the law is to contact the video creator and ask for permission to use their intellectual property. However, most YouTubers are reluctant to let others download and edit their videos unless they already have a large fan base.
@@ -240,17 +236,17 @@ Anyone can master the technical aspects of making a reaction video, but the topi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -259,8 +255,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-boosting-zoom-clarity-the-guide-to-using-filters-wisely/"><u>[New] Boosting Zoom Clarity The Guide to Using Filters Wisely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-recover-hidden-shorts-thumbnails-in-videos-for-2024/"><u>[New] How to Recover Hidden Shorts' Thumbnails in Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safely-increase-your-youtube-fanbase-to-one-million-for-2024/"><u>[New] How to Safely Increase Your YouTube Fanbase To One Million for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>[New] In 2024, Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-smoothly-view-youtube-videos-without-borders/"><u>[New] In 2024, How to Smoothly View YouTube Videos without Borders?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-is-there-a-cash-incentive-in-critique-videos/"><u>[New] Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-protectly-copy-youtube-tracks-for-free/"><u>[Updated] 2024 Approved How to Protectly Copy Youtube Tracks for Free</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ignite-conversations-tactics-for-facebook-impact-for-2024/"><u>[Updated] Ignite Conversations Tactics for Facebook Impact for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[Updated] In 2024, How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-money-on-youtube-without-ads/"><u>[Updated] In 2024, How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-to-resolve-monitor-projecting-error-on-windows-computers/"><u>Effortless Fixes To Resolve Monitor Projecting Error On Windows Computers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/h-your-viewing-experience-with-these-leading-top-6-tools-to-download-youtubes-short-videos-for-2024/"><u>Enrich Your Viewing Experience with These Leading Top 6 Tools to Download YouTubes' Short Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-and-prevent-lag-in-league-of-legends-a-step-by-step-guide/"><u>How to Fix and Prevent Lag in League of Legends: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-highest-quality-radio-dramatic-works/"><u>In 2024, Highest Quality Radio Dramatic Works</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transition-from-standard-to-intelligent-hdr-imaging-for-2024/"><u>Transition From Standard to Intelligent HDR Imaging for 2024</u></a></li>
+</ul></div>
 

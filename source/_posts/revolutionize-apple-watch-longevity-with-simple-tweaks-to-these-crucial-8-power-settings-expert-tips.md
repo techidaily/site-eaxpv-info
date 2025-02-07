@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Apple Watch Longevity with Simple Tweaks to These Crucial 8 Power Settings – Expert Tips
-date: 2025-01-23T20:19:02.387Z
-updated: 2025-01-25T19:31:27.541Z
+date: 2025-02-01T16:04:52.676Z
+updated: 2025-02-07T17:38:18.210Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -61,6 +61,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -80,15 +84,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -97,10 +101,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -111,7 +111,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -121,7 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -165,20 +165,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screenplay-expert-video-editing-insights/"><u>[New] 2024 Approved From Script to Screenplay Expert Video Editing Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-in-youtube-tech-a-comprehensive-list-for-2024/"><u>[New] First Steps in YouTube Tech A Comprehensive List for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] In 2024, From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-trim-youtube-videos-like-a-pro/"><u>[New] In 2024, How to Trim YouTube Videos Like a Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-dark-moments-bright-shots-a-photographers-nighttime-guide/"><u>[Updated] 2024 Approved Dark Moments, Bright Shots A Photographer’s Nighttime Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[Updated] 2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-couch-to-camera-earning-through-personal-vlogging-for-2024/"><u>[Updated] From Couch-to-Camera Earning Through Personal Vlogging for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-stand-out-with-custom-youtube-imagery/"><u>[Updated] Stand Out with Custom YouTube Imagery</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>[Updated] Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-70-lite-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor 70 Lite 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-color-grading-plugins-top-15-luts-for-action-cams/"><u>Best Color Grading Plugins Top 15 LUTs For Action Cams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-doubts-on-apples-upcoming-arvr-headset-feature-insights-by-zdnet/"><u>Exploring Doubts on Apple’s Upcoming AR/VR Headset Feature - Insights by ZDnet</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-130-music-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia 130 Music? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y56-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y56 5G Phone?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-biggest-fifa-visuals-youtube-insights-graphed/"><u>[New] 2024 Approved Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-collaboration-slack-melded-with-filmoras-video-capabilities-for-2024/"><u>[New] Enhancing Collaboration Slack Melded With Filmora’s Video Capabilities for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framefusion-creator/"><u>[New] In 2024, FrameFusion Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[New] In 2024, Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hand-held-balance-for-sharp-images/"><u>[New] In 2024, Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-top-five-transformative-facebook-traits/"><u>[New] In 2024, Unlocking Top Five Transformative Facebook Traits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[Updated] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-fandom-to-fame-gamers-livestream-success-strategies-for-2024/"><u>[Updated] From Fandom to Fame Gamers' Livestream Success Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level-for-2024/"><u>[Updated] From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-free-green-screen-effects-from-4-youtube-channels-for-2024/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-transcribe-a-youtube-video-for-free-for-2024/"><u>[Updated] How to Transcribe a YouTube Video for FREE for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube/"><u>[Updated] In 2024, Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ispring-screen-recorder-review-for-2024/"><u>[Updated] ISpring Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-high-quality-tv-guide-find-the-best-models-below-1000-tested-by-professionals-zdnet/"><u>Affordable High-Quality TV Guide: Find the Best Models Below $1,000 Tested by Professionals | ZDNet</u></a></li>
+<li><a href="https://discover-data.techidaily.com/enhance-performance-using-asus-tuf-a15-gaming-ssd-swap-out-old-drive-or-expand-capacity/"><u>Enhance Performance Using ASUS TUF A15 Gaming SSD - Swap Out Old Drive or Expand Capacity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/stir-to-screen-masterful-cooking-videos/"><u>From Stir to Screen Masterful Cooking Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-k11-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo K11 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-audio-malfunctions-in-fallout-4-pc-edition/"><u>Step-by-Step Fixes for Audio Malfunctions in Fallout 4 PC Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-new-frontier-in-small-computing-a-deep-dive-into-the-raspberry-pi-400-review/"><u>The New Frontier in Small Computing: A Deep Dive Into the Raspberry Pi 400 Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2025-01-21T16:30:16.746Z
-updated: 2025-01-25T18:46:23.374Z
+date: 2025-02-05T16:37:51.503Z
+updated: 2025-02-07T17:29:21.809Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ Before I take you through both the tools and my "process," let me point out that
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -54,16 +58,12 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## First morning Gmail
@@ -82,6 +82,10 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -91,6 +95,10 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -107,10 +115,6 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -161,10 +165,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -180,7 +180,7 @@ I just think of those users like more of my students. If any questions show up i
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -191,6 +191,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -221,10 +225,6 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -275,22 +275,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[New] 2024 Approved Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] 2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-female-gamers-faction-yts-10-stars-for-2024/"><u>[New] Female Gamers Faction YT's #10 Stars for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[New] In 2024, From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-flickering-camera-lights-to-financial-highlights-for-2024/"><u>[Updated] From Flickering Camera Lights to Financial Highlights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-screen-to-share-mastering-youtubes-thumbnail-artistry-for-2024/"><u>[Updated] From Screen to Share Mastering YouTubes' Thumbnail Artistry for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-fix-the-youtube-shorts-not-showing-up-issue-in-2024/"><u>[Updated] How to Fix the YouTube Shorts Not Showing Up Issue, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[Updated] In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-websites-to-download-classical-ringtones-for-2024/"><u>Best Websites to Download Classical Ringtones for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-advertise-on-twitter-for-2024/"><u>How to Advertise on Twitter for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-agni-2-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Agni 2 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-reno-10-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo Reno 10 Pro 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-messaging-a-comprehensive-guide-to-sending-texts-from-your-ipad/"><u>Mastering Messaging: A Comprehensive Guide to Sending Texts From Your iPad</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/obs-versus-screensnapper-for-2024/"><u>OBS Versus ScreenSnapper for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/post-block-reconciliation-tactics-for-fb-friends/"><u>Post-Block Reconciliation Tactics for FB Friends</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/star-trek-movie-marathon-how-to-experience-them-chronologically/"><u>Star Trek Movie Marathon: How to Experience Them Chronologically</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>[New] 2024 Approved How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-collaborations-building-partnerships-to-promote-videos-for-2024/"><u>[New] Fostering Collaborations Building Partnerships to Promote Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[Updated] 2024 Approved From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-handling-haters-strategies-for-content-creators/"><u>[Updated] 2024 Approved Handling Haters Strategies for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-a-youtube-video-to-google-slides/"><u>[Updated] 2024 Approved How to Add a YouTube Video to Google Slides</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[Updated] In 2024, From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-protectively-download-youtube-audio-without-fear/"><u>[Updated] In 2024, How to Protectively Download YouTube Audio Without Fear</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-chatgpt-to-provide-correct-solutions-for-your-math-questions/"><u>Can You Trust ChatGPT to Provide Correct Solutions for Your Math Questions?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/escape-the-capsule-of-32-bit-windows-10-for-64-bit-excellence/"><u>Escape the Capsule of 32-Bit Windows 10 for 64-Bit Excellence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-of-copilotplus-a-peek-into-the-gaming-ready-laptops-debuted-at-ifa-2024-tech-analysis-by-zdnet/"><u>Exploring the Best of Copilot+: A Peek Into the Gaming-Ready Laptops Debuted at IFA 2024 | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-startup-problems-with-the-nier-replica-remaster/"><u>Resolving Startup Problems with the NieR Replica Remaster</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-art-of-storytelling-10-famous-movies-shaped-by-final-cut-pros-creative-freedom-for-2024/"><u>The Art of Storytelling 10 Famous Movies Shaped by Final Cut Pros Creative Freedom for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-analysis-why-apples-latest-m2-powerhouse-is-the-ultimate-choice-for-consumers-insights/"><u>Top Rated iPad Air Analysis: Why Apple's Latest M2 Powerhouse Is the Ultimate Choice for Consumers - Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-livestreams-with-manycam-intuitive-video-enhancement-tools-and-realistic-virtual-camera-options/"><u>Transform Your Livestreams with ManyCam: Intuitive Video Enhancement Tools and Realistic Virtual Camera Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-reveals-a-surprisingly-exceptional-all-in-one-laptop-for-professionals-ranking-as-one-of-top-tests/"><u>ZDNet Reveals a Surprisingly Exceptional All-In-One Laptop for Professionals, Ranking as One of Top Tests</u></a></li>
 </ul></div>
 

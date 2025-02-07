@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2025-01-21T19:25:55.600Z
-updated: 2025-01-25T17:19:54.743Z
+date: 2025-02-02T16:02:47.447Z
+updated: 2025-02-07T16:17:22.360Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,17 +126,21 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>[New] 2024 Approved First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license-for-2024/"><u>[New] How to Retain Video Engagement Sustained Use of YouTube's CC License for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-a-niche-market-on-youtube/"><u>[New] In 2024, How to Find A Niche Market on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[Updated] 2024 Approved From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-creator-to-kingmaker-ajays-youtube-revenue-revolution-for-2024/"><u>[Updated] From Creator to Kingmaker Ajay’s YouTube Revenue Revolution for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nokia-c12-plus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nokia C12 Plus to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cure-your-sony-vegas-breakdowns-with-these-troubleshooting-steps/"><u>Cure Your Sony Vegas Breakdowns with These Troubleshooting Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-to-prevent-call-of-duty-modern-warfare-from-breaking-down/"><u>Effective Solutions to Prevent Call of Duty: Modern Warfare From Breaking Down</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-13-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 13 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c12-plus-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C12 Plus Phone Screen?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-definitive-guide-for-effective-and-smooth-youtube-video-uploads-for-2024/"><u>The Definitive Guide for Effective and Smooth YouTube Video Uploads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-consolidating-your-youtube-video-collection/"><u>[New] In 2024, Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-imovie-content-from-home-studio-to-youtube-hub-for-2024/"><u>[Updated] Guiding iMovie Content From Home Studio to YouTube Hub for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-lounge-app/"><u>[Updated] In 2024, Filmmaker's Lounge App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>[Updated] In 2024, FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-massive-viewership-with-a-small-financial-investment/"><u>[Updated] In 2024, Gain Massive Viewership with a Small Financial Investment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-share-your-4k-videos-with-the-world-via-youtube/"><u>[Updated] In 2024, How to Share Your 4K Videos with the World via YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-minuscule-cinematic-design/"><u>2024 Approved Minuscule Cinematic Design</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-discovering-virtual-augmentations/"><u>A Guide to Discovering Virtual Augmentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertissez-vos-videos-flv-en-ogg-facilement-et-gratuitement-avec-loutil-en-ligne-de-movavi/"><u>Convertissez Vos Vidéos FLV en OGG Facilement Et Gratuitement Avec L'outil en Ligne De Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-sound-with-our-free-behringer-drive-downloads/"><u>Enhance Your Sound with Our Free Behringer Drive Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-foremost-ceiling-mounted-sound-systems-of-2024/"><u>Expert Picks: Foremost Ceiling-Mounted Sound Systems of 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-export-recovered-edb-filemailboxes-to-live-exchange/"><u>How to Export Recovered EDB File(Mailboxes) to Live Exchange ...</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-securing-visibility-with-pinning-conversations-on-instagram-platforms/"><u>Step-by-Step: Securing Visibility with Pinning Conversations on Instagram Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tablet-battle-royale-analyzing-features-of-ipads-vs-kindles-vs-nooks/"><u>Tablet Battle Royale: Analyzing Features of iPads Vs. Kindles Vs. Nooks</u></a></li>
 </ul></div>
 

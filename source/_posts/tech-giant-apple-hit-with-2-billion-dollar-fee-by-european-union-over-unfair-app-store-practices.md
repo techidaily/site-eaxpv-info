@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2025-01-22T17:55:51.663Z
-updated: 2025-01-25T16:12:50.404Z
+date: 2025-02-06T17:05:03.891Z
+updated: 2025-02-07T17:00:51.843Z
 tags:
   - apple
 categories:
@@ -24,11 +24,11 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to swap faces on your Apple Watch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
 
@@ -37,7 +37,7 @@ If you're still running watchOS 9 or earlier, the older method of switching watc
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Switch watch faces
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update to watchOS 10.2
@@ -69,7 +69,7 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the method for switching faces
@@ -81,7 +81,7 @@ screenshot by Lance Whitney/ZDNET
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
@@ -120,24 +120,16 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flipping-scripts-generating-parody-content/"><u>[New] 2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[New] 2024 Approved From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] 2024 Approved From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-professionally-speaking-the-top-5-drone-recommendations/"><u>[New] 2024 Approved Professionally Speaking The Top 5 Drone Recommendations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-transforming-imagery-with-quantum-hdr/"><u>[New] 2024 Approved Transforming Imagery with Quantum HDR</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-first-to-last-your-guide-to-youtube-video-looping-101-for-2024/"><u>[New] From First to Last Your Guide to YouTube Video Looping 101 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-minecraft-branding-tools-download/"><u>[New] In 2024, Free Minecraft Branding Tools Download</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hot-yt-videos-best-music-dance-and-responses-23/"><u>[New] In 2024, Hot YT Videos Best Music Dance & Responses '23</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-leading-ps2-game-emulation-tools/"><u>[New] IOS Leading PS2 Game Emulation Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[New] Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-slice-and-capture-best-cam-reevaluation/"><u>[Updated] 2024 Approved Slice and Capture Best Cam Reevaluation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-audio-treasures-to-amplify-youtube-for-2024/"><u>[Updated] Free Audio Treasures to Amplify YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-hidden-channels-to-the-throne-of-1k-subscribers-for-2024/"><u>[Updated] From Hidden Channels to the Throne of 1K Subscribers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-static-to-sprightly-bouncing-text-animations-for-2024/"><u>[Updated] From Static to Sprightly Bouncing Text Animations for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-speed-up-your-logitech-keyboard-a-hassle-free-approach/"><u>How to Speed Up Your Logitech Keyboard: A Hassle-Free Approach</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-technicalities-of-podcast-rss-file-design/"><u>In 2024, The Technicalities of Podcast RSS File Design</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-updated-drivers-for-your-hp-officejet-pro-8620-on-a-windows-pc-step-by-step-tutorial/"><u>Installing Updated Drivers for Your HP OfficeJet Pro 8620 on a Windows PC - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-computer-maintenance-how-to-perform-a-defrag-on-windows-11-with-revo-uninstaller-instructions/"><u>Mastering Computer Maintenance: How to Perform a Defrag on Windows 11 with Revo Uninstaller Instructions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-memory-consumption-from-microsoft-compatibility-services-on-windows-11/"><u>Troubleshooting High Memory Consumption From Microsoft Compatibility Services on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] 2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-halt-youtube-suggested-content-now/"><u>[New] 2024 Approved Halt YouTube Suggested Content Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>[New] 2024 Approved Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-buy-youtube-views-everything-you-need-to-know/"><u>[New] 2024 Approved How to Buy YouTube Views - Everything You Need To Know</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expressive-satire-kapwings-memetic-tool-for-2024/"><u>[New] Expressive Satire Kapwing’s Memetic Tool for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-coping-with-youtube-copyright-claims-a-step-by-step-guide/"><u>[Updated] Coping with YouTube Copyright Claims A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-explore-these-8-sizzling-social-media-sensations-on-fb/"><u>[Updated] Explore These 8 Sizzling Social Media Sensations on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-thumbnails-saving-guide/"><u>[Updated] In 2024, Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-device-not-detected-problem-fixing-error-code-24-on-windows-os/"><u>How to Overcome 'Device Not Detected' Problem - Fixing Error Code 24 on Windows OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-15-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 15 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
 

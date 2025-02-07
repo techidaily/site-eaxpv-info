@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2025-01-22T16:46:24.996Z
-updated: 2025-01-25T20:26:33.989Z
+date: 2025-02-03T17:10:51.112Z
+updated: 2025-02-07T16:36:30.419Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch
@@ -75,7 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -91,7 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -140,22 +140,16 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-venturing-solo-in-3d-printing-with-3dr-tech-review-for-2024/"><u>[New] Venturing Solo in 3D Printing with '3DR' Tech Review for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-beginners-blueprint-setting-up-a-live-video-feed/"><u>[Updated] 2024 Approved Beginner's Blueprint Setting Up a Live Video Feed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere/"><u>[Updated] 2024 Approved From Capturing Moments to Sharing Them Editing with Adobe Premiere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-notable-top-course-recommendations-for-youtubers/"><u>[Updated] 2024 Approved From Novice to Notable Top Course Recommendations for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-youtube-rich-list-pinnacle/"><u>[Updated] 2024 Approved Global YouTube Rich List Pinnacle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-youtube-hidden-videos/"><u>[Updated] 2024 Approved How to Find YouTube Hidden Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[Updated] 2024 Approved How to Save Money with the Right YouTube TV Plan</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples/"><u>[Updated] Crafting Compelling Podcast Names A Detailed Guide with Idea Examples</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-expert-tips-on-controlling-timeline-pace-in-videos/"><u>[Updated] Expert Tips on Controlling Timeline Pace in Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-secure-is-subforsup-to-expand-your-youtube-community-safely-for-2024/"><u>[Updated] How Secure Is Subforsup to Expand Your YouTube Community Safely for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[Updated] In 2024, From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>[Updated] In 2024, How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-grading-made-simple-for-everyone/"><u>[Updated] Photoshop Grading Made Simple for Everyone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-movavi-pro-video-review-the-new-standard/"><u>2024 Approved Movavi Pro Video Review – The New Standard</u></a></li>
-<li><a href="https://solve-info.techidaily.com/norton-rose-llp-utilise-le-serveur-de-reconnaissance-dabbyy-pour-la-digitalisation-centrale-des-documents/"><u>Norton Rose LLP Utilise Le Serveur De Reconnaissance D'ABBYY Pour La Digitalisation Centrale Des Documents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-your-next-read-explore-these-innovative-ai-powered-book-apps/"><u>Tailor Your Next Read: Explore These Innovative AI-Powered Book Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-7-cost-effective-user-friendly-movie-software-for-2024/"><u>Top 7 Cost-Effective, User-Friendly Movie Software for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] 2024 Approved Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[New] In 2024, Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>[New] In 2024, Fixing the Problem Hidden Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-instant-recording-audio-enriched-screens/"><u>[New] In 2024, Instant Recording Audio-Enriched Screens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-video-elements-cardsannotations/"><u>[Updated] 2024 Approved How to Create Impactful Video Elements Cards/Annotations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-adobe-advances-bringing-text-into-three-dimensional-space/"><u>[Updated] In 2024, Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-step-by-step-tutorial-on-screencastify-use/"><u>A Step-by-Step Tutorial on Screencastify Use</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-vista-drivers-without-software-tools/"><u>Configure Vista Drivers Without Software Tools</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/dealing-with-unresponsive-graphics-drivers-how-to-fix-freezing-pc-problems-guided-by-yl-software-experts/"><u>Dealing with Unresponsive Graphics Drivers: How to Fix Freezing PC Problems, Guided by YL Software Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-the-art-of-fbx-based-gaming-archiving/"><u>Mastering the Art of FBX-Based Gaming Archiving</u></a></li>
 </ul></div>
 

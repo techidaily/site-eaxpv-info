@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2025-01-21T19:47:39.368Z
-updated: 2025-01-25T16:14:45.719Z
+date: 2025-02-02T16:34:47.113Z
+updated: 2025-02-07T16:57:02.234Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
 
@@ -59,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -82,10 +78,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -96,11 +88,19 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -117,7 +117,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -128,10 +128,6 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -139,6 +135,10 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,24 +180,21 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-effortless-switch-between-video-playback-on-devices/"><u>[New] 2024 Approved Effortless Switch Between Video Playback on Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] 2024 Approved From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-camera-roundup-top-picks-for-superior-videography/"><u>[New] Camera Roundup Top Picks for Superior Videography</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-football-film-breakdown-premier-insights-on-youtube-for-2024/"><u>[New] Football Film Breakdown Premier Insights on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-conference-call-to-online-showcase-google-meet-on-youtube-for-2024/"><u>[New] From Conference Call to Online Showcase Google Meet on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-breaking-down-the-process-for-youtube-comment-highlights/"><u>[New] In 2024, Breaking Down the Process for YouTube Comment Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[New] In 2024, From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] In 2024, From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-masters-top-ten-female-gaming-influencers/"><u>[New] In 2024, Game Masters Top Ten Female Gaming Influencers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pinnacle-av-artisans-an-exclusive-list-for-you/"><u>[New] In 2024, Pinnacle AV Artisans An Exclusive List for You</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flip-the-script-on-classic-films-7-list/"><u>[Updated] 2024 Approved Flip the Script on Classic Films, #7 List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-could-you-make-on-youtube-snippets/"><u>[Updated] 2024 Approved How Much Could You Make on YouTube Snippets?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips-for-2024/"><u>[Updated] From Phone Ideas to Online Presence Simple YouTube Channel Creation Tips for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-gradual-diminishment-of-sound-tips-from-logic-pro-experts/"><u>[Updated] Gradual Diminishment of Sound Tips From Logic Pro Experts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/efficient-video-storing-in-google-chat-for-2024/"><u>Efficient Video Storing in Google Chat for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/funf-favoriten-kostenlose-videoschnittprogramme-im-jahr-2024-die-sie-auf-jeden-fall-kennen-sollten/"><u>Fünf Favoriten: Kostenlose Videoschnittprogramme Im Jahr 2024, Die Sie Auf Jeden Fall Kennen Sollten</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-a58-4g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Oppo A58 4G Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-youtube-seo-boost-your-video-popularity/"><u>Mastering YouTube SEO Boost Your Video Popularity</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-to-updating-the-logitech-m510-mouse-software-for-optimal-performance/"><u>The Ultimate Guide to Updating the Logitech M510 Mouse Software for Optimal Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>[New] 2024 Approved Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-money-on-youtube-for-2024/"><u>[New] How To Make Money on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[New] In 2024, Hashtag Heroes The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-power-of-skype-recordings-on-windows-and-mac-for-2024/"><u>[New] Unlocking the Power of Skype Recordings on Windows & Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-flourishing-in-youtube-content-markets/"><u>[Updated] 2024 Approved Financial Flourishing in YouTube Content Markets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-capture-times-essence-a-comprehensive-guide-to-making-slow-motion-video-from-still-images-online/"><u>[Updated] Capture Time's Essence A Comprehensive Guide to Making Slow-Motion Video From Still Images Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android-for-2024/"><u>[Updated] Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] In 2024, Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-tips-for-youtube-and-twitch-streamers-using-obs-effectively-for-2024/"><u>[Updated] Professional Tips for YouTube & Twitch Streamers Using OBS Effectively for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-shot-selection-best-stabilizers-reviewed/"><u>[Updated] Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-a-deep-dive-into-gpts-code-comprehension/"><u>Beneath the Surface: A Deep Dive Into GPT's Code Comprehension</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Samsung Galaxy S23</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-old-wallpaper-a-simple-three-step-plan/"><u>Clearing Old Wallpaper - A Simple Three-Step Plan</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-itel-p55plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Itel P55+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-speed-up-your-sluggish-spotify-web-player-2022-edition/"><u>Resolved! How to Speed Up Your Sluggish Spotify Web Player - 2022 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-mechanics-of-swift-content-on-facebook-for-2024/"><u>The Mechanics of Swift Content on Facebook for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2025-01-20T18:19:22.427Z
-updated: 2025-01-25T20:47:17.271Z
+date: 2025-02-05T16:20:24.695Z
+updated: 2025-02-07T16:25:27.239Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
@@ -33,7 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -88,10 +92,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -99,7 +99,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,21 +160,16 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-subscriber-count-surpasses-500/"><u>[New] 2024 Approved From Free to Paid Subscriber Count Surpasses 500</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[New] How to Add Chapters to YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-tips-for-vimeo-video-logging/"><u>[New] In 2024, Essential Tips for Vimeo Video Logging</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-navigating-lut-use-in-professional-video-editing/"><u>[New] Navigating LUT Use in Professional Video Editing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] 2024 Approved First Steps on the Path Equipment for Beginners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-view-limitations-for-2024/"><u>[Updated] Guiding You Through YouTube's View Limitations for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-banner-templates-and-makers-for-youtube/"><u>[Updated] In 2024, Free Banner Templates & Makers for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[Updated] In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-creative-commons-copyright-licenses/"><u>[Updated] In 2024, How to Use Creative Commons Copyright Licenses?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-bass-management-unveiling-its-purpose-and-operation/"><u>Exploring the World of Bass Management - Unveiling Its Purpose and Operation</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-improve-physical-memory-usage-for-virtual-machines-windows/"><u>How to Improve Physical Memory Usage for Virtual Machines (Windows)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oneplus-11-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On OnePlus 11 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-c55-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco C55 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/problems-with-launching-dragon-age-inquisition-solutions-inside/"><u>Problems with Launching Dragon Age Inquisition - Solutions Inside</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-facons-gratuites-de-transformer-des-fichiers-avi-heavy-en-mp4-pour-une-meilleure-diffusion/"><u>Top 5 Façons Gratuites De Transformer Des Fichiers AVI Heavy en MP4 Pour Une Meilleure Diffusion</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-s-most-popular-video-editing-software-for-mac-computers/"><u>Updated 2024 Approved S Most Popular Video Editing Software for Mac Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-fastest-growing-youtube-channels-to-inspire-you-for-2024/"><u>[New] 10 Fastest Growing YouTube Channels to Inspire You for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[New] 2024 Approved From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[New] 2024 Approved From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frequent-monetization-is-it-real-on-youtube-for-2024/"><u>[New] Frequent Monetization Is It Real on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-edit-youtube-videos-ultimate-guide/"><u>[New] In 2024, How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool-in-2024/"><u>[New] Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-wipe-out-your-youtube-buffered-videos/"><u>[Updated] In 2024, How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-itochu-utilizes-abbeyy-innovation-to-overhaul-business-processes-and-enhance-document-handling/"><u>How ITOCHU Utilizes ABBEYY Innovation to Overhaul Business Processes and Enhance Document Handling</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-choosing-between-cat5-or-cat6-cable/"><u>The Essential Guide to Choosing Between Cat5 or Cat6 Cable</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-remote-collaboration-via-chatgpt-use/"><u>Transforming Remote Collaboration via ChatGPT Use</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y100i-power-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y100i Power 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

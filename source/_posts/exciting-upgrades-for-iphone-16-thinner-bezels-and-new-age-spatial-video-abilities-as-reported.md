@@ -1,7 +1,7 @@
 ---
 title: "Exciting Upgrades for iPhone 16: Thinner Bezels and New-Age Spatial Video Abilities, as Reported"
-date: 2025-01-20T21:47:35.544Z
-updated: 2025-01-25T16:40:01.289Z
+date: 2025-02-03T16:18:44.281Z
+updated: 2025-02-07T16:08:01.691Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone models will get iOS 18?
 
 According to Apple, these iPhone models can get iOS 18 now that it's become widely available:
@@ -81,7 +77,7 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18 beta vs full release: What's the difference?
@@ -97,7 +93,7 @@ The general release will have ironed out most of these bugs and problems using t
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was iOS 18 released?
@@ -108,6 +104,10 @@ Apple typically releases its new operating systems for public beta access a few 
 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a software beta?
 
 A software beta is a version of a program or operating system initially released to a limited group of users to gather feedback and iron out bugs. The beta release lets a developer or company test its software program or system to emulate real-world use before a general release. 
@@ -117,7 +117,7 @@ A software beta is a version of a program or operating system initially released
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
@@ -128,13 +128,13 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
 
@@ -176,18 +176,20 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-much-could-you-make-on-youtube-snippets/"><u>[New] 2024 Approved How Much Could You Make on YouTube Snippets?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-videos-on-iphone/"><u>[New] In 2024, How to Loop Videos on iPhone?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-prime-7-dslr-options-elevating-professional-social-media-coverage/"><u>[New] In 2024, Prime 7 DSLR Options Elevating Professional Social Media Coverage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-animated-bouncing-text/"><u>[Updated] 2024 Approved How to Create Animated Bouncing Text</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-ultimate-list-of-firefox-plugins-for-easy-facebook-video-retrieval-2023-edition/"><u>[Updated] 2024 Approved The Ultimate List of Firefox Plugins for Easy Facebook Video Retrieval, 2023 Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>[Updated] In 2024, From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>[Updated] In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-smart-screening-vll-app-judgement/"><u>[Updated] In 2024, Smart Screening VLL App Judgement</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-affordable-high-quality-asmr-recording-devices-revealed/"><u>2024 Approved Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-learn-the-art-of-green-screen-without-costs-top-4-youtube-techniques-for-aspiring-vfx-artists/"><u>2024 Approved Learn the Art of Green Screen Without Costs Top 4 YouTube Techniques for Aspiring VFX Artists</u></a></li>
-<li><a href="https://discover-data.techidaily.com/effortless-guide-moving-iphone-footage-to-your-pc-running-windows-11-or-10/"><u>Effortless Guide: Moving iPhone Footage to Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ace-your-gift-shopping-the-ultimate-guide-to-selecting-specialty-stores/"><u>In 2024, Ace Your Gift Shopping The Ultimate Guide to Selecting Specialty Stores</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework/"><u>In 2024, Thrive on InstaVid A Guide to Creating a Solid Video Marketing Framework</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[New] 2024 Approved From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content-for-2024/"><u>[Updated] Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-performance-7-cameras-for-cutting-edge-vlogging-tech-for-2024/"><u>[Updated] High-Performance 7 Cameras For Cutting-Edge Vlogging Tech for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-youtube-shorts-video-from-computer-and-mobile-in-2024/"><u>[Updated] How to Upload YouTube Shorts Video From Computer and Mobile, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-google-trends-to-come-up-with-video-ideas-for-2024/"><u>[Updated] How to Use Google Trends to Come up with Video Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[Updated] In 2024, Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-highlighting-the-top-video-creation-apps-iphone-android/"><u>[Updated] In 2024, Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-multi-platform-broadcasting-in-the-digital-age/"><u>[Updated] The Art of Multi-Platform Broadcasting in the Digital Age</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-best-live-streaming-software-discover-manycam-and-virtual-camera-solutions/"><u>1. Best Live Streaming Software: Discover ManyCam and Virtual Camera Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-core-definitions-of-cyber-storytelling/"><u>2024 Approved Core Definitions of Cyber Storytelling</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-online-video-quality-mastery-in-finalcut-for-youtube/"><u>2024 Approved Elevate Your Online Video Quality Mastery in FinalCut for YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-open-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus Open to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-top-10-tiktok-secrets-to-social-success/"><u>In 2024, Top 10 TikTok Secrets to Social Success</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-reno-9a-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo Reno 9A to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-complete-story-of-vimeo-videos-analyzing-how-different-aspect-ratios-influence-viewing-experience-for-2024/"><u>Updated The Complete Story of Vimeo Videos Analyzing How Different Aspect Ratios Influence Viewing Experience for 2024</u></a></li>
 </ul></div>
 

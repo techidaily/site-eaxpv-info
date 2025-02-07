@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2025-01-22T17:38:25.515Z
-updated: 2025-01-25T20:36:56.809Z
+date: 2025-02-02T17:09:35.598Z
+updated: 2025-02-07T16:18:27.081Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -56,7 +60,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -76,7 +80,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -90,10 +94,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -120,7 +120,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -152,7 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -210,18 +210,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimize-youtube-tagstitledescription-for-more-views-for-2024/"><u>[New] How to Optimize YouTube Tags/Title/Description for More Views for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-stream-to-file-conversion-effortless-archive-creation/"><u>[New] In 2024, Stream-to-File Conversion Effortless Archive Creation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-step-by-step-guide-to-record-online-video-calls/"><u>[New] Step-by-Step Guide to Record Online Video Calls</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-groan-inducing-humor-in-hits/"><u>[Updated] 2024 Approved Groan-Inducing Humor in Hits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grow-your-streams-money-potential-anywhere-on-devices/"><u>[Updated] 2024 Approved Grow Your Stream's Money Potential Anywhere on Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-equipment-selection-for-youtube-creators/"><u>[Updated] 2024 Approved Guide to Equipment Selection for YouTube Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level/"><u>[Updated] In 2024, From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-transcribe-a-youtube-video-for-free/"><u>[Updated] In 2024, How to Transcribe a YouTube Video for FREE</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-vivid-vistas-in-video-a-closer-look-at-lgs-monitor-31mu97-b-for-2024/"><u>[Updated] Vivid Vistas in Video A Closer Look at LG's Monitor, 31MU97-B for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-best-fb-videos-top-10-watcher-tools/"><u>2024 Approved Best FB Videos Top 10 Watcher Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/launching-with-precision-how-team-collaboration-fuels-market-debuts/"><u>Launching with Precision: How Team Collaboration Fuels Market Debuts</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/losung-fur-die-nicht-funktionierende-dateisynchronisation-in-windows-betriebssystemen-11-10-8-7/"><u>Lösung Für Die Nicht Funktionierende Dateisynchronisation in Windows-Betriebssystemen (11, 10, 8, 7)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-tips-embedding-moving-images-in-written-content-for-2024/"><u>[New] Free Tips Embedding Moving Images in Written Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamer-wealth-wave-the-year-ahead-for-2024/"><u>[New] Gamer Wealth Wave The Year Ahead for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>[New] In 2024, Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-content-with-these-25-powerful-instagram-tags/"><u>[Updated] 2024 Approved Elevate Your Content with These 25 Powerful Instagram Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] In 2024, From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[Updated] In 2024, Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-strategies-to-avoid-copyright-strikes-on-youtube-videos/"><u>[Updated] Strategies to Avoid Copyright Strikes on YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/has-gpt-transformed-the-landscape-of-college-writing-projects/"><u>Has GPT Transformed the Landscape of College Writing Projects?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-masterclass-top-10-recorder-options-on-spotify/"><u>In 2024, Masterclass Top 10 Recorder Options on Spotify</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New In 2024, Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://win-community.techidaily.com/retrouvez-votre-document-perdu-sans-probleme-3-astuces-pratiques-pour-la-restauration-de-fichiers-en-ligne/"><u>Retrouvez Votre Document Perdu Sans Problème: 3 Astuces Pratiques Pour La Restauration De Fichiers en Ligne</u></a></li>
 </ul></div>
 

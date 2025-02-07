@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2025-01-19T19:12:08.435Z
-updated: 2025-01-25T16:43:48.309Z
+date: 2025-01-31T16:03:32.737Z
+updated: 2025-02-07T16:13:02.214Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -101,7 +97,7 @@ Cons
 ## iPhone 12 Pro Max
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Matthew Miller
@@ -113,6 +109,10 @@ Cons
 Show Expert Take Show less 
 
 ## iPhone SE (2020)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -170,6 +170,10 @@ Show Expert Take Show less
 
 ## Ulefone Armor 9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adrian Kingsley-Hughes
 
 **Adrian Kingsley-Hughes:** OK, I use my iPhone 11 Pro Max a lot, but the Ulefone Armor 9 is a tough, ruggedized Android smartphone with a built-in thermal camera. Not only can I recreate scenes from Predator in my garden, but that FLIR camera is great for diagnosing problems, from overheating components, high-resistance in vehicle wiring, and problems with plumbing systems. I've also dropped the phone so many times that I've lost count, and it still looks like new. It's a tank!
@@ -183,6 +187,10 @@ Pros
 
 Cons 
 * Strong battery life Good performance More affordable
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Pixel 2
 
@@ -216,11 +224,11 @@ Pros
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
-## iPhone XR
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone XR
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -244,14 +252,10 @@ Show Expert Take Show less
 
 ###   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone X
@@ -261,10 +265,6 @@ Show Expert Take Show less
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -276,11 +276,11 @@ Pros
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone XS Max
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Asha Barbaschow
 
@@ -291,10 +291,6 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 Show Expert Take Show less 
 
 ## iPhone 7 Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tiernan Ray
 
@@ -316,10 +312,14 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lumia 1520
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mary Branscombe
@@ -330,6 +330,10 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Note 8
 
 ### Charles McLellan
@@ -339,10 +343,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -376,22 +376,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-custom-scored-youtube-tunes/"><u>[New] 2024 Approved Finding Your Custom-Scored YouTube Tunes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-filmoras-recipe-for-captivating-youtube-trailers-for-2024/"><u>[New] Filmora’s Recipe for Captivating YouTube Trailers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-home-studio-heroics-your-path-to-effectful-artistry-for-2024/"><u>[New] Home Studio Heroics Your Path to Effectful Artistry for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-dull-scenes-to-dynamic-sports-highlights/"><u>[New] In 2024, From Dull Scenes to Dynamic Sports Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-on-steps-for-crafting-an-influential-online-gamers-channel/"><u>[New] In 2024, Game On Steps for Crafting an Influential Online Gamers' Channel</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-exploring-every-aspect-of-picsart-a-compre-cookie/"><u>[Updated] 2024 Approved Exploring Every Aspect of PicsArt A Compre Cookie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-game-masters-youtube-money-hacks-for-2024/"><u>[Updated] Game Masters YouTube Money Hacks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>[Updated] How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>[Updated] In 2024, Getting the Most Out of Live Sports on YouTube TV</u></a></li>
-<li><a href="https://win-data.techidaily.com/bestenexterne-laufwerk-wahlen-professionelle-losung-zur-gewahrleistung-der-datensicherheit-beim-sichern-ihrer-daten/"><u>Bestenexterne Laufwerk Wählen: Professionelle Lösung Zur Gewährleistung Der Datensicherheit Beim Sichern Ihrer Daten</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 Pro Max with a Broken Screen?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/download-and-transform-youtube-content-into-gifs-or-mp4s-for-windowsmac-users/"><u>Download & Transform YouTube Content Into GIFs or MP4s for Windows/Mac Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/freemacos-the-ultimate-screen-logger/"><u>FreeMacOS The Ultimate Screen Logger</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-screen-capture-tool-in-windows-11-swiftly/"><u>Navigate to Screen Capture Tool in Windows 11 Swiftly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-civi-3-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Civi 3</u></a></li>
-<li><a href="https://common-error.techidaily.com/successful-fix-windows-found-the-right-printer-driver/"><u>Successful Fix: Windows Found the Right Printer Driver</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-outro-kings-6-top-suggestions/"><u>[New] 2024 Approved Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-freedom-from-popups-discover-the-top-7-android-adblock-apps-for-2024/"><u>[New] Freedom From Popups? Discover the Top 7 Android AdBlock Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hands-on-tips-for-masterful-video-edits-with-youtube-studio-for-2024/"><u>[New] Hands-On Tips for Masterful Video Edits with YouTube Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-part-of-youtube-video-in-2024/"><u>[New] How to Download Part of YouTube Video, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-outsmart-youtube-sanctions/"><u>[New] In 2024, How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-purge-personal-youtube-history-records/"><u>[New] In 2024, How to Purge Personal YouTube History Records</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-groundbreaking-first-episode-critique/"><u>[Updated] 2024 Approved Groundbreaking First-Episode Critique</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hacks-for-preventing-youtube-short-failures/"><u>[Updated] 2024 Approved Hacks for Preventing YouTube Short Failures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-creating-compelling-solo-videos-on-a-budget/"><u>[Updated] In 2024, Creating Compelling Solo Videos on a Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717725998928-updated-in-2024-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>[Updated] In 2024, How To Upload Videos to YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-crafting-your-own-youtube-shorts-thumbnails/"><u>[Updated] Unleash Creativity Crafting Your Own YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-mouse-pad-software-update-for-windows-operating-systems-free-download/"><u>ASUS Mouse Pad Software Update for Windows Operating Systems – Free Download</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-enabled-enhance-your-sites-analytics-and-marketing-automation/"><u>Cookiebot-Enabled: Enhance Your Site's Analytics & Marketing Automation</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-taskbar-visible-when-maximizing-chromeedge/"><u>How to Make Taskbar Visible When Maximizing Chrome/Edge</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-working-status-for-failed-ccleaner-in-windows-1011/"><u>Recovering Working Status for Failed CCleaner in Windows 10/11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/remote-access-just-got-easier-introducing-the-new-raspberry-pi-desktop-client/"><u>Remote Access Just Got Easier: Introducing the New Raspberry Pi Desktop Client</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secret-behind-quest-3s-popularity-a-comparative-look-at-meta-vr-devices/"><u>Unveiling the Secret Behind Quest 3'S Popularity: A Comparative Look at Meta VR Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvdbdiso/"><u>レンタルビデオまで対象: DVD/BDをISOに変換する全方法集</u></a></li>
 </ul></div>
 

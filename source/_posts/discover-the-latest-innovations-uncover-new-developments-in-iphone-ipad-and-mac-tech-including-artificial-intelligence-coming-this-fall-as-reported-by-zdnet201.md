@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2025-01-18T19:39:20.784Z
-updated: 2025-01-25T16:45:23.596Z
+date: 2025-02-06T16:56:27.006Z
+updated: 2025-02-07T16:35:12.198Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -112,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -138,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,18 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exploring-the-efficiency-of-modern-tunefab-recorders/"><u>[New] 2024 Approved Exploring the Efficiency of Modern Tunefab Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-channel-description-for-2024/"><u>[New] How to Edit YouTube Channel Description for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>[New] In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-content-creation-the-future-of-live-video-on-facebook/"><u>[New] In 2024, Revolutionizing Content Creation The Future of Live Video on Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-economical-mic-options-for-youtube-vloggers/"><u>[Updated] 2024 Approved Economical Mic Options for YouTube Vloggers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>[Updated] A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-film-substitutes-to-stream-top-7-picks-for-2024/"><u>[Updated] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-real-broadcast-your-life-on-youtube-using-obs-for-2024/"><u>[Updated] Getting Real Broadcast Your Life on Youtube Using OBS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[Updated] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[Updated] In 2024, How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/flashcapture-quick-image-hold-manual/"><u>FlashCapture Quick Image Hold Manual</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-craft-of-online-title-perfection/"><u>Mastering the Craft of Online Title Perfection</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-s-most-popular-video-editing-software-for-mac-computers-for-2024/"><u>New S Most Popular Video Editing Software for Mac Computers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[New] 2024 Approved 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-color-difference-keying-methods/"><u>[New] In 2024, Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-personalized-branding-craft-your-logo-from-free-designs/"><u>[New] Personalized Branding Craft Your Logo From Free Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-money-on-youtube-without-ads/"><u>[Updated] 2024 Approved How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-5-pinterest-video-downloads-no-cost-and-fast-access-online/"><u>[Updated] 5 Pinterest Video Downloads – No Cost & Fast Access Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hobbyist-to-host-mac-sports-channel-creation-for-2024/"><u>[Updated] From Hobbyist to Host Mac Sports Channel Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>[Updated] In 2024, Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>[Updated] In 2024, Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-enhancing-tiktok-visuals-through-zoom-mastery/"><u>2024 Approved Enhancing TikTok Visuals Through Zoom Mastery</u></a></li>
+<li><a href="https://article-files.techidaily.com/craft-a-chic-google-collage-in-minutes-not-hours/"><u>Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discovering-the-10-leading-low-cost-mobile-video-conferencing-for-2024/"><u>Discovering the 10 Leading Low-Cost, Mobile Video Conferencing for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-v-purse-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor V Purse? Try These Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/keep-it-secret-live-stream-on-instagram-anonymously/"><u>Keep It Secret Live Stream on Instagram Anonymously</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-rated-free-and-open-source-dvd-ripper-programs-ultimate-guide-to-flawless-conversions/"><u>Top-Rated Free & Open Source DVD Ripper Programs: Ultimate Guide to Flawless Conversions</u></a></li>
 </ul></div>
 

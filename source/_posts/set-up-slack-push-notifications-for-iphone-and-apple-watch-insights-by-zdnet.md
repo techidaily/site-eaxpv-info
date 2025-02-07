@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2025-01-21T21:14:48.068Z
-updated: 2025-01-25T18:47:17.544Z
+date: 2025-02-03T17:35:54.784Z
+updated: 2025-02-07T17:00:35.088Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
@@ -62,6 +62,10 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -72,16 +76,12 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -103,7 +103,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -126,6 +126,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,22 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[New] 2024 Approved Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-invisible-areas-within-youtube-videos/"><u>[New] In 2024, Fixing Invisible Areas Within YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-absolute-zero-to-huge-audiences-the-10-key-steps-to-boosting-view-count/"><u>[New] In 2024, From Absolute Zero to Huge Audiences The 10 Key Steps to Boosting View Count</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-hero-youtubes-masterclass-in-channels/"><u>[New] In 2024, From Zero to Hero YouTube's Masterclass in Channels</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fusing-genres-a-youtube-music-strategy/"><u>[New] In 2024, Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-influential-impact-celebrating-instagrams-most-dynamic-stars-for-2024/"><u>[New] Influential Impact Celebrating Instagram's Most Dynamic Stars for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails-for-2024/"><u>[Updated] Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools/"><u>[Updated] In 2024, Flv to Youtubes Master the Art of Video Transformation with These Top Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-beginner-to-expert-a-comprehensive-guide-to-looping-your-favorite-vids/"><u>[Updated] In 2024, From Beginner to Expert A Comprehensive Guide to Looping Your Favorite Vids</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elevating-engagement-tips-to-share-your-screen-on-facebook-lives/"><u>Elevating Engagement Tips to Share Your Screen on Facebook Lives</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-distinguishing-designs-effective-podcast-brand-identity/"><u>In 2024, Distinguishing Designs Effective Podcast Brand Identity</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/overcome-your-hp-sound-troubles-successful-fix-for-beats-audio-drivers-in-windows-systems/"><u>Overcome Your HP Sound Troubles: Successful Fix for Beats Audio Drivers in Windows Systems</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/risikominimierung-beim-sichern-von-wd-externen-festplatten-entdecken-sie-die-wd-diskovery-backup-losung/"><u>Risikominimierung Beim Sichern Von WD Externen Festplatten – Entdecken Sie Die WD Diskovery Backup Lösung</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/start-your-ai-adventure-with-these-9-community-hubs/"><u>Start Your AI Adventure with These 9 Community Hubs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unlocking-the-secrets-to-stellar-sims-gameplay-recording/"><u>Unlocking the Secrets to Stellar Sims Gameplay Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-10-best-phones-and-pc-for-chatting/"><u>[New] 2024 Approved The Ultimate List 10 Best Phones & PC for Chatting</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-zip-archive-to-srt-easy-steps-for-subtitles-conversion/"><u>[New] 2024 Approved ZIP Archive to SRT Easy Steps for Subtitles Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-engagement-boosting-youtube-traffic/"><u>[New] In 2024, Harness the Power of Engagement Boosting YouTube Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-download-youtube-playlist-step-by-step/"><u>[New] In 2024, How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pioneering-strategies-for-success-in-the-spotify-ad-arena-for-2024/"><u>[New] Pioneering Strategies for Success in the Spotify Ad Arena for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-conceptualization-to-production-a-guide-to-making-mukbang/"><u>[Updated] 2024 Approved From Conceptualization to Production A Guide to Making Mukbang</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-pro-simplified-youtube-live-streaming-with-obs/"><u>[Updated] 2024 Approved From Novice to Pro Simplified YouTube Live Streaming with OBS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-do-youtube-clips-pay-per-view/"><u>[Updated] 2024 Approved How Much Do YouTube Clips Pay Per View?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-economical-camera-options-best-deals-for-diy-vloggers/"><u>[Updated] Economical Camera Options Best Deals for DIY Vloggers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-conference-call-to-youtube-stream-how-to-broadcast-google-meet-for-2024/"><u>[Updated] From Conference Call to YouTube Stream - How To Broadcast Google Meet for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hack-your-way-to-speedy-youtube-video-processing/"><u>[Updated] In 2024, Hack Your Way to Speedy YouTube Video Processing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-streaming-journey-by-activating-youtubes-av1/"><u>[Updated] Transform Your Streaming Journey by Activating YouTube's AV1</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-revolutionizing-video-creation-with-magix-video-pro-x/"><u>2024 Approved Revolutionizing Video Creation with Magix Video Pro X</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automation-made-easy-ubuntu-plus-gpt-setup/"><u>Automation Made Easy: Ubuntu + GPT Setup</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/eficaz-guia-paso-a-paso-para-quitar-la-particion-de-rescate-en-windows-11/"><u>Eficaz Guía Paso a Paso Para Quitar La Partición De Rescate en Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-security-rewards-at-openai-eligibility-and-enrollment-tips/"><u>Navigating the World of AI Security Rewards at OpenAI: Eligibility and Enrollment Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-12-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on OnePlus 12</u></a></li>
 </ul></div>
 

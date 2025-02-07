@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2025-01-18T16:11:42.676Z
-updated: 2025-01-25T20:31:20.285Z
+date: 2025-02-05T17:37:04.533Z
+updated: 2025-02-07T17:15:48.304Z
 tags:
   - apple
 categories:
@@ -29,20 +29,20 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,15 +52,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-advice-on-lighting-your-youtube-content-perfectly/"><u>[New] 2024 Approved Expert Advice on Lighting Your YouTube Content Perfectly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes-for-2024/"><u>[New] From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-cinematic-success-in-your-youtube-channel-for-2024/"><u>[New] From Raw Footage to Cinematic Success in Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts-for-2024/"><u>[New] Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-enhance-your-vlogs-pacing-using-jump-cuts-for-2024/"><u>[New] How to Enhance Your Vlog's Pacing Using Jump Cuts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-top-10-best-flvto-alternatives-youtube-converter-you-can-try-for-2024/"><u>[New] Top 10 Best Flvto Alternatives YouTube Converter You Can Try for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hire-wisdom-top-10-recruiting-video-guide-for-2024/"><u>[Updated] Hire Wisdom Top 10 Recruiting Video Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[Updated] In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-the-complete-creator-hub-guide/"><u>[Updated] In 2024, From Novice to Pro The Complete Creator Hub Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-twitter-the-dual-streaming-of-nba-events/"><u>Facebook, Twitter: The Dual Streaming of NBA Events</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x9b-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X9b Phones with/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-90-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-meets-the-multiverse-a-detailed-comparison/"><u>In 2024, Metaverse Meets the Multiverse A Detailed Comparison</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-savings-unlock-36-discount-on-the-8tb-samsung-portable-ssd-now-available-on-amazon-technews-by-zdnet/"><u>Massive Savings: Unlock 36% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/speech-to-text-efficient-conversion-techniques-for-microsoft-word-users-for-2024/"><u>Speech to Text Efficient Conversion Techniques for Microsoft Word Users for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/syma-x8c-performance-breakdown/"><u>Syma X8C Performance Breakdown</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-role-of-supplemental-imagery-in-storytelling/"><u>The Role of Supplemental Imagery in Storytelling</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-single-out-focal-point-using-affinity/"><u>[New] 2024 Approved Single-Out Focal Point Using Affinity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-five-excellent-cameras-for-high-fidelity-movies/"><u>[New] 2024 Approved Top Five Excellent Cameras for High Fidelity Movies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[New] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android/"><u>[New] The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-my-playlist-on-youtube/"><u>[Updated] 2024 Approved How to Find My Playlist on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-going-against-gravity-reversing-your-vids-for-2024/"><u>[Updated] Going Against Gravity Reversing Your Vids for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-your-spotify-queue-with-youtube-music-catalogs/"><u>[Updated] In 2024, Harmonizing Your Spotify Queue with YouTube Music Catalogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-a-youtube-video-trending/"><u>[Updated] In 2024, How to Get a YouTube Video Trending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>[Updated] In 2024, How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[Updated] Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-iv-update-how-to-stop-gameplay-interruptions-and-crashes-on-windows/"><u>Age of Empires IV Update – How to Stop Gameplay Interruptions and Crashes on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-zte-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For ZTE</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-nintendo-switch-grips-and-pads-2024-edition/"><u>Top Nintendo Switch Grips and Pads, 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-realitys-trailblazers-top-pc-headsets-for-the-year/"><u>Virtual Reality's Trailblazers Top PC Headsets for the Year</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-software-tips-ensuring-your-graphics-card-fits-seamlessly-into-your-pc-setup/"><u>YL Software Tips: Ensuring Your Graphics Card Fits Seamlessly Into Your PC Setup</u></a></li>
 </ul></div>
 

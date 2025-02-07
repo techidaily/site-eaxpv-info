@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2025-01-19T17:20:15.548Z
-updated: 2025-01-25T17:18:55.142Z
+date: 2025-02-01T16:51:14.419Z
+updated: 2025-02-07T17:26:14.653Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,7 +63,7 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -73,6 +73,10 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -90,10 +94,6 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. You want a traditional Apple Watch design
 
 If the Apple Watch Ultra's design isn't all that appealing to you, the Apple Watch Series 8 may be the better choice. It uses the same design as the last few Apple Watch models and comes in 41mm and 45mm sizes. On the right side of the aluminum (or steel) housing is the digital crown and side button that's used for navigating the watch. 
@@ -105,7 +105,7 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You're not ready to pay $799 for a watch
@@ -131,7 +131,7 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -170,19 +170,14 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-iphone-hdr-a-professionals-secret-weapon/"><u>[New] 2024 Approved IPhone HDR A Professional's Secret Weapon</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel-for-2024/"><u>[New] From Beauty Brows to Perfect Portraits Crafting Your Cosmetic Chanel for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans/"><u>[New] In 2024, From Passive to Active Earnings Unlocking Youtube with 500+ Fans</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-spearheading-immersive-worlds-top-vr-minds/"><u>[New] In 2024, Spearheading Immersive Worlds Top VR Minds</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/inimizing-moments-edit-longer-videos-for-youtube/"><u>[New] Minimizing Moments Edit Longer Videos for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[Updated] 2024 Approved From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fullview-media-collaboration-guidebook/"><u>[Updated] 2024 Approved FullView Media Collaboration Guidebook</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-the-science-of-verbal-recording/"><u>[Updated] 2024 Approved Mastering the Science of Verbal Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-tested-streaming-software-picks/"><u>[Updated] In 2024, Gamer-Tested Streaming Software Picks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211154000-9798886741049-deciphering-angel-numbers/"><u>Deciphering Angel Numbers | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-defy-2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Defy 2 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-resource-for-boosting-your-intel-based-imac-efficiency/"><u>The Ultimate Resource for Boosting Your Intel-Based iMac Efficiency</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] 2024 Approved Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>[New] Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-master-the-melodies-secrets-to-adding-soundtracks-on-insta-for-2024/"><u>[New] Master the Melodies Secrets to Adding Soundtracks on Insta for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey-for-2024/"><u>[Updated] How to Gauge if an MCN Is Right for Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-experts-choice-top-8-proven-video-marketing-actions/"><u>[Updated] In 2024, Expert's Choice Top 8 Proven Video Marketing Actions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[Updated] In 2024, Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-modders-and-tutorial-content-leaders/"><u>[Updated] In 2024, Game Modders & Tutorial Content Leaders</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-leveraging-influencers-in-your-twitter-marketing-plan/"><u>[Updated] In 2024, Leveraging Influencers in Your Twitter Marketing Plan</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/understanding-psu-faults-a-deep-dive-by-yl-computing/"><u>Understanding PSU Faults: A Deep Dive by YL Computing</u></a></li>
 </ul></div>
 

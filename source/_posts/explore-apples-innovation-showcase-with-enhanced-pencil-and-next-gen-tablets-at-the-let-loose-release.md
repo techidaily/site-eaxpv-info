@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2025-01-19T18:33:46.260Z
-updated: 2025-01-25T21:43:13.458Z
+date: 2025-02-05T16:23:14.873Z
+updated: 2025-02-07T17:17:58.520Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
@@ -33,7 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -56,6 +60,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -71,10 +79,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -93,7 +97,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -102,13 +106,13 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -121,10 +125,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,24 +160,14 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-freefall-into-success-top-hashtags-and-vlogging-techniques/"><u>[New] 2024 Approved FreeFall Into Success Top Hashtags and Vlogging Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-highest-paid-youtuber-in-the-world/"><u>[New] 2024 Approved Highest Paid YouTuber in the World</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[New] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[New] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>[New] In 2024, From Video Lessons to Visual Gigs YouTube Videos Converted Seamlessly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-integrate-captions-into-youtube-videos/"><u>[New] In 2024, How to Seamlessly Integrate Captions Into YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] 2024 Approved Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-verify-your-youtube-account/"><u>[Updated] 2024 Approved How to Verify Your YouTube Account?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[Updated] In 2024, Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-pinpointing-the-leading-10-secret-story-supporters/"><u>[Updated] In 2024, Pinpointing the Leading 10 Secret Story Supporters</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-your-virtual-identity-expert-tips-for-memorable-fb-bios-for-2024/"><u>Elevate Your Virtual Identity Expert Tips for Memorable FB Bios for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-sturdiness-of-jabra-earpieces/"><u>Evaluating the Sturdiness of Jabra Earpieces</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-showdown-full-review-and-ratings/"><u>In 2024, GoPro Showdown Full Review and Ratings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-momentum-accelerating-fb-videos/"><u>Mastering Momentum Accelerating FB Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pioneering-video-editing-techniques-for-windows-10-aficionados/"><u>Pioneering Video Editing Techniques for Windows 10 Aficionados</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-gamewatching-unlock-nba-livestream-top-15-hacks/"><u>Seamless Gamewatching Unlock NBA Livestream (Top 15 Hacks)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-basic-ps-color-correction-for-2024/"><u>Step-by-Step Guide to Basic PS Color Correction for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-resolve-the-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Troubleshooting Steps to Resolve the DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-pova-6-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Pova 6 Pro 5G Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[New] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[Updated] 2024 Approved Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-max-360-or-hero-11-decoding-the-superior-gopro-video-quality/"><u>[Updated] 2024 Approved Max 360 or Hero 11? Decoding the Superior GoPro Video Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frontier-vloggers-8-rising-stars-of-the-screen-for-2024/"><u>[Updated] Frontier Vloggers 8 Rising Stars of the Screen for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-choosing-ideal-youtube-thumbnail-shapes-for-2024/"><u>[Updated] Guide to Choosing Ideal Youtube Thumbnail Shapes for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-advanced-techniques-in-final-cut-pro-embedding-waveform-diagrams-with-live-audio-animation/"><u>2024 Approved Advanced Techniques in Final Cut Pro Embedding Waveform Diagrams with Live Audio Animation</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-common-fails-on-your-first-day-with-windows-11/"><u>Avoiding Common Fails on Your First Day with Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-wi-fi-networking-cards-fixed-driver-issues/"><u>Download Updated Wi-Fi Networking Cards: Fixed Driver Issues</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/excel-data-recovery-guide-fur-nicht-gespeicherte-dateien-auf-windows-11/"><u>Excel Data Recovery Guide Für Nicht Gespeicherte Dateien Auf Windows 11</u></a></li>
 </ul></div>
 

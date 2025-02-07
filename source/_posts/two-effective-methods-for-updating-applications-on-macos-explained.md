@@ -1,7 +1,7 @@
 ---
 title: Two Effective Methods for Updating Applications on macOS Explained
-date: 2025-01-19T18:20:52.309Z
-updated: 2025-01-25T18:00:57.282Z
+date: 2025-02-06T17:21:32.607Z
+updated: 2025-02-07T17:03:11.260Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Let me show you both approaches.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update MacOS apps from the App Store
 
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -60,6 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your apps
 
 When the App Store opens, you can either update the apps individually (by clicking the Update button associated with the app in question) or update them all at once (by clicking Update All). During the update process, you might be prompted to close an app (or even a related app) if it's blocking the update from continuing. Should that be the case, close the app in question, return to the App Store, and click Continue from the pop-up warning.
@@ -71,7 +71,7 @@ Screenshot by Jack Wallen/ZDNET
 Once the update is completed, close the App Store and you're done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update MacOS apps from the command line
@@ -79,7 +79,7 @@ Once the update is completed, close the App Store and you're done.
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
@@ -87,7 +87,7 @@ This is a bit more complicated, for two reasons: first, you have to find out wha
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check for available updates
@@ -144,15 +144,22 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-growth-in-focus-building-a-foundation-of-youtube-backlinks-for-2024/"><u>[New] Growth in Focus Building a Foundation of YouTube Backlinks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>[New] In 2024, Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[Updated] 2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-more-video-views-on-youtube/"><u>[Updated] In 2024, How To Get More Video Views on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-foremost-android-alternatives-for-playstation-2-emulation/"><u>2024 Approved Unveiling The Foremost Android Alternatives for PlayStation 2 Emulation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/disabling-notification-alerts-via-control-panel-a-step-by-step-guide-from-yl-computing/"><u>Disabling Notification Alerts via Control Panel - A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-import-and-export-av1-files-in-adobe-premiere-pro/"><u>How to Import and Export AV1 Files in Adobe Premiere Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y36i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y36i Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steady-connection-reinstating-atheros-adapter-driver/"><u>Steady Connection: Reinstating Atheros Adapter Driver</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-obstacles-of-shipping-tokens-through-apple-products-a-guide-to-5-key-issues/"><u>The Obstacles of Shipping Tokens Through Apple Products: A Guide to 5 Key Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flavorful-frames-stepwise-food-film-making/"><u>[New] 2024 Approved Flavorful Frames Stepwise Food Film-Making</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-insights-for-youtube-content-protection/"><u>[New] Essential Insights for YouTube Content Protection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-high-quality-youtube-banner-samples-inside/"><u>[New] In 2024, Free High-Quality YouTube Banner Samples Inside</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-video-presentation-utilizing-lc-and-bb-techniques-on-facebook-for-2024/"><u>[New] Mastering Video Presentation Utilizing LC and BB Techniques on Facebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-youtube-manage-post-upload-operations-in-2024/"><u>[Updated] How Does YouTube Manage Post-Upload Operations, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-optimally-utilize-a-creative-commons-license-for-2024/"><u>[Updated] How to Optimally Utilize a Creative Commons License for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms-for-2024/"><u>[Updated] How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-essential-ae-text-enhancers-guide/"><u>[Updated] In 2024, Essential AE Text Enhancers Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-yourself-from-fringe-a-youtube-video-fix-guide/"><u>[Updated] In 2024, Free Yourself From Fringe A YouTube Video Fix Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-tape-to-broadcast-ready-using-studio-editor/"><u>[Updated] In 2024, From Raw Tape to Broadcast-Ready Using Studio Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-circle-from-vocaloids-to-live-streamers-success/"><u>[Updated] In 2024, Full Circle From Vocaloids to Live Streamers' Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-real-time-hardware-for-vr-for-2024/"><u>[Updated] Real-Time Hardware for VR for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-elite-data-vaults-best-storages-reviewed/"><u>2024 Approved Explore Elite Data Vaults Best Storages Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-flipping-the-script-in-photography-how-angles-can-make-or-break-your-insta-posts/"><u>2024 Approved Flipping the Script in Photography How Angles Can Make or Break Your Insta Posts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-motorola-moto-g84-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Motorola Moto G84 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converti-file-mpeg-a-mp4-online-gratuitamente-con-movavi/"><u>Converti File MPEG a MP4 Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23+ Phone</u></a></li>
 </ul></div>
 

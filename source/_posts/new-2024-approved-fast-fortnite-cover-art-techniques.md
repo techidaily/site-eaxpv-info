@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fast Fortnite Cover Art Techniques\""
-date: 2024-08-20T13:43:02.789Z
-updated: 2024-08-21T13:43:02.789Z
+date: 2025-01-31T16:10:28.014Z
+updated: 2025-02-07T17:25:53.870Z
 tags:
   - ai video
   - ai youtube
@@ -36,23 +36,14 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
 **Step 05:** Drag and drop the screenshot into the timeline.
@@ -65,9 +56,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
 
 **Step 08:** It will remove the background of the screenshot.
@@ -84,16 +72,10 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
 
 **Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
@@ -104,9 +86,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -114,7 +93,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,6 +105,10 @@ Follow @Ollie Mattison
 # Free YouTube Channel Art Templates - Find Them Here
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Richard Bennett
 
@@ -146,18 +128,16 @@ Here are 7 places where you can find templates for YouTube channel art.
 > * [YourTube](#yourtube)
 > * [Banner Snack](#bannersnack)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. 50 Free Banner Art Templates from Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [**![Free YouTube Banner](https://images.wondershare.com/filmora/article-images/50-free-youtube-banners-banner.jpg)**](https://www.filmora.io/youtube-channel-art?utm%5Fsource=filmora.io%5Fblog%5F50Free%5Fbanners&utm%5Fmedium=blog%5Fbanners&utm%5Fcampaign=50%5Ffree%5Fbanners)
 
 You can download 50 free YouTube channel art templates right here on filmora.io. We have 10 categories of banners: gaming, beauty, travel, comedy, education, minimalist, funky, comics, galaxy, and bright. There’s something for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 You will have the option of downloading either PSD files you can edit in Photoshop, or PNG files you can customize in a free online program like Canva.com. Click here (link) to learn more and download your free channel art templates.
@@ -188,9 +168,17 @@ The free version of Fotor will work well enough for most YouTubers, but you can 
 
 Visme offers 50 YouTube channel art templates which you can customize the text of for free. You just create a free account, choose the template that best suits your channel, insert your own text and edit that text’s font and color.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. YourTube
 
 YourTube has a ton of really nice looking channel art templates you can download for free. The downloads include both PSD (Photoshop) files and the background images without text. This is great because you’ll have an editable file you can build on in Photoshop, if you have it, and an image file you can use in combination with a free service like Canva if you don’t.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Banner Snack
 
@@ -198,17 +186,17 @@ Banner Snack is for all kinds of social media graphics from YouTube channel art 
 
 Let us know if you know anywhere else to get free YouTube channel art templates!
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,8 +205,21 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>[New] 2024 Approved From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-an-introductory-guide-to-navigating-your-way-through-zoom-webinars/"><u>[New] In 2024, An Introductory Guide to Navigating Your Way Through Zoom Webinars</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-dive-into-the-digital-ocean-unveiling-facebooks-video-depth/"><u>[New] In 2024, Dive Into the Digital Ocean Unveiling Facebook's Video Depth</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-prime-obs-arrangements-on-economy-computers/"><u>[Updated] 2024 Approved Prime OBS Arrangements on Economy Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[Updated] Highest Rated Smartphone Camera & Recording Apps IPhone vs Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-for-2024/"><u>[Updated] How to Make Money From YouTube Shorts Requirements and Earning Potential for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-vlog-confidently-like-popular-youtubers-for-2024/"><u>[Updated] How to Vlog Confidently Like Popular YouTubers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-youtube-studio-editing-workshop-guide/"><u>[Updated] In 2024, From Script to Screen YouTube Studio Editing Workshop Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>[Updated] In 2024, How Often to Post A Guide to YouTube Video Upload Patterns for Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>[Updated] In 2024, Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-stream-a-comprehensive-ad-revenue-guide-on-youtube-for-2024/"><u>Elevate Your Stream A Comprehensive Ad Revenue Guide on YouTube for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-mobile-gaming-stream-your-ps4-games-on-android-with-just-3-simple-steps/"><u>Mastering Mobile Gaming: Stream Your PS4 Games on Android with Just 3 Simple Steps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-best-image-to-video-makers-online-free-and-paid/"><u>New 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/resolve-vanished-watch-video-icon-issue-2023-for-2024/"><u>Resolve Vanished Watch Video Icon Issue, 2023 for 2024</u></a></li>
+</ul></div>
 

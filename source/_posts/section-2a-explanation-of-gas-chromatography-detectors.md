@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Explanation of Gas Chromatography Detectors"
-date: 2025-01-22T21:28:27.032Z
-updated: 2025-01-25T21:53:53.642Z
+date: 2025-01-31T16:21:52.688Z
+updated: 2025-02-07T16:50:58.228Z
 tags:
   - apple
 categories:
@@ -24,15 +24,15 @@ That's why we've gone hands-on with iPad Air cases from brands like Casetify, Lo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPad Air case right now?
 
 The [Zugu iPad Air case](https://www.zugucase.com/collections/ipad-cases/products/ipad-air-4th-gen-alpha-case?) is currently our top pick for the best iPad Air case overall, thanks to its multiple stand configurations, solid protection and security, fair price, top features, and excellent warranty. But there is a sea of iPad cases to choose from -- that's why we went hands-on and dove deep into expert research to find the best iPad Air cases for you. See the best iPad Air cases and covers to not only protect your tablet, but also help with [productivity](https://www.zdnet.com/article/best-ipad-keyboard/), functionality, and even add a bit of flare below. 
 
 **Also:** [**The best note-taking apps for iPad: Digitize your notes**](https://www.zdnet.com/article/best-note-taking-app-for-ipad/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best iPad Air cases of 2024
 
@@ -90,10 +90,6 @@ Pros
 Cons 
 * Stand configurations could be more comfortable
 * Folio front feels a bit flimsy
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Burga iPad Air Case
 
@@ -162,11 +158,11 @@ Cons
 * Still pricey
 * Limited color options
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logitech Combo Touch Keyboard Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPad Air case with a keyboard
 
@@ -200,6 +196,10 @@ Cons
 * No color options
 * A bit bulky
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OtterBox Defender Series Pro Case
 
 ### Best iPad Air case for durability
@@ -230,10 +230,6 @@ Cons
 * Expensive
 * Limited drop protection
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Smart Folio
 
 ### Best iPad Air case for Apple lovers
@@ -256,6 +252,10 @@ Current Amazon users said they liked the quality, appearance, and fit of the App
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best iPad Air case?
 
 Our pick for best iPad Air case is the Zugu iPad Air case, thanks to its great color options, functionality, and solid protection. Here's a look at how each of the best iPad Air cases compare. 
@@ -271,6 +271,10 @@ Our pick for best iPad Air case is the Zugu iPad Air case, thanks to its great c
 
 \*MSRP at the time of publishing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPad Air case is right for you?
 
 Finding the right iPad Air case for you can be a challenge. Here's how all our top iPad Air cases compare to each other and why they could work for you. Keep in mind the features you absolutely want or need when searching, it will help narrow down your choices. 
@@ -284,10 +288,6 @@ Finding the right iPad Air case for you can be a challenge. Here's how all our t
 | OtterBox's Defender Series Pro Case     | A durable iPad Air case built for protection. With raised edges, an included screen protector, and port covers, it's perfect to take to a job site.                              |
 | Apple Smart Folio Case                  | The best overall iPad Air case. This option comes straight from Apple, brings a perfect fit, and saves battery via an automatic wake/sleep function.                             |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing an iPad Air case:
 
 If you're in the market for an iPad Air case, here's a few factors to keep in mind: 
@@ -297,16 +297,12 @@ If you're in the market for an iPad Air case, here's a few factors to keep in mi
 * **Design:** Why not add a little style to your iPad Air? Many of the best iPad Air cases and covers are available in a variety of different colors and patterns, so you can add a splash of personality to your everyday carry if that's what you're looking for. Make sure to think about what you want for your iPad.
 * **Budget:** There are many affordable case options available, but there are also some that cost well over $100, depending on design and features. Set a budget for yourself -- it will help narrow your search parameters.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these best iPad Air cases?
 
 We chose these iPad Air case options after extensive research into the product category and by going hands-on with some of these products. We looked at renowned brands and reviews (both good and bad) and noted the top-rated iPad Air cases for different wants and needs. Ultimately, factors like cost, compatibility, use case, size, and practicality guided our top picks. We additionally consider ease of use, function, design, and other direct features to help ensure we recommend the best to you. We also looked for the top nice-to-have features, such as Apple Pencil charging capabilities, keyboards, and multiple stand configurations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the new iPad models?
@@ -323,11 +319,19 @@ No, the newest 2024 iPad Air is not the same display size as the previous iterat
 
 This means that if you purchase a new iPad Air, you will need a new case designed for the 11-inch or 13-inch size, or one that stipulates it is compatible with your model. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will iPad Air 10.9-inch cases fit the iPad Air 11-inch model?
 
 The answer is yes and no -- it will depend and vary from brand to brand. Since the launch of the new iPads this year, I've noticed several brands have cases that will work in tandem with both the iPad Air 10.9 and iPad Air 11, while others have separated the two. 
 
 If you already have a 10.9-inch case, it won't hurt to try it on your iPad Air 11-inch and see if it works, but keep in mind that for the best protection, we recommend outfitting your iPad Air in a case that specifically stipulates that it was designed for your particular display size. An ill-fitting case will not provide the same protection as one that properly fits. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are the iPad (2022) and the iPad Air (2022) the same size?
 
@@ -338,7 +342,7 @@ The 2022 iPad and iPad Air iterations do both offer a 10.9-inch screen display, 
 The 4th and 5th Gen iPad Air models have a 10.9-inch display, and the latest iPad Pro models have either an 11-inch or 12.9-inch display (iPad Pro 11-inch 4th Gen or iPad Pro 12.9-inch 6th Gen). The new iPad Air and iPad Pro models both come in an 11-inch or 13-inch display. You can compare sizes and see display and model information on the [Apple website](https://www.apple.com/ipad/compare/?modelList=ipad-air-3rd-gen,ipad-air-5th-gen,ipad-10th-gen). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I really need a case for my iPad Air?
@@ -346,10 +350,6 @@ The 4th and 5th Gen iPad Air models have a 10.9-inch display, and the latest iPa
 You put a case on your smartphone, so why wouldn't you put a case on your tablet? Cases and covers ensure the device you spent money on is protected through travels, everyday bumps and bangs, and potential scratches. 
 
 Investing in a good iPad Air case is investing in your iPad Air. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do I need an iPad Air keyboard case?
 
@@ -373,13 +373,13 @@ None of the cases we've discussed here will make it safe to dunk your iPad Air. 
 
 It's also worth noting that Apple doesn't build in the same level of water resistance as many people might expect. While their later-model iPhones generally offer some water resistance, they make no such claim with their iPad Air. Long story short, your new tablet and water don't mix. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I find iPad Air cases?
 
 Most major retailers like Best Buy, Walmart, and Amazon have several iPad Air cases for sale in-store and online. If you're looking for more bespoke brands, such as Casetify, you may have to look directly at those individual retailers' sites to see their iPad Air case offerings. But don't fret -- starting your search at ZDNET is always a good decision. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPad Air cases to consider?
 
@@ -443,21 +443,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-cinematic-success-in-your-youtube-channel/"><u>[New] 2024 Approved From Raw Footage to Cinematic Success in Your YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gaining-traction-effective-seo-techniques-for-youtube-videos/"><u>[New] 2024 Approved Gaining Traction Effective SEO Techniques for YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-trendsetting-hashes-optimizing-hashtags-to-amplify-short-video-impact/"><u>[New] 2024 Approved Trendsetting Hashes Optimizing Hashtags to Amplify Short Video Impact</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-perfect-dj-template-video-download-for-your-events-for-2024/"><u>[New] Finding the Perfect DJ Template Video Download for Your Events for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-10-best-intro-maker-apps-for-iphone-and-android-for-2024/"><u>[New] FREE 10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capture-studio-ultimate-professional-record/"><u>[New] In 2024, Capture Studio Ultimate Professional Record</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-ringtones-selection-high-quality-sites/"><u>[New] In 2024, Elite Ringtones Selection High-Quality Sites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-the-best-youtube-thumbnails-the-free-guide/"><u>[New] In 2024, How to Get the Best YouTube Thumbnails The Free Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[New] In 2024, How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions/"><u>[New] In 2024, How to Sculpt Perfect Images on YouTube with Right Dimensions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-choreograph-comic-characters/"><u>2024 Approved Choreograph Comic Characters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-investigating-instagrams-videography-cap/"><u>2024 Approved Investigating Instagram's Videography Cap</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-huawei-nova-y91-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Huawei Nova Y91 by Name | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass ZTE Nubia Flip 5G FRP?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-stepwise-approach-transform-fish-voices-on-pcs/"><u>In 2024, Stepwise Approach Transform Fish Voices on PCs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/yokus-island-express-evaluation-remarkable-journeys-unexpectedly-unfold/"><u>Yoku's Island Express Evaluation: Remarkable Journeys Unexpectedly Unfold</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cutting-edge-livestream-techniques-for-onestream-enthusiasts/"><u>[New] 2024 Approved Cutting-Edge Livestream Techniques for OneStream Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-host-a-webinar-on-youtube-for-free-for-2024/"><u>[New] How to Host a Webinar on YouTube for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-fan-to-earner-understanding-view-requirements/"><u>[New] In 2024, From Fan to Earner Understanding View Requirements</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-previewed-activities-on-facebook-are-you-exposed/"><u>[New] Previewed Activities on Facebook Are You Exposed?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-boost-your-pc-editing-game-with-inshot-techniques/"><u>[Updated] Boost Your PC Editing Game with Inshot Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-nexus-1000plus-game-sessions-for-2024/"><u>[Updated] Gamers' Nexus 1,000+ Game Sessions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] In 2024, From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dell-2330d-and-2330dn-mono-laser-printer-driver-update/"><u>Dell 2330D and 2330Dn Mono Laser Printer Driver Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-steps-to-capture-ios-audio-files/"><u>Quick Steps to Capture iOS Audio Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-perfect-audio-experience-microsoft-windows-drivers-downloads-available-now/"><u>Secure Your Perfect Audio Experience: Microsoft Windows Drivers Downloads Available Now!</u></a></li>
 </ul></div>
 
