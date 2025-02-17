@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2025-01-31T16:57:35.885Z
-updated: 2025-02-07T16:02:46.665Z
+date: 2025-02-09T21:54:27.293Z
+updated: 2025-02-16T21:11:13.454Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,18 +121,17 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-project-board-to-public-display-imovie-on-youtube/"><u>[New] 2024 Approved From Project Board to Public Display IMovie on YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/87579707-new-free-youtube-outro-kings-6-top-suggestions/"><u>[New] Free YouTube Outro Kings 6 TOP Suggestions!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamers-ultimate-guide-selecting-the-best-video-card-brands-for-2024/"><u>[New] Gamer’s Ultimate Guide Selecting the Best Video Card Brands for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gastronomy-goals-attractive-food-network-branding-ideas-for-2024/"><u>[New] Gastronomy Goals Attractive Food Network Branding Ideas for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-frosty-frameworks-for-warm-video-productions/"><u>[New] In 2024, Frosty Frameworks for Warm Video Productions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-swiftly-acquire-and-save-youtube-watch-lists-for-2024/"><u>[Updated] Guide to Swiftly Acquire and Save YouTube Watch Lists for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[Updated] In 2024, How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-oscillation-crafting-box/"><u>[Updated] Oscillation Crafting Box</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-budget-friendly-edits-made-easy-with-vimeos-free-tools/"><u>2024 Approved Budget-Friendly Edits Made Easy with Vimeo's Free Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-key-fixes-for-stabilizing-windows-10-photos-display/"><u>2024 Approved Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bridging-cultures-through-turkish-and-korean-tongues/"><u>Bridging Cultures Through Turkish & Korean Tongues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/quick-tips-on-converting-videos-for-optimal-playback-on-the-samsung-galaxy-s5/"><u>Quick Tips on Converting Videos for Optimal Playback on the Samsung Galaxy S5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-viewership-3-key-storytelling-approaches/"><u>[New] 2024 Approved Elevate Viewership 3 Key Storytelling Approaches</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/dding-audio-descriptions-to-videos-on-youtube-for-2024/"><u>[New] Adding Audio Descriptions to Videos on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-become-a-youtube-partner-you-need-10000-views-now-for-2024/"><u>[New] How to Become a YouTube Partner - You Need 10,000 Views Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-leading-video-kick-offs-the-best-16-youtube-vlogs-to-increase-views/"><u>[New] Leading Video Kick-Offs The Best 16 YouTube Vlogs to Increase Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[Updated] 2024 Approved How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-glimpses-identifying-who-sees-your-pics/"><u>[Updated] 2024 Approved Instagram Glimpses Identifying Who Sees Your Pics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>[Updated] In 2024, The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-speeding-up-snapchat-media-video-for-2024/"><u>[Updated] Step-by-Step Speeding Up Snapchat Media (Video) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-7-free-musical-delights-for-your-mobile-devices/"><u>Discover the Ultimate List of 7 Free Musical Delights for Your Mobile Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y100-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y100</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/transform-your-snapshots-into-shares-heres-how/"><u>Transform Your Snapshots Into Shares – Here's How</u></a></li>
 </ul></div>
 

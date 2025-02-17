@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2025-02-03T16:38:20.265Z
-updated: 2025-02-07T16:06:41.656Z
+date: 2025-02-10T19:22:26.040Z
+updated: 2025-02-17T01:04:45.615Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -48,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -55,10 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,24 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>[New] 2024 Approved Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamer-wealth-wave-the-year-ahead/"><u>[New] 2024 Approved Gamer Wealth Wave The Year Ahead</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[New] 2024 Approved Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-endings-that-stand-out-ranked-for-2024/"><u>[New] Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-balance-youtube-with-a-full-time-job-for-2024/"><u>[New] How to Balance YouTube with a Full-Time Job for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717726008656-new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[New] In 2024, Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[Updated] 2024 Approved Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[Updated] 2024 Approved How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] In 2024, How to Get Started Signing Up for a YouTube Channel</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-supreme-writing-talents-through-genre-lenses-for-2024/"><u>[Updated] Supreme Writing Talents Through Genre Lenses for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-eyesharp-hd-high-definition-chromecasting/"><u>2024 Approved EyeSharp HD High Definition Chromecasting</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/detailed-full-rotation-cam-insight/"><u>Detailed Full-Rotation Cam Insight</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-rag-and-llms-in-generative-ai-to-boost-your-companys-knowledge-base-zdnet-strategies/"><u>Harnessing the Power of RAG & LLMs in Generative AI to Boost Your Company's Knowledge Base | ZDNet Strategies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-gt-neo-5-se-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme GT Neo 5 SE Easily?</u></a></li>
-<li><a href="https://win-web.techidaily.com/karaoquest-for-singers-enhances-with-beta-launch-featuring-new-app-version-111-for-djs-music-interaction-platform/"><u>KaraoQuest for Singers Enhances with Beta Launch, Featuring New App Version 1.1.1 for DJs | Music Interaction Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m4a-4/"><u>M4Aスプライト 無料ツールベストヒットの4つ推薦</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-play-7t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Play 7T</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-smoother-gameplay-strategies-for-boosting-fps-in-tainted-grail-conquest/"><u>Unlocking Smoother Gameplay: Strategies for Boosting FPS in 'Tainted Grail: Conquest'</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-storytelling-modifying-video-speed-on-instagram/"><u>[New] In 2024, Elevate Storytelling Modifying Video Speed on Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-perfecting-instagram-posts-tips-for-vertical-editing-in-final-cut-pro-x/"><u>2024 Approved Perfecting Instagram Posts Tips for Vertical Editing in Final Cut Pro X</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024dvd-pciphone/"><u>2024年版DVDバックアップ入門: PC・iPhone対応方法解析</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-complete-guide-to-digitizing-your-dvd-collection-across-desktop-laptop-and-smartphones/"><u>A Complete Guide to Digitizing Your DVD Collection Across Desktop, Laptop & Smartphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-creare-una-perfetta-riproduzione-in-hd-di-dvd-su-un-macbook-con-os-big-sur/"><u>Come Creare Una Perfetta Riproduzione in HD Di DVD Su Un MacBook Con OS Big Sur</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exclusive-winx-dvd-ripper-platinum-christmas-bonus-contest/"><u>Exclusive WinX DVD Ripper Platinum Christmas Bonus Contest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gpu-powered-winxvideo-ai/"><u>GPU-Powered WinxVideo AI：无缝快速转换视频与音频内容</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-transferir-archivos-iso-a-un-disco-dvd-en-windows-11/"><u>Guía Paso a Paso Para Transferir Archivos ISO a Un Disco DVD en Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-g24-power-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola G24 Power?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-t2-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo T2 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>In 2024, The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>In 2024, Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-xiaomi-redmi-a2-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Xiaomi Redmi A2 and stops randomly</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/optimal-handbrake-configuration-tips-achieving-perfect-compression-for-hd-and-ultra-hd-media/"><u>Optimal Handbrake Configuration Tips - Achieving Perfect Compression for HD and Ultra HD Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-delay-issues-how-to-fix-stuttering-videos-during-premiere-pro-playback/"><u>Resolving Delay Issues: How to Fix Stuttering Videos During Premiere Pro Playback</u></a></li>
 </ul></div>
 

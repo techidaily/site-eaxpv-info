@@ -1,7 +1,7 @@
 ---
 title: "[New] Grasp the Art of Steadiness in Photography for 2024"
-date: 2024-08-20T13:50:29.252Z
-updated: 2024-08-21T13:50:29.252Z
+date: 2025-02-15T03:24:36.845Z
+updated: 2025-02-16T23:22:23.253Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 # DIY Tripods| How to Stabilize Your Camera without Buying a Tripod
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,20 +28,22 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### DIY Your Video with Wondershare Filmora
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are 3 of our favorite DIY tripods.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -59,11 +58,12 @@ Here it is with binder clips:
 
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And here it is with hair clips:
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
@@ -71,8 +71,9 @@ Now you can set your smartphone upon any stable surface, like a table or a stack
  _Here are some more cool ideas!_
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **DIY adjustable tripod using books and a towel**
 
 You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
@@ -118,9 +119,6 @@ _**Step 2:**_ After all the legs are attached, wrap some more tape around all 3 
 
 _Note: make sure the bolt is a fit for your camera before you get too far into this process._
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -128,7 +126,6 @@ Richard Bennett
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,8 +139,28 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-determining-vertical-or-horizontal-video-posts-on-fb/"><u>[New] 2024 Approved Determining Vertical or Horizontal Video Posts on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-exploring-vlogging-selecting-the-best-cameras-and-lenses/"><u>[New] 2024 Approved Exploring Vlogging Selecting the Best Cameras & Lenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[New] 2024 Approved From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-achieving-seamless-video-communication-between-xbox-and-zoom-for-2024/"><u>[New] Achieving Seamless Video Communication Between Xbox & Zoom for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-action-videography-showdown-hero-5-black-or-km-170-in-2024/"><u>[New] Action Videography Showdown Hero 5 Black or KM-170, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-mastering-quick-video-pace-adjustments-on-youtube/"><u>[New] Mastering Quick Video Pace Adjustments on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-mastering-youtubes-sound-enhancement-techniques/"><u>[New] Mastering YouTube's Sound Enhancement Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleashing-the-power-of-your-instagram-vids-appeal/"><u>[New] Unleashing the Power of Your Instagram Vids' Appeal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-turn-mundane-games-into-epic-scenes/"><u>[Updated] 2024 Approved How to Turn Mundane Games Into Epic Scenes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac-for-2024/"><u>[Updated] Best Free Downloaders Download YouTube Thumbnail for Free [Online/Win/Mac] for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-and-accessible-the-definitive-guide-to-9-budget-friendly-editors/"><u>[Updated] In 2024, Affordable & Accessible The Definitive Guide to 9 Budget-Friendly Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-winning-videographies-the-essential-guide-to-chatgpt-scriptwriting/"><u>Crafting Winning Videographies: The Essential Guide to ChatGPT Scriptwriting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c02-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nokia C02 Phone with Broken Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-8-best-authentic-youtube-growth-tactics-for-2024/"><u>The 8 Best Authentic Youtube Growth Tactics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-art-of-youtube-management-by-studio-techniques-for-2024/"><u>The Art of YouTube Management by Studio Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-5-iphone-apps-for-daily-podcasts-for-2024/"><u>Top 5 iPhone Apps for Daily Podcasts for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-the-battle-against-windows-10-high-ram-drain-tips-and-tricks/"><u>Winning the Battle Against Windows 10 High RAM Drain - Tips and Tricks</u></a></li>
+</ul></div>
 

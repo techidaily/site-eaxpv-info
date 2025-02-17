@@ -1,7 +1,7 @@
 ---
 title: "Unmissable 35+ Tablet Discounts on Prime Day 2Atury 2024: Active Deals Curated"
-date: 2025-01-31T16:02:48.914Z
-updated: 2025-02-07T17:01:10.951Z
+date: 2025-02-12T22:22:53.256Z
+updated: 2025-02-16T18:37:11.260Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ We've rounded up the best tablet deals still available on Amazon from brands lik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best tablet deals for Amazon Prime Day still available
@@ -85,10 +85,6 @@ The iPad Pro also supports the new [Apple Pencil Pro](https://apple.sjv.io/c/159
 
 **Review: [M4 iPad Pro](https://www.zdnet.com/article/ipad-pro-2024-review/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day deals on tablet accessories still available
 
 Kayla Solino/ZDNET
@@ -103,6 +99,10 @@ Kayla Solino/ZDNET
 * [Tablet Pillow Stand for $12 (save $8)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOntel-Pillow-Ultra-Multi-Angle-Tablet%2Fdp%2FB091SL5XPB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb16c9de8-a98c-4450-a8f2-55fd76a994dd%7Cdtp&dtb=1): Easily view your tablet in bed or while sitting on the couch with this plush tablet stand that provides an angled view and is compatible with tablets of all sizes.
 * [Logitech Crayon for $50 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Crayon-Digital-12-9-Inch-11-Inch%2Fdp%2FB08VS7QLTG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb16c9de8-a98c-4450-a8f2-55fd76a994dd%7Cdtp&dtb=1): Compatible with all iPad models, this stylus has palm-rejection technology and 7.5 hours of battery life, with a quick charge feature.
 * [OtterBox Defender Series Case for iPad Mini for $58 (save $12)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOTTERBOX-DEFENDER-Case-iPad-Mini%2Fdp%2FB09QT66TB6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb16c9de8-a98c-4450-a8f2-55fd76a994dd%7Cdtp&dtb=1): This rugged case will protect your iPad Mini from drops, debris, dust, and dirt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Prime Day tablet deals still available
 
@@ -123,10 +123,14 @@ June Wan/ZDNET
 * [Contixo Kids K102 Tablet for $70 (save $10)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FContixo-Parental-Learning-Children-Kid-Proof%2Fdp%2FB098TYMC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb16c9de8-a98c-4450-a8f2-55fd76a994dd%7Cdtp&dtb=1): This kids' tablet is built for ages 3-12 and includes 50 Disney E-books and 30 Disney videos.
 * [Acer Enduro T1 Rugged Tablet for $270 (save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-ET108-11A-80PZ-Octa-Core-Processor-Handstrap%2Fdp%2FB08G8WYYFW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb16c9de8-a98c-4450-a8f2-55fd76a994dd%7Cdtp&dtb=1): This tablet is tested against MIL-STD-810G standards and is resistant to drops from up to 4 feet high as well as moisture, dirt, shocks, and extreme temperatures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
@@ -134,7 +138,7 @@ June Wan/ZDNET
 Amazon Prime Day is a two-day sales event for Prime members. This year, sales were live from Tuesday, July 16, through Wednesday, July 17.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are tablets really cheaper on Prime Day?
@@ -144,10 +148,6 @@ Yes. Prime Day is a great time to look for deals on tablets that aren't usually 
 ### How did we choose these Prime Day deals?
 
 ZDNET only recommends the devices we can stand behind, so when we say you're getting a good deal, we want to ensure your hard-earned money goes towards excellent value. To choose the top deals, we comb through the best sales available and make thorough price comparisons with historical data, combined with our personal experience with these products, to determine which ones are worth buying. Our hope is to help you make the best choice to stretch your dollar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -213,22 +213,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving/"><u>[New] 2024 Approved 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools/"><u>[New] 2024 Approved Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-youtube-channel-in-mobile-with-ease-personal-and-business/"><u>[New] 2024 Approved How to Create YouTube Channel in Mobile with Ease [Personal & Business]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-started-signing-up-for-a-youtube-channel-for-2024/"><u>[New] How to Get Started Signing Up for a YouTube Channel for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-tape-to-broadcast-ready-using-studio-editor/"><u>[New] In 2024, From Raw Tape to Broadcast-Ready Using Studio Editor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-promote-youtube-videos-without-paying/"><u>[New] In 2024, How to Promote YouTube Videos (Without Paying)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[Updated] 2024 Approved From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-blueprint-for-branding-success-on-snapchat/"><u>[Updated] 2024 Approved The Ultimate Blueprint for Branding Success on SnapChat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed-for-2024/"><u>[Updated] From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-launch-a-captivating-livestream-with-minimal-subscribers/"><u>[Updated] Launch a Captivating Livestream with Minimal Subscribers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/excel-tricks-unveiled-how-to-seamlessly-hide-comments-formulas-overflow-content-and-gridlines/"><u>Excel Tricks Unveiled: How To Seamlessly Hide Comments, Formulas, Overflow Content & Gridlines</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-windows-scaling-issues-for-high-dpi-screens/"><u>How to Fix Windows Scaling Issues for High DPI Screens</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-enhancing-lenovo-experience-through-recording/"><u>In 2024, Enhancing Lenovo Experience Through Recording</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/llifes-comeback-amidst-expanding-virtual-realities/"><u>LLife's Comeback Amidst Expanding Virtual Realities</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unleash-marketing-potential-through-strategy-boxing/"><u>Unleash Marketing Potential Through Strategy Boxing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-ideal-history-streams-the-10-premier-channels-for-students-study/"><u>[New] In 2024, Ideal History Streams The 10 Premier Channels for Students' Study</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unveiling-the-top-6-favorite-short-form-video-download-tools/"><u>[Updated] 2024 Approved Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-disrupted-beats-best-mobile-music-distortors/"><u>[Updated] In 2024, Disrupted Beats Best Mobile Music Distortors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-upgrade-your-channel-description-with-ease-and-flair/"><u>[Updated] Upgrade Your Channel Description with Ease and Flair</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/audio-aces-challenge-apples-airpods-pro-against-galaxy-buds-pro-rivalry/"><u>Audio Aces Challenge: Apple's Airpods Pro Against Galaxy Buds Pro Rivalry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-0x8eb91b23-and-0x80070005-comprehensive-fixes-for-windows-update-restrictions/"><u>Bypassing 0X8eb91b23 and 0X80070005 - Comprehensive Fixes for Windows Update Restrictions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparative-guide-dvd-blu-ray-and-digital-files-which-is-worth-buying/"><u>Comparative Guide: DVD, Blu-Ray, and Digital Files - Which Is Worth Buying?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-movies-effortlessly-with-the-newest-version-of-winx-dvd-ripper-free-hd-to-mp4-on-windows-11/"><u>Convert Your Movies Effortlessly with the Newest Version of WinX DVD Ripper Free: HD to MP4 on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288126448-dvd/"><u>DVDの中から曲を取り出すための専門的なガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-customize-handbrake-configuration-for-apple-ipad-compatible-video-and-dvd-content/"><u>Easy Steps to Customize Handbrake Configuration for Apple iPad-Compatible Video and DVD Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-to-use-winx-media-center-how-to-make-free-dvds-with-our-top-windows-1011-dvd-author-solution/"><u>Easy-to-Use WinX Media Center: How to Make Free DVDs with Our Top Windows 10/11 DVD Author Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-gameplay-with-ai-powered-motion-interpolation-increase-frames-per-second-and-achieve-seamless-visuals/"><u>Enhance Gameplay with AI-Powered Motion Interpolation: Increase Frames Per Second and Achieve Seamless Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-basics-of-mov-format-in-digital-videos/"><u>Exploring the Basics of MOV Format in Digital Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>In 2024, A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/o-guia-definitivo-topissimos-aplicativos-de-conversao-dvd-para-mp4-para-sistemas-operacionais-windowsmac-no-ano-2n23/"><u>O Guia Definitivo: Topíssimos Aplicativos De Conversão DVD Para MP4 Para Sistemas Operacionais Windows/Mac No Ano 2N23</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/strategic-message-management-expert-tips-for-discord-pinning-for-2024/"><u>Strategic Message Management Expert Tips for Discord Pinning for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stream-movies-and-tv-free-on-android-with-the-new-moviebox-app-download/"><u>Stream Movies & TV FREE on Android with the New MovieBox App Download</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveil-the-potential-of-instagram-footage-comprehensive-guide-to-mp4-conversion-software-windowsosx/"><u>Unveil the Potential of Instagram Footage Comprehensive Guide to MP4 Conversion Software [Windows/OSX]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-14-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 14 Plus i Do? Get Answers here</u></a></li>
 </ul></div>
 

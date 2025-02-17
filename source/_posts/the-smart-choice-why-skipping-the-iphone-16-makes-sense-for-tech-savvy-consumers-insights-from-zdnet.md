@@ -1,7 +1,7 @@
 ---
 title: "The Smart Choice: Why Skipping the iPhone 16 Makes Sense for Tech-Savvy Consumers - Insights From ZDNet"
-date: 2025-01-12T19:56:01.834Z
-updated: 2025-01-19T22:25:23.510Z
+date: 2025-02-10T03:33:18.740Z
+updated: 2025-02-16T22:47:50.367Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=subid%5Fvalue), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=subid%5Fvalue), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=subid%5Fvalue). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -57,7 +53,7 @@ However, the integration of Apple Intelligence is not without challenges. The mo
 More advanced AI features, such as [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) for creating custom emoji, the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) for on-device image creation, and ChatGPT integration, have yet to be included in the beta. Siri has received a minor UI update and a more conversational tone, but significant improvements are expected later this year. [According to Bloomberg's Mark Gurman](https://www.bloomberg.com/news/newsletters/2024-07-07/apple-watch-series-10-ultra-3-details-bigger-screens-blood-pressure-challenge-lybjqp0q), additional Apple Intelligence features will be introduced in upcoming iOS 18.1 Beta releases, with the stable version possibly arriving in October.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -77,7 +73,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -87,6 +83,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -105,7 +105,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -148,22 +148,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-essential-guide-to-storing-with-adobe-including-what-not-to-miss-elsewhere/"><u>[Updated] 2024 Approved Essential Guide to Storing with Adobe, Including What Not To Miss Elsewhere</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>[Updated] Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024s-ultimate-selection-of-ipad-air-cases-vetted-by-pro-reviews-zdnet-insights/"><u>2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews | ZDNET Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/apples-approach-to-sideloaded-applications-on-iphone-fees-and-rigorous-reviews-unveiled-analysis-by-zdnet/"><u>Apple's Approach to Sideloaded Applications on iPhone: Fees and Rigorous Reviews Unveiled | Analysis by ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/can-dysons-latest-ontrac-wireless-headphones-outshine-the-market-dominant-airpods-max-insights-for-tech-enthusiasts-zdnet/"><u>Can Dyson’s Latest OnTrac Wireless Headphones Outshine the Market Dominant AirPods Max? Insights for Tech Enthusiasts | ZDNET</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-affordable-high-quality-alternatives-to-apples-airtag-the-best-pick-for-your-pocket-friendly-tracking-needs-zdnet/"><u>Discover Affordable, High-Quality Alternatives to Apple's AirTag: The Best Pick for Your Pocket-Friendly Tracking Needs | ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-tips-for-restoring-functionality-to-broken-content-warnings-in-voice-communications/"><u>Essential Tips for Restoring Functionality to Broken Content Warnings in Voice Communications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/finding-water-damage-by-apple-lightning-cable-how-to-respond/"><u>Finding Water Damage by Apple Lightning Cable - How to Respond?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to Android? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-12-mini-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 12 mini Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-worth-switching-to-ios-17-a-comprehensive-guide/"><u>Is It Worth Switching to iOS 17: A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maximize-your-experience-apple-vision-pro-showcases-topnotch-demo-events-learn-more-and-reserve-yours-now-techzoo/"><u>Maximize Your Experience: Apple Vision Pro Showcases Topnotch Demo Events – Learn More & Reserve Yours Now! | TechZoo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/score-a-macbook-air-m1-for-an-all-time-low-of-649-top-savings-alert-by-zdnet/"><u>Score a MacBook Air M1 for an All-Time Low of $649 - Top Savings Alert by ZDNET</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-5-methods-integrating-outlook-contacts-seamlessly-into-your-iphone-models-15-14-13-and-12/"><u>Top 5 Methods: Integrating Outlook Contacts Seamlessly Into Your iPhone (Models: 15, 14, 13 & 12)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unlocking-zoom-potential-a-comprehensive-configurations-guide-for-2024/"><u>Unlocking Zoom Potential A Comprehensive Configurations Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/why-is-apple-vision-pro-facing-backlash-discover-key-user-grievances-highlighted-by-reddit-in-our-zdnet-report/"><u>Why Is Apple Vision Pro Facing Backlash? Discover Key User Grievances Highlighted by Reddit in Our ZDNet Report</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-razr-40-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Razr 40? Fixed | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-to-device-converting-youtube-tracks-for-idevices/"><u>[New] 2024 Approved Direct to Device Converting YouTube Tracks for iDevices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-innovative-strategies-for-captivate-demonstrations/"><u>[New] In 2024, Innovative Strategies for Captivate Demonstrations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>[New] Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-techniques-for-subtle-sound-diminution-in-audacity/"><u>[Updated] Techniques for Subtle Sound Diminution in Audacity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-dramatic-writing-site-for-2024/"><u>Best Dramatic Writing Site for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-dvd-ripper-and-converter-programs-top-10-reviews/"><u>Best Free DVD Ripper & Converter Programs: Top 10 Reviews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/eliminating-unwanted-motion-mastering-stabilization-techniques-in-adobe-premiere-pro/"><u>Eliminating Unwanted Motion: Mastering Stabilization Techniques in Adobe Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-assistance-for-winx-dvd-ripping-and-video-conversion-comprehensive-online-customer-care/"><u>Expert Assistance for WinX DVD Ripping & Video Conversion – Comprehensive Online Customer Care</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-guide-perfecting-audio-output-with-handbrake-across-multiple-media-platforms/"><u>Expert Guide: Perfecting Audio Output with Handbrake Across Multiple Media Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-the-latest-winx-media-player-for-free-with-our-comprehensive-downloads-and-support/"><u>Get the Latest WinX Media Player for Free with Our Comprehensive Downloads and Support</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-enable-and-use-dvd-playback-feature-on-the-xbox-one-gaming-system/"><u>How to Enable and Use DVD Playback Feature on the Xbox One Gaming System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-into-your-android-device-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Android Device – A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mobvoi-ticwatch-e2-analysis-cost-effective-yet-lacks-quality/"><u>Mobvoi TicWatch E2 Analysis: Cost-Effective Yet Lacks Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-how-to-download-and-convert-subtitles-from-an-mkv-file-using-a-subtitle-extractor/"><u>Step-by-Step Guide: How to Download and Convert Subtitles From an MKV File Using a Subtitle Extractor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/upgrade-your-videos-using-winxvideo-ai-technology-effortless-quality-boost/"><u>Upgrade Your Videos Using WinxVideo AI Technology - Effortless Quality Boost</u></a></li>
 </ul></div>
 

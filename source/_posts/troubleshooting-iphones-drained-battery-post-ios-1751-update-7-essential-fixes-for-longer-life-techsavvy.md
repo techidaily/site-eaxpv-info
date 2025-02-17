@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2025-02-02T16:43:32.030Z
-updated: 2025-02-07T17:39:41.196Z
+date: 2025-02-16T03:20:22.766Z
+updated: 2025-02-17T00:33:01.325Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -37,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -48,10 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-average-profit-per-stream-watcher-on-youtube/"><u>[New] 2024 Approved Average Profit per Stream Watcher on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging/"><u>[New] 2024 Approved From Lens to Legacy Building a Lasting Career in Travel Blogging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[New] 2024 Approved How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-start-your-vlog-and-make-money-from-it/"><u>[New] 2024 Approved How to Start Your Vlog and Make Money From It</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[New] 2024 Approved Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-earning-predictors/"><u>[New] In 2024, Free YouTube Earning Predictors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-blurry-to-bold-crafting-powerful-youtube-previews/"><u>[New] In 2024, From Blurry to Bold Crafting Powerful YouTube Previews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>[New] In 2024, Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-proficiently-upload-impressive-elongated-youtube-content/"><u>[Updated] 2024 Approved How to Proficiently Upload Impressive, Elongated YouTube Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-the-complete-creator-hub-guide-for-2024/"><u>[Updated] From Novice to Pro The Complete Creator Hub Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[Updated] In 2024, Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-script-mastery-online-academy/"><u>[Updated] Script Mastery Online Academy</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-s24-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy S24 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capture-every-click-essential-screen-recorders-for-modern-browsers/"><u>Capture Every Click Essential Screen Recorders for Modern Browsers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-elevating-website-engagement-through-smart-cookies-and-ai-driven-insights/"><u>Cookiebot: Elevating Website Engagement Through Smart Cookies & AI-Driven Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-13c-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi 13C for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-red-magic-8s-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Red Magic 8S Pro without App | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-poco-c50-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco C50 FRP Bypass Instantly</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grateful-choices-comprehensive-otu-guide/"><u>[New] Grateful Choices Comprehensive OTU Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-evaluating-bandicam-and-camtasia-for-mac-users/"><u>[Updated] 2024 Approved Evaluating Bandicam and Camtasia for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-curriculum-videos-top-tips-for-classroom-edits-for-2024/"><u>[Updated] Curriculum Videos Top Tips for Classroom Edits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>[Updated] The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-guide-to-understanding-youtube-tvs-signature-features/"><u>[Updated] Your Guide to Understanding YouTube TV's Signature Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic/"><u>2024 Approved HTC's Immersive Revolution A Deep Dive Into VR Headset Magic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/eufys-solocam-s340-review-a-comprehensive-look-at-the-solar-charged-motion-sensing-security-camera/"><u>Eufy's Solocam S340 Review: A Comprehensive Look at the Solar-Charged, Motion-Sensing Security Camera</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/experience-the-joy-of-reminiscing-through-aura-waldens-innovative-digital-picture-display/"><u>Experience the Joy of Reminiscing Through Aura Walden’s Innovative Digital Picture Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-of-the-soundpeats-air4-pro-an-exceptional-value-option-to-apples-premium-earbuds/"><u>Expert Analysis of the Soundpeats Air4 Pro - An Exceptional Value Option to Apple's Premium Earbuds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-of-the-superior-baseus-100w-battery-pack-unmatched-charging-strength-and-reliability/"><u>Expert Analysis of the Superior Baseus 100W Battery Pack: Unmatched Charging Strength & Reliability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-anker-soundcore-airfit-pro-the-ultimate-guide-to-ergonomic-on-the-go-audio/"><u>Expert Analysis: Anker SoundCore AirFit Pro - The Ultimate Guide to Ergonomic On-the-Go Audio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-design-and-durability-of-nomads-magnetic-leather-backcase-a-comprehensive-review-for-iphone-15-pro-owners/"><u>Exploring the Design & Durability of Nomad's Magnetic Leather Backcase - A Comprehensive Review for iPhone 15 Pro Owners</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-pop-8-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Pop 8 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-se-2020-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone SE (2020) online without jailbreak</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/echniques-for-assessing-youtube-engagement-and-profitability-for-2024/"><u>Key Techniques for Assessing YouTube Engagement and Profitability for 2024</u></a></li>
 </ul></div>
 

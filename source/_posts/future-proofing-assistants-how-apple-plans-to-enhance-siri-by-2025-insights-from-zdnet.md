@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights From ZDNet"
-date: 2025-01-19T22:05:33.848Z
-updated: 2025-01-25T16:04:42.454Z
+date: 2025-02-15T17:21:28.669Z
+updated: 2025-02-16T19:20:19.091Z
 tags:
   - apple
 categories:
@@ -34,6 +34,10 @@ more buying choices
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is Apple's most advanced piece of hardware in 2024, besting the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-review/) and likely any [new AirPods](https://www.zdnet.com/article/two-new-airpods-models-expected-this-fall-heres-everything-we-know-so-far/) and [iPhone 16 models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/) to come. From the moment you pick up the ultra-thin slab of glass and aluminum to when you discover finer details in darker scenes thanks to the Tandem OLED display, such burdenless design choices make Apple's premium iPad model a justifiable option for those willing to spend the money.
@@ -41,7 +45,7 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -59,7 +63,7 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -67,10 +71,6 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -110,10 +110,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -132,6 +128,10 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thought
 
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
@@ -139,7 +139,7 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,21 +176,21 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[New] 2024 Approved Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-hobby-to-hustle-making-money-with-videos-for-2024/"><u>[New] From Hobby to Hustle Making Money with Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies/"><u>[Updated] 2024 Approved From Global Reach to Engagement Deciphering IGTV & YouTube’s Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gameplay-recording-must-haves/"><u>[Updated] 2024 Approved Gameplay Recording Must-Haves</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-begin-a-new-era-of-editing-with-xps-video-suite/"><u>[Updated] Begin a New Era of Editing with Xp's Video Suite</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-livecasting-google-meet-on-youtube-for-2024/"><u>[Updated] Guide to Livecasting Google Meet on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-increase-your-youtube-fanbase-to-one-million-for-2024/"><u>[Updated] How to Safely Increase Your YouTube Fanbase To One Million for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[Updated] In 2024, Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-entrepreneurs-lifeline-critical-items-every-startup-needs-right-now/"><u>[Updated] In 2024, The Entrepreneur's Lifeline Critical Items Every Startup Needs Right Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-altering-articulations-in-free-fire-arena/"><u>2024 Approved Altering Articulations in Free Fire Arena</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/cutting-costs-on-cam-recording-a-compreited-analysis-and-recommendations-for-2024/"><u>Cutting Costs on Cam Recording – A Compreited Analysis & Recommendations for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-p55t-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel P55T Phone Pattern Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-work-efficiency-with-split-screen-functionality-on-your-macbook-air/"><u>Maximizing Work Efficiency with Split Screen Functionality on Your MacBook Air</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-10-best-cartoon-video-maker-apps-for-android-and-iphone/"><u>New The Ultimate List 10 Best Cartoon Video Maker Apps for Android & iPhone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266580859-next-level-web-insights-without-cookiebot-find-out-how/"><u>Next-Level Web Insights without Cookiebot - Find Out How</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lava-by-drfone-android/"><u>Three Ways to Sim Unlock Lava</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-freeze-the-frame-overcoming-shake-phenomena/"><u>[New] Freeze the Frame Overcoming Shake Phenomena</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-hilarity-host-the-10-funniest-twitter-challenges/"><u>[New] In 2024, Hilarity Host The 10 Funniest Twitter Challenges</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvdiphonedvd/"><u>「ジャニーズDVDをクローンしよう!：iPhoneとDVDに完全なコピー方法の詳細攻略」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285937406-ai/"><u>時間を超えた記憶を活け直す：AIアプリで白黒画像をカラーに！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-guide-to-free-premium-4k-players-compatible-with-windows-10-11-and-macos/"><u>Discover the Ultimate Guide to FREE Premium 4K Players - Compatible with Windows 10, 11 and macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-setting-up-handbrake-and-libdvdcss-for-smooth-dvd-extraction-on-macwindows-10/"><u>Guide: Setting Up HandBrake and Libdvdcss for Smooth DVD Extraction on Mac/Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-redmi-12-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi Redmi 12 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-xr-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone XR in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/leading-tools-to-transform-videos-into-ipod-touch-compatible-mp4-format-efficiently/"><u>Leading Tools to Transform Videos Into iPod Touch Compatible MP4 Format Efficiently</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/microsoft-surface-pro-7-reviewed-a-comforting-update-with-steady-performance-gains/"><u>Microsoft Surface Pro 7 Reviewed – A Comforting Update with Steady Performance Gains</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-o-setupdll-not-found-problem-effectively/"><u>Troubleshooting the 'O setup.dll Not Found' Problem Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-tips-resolving-issues-with-vlc-and-chromecast-compatibility/"><u>Troubleshooting Tips: Resolving Issues with VLC and Chromecast Compatibility</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winxdvd-official-site-video-converter-and-hd-transfer-tool-for-pc-and-ios-devices/"><u>WinXDVD Official Site - Video Converter & HD Transfer Tool for PC & iOS Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxdvd-ultimate-tutorial-mastering-dvd-burning-techniques/"><u>WinXDVD Ultimate Tutorial: Mastering DVD Burning Techniques</u></a></li>
 </ul></div>
 

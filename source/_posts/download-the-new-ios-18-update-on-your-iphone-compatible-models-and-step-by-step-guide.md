@@ -1,7 +1,7 @@
 ---
 title: "Download the New iOS 18 Update on Your iPhone: Compatible Models and Step-by-Step Guide"
-date: 2025-01-22T21:12:54.928Z
-updated: 2025-01-25T21:24:56.245Z
+date: 2025-02-15T18:39:28.640Z
+updated: 2025-02-17T02:16:33.510Z
 tags:
   - apple
 categories:
@@ -32,16 +32,24 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -54,19 +62,15 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -81,10 +85,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,21 +161,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hashtags-hack-skyrocket-your-video-popularity/"><u>[New] 2024 Approved Hashtags Hack Skyrocket Your Video Popularity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[New] 2024 Approved How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[New] 2024 Approved YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-tackling-windows-files-swiftly-and-smartly/"><u>[New] In 2024, Tackling Windows Files Swiftly and Smartly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grandview-alliance-how-to-settle-on-a-cms-for-2024/"><u>[Updated] Grandview Alliance How to Settle on a CMS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-clear-black-boards-in-your-youtube-videos-for-2024/"><u>[Updated] How to Clear Black Boards in Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmoras-secrets-to-captivating-youtube-trailers/"><u>[Updated] In 2024, Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[Updated] In 2024, How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mysterious-rotation-of-videos-on-the-social-app/"><u>2024 Approved Mysterious Rotation of Videos on the Social App</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-shrouded-screen-images-techniques-for-redacting-info/"><u>2024 Approved Shrouded Screen Images Techniques for Redacting Info</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/game-changing-tvs-for-ps5-and-xbox-series-x-enthusiasts/"><u>Game-Changing TVs for PS5 & Xbox Series X Enthusiasts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-spark-10-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Spark 10 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screensnapper-pro-the-ultimate-guide-to-capturing-your-world/"><u>In 2024, ScreenSnapper Pro The Ultimate Guide to Capturing Your World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/score-big-savings-on-the-new-apple-watch-series-10-at-best-buy-preorder-now-and-save-up-to-50-off/"><u>Score Big Savings on the New Apple Watch Series 10 at Best Buy - Preorder Now and Save Up to 50% Off!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-on-hp-victus-15-for-gamers-snag-it-for-just-515-with-best-buys-exclusive-prime-day-offer-zdnet/"><u>Unbeatable Price on HP Victus 15 for Gamers: Snag It for Just $515 with Best Buy's Exclusive Prime Day Offer | ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-dissecting-asuss-proart-pa-329q-an-expert-review-on-its-professional-capabilities/"><u>[New] 2024 Approved Dissecting Asus's ProArt PA 329Q An Expert Review on Its Professional Capabilities</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-old-world-wonders-iphone-x-portraits/"><u>[New] 2024 Approved Old World Wonders – iPhone X Portraits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimizing-control-switch-pro-for-steam-gaming/"><u>[Updated] Optimizing Control Switch Pro for Steam Gaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-explore-the-world-of-drawing-on-your-chromebook-today/"><u>2024 Approved Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-gestutzte-interpolation-fur-flussige-ubergange-und-optimierten-fps-erhohung-der-leistung/"><u>AI-Gestützte Interpolation Für Flüssige Übergänge Und Optimierten FPS: Erhöhung Der Leistung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-scarica-e-condividi-un-dvd-in-google-drive-risoluzione-completa/"><u>Come Scarica E Condividi Un DVD in Google Drive - Risoluzione Completa</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-fix-error-code-0xc00d5212-for-missing-media-players-on-windows-1110-computers/"><u>How to Fix Error Code 0XC00D5212 for Missing Media Players on Windows 11/10 Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-personalizing-your-windows-photos-experience-add-filters-sound/"><u>In 2024, Personalizing Your Windows Photos Experience Add Filters, Sound</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-hardware-acceleration-in-windows-11-key-features-and-insights/"><u>Mastering Hardware Acceleration in Windows 11: Key Features and Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-the-most-frequent-issues-with-unplayable-videos-a-guide/"><u>Solving the Most Frequent Issues with Unplayable Videos – A Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-removing-programs-from-your-samsung-tv-box/"><u>Ultimate Guide: Removing Programs From Your Samsung TV Box</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wow-launches-triumph-overcoming-3d-limitations/"><u>WoW Launches Triumph: Overcoming 3D Limitations</u></a></li>
 </ul></div>
 

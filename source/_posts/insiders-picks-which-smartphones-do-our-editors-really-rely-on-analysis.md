@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? Analysis"
-date: 2025-01-21T21:07:53.163Z
-updated: 2025-01-25T19:09:15.984Z
+date: 2025-02-10T17:42:46.242Z
+updated: 2025-02-16T22:07:33.345Z
 tags:
   - apple
 categories:
@@ -45,6 +45,10 @@ Pros
 
 Cons 
 * New design Cameras are impressive Performance Battery life
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone 12 Pro
 
@@ -104,15 +108,7 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone SE (2020)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -140,7 +136,15 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 12
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Chris Matyszczyk
 
@@ -171,7 +175,7 @@ Show Expert Take Show less
 ## Ulefone Armor 9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
@@ -188,10 +192,14 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Pixel 2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tony Baer
@@ -207,6 +215,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Huawei P20 Pro
 
@@ -224,15 +236,7 @@ Pros
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone XR
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -257,7 +261,7 @@ Show Expert Take Show less
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###   
@@ -292,25 +296,13 @@ Show Expert Take Show less
 
 ## iPhone 7 Plus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tiernan Ray
 
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 6s Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -324,6 +316,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lumia 1520
 
 ### Mary Branscombe
@@ -333,6 +329,10 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 **Next phone or dream phone?** An Arm-based Windows 10 phone with integrated Skype in a phablet form factor with 5G; while I hope that a project like Empirion can succeed, I'm not banking on it. But surely we need a third OS to balance Android and iOS as the government investigations continue?
 
 Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
 
@@ -376,16 +376,14 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-10-best-intro-maker-apps-for-iphone-and-android/"><u>[New] 2024 Approved FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-template-to-tutorial-gamers-channel-design-for-2024/"><u>[New] From Template to Tutorial Gamers' Channel Design for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cyberlink-screen-recorder-review-and-the-best-alternative-for-2024/"><u>[Updated] Cyberlink Screen Recorder Review and the Best Alternative for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-power-of-color-difference-keying-methods-for-2024/"><u>[Updated] Harnessing the Power of Color Difference Keying Methods for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>[Updated] In 2024, From Dull to Delightful How To Craft Standout YouTube Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[Updated] In 2024, Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-become-an-instagram-star-expert-5-strategies-and-illustrative-examples/"><u>2024 Approved Become an Instagram Star Expert 5 Strategies and Illustrative Examples</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-mp3-players-of-2024-features-comparisons-and-buyers-guide/"><u>Discover the Ultimate MP3 Players of 2024: Features, Comparisons & Buyer's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-wmi-service-resource-consumption/"><u>Minimizing WMI Service Resource Consumption</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1078468-9781846949685-soul-to-soul-connections/"><u>Soul to Soul Connections | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-problem-detected-on-startup-in-windows-11-easily/"><u>Troubleshooting and Solving the ‘Problem Detected on Startup’ in Windows 11 Easily</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unveiling-t-series-youtube-earnings/"><u>[Updated] In 2024, Unveiling T-Series' Youtube Earnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-dvd-ripper-and-hd-video-converter-official-winx-software-with-free-downloads/"><u>1. Ultimate DVD Ripper & HD Video Converter: Official WinX Software with Free Downloads</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-visual-fluidity-the-art-of-applying-face-centered-motion-blur-with-picsart/"><u>2024 Approved Visual Fluidity The Art of Applying Face-Centered Motion Blur with Picsart</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-media-player-apps-for-windows-10-and-11-no-cost-downloads/"><u>Best Free Media Player Apps for Windows 10 & 11: No Cost Downloads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat-for-2024/"><u>Exploring the Usefulness of a Blue Video Icon on Facebook Chat for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-unir-archivos-de-video-mp4/"><u>Guía Paso a Paso Para Unir Archivos De Video MP4</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-telnet-into-win-1011-systems-tutorial/"><u>Integrating Telnet Into Win 10/11 Systems (Tutorial)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-stories-your-complete-guide-for-2024/"><u>Mastering Instagram Stories Your Complete Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/successful-guide-viewing-and-playing-videots-folders-across-windows-10-mac-tv-and-android/"><u>Successful Guide: Viewing and Playing Video_TS Folders Across Windows 10, Mac, TV & Android</u></a></li>
 </ul></div>
 

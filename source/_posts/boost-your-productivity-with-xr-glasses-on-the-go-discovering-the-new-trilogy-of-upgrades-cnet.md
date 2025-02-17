@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with XR Glasses On-the-Go: Discovering the New Trilogy of Upgrades | CNET"
-date: 2025-02-06T16:44:59.575Z
-updated: 2025-02-07T16:01:17.203Z
+date: 2025-02-16T02:14:20.539Z
+updated: 2025-02-16T22:50:24.714Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,18 +122,18 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[New] 2024 Approved Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/eauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch-for-2024/"><u>[New] Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-template-to-tutorial-gamers-channel-design/"><u>[New] In 2024, From Template to Tutorial Gamers' Channel Design</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] In 2024, Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-galaxy-100plus-spaces-of-play/"><u>[Updated] 2024 Approved Gamer's Galaxy 100+ Spaces of Play</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-splitcams-rated-or-not-in-2024/"><u>[Updated] Cutting-Edge SplitCams Rated or Not, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-youtube-images-download-without-any-cost-for-2024/"><u>[Updated] High-Quality YouTube Images Download Without Any Cost for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] In 2024, How to Spot and Secure Top Monetization Potential</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mastering-multi-platform-content-delivery-youtube-and-beyond/"><u>[Updated] Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/como-restaurar-un-punto-de-restauracion-del-sistema-en-windows-11-metodos-y-guias-paso-a-paso-4-formas-diferentes/"><u>Cómo Restaurar Un Punto De Restauración Del Sistema en Windows 11: Métodos Y Guías Paso a Paso (4 Formas Diferentes)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-nhl-19-guide-a-deep-dive-into-virtual-hockey-action/"><u>Comprehensive NHL '19 Guide: A Deep Dive Into Virtual Hockey Action</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-comparison-can-github-copilot-outperform-chatgpt-in-coding/"><u>In-Depth Comparison: Can GitHub Copilot Outperform ChatGPT in Coding?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-a14-4g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy A14 4G, is it possible?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-innovating-industries-with-immersive-virtual-reality/"><u>[New] Innovating Industries with Immersive Virtual Reality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-live-feed-perfection-top-free-screen-capture-apps-reviewed/"><u>[Updated] In 2024, Live Feed Perfection Top Free Screen Capture Apps Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-hd-100/"><u>公式販売ページ:MacX HDビデオ変換プロフォームズ - 100%完全なウェブショッピング環境における安全購入</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-dvds-into-high-quality-audio-and-video-files-for-free-with-macx-rip-tool/"><u>Convert Your DVDs Into High-Quality Audio & Video Files for Free with MacX Rip Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-scaling-down-ultra-hd-videos/"><u>Effective Techniques for Scaling Down Ultra HD Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortlessly-transform-your-videos-seamless-conversion-from-windows-movie-maker-to-mp4-with-no-quality-compromise/"><u>Effortlessly Transform Your Videos: Seamless Conversion From Windows Movie Maker to MP4 with No Quality Compromise</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experiencing-powerhouse-pc-with-customizable-features-from-ibuypower-a-review-for-gamers-seeking-quality-and-value/"><u>Experiencing Powerhouse PC with Customizable Features From IBUYPOWER – A Review for Gamers Seeking Quality and Value</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-successfully-open-avi-files-on-a-mac-the-best-4-techniques/"><u>How to Successfully Open AVI Files on a Mac: The Best 4 Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/leading-alternatives-for-ios-management-how-to-control-your-iphone-independently-of-itunes/"><u>Leading Alternatives for iOS Management: How to Control Your iPhone Independently of iTunes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/rediscovering-the-riches-delving-into-literary-masterpieces-of-yore-for-2024/"><u>Rediscovering the Riches Delving Into Literary Masterpieces of Yore for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-free-alternatives-to-microsoft-deployment-toolkit-optimize-your-setup/"><u>Top Free Alternatives to Microsoft Deployment Toolkit: Optimize Your Setup</u></a></li>
 </ul></div>
 

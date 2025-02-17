@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2025-02-04T16:56:13.154Z
-updated: 2025-02-07T16:41:13.254Z
+date: 2025-02-09T22:05:39.614Z
+updated: 2025-02-17T01:49:51.280Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -47,7 +47,7 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -55,6 +55,10 @@ I'm guessing that Apple's 3Difying of a 2D image will be at about the same level
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -64,10 +68,6 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -75,6 +75,10 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -111,7 +115,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,20 +171,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[New] 2024 Approved Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge-for-2024/"><u>[New] From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-middle-ground-working-and-youtube/"><u>[New] In 2024, Finding the Middle Ground Working & YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-football-film-study-premier-insights-infographic/"><u>[New] In 2024, Football Film Study Premier Insights Infographic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-more-video-views-on-youtube/"><u>[New] In 2024, How To Get More Video Views on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[New] In 2024, How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-7-amazing-builds-in-creative-mode/"><u>[Updated] 7 Amazing Builds in Creative Mode</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-authentic-audience-growth-tricks-for-sustainable-views/"><u>[Updated] Authentic Audience Growth Tricks for Sustainable Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-free-youtube-downloads-without-programs-for-2024/"><u>[Updated] Guide Free YouTube Downloads Without Programs for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse/"><u>2024 Approved A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/essential-guide-to-producing-quality-igtv-on-smartphonesdslrs/"><u>Essential Guide to Producing Quality IGTV on Smartphones/DSLRs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/level-up-your-retro-experience-instructions-for-increasing-game-selection-on-nes-classic/"><u>Level Up Your Retro Experience: Instructions for Increasing Game Selection on NES Classic</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-connection-problem-with-mb-services-in-win11/"><u>Overcoming the Connection Problem with MB Services in Win11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/playing-with-preferences-how-does-the-nintendo-switch-lite-stack-up-to-the-oled-version/"><u>Playing with Preferences: How Does the Nintendo Switch Lite Stack Up to the OLED Version?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-profits-creating-compelling-video-trailers/"><u>[New] In 2024, Enhancing Profits Creating Compelling Video Trailers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-new-era-of-advertising-embracing-the-metaverse/"><u>[Updated] 2024 Approved The New Era of Advertising Embracing the Metaverse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-image-innovation-unveiling-secrets-of-photo-enhancement/"><u>[Updated] Image Innovation Unveiling Secrets of Photo Enhancement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-new-reality-crafted-by-machine-minds/"><u>A New Reality Crafted by Machine Minds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-11-methods-for-seamless-iphone-to-computer-image-transfer-without-using-itunes/"><u>Best 11 Methods for Seamless iPhone to Computer Image Transfer Without Using iTunes</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensive-hand-tracking-explained/"><u>Comprehensive Hand Tracking Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-convert-wmv-files-into-mp4-format-for-free-using-an-online-tool-or-windows-11/"><u>How to Convert WMV Files Into MP4 Format for Free Using an Online Tool or Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-tips-maintaining-high-quality-in-smaller-sizes/"><u>MP4 Video Compression Tips: Maintaining High-Quality in Smaller Sizes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mov-to-mp4-converter-no-cost-works-on-all-platforms-including-mac-and-windows-11/"><u>Online MOV to MP4 Converter - No Cost! Works on All Platforms Including Mac and Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-prevent-auto-start-of-steam/"><u>Steps to Prevent Auto-Start of Steam</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-phantom-v-flip-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Phantom V Flip Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/topo-dos-melhores-softwares-de-gravacao-de-dvds-para-sistemas-windows-11-download-livre/"><u>Topo Dos Melhores Softwares De Gravação De DVDs Para Sistemas Windows 11: Download Livre</u></a></li>
 </ul></div>
 

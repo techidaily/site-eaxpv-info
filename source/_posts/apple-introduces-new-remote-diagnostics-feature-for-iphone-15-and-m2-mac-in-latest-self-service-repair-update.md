@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2025-01-23T16:59:18.970Z
-updated: 2025-01-25T17:41:28.399Z
+date: 2025-02-09T19:45:45.569Z
+updated: 2025-02-16T23:13:53.343Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -49,7 +49,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -61,7 +61,7 @@ After installing the latest iOS update, your iPhone will restart.
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
@@ -74,10 +74,6 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -87,7 +83,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -100,6 +96,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,16 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-video-complement-the-process-of-collaborative-pairing/"><u>[New] 2024 Approved Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-the-script-on-classic-films-7-list/"><u>[New] 2024 Approved Flip the Script on Classic Films, #7 List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[New] 2024 Approved From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamers-picks-best-recording-software-for-2024/"><u>[New] Gamers' Picks Best Recording Software for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-channel-trailer/"><u>[New] In 2024, How to Make a Channel Trailer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-smooth-streaming-fix-facebooks-playback-problems/"><u>[New] In 2024, Smooth Streaming – Fix Facebook's Playback Problems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-thor-vs-jormungandr-ragnaroks-eve/"><u>[New] In 2024, Thor vs Jormungandr Ragnarok's Eve</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-essential-list-for-selecting-the-best-free-streaming-apps-on-phones/"><u>[New] The Essential List for Selecting the Best Free Streaming Apps on Phones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-screen-capture-snapchat-stories-effectively/"><u>[Updated] 2024 Approved How to Screen Capture Snapchat Stories Effectively</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-winning-the-subscriber-race-on-youtube/"><u>[Updated] 2024 Approved Winning the Subscriber Race on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/festive-bargains-on-wonderfox-solutions-secure-your-discount-today/"><u>Festive Bargains on WonderFox Solutions – Secure Your Discount Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-heritage-on-display-post-copyright-masterpieces/"><u>[New] Heritage on Display Post-Copyright Masterpieces</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-5-economical-hd-camcorders-for-adventure-for-2024/"><u>[New] Top 5 Economical HD Camcorders for Adventure for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-cross-platform-guide-to-transforming-photographic-genders-online/"><u>[Updated] 2024 Approved Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ideal-screen-re-recorders-for-youtube-performances-for-2024/"><u>[Updated] Ideal Screen Re-Recorders for YouTube Performances for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-live-streaming-platforms-analyzing-obs-and-twitch-studio-for-2024/"><u>[Updated] Live Streaming Platforms Analyzing OBS and Twitch Studio for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aacmp3aac-to-mp3/"><u>AAC音声コーデックを解き明かす:特徴・MP3との違い・AAC to MP3変換ガイド</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-and-store-screen-content-free-for-2024/"><u>Capture and Store Screen Content, FREE for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-videos-and-music-files-with-winx-free-video-converter-quick-and-easy-guide/"><u>Convert Videos and Music Files with WinX Free Video Converter - Quick & Easy Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-installation-tutorial-for-handbrakes-libdvdcss-library-on-mac-and-windows-including-visual-aids/"><u>Easy Installation Tutorial for HandBrake's Libdvdcss Library on Mac and Windows (Including Visual Aids)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-rapida-alla-conversione-di-file-avchd-m2ts-in-formato-mp4-ottimale-senza-compromettere-la-qualita-video/"><u>Guida Rapida Alla Conversione Di File AVCHD M2TS in Formato MP4 Ottimale Senza Compromettere La Qualità Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-creative-shots-with-photoshops-radial-distortion/"><u>In 2024, Unlock Creative Shots with Photoshop's Radial Distortion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/memes-for-iphone/"><u>Memes for iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimize-cross-device-content-sharing-with-winx-mediatrans-best-management-solution-for-moving-images-and-audio-to-ipadsiphones-from-pcs/"><u>Optimize Cross-Device Content Sharing with WinX MediaTrans™ - Best Management Solution for Moving Images & Audio to iPads/iPhones From PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/plants-vs-zombies-neighborville-a-playful-shooting-game-overview-and-critique/"><u>Plants Vs. Zombies: Neighborville - A Playful Shooting Game Overview and Critique</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professioneller-tutorial-zum-einrichten-der-winx-dvd-programmsoftware/"><u>Professioneller Tutorial Zum Einrichten Der WinX DVD Programmsoftware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-how-to-efficiently-copy-your-dvd-to-your-computer/"><u>The Ultimate Guide: How to Efficiently Copy Your DVD to Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-video-ai-3/"><u>WinX Video AI: 高画質動画、写真強化テクニック集 - 3ページ記事</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287234798-ai/"><u>ウィンクスビデオAIによる効率的な動画編集と音声変換手順</u></a></li>
 </ul></div>
 

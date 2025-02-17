@@ -1,7 +1,7 @@
 ---
 title: Flexible Connection Setup on macOS with Multiple Network Locations - Tips
-date: 2025-01-18T18:46:34.222Z
-updated: 2025-01-25T22:02:21.553Z
+date: 2025-02-13T01:33:50.960Z
+updated: 2025-02-17T01:23:15.541Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -41,22 +41,26 @@ Let me show you how it works.
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create different network locations in MacOS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Open Network
 
@@ -70,10 +74,6 @@ Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Configure the new location
 
 Make sure to select the new location you created from the Location drop-down. Click Advanced to open the location configuration window, where you can configure the location to meet your specific needs. For example, you can select the network to be used and then configure that network for a static IP address using the Cloudflare DNS servers.
@@ -85,7 +85,7 @@ Image: Jack Wallen
 Once you've configured the location exactly how you need it, click Apply to save everything.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Switching to a different Network Location
@@ -131,18 +131,14 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-film-substitutes-to-stream-top-7-picks/"><u>[New] 2024 Approved Film Substitutes to Stream - Top 7 Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-youtube-auto-subscribe-link-for-2024/"><u>[New] How to Create a YouTube Auto-Subscribe Link for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-deal-with-youtube-trolls-and-negative-comments-for-2024/"><u>[New] How To Deal with YouTube Trolls and Negative Comments for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grasping-your-youtube-popularity-with-precision/"><u>[Updated] 2024 Approved Grasping Your YouTube Popularity with Precision</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-uncover-these-top-ten-thriving-youtube-communities-today/"><u>[Updated] 2024 Approved Uncover These Top Ten Thriving YouTube Communities Today</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-soundbank-freeness-central-for-2024/"><u>[Updated] FB Soundbank Freeness Central for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>[Updated] In 2024, How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-xsplit-database-comprehensive-review-archives-for-2024/"><u>[Updated] XSplit Database Comprehensive Review Archives for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/yl-computing-insights/"><u>吉娜·雷蒙多与李克强会面深入探讨美中经贸合作及安全挑战 - YL Computing Insights</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-11-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/livestream-giants-rivalry-facebook-vs-youtube-vs-periscope-for-2024/"><u>Livestream Giants' Rivalry Facebook Vs. YouTube Vs. Periscope for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsungs-galaxy-s8-unveiled-redefining-video-standards-for-2024/"><u>Samsung’s Galaxy S8 Unveiled Redefining Video Standards for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/teamwork-makes-the-dream-work-collaborating-on-adventures-in-pokemon-go/"><u>Teamwork Makes the Dream Work: Collaborating on Adventures in Pokémon GO</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-edit-audio-on-youtube-for-2024/"><u>[New] How to Edit Audio on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-how-to-successfully-move-videos-from-your-dji-mavic-pro-drone-to-an-iphone/"><u>1. How to Successfully Move Videos From Your DJI Mavic Pro Drone to an iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-voice-memos-inspectors-handbook/"><u>2024 Approved Voice Memos Inspector's Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-gravouer-sans-frais-des-films-sur-hdrvh265-pour-une-haute-definition-exceptionnelle/"><u>Comment Gravouer Sans Frais Des Films Sur HDRV/H.265 Pour Une Haute Définition Exceptionnelle ?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/disponibilita-attuale-di-encoders-per-il-formato-video-av1/"><u>Disponibilità Attuale Di Encoders per Il Formato Video AV1</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/facebook-live-mastery-a-recording-journey/"><u>Facebook Live Mastery A Recording Journey</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-thrustmaster-t300-working-latest-driver-downloads-for-win10win11-users/"><u>Get Your Thrustmaster T300 Working: Latest Driver Downloads for Win10/Win11 Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-6-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 6</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/soluzione-definitiva-per-il-macbook-pro-che-non-accetta-i-dvd-ottieni-laccesso-ora/"><u>Soluzione Definitiva per Il MacBook Pro Che Non Accetta I DVD - Ottieni L'Accesso Ora!</u></a></li>
 </ul></div>
 

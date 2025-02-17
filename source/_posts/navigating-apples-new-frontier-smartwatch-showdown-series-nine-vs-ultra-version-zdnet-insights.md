@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2025-02-01T16:51:14.419Z
-updated: 2025-02-07T17:26:14.653Z
+date: 2025-02-13T02:50:32.857Z
+updated: 2025-02-17T02:37:11.517Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | |  Apple Watch Ultra | Apple Watch Series 8                                                            |                                                                         |
@@ -47,6 +43,10 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 | Starting price       | $799                                                                            | $399                                                                    |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Ultra if…
 
@@ -63,7 +63,7 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -75,7 +75,7 @@ Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hour
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
@@ -89,6 +89,10 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 **More: [Apple Watch Ultra: Price, release date, and features](https://www.zdnet.com/article/apple-watch-ultra-price-release-date-features-colors-everything-you-need-to-know/)**
 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if…
 
@@ -104,10 +108,6 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -117,6 +117,10 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -129,10 +133,6 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -170,14 +170,17 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] 2024 Approved Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>[New] Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-master-the-melodies-secrets-to-adding-soundtracks-on-insta-for-2024/"><u>[New] Master the Melodies Secrets to Adding Soundtracks on Insta for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey-for-2024/"><u>[Updated] How to Gauge if an MCN Is Right for Your YouTube Journey for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-experts-choice-top-8-proven-video-marketing-actions/"><u>[Updated] In 2024, Expert's Choice Top 8 Proven Video Marketing Actions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[Updated] In 2024, Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-game-modders-and-tutorial-content-leaders/"><u>[Updated] In 2024, Game Modders & Tutorial Content Leaders</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-leveraging-influencers-in-your-twitter-marketing-plan/"><u>[Updated] In 2024, Leveraging Influencers in Your Twitter Marketing Plan</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/understanding-psu-faults-a-deep-dive-by-yl-computing/"><u>Understanding PSU Faults: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-advanced-techniques-with-obs-studio-for-android-for-2024/"><u>[New] Advanced Techniques with OBS Studio for Android for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-disseminating-wirecast-insights-and-alternatives/"><u>[New] In 2024, Disseminating WireCast Insights and Alternatives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-spectral-savvy-applying-color-science/"><u>[Updated] 2024 Approved Spectral Savvy Applying Color Science</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premier-service-guide-exclusive-local-channels-plus-live-streaming/"><u>[Updated] Premier Service Guide Exclusive Local Channels + Live Streaming</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-jumpstart-your-cash-with-these-8-innovative-tiktok-methods/"><u>In 2024, Jumpstart Your Cash with These 8 Innovative TikTok Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-note-12-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi Note 12 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-jittery-cursor-problem-on-windows-xp/"><u>Solving the Jittery Cursor Problem on Windows XP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-expectations-from-the-launch-of-nvidias-revolutionary-arm-processors/"><u>Top 5 Expectations From the Launch of NVIDIA's Revolutionary ARM Processors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-fond-memories-of-the-dial-up-era-why-we-cant-help-but-remember/"><u>Top 7 Fond Memories of the Dial-Up Era: Why We Can't Help but Remember</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshoot-black-camera-display-errors-on-windows-11-with-our-expert-guide-and-effective-tips/"><u>Troubleshoot Black Camera Display Errors on Windows 11 with Our Expert Guide and Effective Tips!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-ea-application-failures-a-step-by-step-guide/"><u>Troubleshooting EA Application Failures: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-how-to-download-and-setup-microsoft-store-applications-in-windows-10/"><u>Ultimate Tutorial: How to Download and Setup Microsoft Store Applications in Windows 10</u></a></li>
 </ul></div>
 

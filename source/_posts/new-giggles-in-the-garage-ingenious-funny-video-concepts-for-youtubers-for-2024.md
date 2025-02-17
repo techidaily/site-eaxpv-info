@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Giggles in the Garage  Ingenious Funny Video Concepts for YouTubers for 2024\""
-date: 2024-08-20T13:48:54.915Z
-updated: 2024-08-21T13:48:54.915Z
+date: 2025-02-12T03:38:19.960Z
+updated: 2025-02-16T19:15:25.799Z
 tags:
   - ai video
   - ai youtube
@@ -30,6 +30,10 @@ YouTube is a well-known brand for videos globally. This time, it comes with its 
 
 That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Top 10 Funny YouTube Shorts Video Ideas
 
 Your wait gets over here. Yes, you heard it right. If you are eager to explore the world of YouTube Shorts Channel and some funny ideas, take a big leap towards your journey.
@@ -40,9 +44,6 @@ Then the right platform with a plethora of pictures is covered hereunder the fol
 
 Yeah! The first idea looks so catchy. Everyone holds some dreams. And if you have such beautiful dreams that you would like to share with your loved ones. Then YouTube Shorts ideas are the right platform full of views, likes, and lovers from around the world. Just give a thrust to it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-2.jpg)
 
 Also, you can discuss different sorts of dreams that the human genre has been dreaming of for years. You can even add a flavor of future dreams that will open up the space of excellent speculation one can think of.
@@ -59,9 +60,6 @@ So, pen down some compelling stories that do not need long writing work. But, li
 
 Pictures are a unique way to express feelings, especially when those funny pictures come with background voices, music, etc., it will create a different audio/visual effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-4.jpg)
 
 Using different online software, you can enhance the pictures or modify the background voice. Such a combination under YouTube Shorts Video ideas brings a different aura to your channel.
@@ -71,6 +69,10 @@ Using different online software, you can enhance the pictures or modify the back
 Life is indeed full of surprises, events, and glory. Then, why not tailor some of its moments under best YouTube Shorts ideas. These experiences vary from your home, neighbor, society, college, office, or anywhere.
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You need to keep your judging eyes open to catch all the moments, and you can also note it down to make a series so as not to miss any exciting experience.
 
@@ -89,6 +91,10 @@ Just review all your collection of experiments you did and combine them under Yo
 Competition creates a zeal to lead, and if you add some flavor to it. Then, people will love to take part in it. So, waiting for what? Just come out with YouTube Shorts funny Video Competition ideas to grab the audience to watch the videos and become active participants.
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Funny competition can vary from a weird hairstyle, odd season festival celebration, or anything that you think of interesting, different, and eye-catching.
 
@@ -112,9 +118,6 @@ Mixing some comedy flavor to life will add more fun and enjoyment to all those s
 
 Pets are the favorite of those who own them. They are excellent; they play, dance, and do different kinds of fun activities. Have you ever noticed that, if not, they must take notice now?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-10.jpg)
 
 You will be surprised to see how much fun-loving these cute pets are—so, geared up to capture the funny acts of pets through YouTube Shorts ideas. It will bring a smile to everyone’s face.
@@ -123,14 +126,15 @@ You will be surprised to see how much fun-loving these cute pets are—so, geare
 
 Everybody holds some unique talent. You just need to identify it. If you have some talent, then showcasing talent ideas for YouTube Shorts will apt you. The whole world is waiting to see something unique that only you can do. So, shred your shyness and let the world see how talented you are.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
 
 Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
 
 Wait, there is much more than these best YouTube Shorts ideas. Yes, you heard that right! The following paragraph will lead you to get some important tips, with the help of which you can raise YouTube Short Videos views. So, without waiting anymore, move on to the next paragraph to get a glimpse of it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Tips to Get More Views for Your YouTube Shorts Videos
 
@@ -176,18 +180,6 @@ Then, indeed, this guide is the pathway. You will get different funny YouTube Sh
 
 Thus, start utilizing these powerful ideas and tips and head towards your YouTube Shorts journey.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -196,24 +188,21 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovative Approaches to Craft Compelling ASMR Videos for Mass Appeal
 
 # How to Make ASMR Videos: a Complete Guide
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Richard Bennett
 
@@ -232,6 +221,10 @@ ASMR video is a growing trend on YouTube where you can get millions of videos cr
 * [Part 1: Top 5 ASMR Artists on YouTube](#part1)
 * [Part 2: How to Make ASMR Videos: An Ultimate Guide](#part2)
 * [Part 3: Tips on Making Your ASMR Videos stand out](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best 5 ASMR Artists on YouTube
 
@@ -257,6 +250,10 @@ With 1.78 million subscribers, Maria Viktorovna from Russia is the GentleWhisper
 
 Last but not least, Madi, with the best ASMR videos, is the final person in today’s list. She has 3 million subscribers on YouTube at present. She started her channel on the primary motto to help people sleep and relax. She uses various ideas and triggers, like tapping, brushing, role-plays, sounds, and whispering. She is a certified personal trainer too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make ASMR Videos: An Ultimate Guide
 
 Are you confused about the first step to take on how to make ASMR videos? To make your work easier, we have come up with an ultimate guide that is all you need now.
@@ -275,10 +272,11 @@ Start with the gadgets that you have on hand. For filming the ASMR video, all yo
 
 Once you complete filming your ASMR video, you need to move to edit as you cannot stream it on YouTube or Facebook right away. It requires a finishing where a useful video editing tool plays a vital role. We have Filmora in-store, a highly recommended video editing software to make your job less cumbersome. It is a professional platform loaded with features and easy to use.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Filmora helps fine-tune your adventure, perfect your aesthetic, add lasting effects, and still a lot more. Without audio or video loss, one can edit the filmed ASMR video with a less effort hassle-free. Give Filmora a try today!
 
@@ -310,9 +308,6 @@ This option might sound crazy, but it’s true as you will not have a distractio
 
 ASMR is becoming a growing trend, as said before, and it is a sensational topic. If you have decided to travel in that path, it is fair but think twice before you step into it. Do not feel embarrassed or discouraged if you get any negative comments. Tell yourself that you are making something useful to help someone.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 According to researches, such brain tingling phenomenon created by ASMR videos creates a positive physiological effect on its viewers. Hence it is also famously called ASMR sleep. While such tingling activities like tapping, whispers, and slow hand movements might seem crazy, they still profit from paving the way for physical and mental health. Do you shuffle a lot on an occupied working schedule? Then take some time to watch the best ASMR channels and relax. If you are passionate about becoming an ASMR artist like Gibi or Maria, follow the tips we have in store for you, and you are all set-to-go!
@@ -325,7 +320,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -333,8 +327,24 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[New] 2024 Approved Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-crafting-a-youtube-future-scaling-up-or-staying-independent/"><u>[New] 2024 Approved Crafting a YouTube Future Scaling Up or Staying Independent?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-economical-audience-expansion-buy-subscribers-not-time/"><u>[New] 2024 Approved Economical Audience Expansion Buy Subscribers, Not Time</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-achieving-profitability-at-half-a-million-viewers-for-2024/"><u>[New] Achieving Profitability at Half a Million Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-access-exclusive-stock-images-through-vital-4-youtube-sources/"><u>[New] In 2024, Access Exclusive Stock Images Through Vital 4 YouTube Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-audience-connection-mastering-the-art-of-viewpoint-based-youtube-reaction-vids-2-pov-method/"><u>[New] In 2024, Audience Connection – Mastering the Art of Viewpoint-Based YouTube Reaction Vids (2 POV Method)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-maximizing-your-potential-is-a-joined-force-right-for-you/"><u>[New] Maximizing Your Potential Is a Joined Force Right for You?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-your-entry-level-equipment-checklist-for-youtube-success/"><u>[Updated] Your Entry-Level Equipment Checklist for YouTube Success</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-infinix-note-30i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Infinix Note 30i Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-mmf-en-un-archivador-de-imagenes-libre-de-costo-guia-paso-a-paso-con-movavi/"><u>Cómo Convertir MMF en Un Archivador De Imágenes Libre De Costo: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-3090-drivers-for-older-windows-versions-10-8-and-7/"><u>Download NVIDIA GeForce RTX 3090 Drivers for Older Windows Versions (10, 8 & 7)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-resolving-pubg-pc-game-freezing-problems-a-comprehensive-fix-it-manual/"><u>Expert Tips for Resolving PUBG PC Game Freezing Problems – A Comprehensive Fix-It Manual</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-c65-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco C65 Easily?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-a34-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy A34 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>In 2024, Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/turn-viewers-into-cashflow-your-online-income-plan-for-2024/"><u>Turn Viewers Into Cashflow Your Online Income Plan for 2024</u></a></li>
+</ul></div>
 

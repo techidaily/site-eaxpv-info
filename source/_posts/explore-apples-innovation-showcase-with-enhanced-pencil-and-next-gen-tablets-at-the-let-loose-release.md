@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2025-02-05T16:23:14.873Z
-updated: 2025-02-07T17:17:58.520Z
+date: 2025-02-13T20:30:34.900Z
+updated: 2025-02-16T19:41:40.484Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
@@ -37,7 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -61,7 +61,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -80,6 +80,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -96,19 +100,11 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -125,6 +121,10 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,14 +160,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[New] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[Updated] 2024 Approved Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-max-360-or-hero-11-decoding-the-superior-gopro-video-quality/"><u>[Updated] 2024 Approved Max 360 or Hero 11? Decoding the Superior GoPro Video Quality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-frontier-vloggers-8-rising-stars-of-the-screen-for-2024/"><u>[Updated] Frontier Vloggers 8 Rising Stars of the Screen for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-choosing-ideal-youtube-thumbnail-shapes-for-2024/"><u>[Updated] Guide to Choosing Ideal Youtube Thumbnail Shapes for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-advanced-techniques-in-final-cut-pro-embedding-waveform-diagrams-with-live-audio-animation/"><u>2024 Approved Advanced Techniques in Final Cut Pro Embedding Waveform Diagrams with Live Audio Animation</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-common-fails-on-your-first-day-with-windows-11/"><u>Avoiding Common Fails on Your First Day with Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-wi-fi-networking-cards-fixed-driver-issues/"><u>Download Updated Wi-Fi Networking Cards: Fixed Driver Issues</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/excel-data-recovery-guide-fur-nicht-gespeicherte-dateien-auf-windows-11/"><u>Excel Data Recovery Guide Für Nicht Gespeicherte Dateien Auf Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtubes-premier-guide-to-top-notch-gear/"><u>[New] 2024 Approved YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-efficient-use-of-obs-studio-for-android-devices/"><u>[New] In 2024, Efficient Use of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-30-camcorders-directly-at-your-eyes/"><u>[Updated] 2024 Approved Top 30 Camcorders Directly At Your Eyes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-beyond-ustream-a-comparative-analysis-of-streams-for-2024/"><u>[Updated] Beyond Ustream A Comparative Analysis of Streams for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-empowering-your-business-communication-google-meet-to-youtube-steps/"><u>[Updated] Empowering Your Business Communication Google Meet to YouTube Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>[Updated] In 2024, Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766871431-dvd/"><u>「美声解放! DVDからクオリティの高い音声を自由に引き出せる初代無料アプリ」</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/conversion-rapide-du-hdd-en-ssd-sur-windows-11-methode-la-plus-efficace-et-simple-a-suivre/"><u>Conversion Rapide Du HDD en SSD Sur Windows 11 - Méthode La Plus Efficace Et Simple À Suivre</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-gptbot-understanding-its-role-and-bans/"><u>Decoding GPTBot: Understanding Its Role and Bans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766863631-dvd-decrypter/"><u>DVD Decrypter 使用中に発生する書き込み障害:解決策とその詳細を学ぶ！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-dvd-ripping-with-macx-imkvmaker-convert-protected-dvds-into-secure-mkv-files/"><u>Efficient DVD Ripping with MacX iMKVmaker: Convert Protected DVDs Into Secure MKV Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-streaming-of-amazing-sci-fi-blockbusters-secrets-for-accessing-epic-galactic-adventures-at-no-charge/"><u>Free Streaming of Amazing Sci-Fi Blockbusters: Secrets for Accessing Epic Galactic Adventures at No Charge</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Phantom V Fold</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-action-camera-accessories-buying-guide/"><u>In 2024, Action Camera Accessories Buying Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-the-art-of-ipod-file-relocation-ultimate-techniques-for-transferring-images-audio-and-footage/"><u>Master the Art of iPod File Relocation: Ultimate Techniques for Transferring Images, Audio & Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transferring-iso-files-onto-your-iphone-using-macos-a-comprehensive-guide/"><u>Transferring ISO Files Onto Your iPhone Using MacOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-imovie-how-to-convert-unsupported-mp4-files-for-editing-in-apples-software/"><u>Troubleshooting iMovie: How to Convert Unsupported MP4 Files for Editing in Apple's Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766177514-macdvd/"><u>ディスクからMacで人気DVD動画を効果的にバックアップするテクニック</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766133675-mp3/"><u>パソコン用: MP3ファイルを無料でダウンロードし、保存するための完全ガイドとリスト</u></a></li>
 </ul></div>
 

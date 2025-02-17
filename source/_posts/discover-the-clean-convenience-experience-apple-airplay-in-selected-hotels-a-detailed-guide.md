@@ -1,7 +1,7 @@
 ---
 title: "Discover the Clean Convenience: Experience Apple AirPlay in Selected Hotels – A Detailed Guide"
-date: 2025-02-05T16:53:22.777Z
-updated: 2025-02-07T16:52:47.392Z
+date: 2025-02-14T18:09:59.927Z
+updated: 2025-02-16T22:15:47.211Z
 tags:
   - apple
 categories:
@@ -28,13 +28,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -78,10 +74,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -89,6 +81,10 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -116,20 +112,20 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,24 +197,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elevating-gameplay-with-optimized-ram-assignment-for-minecraft/"><u>[New] 2024 Approved Elevating Gameplay with Optimized Ram Assignment for Minecraft</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-video-zoom-editors-of-the-year-roundup/"><u>[New] Best Video Zoom Editors of the Year - Roundup</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-crafting-a-new-digital-persona-comprehensible-steps-for-changing-tiktok-handle-for-2024/"><u>[New] Crafting a New Digital Persona Comprehensible Steps for Changing TikTok Handle for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-direct-encouraging-content-for-daily-living-vids/"><u>[New] In 2024, How to Direct Encouraging Content for Daily Living Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-proactive-planning-harnessing-the-power-of-slack-and-filmora-for-meetings/"><u>[New] In 2024, Proactive Planning Harnessing the Power of Slack & Filmora For Meetings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-a-channel-that-dominates-the-business-world/"><u>[Updated] 2024 Approved How to Create a Channel that Dominates the Business World</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-fluidity-in-iphone-photography/"><u>[Updated] Capturing Fluidity in iPhone Photography</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flixfortress-over-a-hundred-channels-of-fortitude-for-2024/"><u>[Updated] FlixFortress Over a Hundred Channels of Fortitude for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-smartphone-stories-to-youtube-success-a-step-by-step-mobile-guide-for-2024/"><u>[Updated] From Smartphone Stories to YouTube Success A Step-by-Step Mobile Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-template-to-tutorial-gamers-channel-design-for-2024/"><u>[Updated] From Template to Tutorial Gamers' Channel Design for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-equilibrium-between-professional-life-and-youtubing/"><u>[Updated] In 2024, Finding Equilibrium Between Professional Life and YouTubing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-technology-for-impactful-ctas-via-subs/"><u>[Updated] In 2024, Green Technology for Impactful CTAs via Subs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-find-youtube-collaboration-partners/"><u>[Updated] In 2024, How to Find YouTube Collaboration Partners?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[Updated] In 2024, How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726227117347-wma-webm-movavi/"><u>網路移動式錄影系統中的無成本 WMA 到 WebM 格式轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/get-started-with-ease-facebook-insight-basics/"><u>Get Started with Ease Facebook Insight Basics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-subtitle-services-the-ultimate-convertors-guide/"><u>In 2024, Free Subtitle Services The Ultimate Convertors Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/learn-to-prevent-persistent-commercials-in-digital-platforms/"><u>Learn to Prevent Persistent Commercials in Digital Platforms</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unlock-endless-dj-fun-premium-karaoke-subscription-with-pcdj-software/"><u>Unlock Endless DJ Fun: Premium Karaoke Subscription with PCDJ Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-mastering-youtube-metrics-for-effective-content-strategy/"><u>[New] 2024 Approved Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-host-smart-and-cheap-your-guide-to-youtube-seminars-for-2024/"><u>[New] Host Smart and Cheap Your Guide to Youtube Seminars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-chefs-roadmap-creating-culinary-content/"><u>[New] The Chef's Roadmap Creating Culinary Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-the-potential-of-your-video-platform-growth/"><u>[New] Unlock the Potential of Your Video Platform Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevating-engagement-the-pillars-of-youtube-rankings/"><u>[Updated] 2024 Approved Elevating Engagement The Pillars of YouTube Rankings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>[Updated] In 2024, Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-million-viewer-milestone-unpacking-youtubes-revenue-formula/"><u>[Updated] Million-Viewer Milestone Unpacking YouTube’s Revenue Formula</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tailor-made-video-cuts-macs-top-mp4-slicers-revealed/"><u>[Updated] Tailor-Made Video Cuts Mac's Top MP4 Slicers Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722893472005-amazon-prime-day-alert-hunt-down-ultimate-discounts-on-must-have-technology/"><u>Amazon Prime Day Alert: Hunt Down Ultimate Discounts on Must-Have Technology</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-traffic-optimization-with-cookiebot-technology/"><u>Automated Traffic Optimization with Cookiebot Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-non-start-drivers-a-guide-to-windows-devices/"><u>Fixing Non-Start Drivers: A Guide to Windows Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722883962064-watching-the-lord-of-the-rings-trilogy-the-right-way-and-order/"><u>Watching 'The Lord of the Rings' Trilogy – The Right Way and Order</u></a></li>
 </ul></div>
 

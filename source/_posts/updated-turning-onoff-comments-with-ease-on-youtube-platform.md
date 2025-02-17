@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Turning On/Off Comments with Ease on YouTube Platform"
-date: 2024-08-20T13:44:29.728Z
-updated: 2024-08-21T13:44:29.728Z
+date: 2025-02-15T19:28:18.210Z
+updated: 2025-02-17T01:40:57.601Z
 tags:
   - ai video
   - ai youtube
@@ -31,8 +31,9 @@ As a brand, it is imperative to thoroughly read all the comments that your YouTu
 Keeping all these points in mind, the following sections explain **how to enable comments on YouTube** and **how to turn off comments on YouTube**. Here you will also get to know what other types of security and privacy options are there that you can use to filter the comments posted by the disturbing elements.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Turn on or Turn off Comments for YouTube Channel
 
 If you don’t want any comments on any of the videos that you publish, you must learn **how to disable comments on the YouTube** channel. The process of doing so is explained below:
@@ -47,9 +48,6 @@ Use your favorite web browser to go to YouTube and sign in to your Google accoun
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
@@ -62,46 +60,27 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Additional Info about Comments Options**
 
@@ -122,6 +101,10 @@ Selecting this option holds all the comments from all the users, and waits for y
 * **Disable comments**
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
@@ -146,8 +129,9 @@ From under the **Audience** section in the right window of the **Video details**
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQs About YouTube Comments
 
 #### 1\. Why can’t I comment on the YouTube video?
@@ -184,8 +168,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -193,5 +175,26 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel/"><u>[New] 2024 Approved From Beauty Brows to Perfect Portraits Crafting Your Cosmetic Chanel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>[New] A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-crossing-over-attending-tiktok-live-gigs-easily/"><u>[New] Crossing Over Attending TikTok Live Gigs Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>[New] From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-mastery-on-youtube-ideas-unleashed-for-2024/"><u>[New] Green Screen Mastery on YouTube - Ideas Unleashed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[New] In 2024, From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[New] In 2024, How To Live Without the Convenience of YouTube Shorts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streaming-showdown-obs-or-twitch-studio/"><u>[New] In 2024, Streaming Showdown OBS or Twitch Studio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unnoticed-yet-there-watching-instagram-livestreams-undetected-for-2024/"><u>[New] Unnoticed Yet There Watching Instagram Livestreams Undetected for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-film-views-ranked-alternatives-1-7/"><u>[Updated] 2024 Approved Fresh Film Views Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[Updated] 2024 Approved From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>[Updated] 2024 Approved Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-insta-a-video-posting-guide/"><u>[Updated] In 2024, From YouTube to Insta A Video Posting Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-scripts-reflecting-diverse-genre-themes/"><u>[Updated] Pioneering Scripts Reflecting Diverse Genre Themes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>2024 Approved Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-syncing-speakers-with-slides-a-handbook-on-music-integration/"><u>2024 Approved Syncing Speakers with Slides A Handbook on Music Integration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/round-lens-photography-a-complete-circuit-for-2024/"><u>Round Lens Photography A Complete Circuit for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-pinnacle-selector-your-personal-video-vault-for-2024/"><u>The Pinnacle Selector Your Personal Video Vault for 2024</u></a></li>
+</ul></div>
 

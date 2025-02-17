@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2025-02-05T17:37:04.533Z
-updated: 2025-02-07T17:15:48.304Z
+date: 2025-02-16T01:24:53.080Z
+updated: 2025-02-17T04:23:58.651Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,11 +58,19 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -76,10 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,20 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-single-out-focal-point-using-affinity/"><u>[New] 2024 Approved Single-Out Focal Point Using Affinity</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-five-excellent-cameras-for-high-fidelity-movies/"><u>[New] 2024 Approved Top Five Excellent Cameras for High Fidelity Movies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[New] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android/"><u>[New] The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-my-playlist-on-youtube/"><u>[Updated] 2024 Approved How to Find My Playlist on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-going-against-gravity-reversing-your-vids-for-2024/"><u>[Updated] Going Against Gravity Reversing Your Vids for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-your-spotify-queue-with-youtube-music-catalogs/"><u>[Updated] In 2024, Harmonizing Your Spotify Queue with YouTube Music Catalogs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-a-youtube-video-trending/"><u>[Updated] In 2024, How to Get a YouTube Video Trending</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>[Updated] In 2024, How to Quickly And Easily Share A YouTube Playlist</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[Updated] Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/age-of-empires-iv-update-how-to-stop-gameplay-interruptions-and-crashes-on-windows/"><u>Age of Empires IV Update – How to Stop Gameplay Interruptions and Crashes on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-zte-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For ZTE</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-nintendo-switch-grips-and-pads-2024-edition/"><u>Top Nintendo Switch Grips and Pads, 2024 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-realitys-trailblazers-top-pc-headsets-for-the-year/"><u>Virtual Reality's Trailblazers Top PC Headsets for the Year</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/yl-software-tips-ensuring-your-graphics-card-fits-seamlessly-into-your-pc-setup/"><u>YL Software Tips: Ensuring Your Graphics Card Fits Seamlessly Into Your PC Setup</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-entrance-with-these-tools-for-2024/"><u>[New] Elevate Your Video Entrance with These Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-meetup-event-visual-format-for-2024/"><u>[Updated] Meetup Event Visual Format for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-nextgen-vidhack-fb-to-mp4-download-with-no-hassle-for-2024/"><u>[Updated] NextGen VidHack FB to MP4 Download with No Hassle for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerate-your-sluggish-vids-to-speedy-shots-on-android/"><u>2024 Approved Accelerate Your Sluggish Vids to Speedy Shots on Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-discover-strength-in-cinema-our-list-of-motivational-flicks/"><u>2024 Approved Discover Strength in Cinema Our List of Motivational Flicks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/budget-gaming-setup-find-the-best-keyboards-for-less/"><u>Budget Gaming Setup Find the Best Keyboards for Less</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-activer-lencodage-avec-nvenc-sur-handbrake-pour-une-videosynchronisation-efficace/"><u>Comment Activer L'encodage Avec NVENC Sur Handbrake Pour Une Vidéosynchronisation Efficace ?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288692966-dvdfab/"><u>DVDFabによるファイルコピー失敗：エラー発生時の対策方法</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lenovo ThinkPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone SE (2020)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme V30 Phone that is Locked?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-top-18-mkv-media-players-for-cross-platform-use-on-mac-and-windows-10-to-mobile-devices/"><u>The Ultimate Selection of Top 18 MKV Media Players for Cross-Platform Use on Mac and Windows 10 to Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wireless-movie-sharing-transferring-films-from-your-xbox-console-to-pc-with-windows-11/"><u>Wireless Movie Sharing: Transferring Films From Your Xbox Console to PC with Windows 11</u></a></li>
 </ul></div>
 

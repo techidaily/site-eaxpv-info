@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2025-02-05T16:20:24.695Z
-updated: 2025-02-07T16:25:27.239Z
+date: 2025-02-11T18:42:00.911Z
+updated: 2025-02-16T21:45:00.361Z
 tags:
   - apple
 categories:
@@ -26,19 +26,11 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -60,6 +52,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,6 +71,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -92,6 +92,10 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -99,16 +103,12 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,16 +160,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/0-fastest-growing-youtube-channels-to-inspire-you-for-2024/"><u>[New] 10 Fastest Growing YouTube Channels to Inspire You for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[New] 2024 Approved From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[New] 2024 Approved From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-frequent-monetization-is-it-real-on-youtube-for-2024/"><u>[New] Frequent Monetization Is It Real on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-edit-youtube-videos-ultimate-guide/"><u>[New] In 2024, How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool-in-2024/"><u>[New] Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-wipe-out-your-youtube-buffered-videos/"><u>[Updated] In 2024, How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-itochu-utilizes-abbeyy-innovation-to-overhaul-business-processes-and-enhance-document-handling/"><u>How ITOCHU Utilizes ABBEYY Innovation to Overhaul Business Processes and Enhance Document Handling</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-choosing-between-cat5-or-cat6-cable/"><u>The Essential Guide to Choosing Between Cat5 or Cat6 Cable</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-remote-collaboration-via-chatgpt-use/"><u>Transforming Remote Collaboration via ChatGPT Use</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y100i-power-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y100i Power 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing-for-2024/"><u>[New] Direct Link Between Spotify and YouTube The Top Tools for Music Sharing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-hashtags-elevating-your-youtube-gaming-series-for-2024/"><u>[New] Harnessing Hashtags Elevating Your YouTube Gaming Series for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-solo-art-of-personalized-instagram-ringtone-making/"><u>[New] The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-choices-best-livestream-equip-and-tech-for-youtubers/"><u>[New] Top Choices Best Livestream Equip & Tech for Youtubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[Updated] 2024 Approved Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[Updated] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-heaviest-airborran-aerial-haulers-ultimate-choices/"><u>[Updated] Heaviest Airborran Aerial Haulers - Ultimate Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[Updated] In 2024, Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-keep-up-to-date-with-youtube-community-guidelines/"><u>[Updated] Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>[Updated] Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-quick-paced-fortnite-visual-artistry/"><u>[Updated] Quick-Paced Fortnite Visual Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoid-losing-it-all-essential-donts-for-new-apple-vision-pro-users-revealed-expert-advice/"><u>Avoid Losing It All: Essential Don'ts for New Apple Vision Pro Users Revealed | Expert Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028188499-dvditunes/"><u>DVD音楽・音声コンテンツiTunesへ移行するためのステップ</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/live-broadcasting-on-fb-tips-for-success/"><u>Live Broadcasting on FB Tips for Success</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-challenges-with-the-intel-dynamic-platform-and-thermal-framework-complete-fix-for-driver-setup/"><u>Overcoming Challenges with the Intel Dynamic Platform & Thermal Framework - Complete Fix for Driver Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sculpt-custom-language-agents/"><u>Sculpt Custom Language Agents</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-movie-recommendations-you-can-watch-online-immediately-lifewire-selection/"><u>Top Movie Recommendations You Can Watch Online Immediately - Lifewire Selection</u></a></li>
 </ul></div>
 

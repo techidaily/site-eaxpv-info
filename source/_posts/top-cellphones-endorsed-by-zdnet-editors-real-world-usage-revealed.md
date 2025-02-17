@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2025-01-31T16:03:32.737Z
-updated: 2025-02-07T16:13:02.214Z
+date: 2025-02-09T22:20:12.328Z
+updated: 2025-02-16T20:50:09.741Z
 tags:
   - apple
 categories:
@@ -94,11 +94,11 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
-## iPhone 12 Pro Max
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone 12 Pro Max
 
 ### Matthew Miller
 
@@ -108,11 +108,11 @@ Cons
 
 Show Expert Take Show less 
 
-## iPhone SE (2020)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone SE (2020)
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -171,7 +171,7 @@ Show Expert Take Show less
 ## Ulefone Armor 9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
@@ -187,10 +187,6 @@ Pros
 
 Cons 
 * Strong battery life Good performance More affordable
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google Pixel 2
 
@@ -208,6 +204,10 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Huawei P20 Pro
 
 ### Federico Guerrini
@@ -223,10 +223,6 @@ Pros
 
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone XR
 
@@ -252,10 +248,14 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone X
@@ -278,10 +278,6 @@ Cons
 
 ## iPhone XS Max
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -289,6 +285,10 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 **Next phone or dream phone?** My upgrade cycle is based purely on when my contract runs out (outright cost in Australia is insane), so I guess my next device will be in the 13 range later this year (RIP bank account). 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone 7 Plus
 
@@ -299,6 +299,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -312,15 +316,7 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lumia 1520
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mary Branscombe
 
@@ -330,11 +326,11 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Note 8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -343,6 +339,10 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -376,24 +376,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-outro-kings-6-top-suggestions/"><u>[New] 2024 Approved Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-freedom-from-popups-discover-the-top-7-android-adblock-apps-for-2024/"><u>[New] Freedom From Popups? Discover the Top 7 Android AdBlock Apps for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hands-on-tips-for-masterful-video-edits-with-youtube-studio-for-2024/"><u>[New] Hands-On Tips for Masterful Video Edits with YouTube Studio for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-part-of-youtube-video-in-2024/"><u>[New] How to Download Part of YouTube Video, In 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-outsmart-youtube-sanctions/"><u>[New] In 2024, How to Outsmart Youtube Sanctions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-purge-personal-youtube-history-records/"><u>[New] In 2024, How to Purge Personal YouTube History Records</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-groundbreaking-first-episode-critique/"><u>[Updated] 2024 Approved Groundbreaking First-Episode Critique</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hacks-for-preventing-youtube-short-failures/"><u>[Updated] 2024 Approved Hacks for Preventing YouTube Short Failures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-creating-compelling-solo-videos-on-a-budget/"><u>[Updated] In 2024, Creating Compelling Solo Videos on a Budget</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717725998928-updated-in-2024-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>[Updated] In 2024, How To Upload Videos to YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-crafting-your-own-youtube-shorts-thumbnails/"><u>[Updated] Unleash Creativity Crafting Your Own YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-mouse-pad-software-update-for-windows-operating-systems-free-download/"><u>ASUS Mouse Pad Software Update for Windows Operating Systems – Free Download</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/cookiebot-enabled-enhance-your-sites-analytics-and-marketing-automation/"><u>Cookiebot-Enabled: Enhance Your Site's Analytics & Marketing Automation</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-taskbar-visible-when-maximizing-chromeedge/"><u>How to Make Taskbar Visible When Maximizing Chrome/Edge</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-working-status-for-failed-ccleaner-in-windows-1011/"><u>Recovering Working Status for Failed CCleaner in Windows 10/11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/remote-access-just-got-easier-introducing-the-new-raspberry-pi-desktop-client/"><u>Remote Access Just Got Easier: Introducing the New Raspberry Pi Desktop Client</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secret-behind-quest-3s-popularity-a-comparative-look-at-meta-vr-devices/"><u>Unveiling the Secret Behind Quest 3'S Popularity: A Comparative Look at Meta VR Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvdbdiso/"><u>レンタルビデオまで対象: DVD/BDをISOに変換する全方法集</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximizing-your-video-quality-with-hevc-format-on-youtube-uploads/"><u>: Maximizing Your Video Quality with HEVC Format on YouTube Uploads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-front-to-back-the-instagram-art-of-flipping-visuals-with-ease/"><u>[New] From Front to Back The Instagram Art of Flipping Visuals with Ease</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-replacing-bandicam-on-mac-systems-for-2024/"><u>[Updated] The Ultimate Guide to Replacing Bandicam on Mac Systems for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/clipbox-twitter-niconico-fc2/"><u>【強化ガイド】 Clipboxをダウンロードできず、保存が不可能なケースの完全解決手順 - Twitter, NicoNico, FC2など</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-h2/"><u>Comparing H.2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-premium-youtube-videos-in-stunning-hd4k-quality-for-free-on-your-mac/"><u>Download Premium Youtube Videos in Stunning HD/4k Quality for Free on Your Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/easy-and-free-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>Easy and Free Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-revert-settings-after-system-restart/"><u>Easy Steps to Revert Settings After System Restart</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-lessons-apt-color-adjustment-tips/"><u>Essential Lessons Apt Color Adjustment Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fc2gyaoand/"><u>FC2、ニコニコ動画、Gyaoビデオダウンロード&エディットマスター: アップグレード版の方法を紹介します。</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tream-wars-fb-live-youtube-live-and-twitters-periscope-face-off-for-2024/"><u>The Stream Wars FB Live, YouTube Live, and Twitter's Periscope Face-Off for 2024</u></a></li>
 </ul></div>
 

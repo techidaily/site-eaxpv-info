@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2025-02-02T16:02:47.447Z
-updated: 2025-02-07T16:17:22.360Z
+date: 2025-02-14T22:27:39.178Z
+updated: 2025-02-16T22:41:11.717Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,21 +126,20 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[New] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-consolidating-your-youtube-video-collection/"><u>[New] In 2024, Guide to Consolidating Your YouTube Video Collection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-imovie-content-from-home-studio-to-youtube-hub-for-2024/"><u>[Updated] Guiding iMovie Content From Home Studio to YouTube Hub for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-lounge-app/"><u>[Updated] In 2024, Filmmaker's Lounge App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>[Updated] In 2024, FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-massive-viewership-with-a-small-financial-investment/"><u>[Updated] In 2024, Gain Massive Viewership with a Small Financial Investment</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-share-your-4k-videos-with-the-world-via-youtube/"><u>[Updated] In 2024, How to Share Your 4K Videos with the World via YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-minuscule-cinematic-design/"><u>2024 Approved Minuscule Cinematic Design</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-guide-to-discovering-virtual-augmentations/"><u>A Guide to Discovering Virtual Augmentations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertissez-vos-videos-flv-en-ogg-facilement-et-gratuitement-avec-loutil-en-ligne-de-movavi/"><u>Convertissez Vos Vidéos FLV en OGG Facilement Et Gratuitement Avec L'outil en Ligne De Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-sound-with-our-free-behringer-drive-downloads/"><u>Enhance Your Sound with Our Free Behringer Drive Downloads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-foremost-ceiling-mounted-sound-systems-of-2024/"><u>Expert Picks: Foremost Ceiling-Mounted Sound Systems of 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-export-recovered-edb-filemailboxes-to-live-exchange/"><u>How to Export Recovered EDB File(Mailboxes) to Live Exchange ...</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-securing-visibility-with-pinning-conversations-on-instagram-platforms/"><u>Step-by-Step: Securing Visibility with Pinning Conversations on Instagram Platforms</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tablet-battle-royale-analyzing-features-of-ipads-vs-kindles-vs-nooks/"><u>Tablet Battle Royale: Analyzing Features of iPads Vs. Kindles Vs. Nooks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-ai-photo-editor/"><u>[New] Best AI Photo Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-and-magic-behind-perfecting-luts/"><u>2024 Approved The Science and Magic Behind Perfecting LUTs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289788560-60fps30fps/"><u>高速ビデオから低速にシフト：60fps動画を30fpsにどうする？</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-ways-to-change-m4v-files-into-mp4-format-mac-and-windows-11-support/"><u>Free Ways to Change M4V Files Into MP4 Format: Mac & Windows 11 Support</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/lunch-whole-grain-pasta-salad-with-cherry-tomatoes-artichoke-hearts-kalamata-olives-feta-cheese/"><u>Lunch: Whole Grain Pasta Salad with Cherry Tomatoes, Artichoke Hearts, Kalamata Olives, Feta Cheese</u></a></li>
+<li><a href="https://extra-support.techidaily.com/making-movies-magical-the-use-of-youtube-music-in-videos-for-2024/"><u>Making Movies Magical The Use of YouTube Music in Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-flat-tv-care-a-comprehensive-cleaning-guide/"><u>Mastering the Art of Flat TV Care - A Comprehensive Cleaning Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rapid-and-high-quality-conversion-transforming-ts-files-into-mp4-in-10-effective-methods/"><u>Rapid and High-Quality Conversion: Transforming TS Files Into MP4 in 10 Effective Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolution-showdown-qhd-4k-uhd-and-1080p-compared-determining-the-ultimate-display-quality/"><u>Resolution Showdown: QHD, 4K UHD, and 1080P Compared - Determining the Ultimate Display Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionize-playtime-win11s-game-library/"><u>Revolutionize Playtime Win11's Game Library</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-xiaomi-redmi-note-13-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Xiaomi Redmi Note 13 5G without backup.</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nubia-red-magic-8s-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nubia Red Magic 8S Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-clips-a-laide-de-winxvideo-ai-montage-enregistrement-and-amelioration-par-intelligence-artificielle/"><u>Transformez Vos Clips À L'aide De Winxvideo AI – Montage, Enregistrement & Amélioration Par Intelligence Artificielle</u></a></li>
 </ul></div>
 

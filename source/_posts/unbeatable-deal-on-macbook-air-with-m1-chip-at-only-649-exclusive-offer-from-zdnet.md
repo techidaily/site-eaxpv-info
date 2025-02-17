@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal on MacBook Air with M1 Chip at Only $649 - Exclusive Offer From ZDNet
-date: 2025-02-04T17:05:02.524Z
-updated: 2025-02-07T16:31:09.021Z
+date: 2025-02-13T03:05:06.899Z
+updated: 2025-02-16T18:51:55.245Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers/"><u>[New] 2024 Approved Foremost Frame Starters Leading 16 YouTube Videos for More Watchers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-blurry-to-bold-crafting-powerful-youtube-previews/"><u>[New] 2024 Approved From Blurry to Bold Crafting Powerful YouTube Previews</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-current-state-of-vr-hardware/"><u>[New] Current State of VR Hardware</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-frametaker-high-quality-edition/"><u>[New] FrameTaker High-Quality Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-passive-to-profitable-8-beginners-revenue-hacks-for-youtube-for-2024/"><u>[New] From Passive to Profitable 8 Beginner's Revenue Hacks for YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels-for-2024/"><u>[New] Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtube-studio-for-ultimate-edits-for-2024/"><u>[New] Harness the Power of YouTube Studio for Ultimate Edits for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-your-guide-to-youtube-video-edits/"><u>[New] In 2024, From Raw to Refined Your Guide to YouTube Video Edits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlock-the-full-potential-of-your-xbox-gameplay/"><u>[New] In 2024, Unlock the Full Potential of Your Xbox Gameplay</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-freeing-up-youtube-views-no-more-grey-lines-for-2024/"><u>[Updated] Freeing Up YouTube Views No More Grey Lines for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[Updated] In 2024, Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grasp-the-basics-of-sub4sub-success-our-guide-lays-it-out-clearly/"><u>[Updated] In 2024, Grasp the Basics of Sub4sub Success - Our Guide Lays It Out Clearly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/alienware-command-center-malfunction-heres-what-you-need-to-know/"><u>Alienware Command Center Malfunction? Here's What You Need to Know!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-screen-mirroring-how-to-seamlessly-airplay-content-from-iphone-ipad-and-ipod-to-your-mac/"><u>Effortless Screen Mirroring: How to Seamlessly AirPlay Content From iPhone, iPad & iPod to Your Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-lag-problems-in-resident-evil-village-on-your-pc-the-ultimate-guide/"><u>How To Resolve Lag Problems In Resident Evil Village on Your PC - The Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-10-motivations-why-you-should-ditch-facebook/"><u>Top 10 Motivations: Why You Should Ditch Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cut-to-the-chase-techniques-for-tightening-youtube-content-for-2024/"><u>[New] Cut to the Chase Techniques for Tightening YouTube Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-blending-past-and-present-film-aesthetics/"><u>[New] In 2024, Blending Past and Present Film Aesthetics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-livestream-showdown-fb-live-yt-live-and-twittv/"><u>[New] Livestream Showdown FB Live, YT Live, & TwitTV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-expert-advice-incorporating-narrative-elements-into-youtube-videos/"><u>[Updated] In 2024, Expert Advice Incorporating Narrative Elements Into YouTube Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-gt-5-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme GT 5 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-updated-lenovo-thinkpad-t420-drivers-in-windows-environment/"><u>Effortless Installation of Updated Lenovo ThinkPad T420 Drivers in Windows Environment</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-a25-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy A25 5G without App | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-handling-time-lapse-videos-on-your-gopro-hero-10/"><u>In 2024, Expertly Handling Time-Lapse Videos on Your GoPro Hero 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-moto-e13-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola Moto E13</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-setup-solving-the-silence-issue-in-pc-based-zoom-conferencing/"><u>Mastering Audio Setup: Solving the Silence Issue in PC-Based Zoom Conferencing</u></a></li>
 </ul></div>
 

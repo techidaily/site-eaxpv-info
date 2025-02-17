@@ -1,7 +1,7 @@
 ---
 title: Tech Giants Apple & Samsung Reveal the Hidden Struggle Behind Microsoft's AI Endeavors - The Untold Story
-date: 2025-02-03T16:23:34.152Z
-updated: 2025-02-07T17:19:32.530Z
+date: 2025-02-13T17:48:51.064Z
+updated: 2025-02-16T20:51:23.078Z
 tags:
   - apple
 categories:
@@ -71,18 +71,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>[New] In 2024, Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] 2024 Approved From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-a-guide-to-retrieving-historic-facebook-stories/"><u>[Updated] A Guide to Retrieving Historic Facebook Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-integrate-titles-and-descriptions-into-your-youtube-video-for-2024/"><u>[Updated] How to Integrate Titles and Descriptions Into Your YouTube Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning/"><u>[Updated] In 2024, Go Professional, Stay Budgeted Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning</u></a></li>
-<li><a href="https://extra-information.techidaily.com/critical-reviews-leading-mp4-devices/"><u>Critical Reviews Leading MP4 Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-top-5-youtube-creators-subscription-leaders/"><u>In 2024, Top 5 YouTube Creators Subscription Leaders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meet-the-new-slender-superstar-lgs-latest-and-leanest-gram-laptop-on-the-market-zdnet-insights/"><u>Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market - ZDNet Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/radiance-routines-pro-tips-for-video-illumination/"><u>Radiance Routines Pro Tips for Video Illumination</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-top-convertidor-de-video-hevch265-para-mac-guia-2023/"><u>1. Top Convertidor De Video HEVC/H.265 Para Mac: Guía 2023</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286044076-dvdmp4/"><u>無料で完全機能付き: DVD画像をMP4動画に変換する優秀なフリーツールを見つけた!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-step-by-step-guide-on-adapting-older-dvds-aspect-ratio-from-43-to-modern-169-widescreen/"><u>A Step-by-Step Guide on Adapting Older DVD's Aspect Ratio From 4:3 to Modern 16:9 Widescreen</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-video-player-apps-compatible-with-mac-windows-10-ios-and-android-top-18-picks/"><u>Best Video Player Apps Compatible with Mac, Windows 10, iOS & Android: Top 18 Picks!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-memes-that-stand-out-the-9gag-way-for-2024/"><u>Crafting Memes that Stand Out The 9GAG Way for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-features-of-llama-2-and-leveraging-its-capabilities/"><u>Exploring the Features of Llama 2 and Leveraging Its Capabilities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-pro-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Pro Stuck On Activation Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 4G Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fast-shutdowns-in-windows-11-top-strategies-to-try-now/"><u>Mastering the Art of Fast Shutdowns in Windows 11: Top Strategies to Try Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/microdrama-writers-guide/"><u>Microdrama Writers Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/syncing-subtitles-fixing-speed-issues-with-vlc-step-by-step-guide/"><u>Syncing Subtitles: Fixing Speed Issues with VLC - Step by Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-zero-cost-ai-video-optimizers-available-online-compatible-with-pc-and-mac-platforms/"><u>Top 12 Zero-Cost AI Video Optimizers Available Online: Compatible with PC & MAC Platforms</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2025-02-06T16:56:27.006Z
-updated: 2025-02-07T16:35:12.198Z
+date: 2025-02-14T17:46:43.289Z
+updated: 2025-02-16T20:26:46.312Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -105,7 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -117,10 +117,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,19 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[New] 2024 Approved 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-color-difference-keying-methods/"><u>[New] In 2024, Harnessing the Power of Color Difference Keying Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-personalized-branding-craft-your-logo-from-free-designs/"><u>[New] Personalized Branding Craft Your Logo From Free Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-money-on-youtube-without-ads/"><u>[Updated] 2024 Approved How to Make Money on YouTube Without Ads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-5-pinterest-video-downloads-no-cost-and-fast-access-online/"><u>[Updated] 5 Pinterest Video Downloads – No Cost & Fast Access Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-hobbyist-to-host-mac-sports-channel-creation-for-2024/"><u>[Updated] From Hobbyist to Host Mac Sports Channel Creation for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>[Updated] In 2024, Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>[Updated] In 2024, Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-enhancing-tiktok-visuals-through-zoom-mastery/"><u>2024 Approved Enhancing TikTok Visuals Through Zoom Mastery</u></a></li>
-<li><a href="https://article-files.techidaily.com/craft-a-chic-google-collage-in-minutes-not-hours/"><u>Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/discovering-the-10-leading-low-cost-mobile-video-conferencing-for-2024/"><u>Discovering the 10 Leading Low-Cost, Mobile Video Conferencing for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-v-purse-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor V Purse? Try These Fixes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/keep-it-secret-live-stream-on-instagram-anonymously/"><u>Keep It Secret Live Stream on Instagram Anonymously</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-free-and-open-source-dvd-ripper-programs-ultimate-guide-to-flawless-conversions/"><u>Top-Rated Free & Open Source DVD Ripper Programs: Ultimate Guide to Flawless Conversions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-vloggers-guide-to-camera-lenses-wondershare-filmora-for-2024/"><u>[Updated] A Vlogger's Guide To Camera Lenses | Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-keep-your-tweets-compliant-with-aspect-ratio-requirements-for-2024/"><u>[Updated] Keep Your Tweets Compliant with Aspect Ratio Requirements for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-share-the-laughs-right-top-gif-saver-for-twitter/"><u>[Updated] Share the Laughs Right Top GIF Saver for Twitter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-seamless-conversion-techniques-transforming-drm-protected-azw-files-into-compatible-epub-format/"><u>1. Seamless Conversion Techniques: Transforming DRM-Protected AZW Files Into Compatible EPUB Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-top-30-no-cost-websites-for-enjoying-manga-anytime-anywhere/"><u>1. Top 30 No-Cost Websites for Enjoying Manga Anytime, Anywhere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2020-guide-ultimate-comparison-of-ebook-drm-stripping-tools/"><u>2020 Guide: Ultimate Comparison of Ebook DRM Stripping Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-novices-journey-through-k2pdfopt-unveiling-the-secrets-of-windows-graphical-interface-enhancement/"><u>A Novice's Journey Through K2pdfopt: Unveiling the Secrets of Windows Graphical Interface Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-comprehensive-guide-to-2024s-elite-15-inch-laptops-tested-and-reviewed-zdnet-insights/"><u>Best of the Best: Comprehensive Guide to 2024'S Elite 15-Inch Laptops Tested and Reviewed | ZDNET Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-onedrive-video-playback-problems-a-guide-to-five-easy-solutions/"><u>Resolving OneDrive Video Playback Problems: A Guide to Five Easy Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-solution-dealing-with-video-card-glitches-in-sims-4/"><u>Step-by-Step Solution: Dealing with Video Card Glitches in Sims #4</u></a></li>
+<li><a href="https://win11.techidaily.com/telnet-setup-simplified-for-win11-computers/"><u>Telnet Setup Simplified for Win11 Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-visionos-innovations-we-hope-apple-will-unveil-at-this-years-wwdc-tech-insights-by-zdnet/"><u>The Ultimate List of VisionOS Innovations We Hope Apple Will Unveil at This Year's WWDC | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-to-address-assassins-creed-valhalla-pc-game-freezes-and-crashes/"><u>Troubleshooting Guide to Address Assassin's Creed Valhalla PC Game Freezes and Crashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-a-critical-flaw-the-potential-danger-of-iphones-airtags-power-protection-mechanism-and-how-to-correct-it-zdnet/"><u>Uncovering a Critical Flaw: The Potential Danger of iPhone's AirTags Power Protection Mechanism and How To Correct It | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unpacking-the-corsair-i500s-performance-a-detailed-analysis-of-a-modern-minimalist-pc/"><u>Unpacking the Corsair I500's Performance - A Detailed Analysis of a Modern, Minimalist PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2025-02-04T16:08:44.286Z
-updated: 2025-02-07T16:55:29.820Z
+date: 2025-02-15T23:11:48.769Z
+updated: 2025-02-17T02:25:57.461Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -53,6 +49,10 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -62,7 +62,7 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -74,7 +74,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -100,7 +100,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -111,6 +111,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,24 +157,21 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-webcams-for-youtube-livestreaming/"><u>[New] 2024 Approved Best Webcams for YouTube Livestreaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gender-diversity-in-streaming-celebrating-top-10-females/"><u>[New] 2024 Approved Gender Diversity in Streaming Celebrating Top 10 Females</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/irect-access-to-streams-how-to-download-youtube-videos-to-your-ios-device-for-2024/"><u>[New] Direct Access to Streams How to Download YouTube Videos to Your iOS Device for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[New] In 2024, Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-haul-vlogging-101-a-step-by-step-guide/"><u>[New] In 2024, Haul Vlogging 101 A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flixfusion-the-ultimate-gaming-channel-mix/"><u>[Updated] 2024 Approved FlixFusion The Ultimate Gaming Channel Mix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings/"><u>[Updated] 2024 Approved Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-edit-youtube-videos-ultimate-guide/"><u>[Updated] 2024 Approved How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-how-to-safely-procure-pure-photography-collections/"><u>[Updated] 2024 Approved How to Safely Procure Pure Photography Collections</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] In 2024, From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-in-the-youtube-world-starting-your-channel-and-earning-money/"><u>[Updated] In 2024, From Zero to Hero in the Youtube World Starting Your Channel & Earning Money</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-guide-perfect-your-youtube-video-looping-game/"><u>[Updated] In 2024, How-To Guide Perfect Your YouTube Video Looping Game</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-premier-platforms-to-rework-classic-ps3-titles/"><u>[Updated] Premier Platforms to Rework Classic PS3 Titles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-hidden-weapons-for-social-media-dominance-on-instagram/"><u>[Updated] The Hidden Weapons for Social Media Dominance on Instagram</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos/"><u>2024 Approved ZD Soft An In-Depth Guide to Capture, Record & Edit Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-z1n-impressive-specs-but-flawed-video-quality-by-zdnet/"><u>Comprehensive Review of the Lenovo ThinkPad Z1n: Impressive Specs but Flawed Video Quality by ZDNET</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-tips-for-writing-irresistible-podcast-intros/"><u>In 2024, Tips for Writing Irresistible Podcast Intros</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-of-the-party-free-impeccable-dj-template-videos-for-2024/"><u>Pulse of the Party Free, Impeccable DJ Template Videos for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-moving-your-phone-numbers-from-a-nokia-device-to-the-samsung-galaxy-s5/"><u>Step-by-Step Guide: Moving Your Phone Numbers From a Nokia Device to the Samsung Galaxy S5</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>[Updated] In 2024, The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-podcast-experience-for-iphone-users/"><u>[Updated] Seamless Podcast Experience for iPhone Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-skyrocketing-performance-boosting-ram-in-minecraft/"><u>[Updated] Skyrocketing Performance Boosting RAM in Minecraft</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-perfect-lighting-setup-for-engaging-youtube-videos/"><u>2024 Approved Perfect Lighting Setup for Engaging YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pcyoutubecd/"><u>家庭用PCからYouTube動画をCDへ焼くためのシンプルガイド - ステップバイステップチュートリアル</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/apple-itunes-album-splits-causes-and-solutions/"><u>Apple iTunes Album Splits - Causes and Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-solving-windows-11-update-issues-and-expert-advice/"><u>Comprehensive Guide: Solving Windows 11 Update Issues & Expert Advice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-dvd-gratis-in-formato-mp4-per-pc-e-mac-con-winxdvd-il-guida-completa/"><u>Converti DVD Gratis in Formato MP4 per PC E Mac Con WinXDVD: Il Guida Completa</u></a></li>
+<li><a href="https://common-error.techidaily.com/endless-blinking-cursor-learn-how-to-make-it-disappear-now/"><u>Endless Blinking Cursor? Learn How to Make It Disappear Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-new-horizons-with-windows-11-a-comprehensive-look-at-microsofts-latest-operating-system-improvements/"><u>Exploring New Horizons with Windows 11 - A Comprehensive Look at Microsoft's Latest Operating System Improvements</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-continuous-team-fortress-2-game-crashes/"><u>Fixes and Solutions for Continuous Team Fortress 2 Game Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x8b-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X8b</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/passare-da-vhs-a-dvd-un-passo-passo-guidato-per-la-conversione-su-computer/"><u>Passare Da VHS a DVD: Un Passo-Passo Guidato per La Conversione Su Computer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-10-lightroom-alternatives-free-and-paid-filmora-for-2024/"><u>Top 10 Lightroom Alternatives [Free & Paid] | Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-the-ultimate-mac-compatible-software-for-easy-video-transfer-to-ios-devices-and-itunes/"><u>WinX DVD Ripper: The Ultimate Mac Compatible Software for Easy Video Transfer to iOS Devices and iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725283967929-dvd/"><u>スムーズに使えるダイナミックなDVDコンパイル無料ツール、高画質でロゴ不要</u></a></li>
 </ul></div>
 

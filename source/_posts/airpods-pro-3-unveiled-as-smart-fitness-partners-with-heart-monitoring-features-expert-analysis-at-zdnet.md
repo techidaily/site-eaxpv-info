@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2025-02-03T17:10:51.112Z
-updated: 2025-02-07T16:36:30.419Z
+date: 2025-02-12T02:23:36.704Z
+updated: 2025-02-16T19:34:59.993Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch
@@ -75,7 +75,7 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -91,7 +91,7 @@ According to the report, if all goes to plan, AirPods will be able to double as 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Vision Pro
@@ -140,16 +140,17 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] 2024 Approved Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[New] In 2024, Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>[New] In 2024, Fixing the Problem Hidden Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-instant-recording-audio-enriched-screens/"><u>[New] In 2024, Instant Recording Audio-Enriched Screens</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-video-elements-cardsannotations/"><u>[Updated] 2024 Approved How to Create Impactful Video Elements Cards/Annotations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-adobe-advances-bringing-text-into-three-dimensional-space/"><u>[Updated] In 2024, Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/a-step-by-step-tutorial-on-screencastify-use/"><u>A Step-by-Step Tutorial on Screencastify Use</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-vista-drivers-without-software-tools/"><u>Configure Vista Drivers Without Software Tools</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/dealing-with-unresponsive-graphics-drivers-how-to-fix-freezing-pc-problems-guided-by-yl-software-experts/"><u>Dealing with Unresponsive Graphics Drivers: How to Fix Freezing PC Problems, Guided by YL Software Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-the-art-of-fbx-based-gaming-archiving/"><u>Mastering the Art of FBX-Based Gaming Archiving</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pinnacle-5-frame-timelapse-recorder-for-2024/"><u>[New] Pinnacle 5-Frame Timelapse Recorder for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cloudsafe-experts-opinion/"><u>[Updated] 2024 Approved CloudSafe Experts Opinion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-vdx-quickcapture-evaluation-complete-reviews-for-2024/"><u>[Updated] VDX QuickCapture Evaluation Complete Reviews for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/black-ops-cold-war-how-to-restore-and-fix-voice-chat-features/"><u>Black Ops Cold War - How to Restore and Fix Voice Chat Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/create-a-reliable-dvd-backup-transferring-to-iso-format-using-winx-dvd-copy/"><u>Create a Reliable DVD Backup: Transferring to ISO Format Using WinX DVD Copy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013611841-fix-the-problem-with-audio-configuration-message-from-itunes-easily/"><u>Fix the 'Problem with Audio Configuration' Message From iTunes Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ipaddvd3/"><u>IPad上のDVD再生のコツ：使いやすいテクニック3つをご紹介</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/la-meilleure-application-de-capture-decran-pour-les-utilisateurs-de-windows-prise-en-charge-des-versions-10-8-et-7/"><u>La Meilleure Application De Capture D'écran Pour Les Utilisateurs De Windows : Prise en Charge Des Versions 10, 8 Et 7.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-11-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme 11 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy A25 5G Phone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/vergleich-von-aac-und-mp3-welche-audioqualitat-uberzeugt-mehr/"><u>Vergleich Von AAC Und MP3: Welche Audioqualität Überzeugt Mehr?</u></a></li>
 </ul></div>
 

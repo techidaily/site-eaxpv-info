@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Future Innovations: Apple's Latest AI Advances Set to Transform iPhones - Discover the Groundbreaking Artificnial Intelligence Technology that May Soon Elevate Your iPhone Experience, as Unveiled by Apple Research."
-date: 2025-01-13T19:18:57.962Z
-updated: 2025-01-19T23:03:46.235Z
+date: 2025-02-14T19:20:02.414Z
+updated: 2025-02-16T16:59:25.461Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -112,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,6 +117,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-best-value-top-6-discounted-4k-hd-projectors-for-2024/"><u>[Updated] Best Value Top 6 Discounted 4K HD Projectors for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-electrical-upgrades/"><u>[Updated] In 2024, Electrical Upgrades</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-freecam-x-live-streaming-software-reviewed/"><u>2024 Approved FreeCam X Live Streaming Software Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/amazons-bargain-bin-score-an-iphone-15-pro-max-at-just-a-penny-the-ultimate-guide-to-snagging-this-steal/"><u>Amazon's Bargain Bin: Score an iPhone 15 Pro Max at Just a Penny - The Ultimate Guide to Snagging This Steal!</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-moto-g24-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Moto G24? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exclusive-scoop-on-the-most-reliable-and-stylish-apple-watch-bands-professional-evaluations/"><u>Exclusive Scoop on the Most Reliable & Stylish Apple Watch Bands : Professional Evaluations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-connoisseur-of-funimate-games-for-2024/"><u>From Novice to Connoisseur of Funimate Games for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-instant-access-install-the-latest-macos-15-sequoia-beta-on-your-apple-device-free-guide/"><u>Get Instant Access: Install the Latest macOS 15 Sequoia Beta on Your Apple Device - Free Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-xs-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone XS? Fixed | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/outstanding-tablet-comparison-when-the-ipad-air-surpasses-the-expectations-of-an-ipad-pro-owner/"><u>Outstanding Tablet Comparison: When the IPad Air Surpasses the Expectations of an iPad Pro Owner</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rigorous-mobile-device-evaluation-methods-used-by-zdnet/"><u>Rigorous Mobile Device Evaluation Methods Used by ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-10-ways-apple-can-enhance-ai-capabilities-to-rival-openai-and-google-an-insightful-analysis/"><u>Top 10 Ways Apple Can Enhance AI Capabilities to Rival OpenAI & Google: An Insightful Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-3-critical-errors-with-the-apple-vision-pro-protect-your-investment-by-dodging-these-pitfalls-insider-tips/"><u>Top 3 Critical Errors with the Apple Vision Pro: Protect Your Investment by Dodging These Pitfalls - Insider Tips!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-logitech-g-pro-x-mic-issues/"><u>Troubleshooting Guide: Fixing Logitech G Pro X Mic Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/why-you-should-use-apple-pages-5-key-takeaways-analysis/"><u>Why You Should Use Apple Pages: 5 Key Takeaways Analysis</u></a></li>
-<li><a href="https://win-web3.techidaily.com/alaadyd-mn-alhzm-alshfafa-lnskh-bramgk-il-krs-ssd-taalymat-tfsylya-lthoyl-hdd-il-tknya-akthr-kfaaaa/"><u>العديد من الحزم الشفافة لنسخ برامجك إلى قرص SSD: تعليمات تفصيلية لتحويل HDD إلى تقنية أكثر كفاءة</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-tools-and-techniques-enhancing-your-market-research-skills-for-2024/"><u>[Updated] Essential Tools & Techniques Enhancing Your Market Research Skills for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-handpicked-selections-ringtones-directly-from-snap/"><u>[Updated] Handpicked Selections Ringtones Directly From Snap</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-webcam-capture-in-vlc-media-player/"><u>[Updated] In 2024, Live Webcam Capture in VLC Media Player</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/11-easy-steps-to-move-your-iphone-pictures-to-pc-no-itunes-required/"><u>11 Easy Steps to Move Your iPhone Pictures to PC - No iTunes Required!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024dvd/"><u>2024新節選品贈送免費DVD/電影全片複製軟件：最佳運用方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5yq55p6c55qe44gq5yuv55s757eo6zug44go5asj5oplusb44gu5oml6acg/"><u>効果的な動画編集と変換の手順</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-gratuitement-vos-dvd-en-formats-compatibles-iphones-et-android-avec-le-convertisseur-video-winx/"><u>Convertissez Gratuitement Vos DVD en Formats Compatibles iPhones Et Android Avec Le Convertisseur Vidéo WinX</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/get-high-quality-audiovideo-convert-facebooks-hd-content-into-mp4/"><u>Get High-Quality Audio/Video Convert Facebook's HD Content Into MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-the-official-winx-downloader-powerful-free-software-for-converting-videos-to-high-definition/"><u>Get the Official WinX Downloader: Powerful, Free Software for Converting Videos to High Definition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-most-advanced-virtual-reality-engines-of-2023/"><u>In 2024, The Most Advanced Virtual Reality Engines of 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-winxdvd-tools-with-easy-effective-setup-instructions/"><u>Mastering WinXDVD Tools with Easy, Effective Setup Instructions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimal-fps-settings-for-creating-high-quality-slow-motion-footage/"><u>Optimal FPS Settings for Creating High-Quality Slow-Motion Footage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-s17-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after S17 Pro has been deleted</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-yoga-a940-a-series-detailed-review-of-specs-usability-and-design/"><u>Unveiling the Lenovo Yoga A940 ([A Series]): Detailed Review of Specs, Usability & Design</u></a></li>
 </ul></div>
 

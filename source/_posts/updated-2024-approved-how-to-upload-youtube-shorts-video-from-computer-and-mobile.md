@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Upload YouTube Shorts Video From Computer and Mobile?\""
-date: 2024-08-20T13:51:54.595Z
-updated: 2024-08-21T13:51:54.595Z
+date: 2025-02-10T01:29:15.719Z
+updated: 2025-02-16T22:52:47.545Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
 
 # How to Upload Shorts Video on YouTube? \[2024\]
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -33,9 +30,6 @@ Quite recently, YouTube launched Shorts to compete with Tik Tok. At the time of 
 
 With that said, the following sections explain the step-by-step process on **how to upload a short video on YouTube** Shorts both from your smartphone and a PC.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Upload Short Video on YouTube from PC?
 
 The fact is, if you are using a computer to upload short videos to YouTube, the process is identical to publishing your other, regular footage. However, there are a few guidelines that your clips must comply with so that the streaming platform could specifically identify them as YouTube Shorts. These norms include:
@@ -48,9 +42,6 @@ Once you have a video recorded using the first two guidelines from the above lis
 
 #### Step 1: Select a Short Video to Upload
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Upload YouTube Shorts Video to desktop](https://images.wondershare.com/filmora/article-images/upload-short-videos-on-youtube-pc.jpg)
 
 Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
@@ -61,9 +52,6 @@ Launch your favorite web browser on your PC, go to YouTube, make sure to sign in
 
 On the **Details** window that appears, add **#Shorts** in the **Title** or **Description** field, optionally pick a thumbnail from the suggested images present under the **Thumbnail** section (or upload a custom picture from your PC), select your preferred radio button from under the **Audience** section, make the other necessary changes if need be, and click **NEXT**. When the **Video elements** window comes up, choose your preferred options and elements, click **NEXT**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Mark YouTube Shorts Video in title and description](https://images.wondershare.com/filmora/article-images/mark-shorts-videos-on-youtube-pc.jpg)
 
 #### Step 3: Publish the Short Video
@@ -71,6 +59,10 @@ On the **Details** window that appears, add **#Shorts** in the **Title** or **De
 On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
 
 ![post YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
 
@@ -86,7 +78,15 @@ For macOS 10.12 or later
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Upload Short Video on YouTube Mobile App?
 
@@ -95,8 +95,9 @@ The process of **uploading YouTube Shorts** from the mobile app is fairly simple
 **Note:** The guidelines for creating and uploading short videos to YouTube remain the same, regardless of the platform or device you use.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Upload an Existing Short Video
 
 **Note:** Make sure to have the target video on the smartphone and that you have downloaded, installed, and signed in to the YouTube app before proceeding.
@@ -104,6 +105,10 @@ The process of **uploading YouTube Shorts** from the mobile app is fairly simple
 #### Step 1: Select a Video to Upload
 
 ![Select a Video to Upload as Shorts](https://images.wondershare.com/filmora/article-images/select-shorts-videos-to-upload-on-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On your Android or iOS smartphone, launch the YouTube app, tap the **+** (**Create**) icon from the bottom, tap **Create a Short** from the **Create** box that pops up from the bottom, tap **Upload** from the bottom-right corner of the next screen, and select and upload a short, 60 seconds video recorded in portrait orientation from your device’s storage to the app.
 
@@ -117,6 +122,10 @@ On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the b
 
 Finally tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Record a Short Video and Upload
 
 **Step 1:** Record Shorts Video
@@ -125,10 +134,11 @@ Previously, I have introduced [how to record and upload YouTube Shorts videos](h
 
 Please note you will not see the **Create a Short** option if you are outsides of India.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the YouTube app, tap the **+** (**Add**) button and select **Create** **a Short**. Please note you will not see the **Create a Short** option if you are outsides of India.
 
@@ -146,15 +156,16 @@ On the **Add details** window, enter a name for the video along with the **#Shor
 
 **[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Conclusion**
 
 Learning the process of **how to post short videos on YouTube** is fairly simple as long as you have the video recorded in the portrait orientation, it is up to 60 seconds long, and contains the ‘#Shorts’ tag (without quotes) in the title or description. The good thing is, if you don’t have access to the YouTube app on your smartphone, the method for **how to upload short video on YouTube** explained in the first section can be followed while using your desktop computer.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -162,7 +173,6 @@ Richard Bennett
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,9 +184,6 @@ Follow @Richard Bennett
 
 # Top 5 YouTube Link Shortener You Must Try in 2024
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -201,10 +208,11 @@ Another big advantage of shortened links is their usability of social platforms 
 
 **_Price:_** _Free_
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![y2u-poster](https://images.wondershare.com/y2u-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Y2U is a web-based platform that helps its user to convert long Youtube links into small and shareable links. It is a simple and easy-to-use Youtube link shortener. It converts the link into three forms, a short link, a very short link, and a QR code. You can use any of these links to share it with your friends or share it on social media platforms such as Facebook and Instagram Bios. It only requires you to paste a Youtube video link directly into this platform and click shorten URL. It allows the users to make their URL worthy to be shared on blogs, Twitter, and chats.
 
@@ -221,9 +229,6 @@ Y2U is a web-based platform that helps its user to convert long Youtube links in
 
 **_Price:_** _Free - $199_
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bitly-poster](https://images.wondershare.com/bitly-poster.jpg)
 
 Bitly is more than just a simple Youtube link shortener. It contains a wide range of features and options to help its users brand their links, customize them, Analyze the results, and more. One of the best things about Bitly is its ability to track down each link that is shortened using this platform. It provides you with a full analysis of the links and how they are performing. You can use the basic features like the Youtube link shortening and data related to links for free. But it has other options as well that can be acquired by paying a small portion of the money to the platform. This marvelous platform worths each penny you spend on it. It not only makes the links short but also makes them look beautiful and attractive to the viewer.
@@ -301,7 +306,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -309,8 +313,19 @@ Follow @Liza Brown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-tv-screens-with-automatic-loops-of-youtube/"><u>[New] 2024 Approved Enhance TV Screens With Automatic Loops of YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>[New] In 2024, Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-essential-techniques-for-enhanced-youtube-long-form-videos/"><u>[New] In 2024, Essential Techniques for Enhanced YouTube Long-Form Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-in-depth-look-the-prime-snipping-options-on-macos/"><u>[New] In 2024, In-Depth Look The Prime Snipping Options on macOS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleashing-the-power-of-screen-capture-with-hp-notebooks/"><u>[New] Unleashing the Power of Screen Capture with HP Notebooks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-deciphering-your-pathway-to-youtubes-maker-land/"><u>[Updated] In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-rapid-method-converting-images-into-desktop-thumbnails-for-youtube/"><u>[Updated] Rapid Method Converting Images Into Desktop Thumbnails for YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-template-treasures-to-craft-unique-corporate-emblems/"><u>2024 Approved Explore Template Treasures to Craft Unique Corporate Emblems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/convert-mlb-live-streams-and-on-demand-matches-into-mp4avimov-files-for-download/"><u>Convert MLB Live Streams & On-Demand Matches Into MP4/AVI/MOV Files for Download</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-11-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme 11 Pro+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco M6 Pro 4G Phone Without Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-windows-11-a-comprehensive-guide-for-gaining-trusty-installer-consent/"><u>Navigating Windows 11: A Comprehensive Guide for Gaining Trusty Installer Consent</u></a></li>
+</ul></div>
 

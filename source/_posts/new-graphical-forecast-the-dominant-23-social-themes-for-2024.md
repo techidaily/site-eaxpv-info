@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Graphical Forecast  The Dominant '23 Social Themes for 2024\""
-date: 2024-08-20T13:51:09.444Z
-updated: 2024-08-21T13:51:09.444Z
+date: 2025-02-12T18:38:05.238Z
+updated: 2025-02-16T23:26:35.821Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,6 @@ The landscape of the social media has been constantly changing over the course o
 
 Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
@@ -51,7 +48,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -59,8 +55,9 @@ Follow @Richard Bennett
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Understanding the Criteria for YouTube Comment Spotlighting
 
 # What Is the YouTube Highlighted Comment?
@@ -101,25 +98,24 @@ For instance, you may want to check the following links. The 2 URLs lead you to 
 
 Notice the name "lc" in the first URL- that stands for linked comment. YouTube might include this additional parameter. If a reply comment (HR) gets highlighted, the parent comment gets raised to the top.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What Does The Highlighted Comment Look Like?
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Make My Comment Highlighted?
 
 Now, making YouTube highlight your comment on a popular video is nothing less than an art. YouTube doesn't make it easy for you. The advantage of getting your comment highlighted on YouTube is limitless.
@@ -128,9 +124,6 @@ Thus, anybody who wants to get their YouTube comment an HC tag has to follow a f
 
 For example, if you are a YouTuber who deals in tech information, you need to look for a popular video or channel with a similar genre, in this case, technical knowledge. The more popular the channel is, the more is the chance of a viewer checking the comments on its videos. You will only benefit if you're comment is highlighted on pages of Youtuber's who are huge.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Get the URL of Highlighted Comments?
 
 The ways to acquire the URL or link for a highlighted comment are different for both parties- viewer and host.
@@ -138,6 +131,10 @@ The ways to acquire the URL or link for a highlighted comment are different for 
 Suppose you are a viewer who is going through the comments section of a video. If you want to get the highlighted URL for the comment, simply click on the timestamp (e.g., 2 weeks ago) beside the commentator's username.
 
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the other hand, for a YouTuber, getting access to the comment URL is relatively straightforward. The host will get a notification on his or her registered email-id when a viewer publishes a comment on their posted video. You will find the link to the highlighted comment in the notification
 
@@ -173,6 +170,10 @@ Many frequently inquire on the internet about how they can improve the chances o
 * Do not hit the post option already. Before publishing it, you must cross-check that your comment has all the above points in place.
 * Lastly, you have to wait after publishing on the video's comment section. YouTube will highlight your comment if it passes according to the YouTube policy and if the search engine finds it unique.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: Are Highlighted Comments Beneficial?
 
 Being a convenience feature, a highlighted comment on YouTube is 100% beneficial. That is especially true if you are looking for ways to optimize your channel.
@@ -199,7 +200,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,8 +207,23 @@ Follow @Liza Brown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[New] 2024 Approved Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-understanding-and-utilizing-adobes-storage-plus-insights-into-alternate-vaulting-services/"><u>[New] 2024 Approved Understanding and Utilizing Adobe's Storage, Plus Insights Into Alternate Vaulting Services</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-playlists-reconfigured-step-by-step-instructions/"><u>[New] YouTube Playlists Reconfigured Step-by-Step Instructions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-audience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[Updated] 2024 Approved Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cost-effective-techniques-for-youtube-intro-creation-for-2024/"><u>[Updated] Cost-Effective Techniques for YouTube Intro Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[Updated] Gamers' Galaxy A Thousand Stars in Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[Updated] In 2024, Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hit-the-floor-with-optimal-posting-hours/"><u>[Updated] In 2024, Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-pinpointing-your-place-in-youtubes-varied-landscapes/"><u>[Updated] Pinpointing Your Place in YouTube's Varied Landscapes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-efficient-mobile-video-management/"><u>[Updated] The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-reels-a-ninjas-guide/"><u>2024 Approved Mastering Instagram Reels A Ninja's Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-e13-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto E13 online without jailbreak</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-a25-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy A25 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigate-angular-video-transitions-on-android-devices/"><u>In 2024, Navigate Angular Video Transitions on Android Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>In 2024, The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-cannot-complete-operation-error-during-windows-10-recovery/"><u>Troubleshooting the 'Cannot Complete Operation' Error During Windows 10 Recovery</u></a></li>
+</ul></div>
 

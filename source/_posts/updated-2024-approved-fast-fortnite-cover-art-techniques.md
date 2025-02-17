@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fast Fortnite Cover Art Techniques\""
-date: 2024-08-20T13:49:03.620Z
-updated: 2024-08-21T13:49:03.620Z
+date: 2025-02-09T22:07:02.756Z
+updated: 2025-02-16T17:24:55.870Z
 tags:
   - ai video
   - ai youtube
@@ -40,9 +40,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
@@ -55,30 +52,18 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
 
 **Step 08:** It will remove the background of the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
@@ -87,9 +72,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
 
 **Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
@@ -98,9 +80,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
 
 #### Conclusion
@@ -115,12 +94,15 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## YouTube Triumphs: How to Turn Your Cell Phone Into an Editing Machine
 
@@ -128,11 +110,19 @@ Follow @Ollie Mattison
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
  It is fun to be able to record a vlog entry whenever inspiration strikes you, and your smartphone is a great choice for recording on the go. Smartphones have really great cameras, and you probably always have your phone with you. You can even post directly from your phone to YouTube!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Make YouTube Videos on Your Smartphone
 
@@ -164,12 +154,15 @@ Follow @Ollie Mattison
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,8 +171,18 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[New] 2024 Approved Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-exclusive-list-of-premium-online-and-desktop-gif-makers-for-2024/"><u>[New] Exclusive List of Premium Online & Desktop GIF Makers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-exemplary-melodies-set-for-visual-narratives/"><u>[New] Exemplary Melodies Set for Visual Narratives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-clear-way-to-capture-your-screen-best-free-tools-explored/"><u>[New] In 2024, The Clear Way to Capture Your Screen – Best Free Tools Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-no-video-display-on-sony-a6400-screen/"><u>[New] No Video Display on Sony A6400 Screen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-edit-away-bloat-organizing-your-overflow-of-tiktok-saves/"><u>[Updated] 2024 Approved Edit Away Bloat Organizing Your Overflow of TikTok Saves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-personalized-youtube-channel-urls-simple-steps-guide/"><u>[Updated] Mastering Personalized YouTube Channel URLs Simple Steps Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-simplify-creating-youtube-thumbnails-now/"><u>[Updated] Simplify Creating YouTube Thumbnails Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>[Updated] Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-latest-in-smartwear-the-amazfit-helio-rings-cost-and-features-released/"><u>Explore the Latest in Smartwear: The Amazfit Helio Ring's Cost & Features Released</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-latest-in-wearables-the-ultimate-review-of-the-fitbit-charge-4s-style-and-functionality/"><u>Unveiling the Latest in Wearables: The Ultimate Review of the Fitbit Charge 4'S Style and Functionality</u></a></li>
+</ul></div>
 

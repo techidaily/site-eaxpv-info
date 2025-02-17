@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: When & How to Successfully Reboot Your AirPods - Tips From ZDNet"
-date: 2025-02-05T16:37:51.503Z
-updated: 2025-02-07T17:29:21.809Z
+date: 2025-02-16T02:08:48.901Z
+updated: 2025-02-17T00:45:04.238Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -35,6 +31,10 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -62,10 +62,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -83,7 +79,7 @@ The boy
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -95,10 +91,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -128,6 +120,10 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -142,6 +138,10 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -179,10 +179,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -193,7 +189,7 @@ By the way, this is also a great way to think about users, which I initially was
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To-doing my to-do list
@@ -231,6 +227,10 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -275,21 +275,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>[New] 2024 Approved How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fostering-collaborations-building-partnerships-to-promote-videos-for-2024/"><u>[New] Fostering Collaborations Building Partnerships to Promote Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[Updated] 2024 Approved From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-handling-haters-strategies-for-content-creators/"><u>[Updated] 2024 Approved Handling Haters Strategies for Content Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-a-youtube-video-to-google-slides/"><u>[Updated] 2024 Approved How to Add a YouTube Video to Google Slides</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>[Updated] In 2024, From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-protectively-download-youtube-audio-without-fear/"><u>[Updated] In 2024, How to Protectively Download YouTube Audio Without Fear</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-trust-chatgpt-to-provide-correct-solutions-for-your-math-questions/"><u>Can You Trust ChatGPT to Provide Correct Solutions for Your Math Questions?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/escape-the-capsule-of-32-bit-windows-10-for-64-bit-excellence/"><u>Escape the Capsule of 32-Bit Windows 10 for 64-Bit Excellence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-of-copilotplus-a-peek-into-the-gaming-ready-laptops-debuted-at-ifa-2024-tech-analysis-by-zdnet/"><u>Exploring the Best of Copilot+: A Peek Into the Gaming-Ready Laptops Debuted at IFA 2024 | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-startup-problems-with-the-nier-replica-remaster/"><u>Resolving Startup Problems with the NieR Replica Remaster</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-art-of-storytelling-10-famous-movies-shaped-by-final-cut-pros-creative-freedom-for-2024/"><u>The Art of Storytelling 10 Famous Movies Shaped by Final Cut Pros Creative Freedom for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-analysis-why-apples-latest-m2-powerhouse-is-the-ultimate-choice-for-consumers-insights/"><u>Top Rated iPad Air Analysis: Why Apple's Latest M2 Powerhouse Is the Ultimate Choice for Consumers - Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-your-livestreams-with-manycam-intuitive-video-enhancement-tools-and-realistic-virtual-camera-options/"><u>Transform Your Livestreams with ManyCam: Intuitive Video Enhancement Tools and Realistic Virtual Camera Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnet-reveals-a-surprisingly-exceptional-all-in-one-laptop-for-professionals-ranking-as-one-of-top-tests/"><u>ZDNet Reveals a Surprisingly Exceptional All-In-One Laptop for Professionals, Ranking as One of Top Tests</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channeling-creativity-get-green-screen-tips-from-youtube/"><u>[New] 2024 Approved Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-beginners-guide-capturing-youtube-videos-as-screencasts-without-payment-for-2024/"><u>[New] Beginner's Guide Capturing YouTube Videos as Screencasts Without Payment for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-diy-split-screen-video-tutorials-for-youtube-enthusiasts/"><u>[New] In 2024, DIY Split-Screen Video Tutorials for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-flight-friendly-robot-categories/"><u>[New] In 2024, Flight-Friendly Robot Categories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-quietude-quotient-windowsmac-music-control-for-2024/"><u>[New] Quietude Quotient Windows/Mac Music Control for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>[New] YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-deceptions-toll-consequences-of-fake-supporters-in-video-markets/"><u>[Updated] 2024 Approved Deception's Toll Consequences of Fake Supporters in Video Markets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-best-mirrorless-cameras-vloggers-should-know/"><u>[Updated] In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chivalry-ii-stability-fix-resolving-the-game-crash-issue/"><u>Chivalry II Stability Fix: Resolving the Game Crash Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dont-overlook-top-streaming-platforms-essential-viewing-for-anime-enthusiasts/"><u>Don't Overlook Top Streaming Platforms: Essential Viewing for Anime Enthusiasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70e-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi K70E Phone Without Password?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-tips-for-effortless-photos-and-videos-in-windows-11-for-2024/"><u>Pro Tips for Effortless Photos & Videos in Windows 11 for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-common-issues-why-isnt-your-program-working-as-expected-insights-from-yl-computing/"><u>Troubleshooting Common Issues: Why Isn't Your Program Working As Expected? - Insights From YL Computing</u></a></li>
 </ul></div>
 

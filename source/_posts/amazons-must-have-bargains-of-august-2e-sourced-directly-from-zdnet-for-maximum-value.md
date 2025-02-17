@@ -1,7 +1,7 @@
 ---
 title: Amazon's Must-Have Bargains of August 2E, Sourced Directly From ZDNet for Maximum Value!
-date: 2025-01-20T19:20:00.594Z
-updated: 2025-01-25T20:50:51.949Z
+date: 2025-02-12T18:19:59.336Z
+updated: 2025-02-17T01:29:56.707Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Amazon deals of August 2024
 
@@ -55,7 +51,7 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -70,7 +66,7 @@ Jason Hiner/ZDNET
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,197 (save $203)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
@@ -84,10 +80,6 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $320 (save $280)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -103,7 +95,7 @@ Maria Diaz/ZDNET
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $198 (save $102)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -114,9 +106,17 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -166,24 +166,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[New] 2024 Approved Get HD Quality Quickly Enable AV1 in YouTube Settings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-quality-audio-collections-a-youtube-creators-guidebook/"><u>[New] 2024 Approved High-Quality Audio Collections A YouTube Creator's Guidebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-promote-youtube-videos-without-paying/"><u>[New] 2024 Approved How to Promote YouTube Videos (Without Paying)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grab-free-video-profile-backgrounds/"><u>[New] In 2024, Grab Free Video Profile Backgrounds</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-essentials-of-writing-attractive-vlog-narratives/"><u>[New] In 2024, The Essentials of Writing Attractive Vlog Narratives</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach-for-2024/"><u>[New] The Ultimate Guide to Posting Panoramas A Step-By Step Approach for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-final-flourishes-crafting-memorable-video-closures/"><u>[Updated] 2024 Approved Final Flourishes Crafting Memorable Video Closures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>[Updated] 2024 Approved Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-aural-tales-the-best-of-radio-plays/"><u>[Updated] Aural Tales The Best of Radio Plays</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gaming-insiders-youtube-channels-you-should-see-for-2024/"><u>[Updated] Gaming Insiders' YouTube Channels You Should See for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamified-learning-educational-youtubers-to-subscribe/"><u>[Updated] In 2024, Gamified Learning Educational YouTubers to Subscribe</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-historical-insights-from-youtubes-top-10-vlogs/"><u>[Updated] In 2024, Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-leveraging-instagram-metrics-selecting-optimal-analytics-software/"><u>[Updated] Leveraging Instagram Metrics Selecting Optimal Analytics Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/greatest-kid-friendly-flying-toys-summary/"><u>Greatest Kid-Friendly Flying Toys Summary</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-8-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Pop 8 Phone with Broken Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-gt-5-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme GT 5 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nubia-z50s-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nubia Z50S Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-clouds-to-storage-keeping-snapshots-on-your-phone/"><u>[New] From Clouds to Storage Keeping Snapshots on Your Phone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-video-ventures-youtube-shorts-or-tiktok/"><u>[New] In 2024, Video Ventures YouTube Shorts or TikTok?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-building-engagement-the-role-of-youtube-shorts-template-design/"><u>[Updated] In 2024, Building Engagement The Role of YouTube Shorts Template Design</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-guide-to-risk-management-and-mitigation-strategies-in-market-research-for-2024/"><u>A Guide to Risk Management and Mitigation Strategies in Market Research for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-leading-spots-in-your-area-to-exchange-and-acquire-secondhand-dvds-ranked/"><u>Discover the Leading Spots in Your Area to Exchange and Acquire Secondhand DVDs - Ranked!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-hevc-codec-extension-for-videos-at-no-cost/"><u>Download Hevc Codec Extension for Videos at No Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-access-mac-and-switch-gameplay/"><u>Easy Access: Mac and Switch Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-strategies-for-high-quality-youtube-recording-for-2024/"><u>Essential Strategies for High-Quality YouTube Recording for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-podcast-openings-unveiled-scripted-appeals/"><u>In 2024, Podcast Openings Unveiled Scripted Appeals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-picture-transfer-tutorial-how-to-move-images-from-iphone-to-computer-without-using-itunes/"><u>IPhone Picture Transfer Tutorial: How to Move Images From iPhone to Computer without Using iTunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/preserving-dvd-integrity-a-step-by-step-tutorial-on-copying-to-single-mpeg-2-format-with-original-soundtrack-and-visual-content/"><u>Preserving DVD Integrity: A Step-by-Step Tutorial on Copying to Single MPEG-2 Format With Original Soundtrack and Visual Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rip-un-dvd-audio-avec-fidelite-la-solution-dextraction-audionumerique-gratuite-et-de-haute-qualite/"><u>Rip Un DVD Audio Avec Fidélité : La Solution D'extraction Audionumérique Gratuite Et De Haute Qualité</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-video-file-types-compatible-with-windows-10-mobile-optimal-choices/"><u>Top Video File Types Compatible with Windows 10 Mobile: Optimal Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-not-let-algorithms-do-your-essay-summaries/"><u>Why Not Let Algorithms Do Your Essay Summaries?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digiarty6dvd/"><u>オンライン資料集: Digiartyのソフトウェア専門ブログと6ページにわたるDVDコピー知恵</u></a></li>
 </ul></div>
 

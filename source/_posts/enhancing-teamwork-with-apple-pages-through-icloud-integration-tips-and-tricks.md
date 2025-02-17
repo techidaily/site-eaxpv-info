@@ -1,7 +1,7 @@
 ---
 title: Enhancing Teamwork with Apple Pages Through iCloud Integration - Tips and Tricks
-date: 2025-02-05T16:55:09.916Z
-updated: 2025-02-07T17:26:25.706Z
+date: 2025-02-11T19:46:05.604Z
+updated: 2025-02-17T01:30:56.441Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -38,7 +34,7 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
@@ -46,7 +42,7 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -58,7 +54,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -69,11 +65,11 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -90,6 +86,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -149,18 +149,14 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-educators-manual-for-integrating-video-in-classroom-instruction/"><u>[New] 2024 Approved Educator's Manual for Integrating Video in Classroom Instruction</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples-for-2024/"><u>[New] From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-guidebook-planning-7-funny-video-frameworks/"><u>[New] In 2024, Giggles Guidebook Planning 7 Funny Video Frameworks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[New] In 2024, How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-steps-for-perfect-audio-transition-in-adobe-audition/"><u>[New] In 2024, Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-regular-are-youtube-monetization-payments-for-2024/"><u>[Updated] How Regular Are YouTube Monetization Payments for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>[Updated] In 2024, Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-whats-the-best-youtube-thumbnail-size/"><u>[Updated] What's the Best YouTube Thumbnail Size?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-install-microsoft-365-on-your-pc/"><u>How to Install Microsoft 365 on Your PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-gionee-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Gionee Phone FRP Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-mastery-for-efficient-project-delivery/"><u>Keyboard Mastery for Efficient Project Delivery</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/precision-in-visuals-how-to-blur-backgrounds-on-teamblend-for-2024/"><u>Precision in Visuals How to Blur Backgrounds on Teamblend for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-videos-to-instagram-in-2024/"><u>[New] How to Share Videos to Instagram, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[New] In 2024, How to Elevate Your Social Influence The Six-Step Guide to Instagram Verified Status</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024aacsbdpluscinavia/"><u>必見!【2024年】評価されたブルーレイコピーガード解除ソフトリスト。AACS、BD+、Cinaviaのすべてを簡単にバイパス！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-festive-present-picks-top-5-christmas-surprises-that-will-enchant-you-and-your-loved-ones/"><u>Best Festive Present Picks: Top 5 Christmas Surprises That Will Enchant You and Your Loved Ones</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-system-stability-fixing-high-memory-usage-of-services/"><u>Boosting System Stability: Fixing High Memory Usage of Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-to-the-not-registered-network-error-on-your-samsung-phone/"><u>DIY Solutions to the 'Not Registered' Network Error on Your Samsung Phone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-dvd-dvd-dvdmov-mp4-m4vitunesappletv/"><u>Mac DVD自由型式 DVD转换软件 - 免费提取DVD内容，转换为MOV, MP4, M4V、iTunes和AppleTV等多种视频格式</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-top-15-best-free-tools-to-convert-dvds-on-a-mac-expert-picks/"><u>The Top 15 Best Free Tools to Convert DVDs on a Mac - Expert Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-reliable-airtag-wallets-of-2024-in-depth-testing-results/"><u>Ultimate Guide to the Most Reliable AirTag Wallets of 2024: In-Depth Testing Results</u></a></li>
 </ul></div>
 

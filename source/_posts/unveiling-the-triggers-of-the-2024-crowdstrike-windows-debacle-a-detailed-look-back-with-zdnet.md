@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET"
-date: 2025-02-03T17:15:24.522Z
-updated: 2025-02-07T17:35:39.960Z
+date: 2025-02-12T22:39:44.394Z
+updated: 2025-02-17T00:25:14.852Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,16 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>[New] 2024 Approved FREE 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-expert-selecting-best-yt-cameras-for-2024/"><u>[New] From Novice to Expert Selecting Best YT Cameras for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-evaluating-earnings-from-one-million-youtube-watches/"><u>[Updated] 2024 Approved Evaluating Earnings From One Million YouTube Watches</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp-for-2024/"><u>[Updated] From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foremost-news-channels-on-youtube-to-watch-daily/"><u>[Updated] In 2024, Foremost News Channels on YouTube to Watch Daily</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/10-top-free-screen-recorder-mac-for-2024/"><u>10 Top Free Screen Recorder Mac for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-top-savings-on-walmart-best-buy-ahead-of-prime-day-202n-exclusive-deals-revealed/"><u>Find Top Savings on Walmart, Best Buy Ahead of Prime Day 202N: Exclusive Deals Revealed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pure-pitch-perception-recording-in-mac-studios-for-2024/"><u>Pure Pitch Perception Recording in Mac Studios for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/spot-the-clues-9-symptoms-of-h2o-damaged-iphones-revealed/"><u>Spot the Clues: 9 Symptoms of H2O-Damaged iPhones Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-fixing-recurring-wwe-2k22-crash-problems-on-pc/"><u>Ultimate Guide to Fixing Recurring WWE 2K22 Crash Problems on PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unzip-excitement-funimate-pros-apk-unwrapped-for-2024/"><u>Unzip Excitement - Funimate Pro's APK Unwrapped for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tips-for-handling-numerous-youtube-clips-concurrently/"><u>[Updated] In 2024, Tips for Handling Numerous YouTube Clips Concurrently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-blueprint-composing-a-hit-mukbang-video/"><u>2024 Approved The Blueprint Composing a Hit Mukbang Video</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-the-future-with-jacos-smartpro-rechargeable-tire-pump-a-review-on-its-power-and-portability/"><u>Experience the Future with Jaco's SmartPro Rechargeable Tire Pump: A Review on Its Power and Portability</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-find-and-install-the-elusive-ios-amidst-non-appearance-issues-for-iphone-users/"><u>How To Find and Install the Elusive iOS Amidst Non-Appearance Issues for iPhone Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-obscurity-to-influence-5-strategies-to-dominate-reddit-advertising/"><u>In 2024, From Obscurity to Influence 5 Strategies to Dominate Reddit Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/limited-time-deal-convert-your-dvd-collection-with-ease-and-savings/"><u>Limited Time Deal: Convert Your DVD Collection with Ease and Savings!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a15-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A15 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-mediatrans/"><u>MacX MediaTrans 使用法と製品マニュアル【権威ある指南書】</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-to-ripping-dvds-to-digital-files-using-macx-software-compatible-with-pc-iphone-and-ipod/"><u>Step-by-Step Guide to Ripping DVDs to Digital Files Using MacX Software Compatible with PC, iPhone & iPod</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-list-of-flashy-discord-tags/"><u>The Ultimate List of Flashy Discord Tags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-5-free-antivirus-tools-to-protect-your-pc-against-malware/"><u>The Ultimate Selection: 5 Free Antivirus Tools to Protect Your PC Against Malware</u></a></li>
 </ul></div>
 

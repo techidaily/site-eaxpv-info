@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Passive to Active Earnings  Unlocking Youtube with 500+ Fans for 2024\""
-date: 2024-08-20T13:47:06.985Z
-updated: 2024-08-21T13:47:06.985Z
+date: 2025-02-10T01:22:02.155Z
+updated: 2025-02-16T20:10:03.232Z
 tags:
   - ai video
   - ai youtube
@@ -39,17 +39,22 @@ The eligibility criteria for the YPP program are now easier and more achievable 
 
 The new requirements are lower than the old ones. Previously, you were required to have at least 1,000 subscribers with over 4,000 public watch hours. By lowering the threshold, YouTube makes it easier for all creators to monetize their content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2\. YouTube Monetization with 500 Subscribers: A Brief Guide**
 
 YouTube announced in 2022 that they were evolving the YPP to continue rewarding more creators. Starting mid-June 2023, the program was expanded to allow more creators to access monetization benefits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Know If You are Eligible**
 
 As a creator, you will want to know if you are eligible for the YouTube monetization 500 subscribers’ plan. Make sure that the notify feature on your channel is active to receive a notification. Go to the Earn area of the YouTube channel, and select Get Notified. Once selected, YouTube will send you an email when reach above the eligibility threshold.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![notify me](https://images.wondershare.com/filmora/article-images/2023/unlock-youtube-monetization-with-500-subscribers-2.JPG)
 
 ### **What You Need to Join Expanded YPP**
@@ -75,10 +80,11 @@ After meeting the eligibility criteria, you will need to apply to be enrolled in
 
 ##### Step 2Click Earn in the left menu
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![youtube earn](https://images.wondershare.com/filmora/article-images/2023/unlock-youtube-monetization-with-500-subscribers-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Click Apply Now to review and Accept the base terms
 
@@ -86,10 +92,11 @@ After meeting the eligibility criteria, you will need to apply to be enrolled in
 
 ##### Step 4Click Start to set up an AdSense account
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Image alt: youtube adsense](https://images.wondershare.com/filmora/article-images/2023/unlock-youtube-monetization-with-500-subscribers-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **On Android, iPhone and iPad**
 
@@ -103,8 +110,9 @@ Applying for YouTube monetization on your mobile devices follows the same proces
 Once you complete these steps on your computer or mobile, In Progress status will surface in the Get Reviewed step. This means that YouTube will review your channel and provide feedback within a month.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **What Monetization Review Entails**
 
 Once you submit your application, YouTube’s automated systems and human reviewers will look at your channel for a while. They will review it to make sure it follows all the platform’s policies and guidelines. As the reviews are in progress, creators are encouraged to back to the Earn section of YouTube Studio regularly. Typically, you will get the results within a month, but this may be affected by several factors:
@@ -120,9 +128,6 @@ Sometimes the first application may not be successful for some reason. In this c
 
 The major way of earning money on YouTube is through ads that show in your videos. In the case of Shorts, the ad-sharing revenue involves YouTube sharing the revenue generated from the ads with creators. However, getting accepted to YPP also allows you to start earning with fan funding and Shopping features. This means that creators can earn money directly from their views using these unique features
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube monetization features](https://images.wondershare.com/filmora/article-images/2023/unlock-youtube-monetization-with-500-subscribers-7.JPG)
 
 YouTube monetization 500 subscribers update allows you to earn money through monetization features that were not there before. This allows creators to interact more with their viewer while generating income. The main fan funding features include:
@@ -151,39 +156,34 @@ YouTube Shorts require quick content that covers everything within 60 seconds. W
 YouTube Shorts are limited to a length of 1 minute only. Since 60 seconds is quite a short time, you may want to showcase your content on multiple screens. The Split Screen Video Editor on Filmora allows you to make a split screen instantly. Choose from the readily available templates and show your audience what you want from multiple perspectives in the same video.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. **Motion Tracking**
 
 With YouTube Shorts, you need to be more creative. Adding objects to your videos makes them fun and engaging. The motion tracking feature on Filmora allows you to track the movement of an object in the video. You can then pin graphics on the object, making the video more exciting. You can also add specific text and align it to an object, allowing your audience to follow through the story.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. **Speed Ramping**
 
 The way you present your video means a lot to the audience. No one wants a boring or a really slow-moving video. With the Speed Ramping feature on Filmora, you can adjust the speed of your Shorts with better control of your keyframes. This allows you to create unique cinematic effects that keep the audience wanting more of the content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 The introduction of the YouTube monetization 500 subscribers’ policy update was a special moment for small YouTubers. It meant that the platform was extending its YPP program to more creators, allowing them to earn money from their content. Lowering the monetization requirement gives more people a chance to make money faster. However, it is important to make sure that your videos are offering value to your audience. We recommend using Wondershare Filmora to edit your videos and make sure they stand out from the competition. The better your videos will be, the more views you will get, and the more money you will make.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Guidance for Effortless Addition of YouTube Playlists to Your Site
 
@@ -225,10 +225,11 @@ Step4 You need to [create your YouTube API Key](https://developers.google.com/yo
 
 Step5 Select the Playlist you want to display on your WordPress website and take its **ID**. Paste that in the next pop-up window and click **"Next"** to continue the process.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adding playlist id to embed in website](https://images.wondershare.com/filmora/article-images/2023/03/adding-playlist-id-to-embed-in-website.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your YouTube playlist will be connected to your WordPress website. To further customize it, select the template you want and click **"Next."** You can also configure the **Feed Layout** and **Color Scheme.**
 
@@ -270,6 +271,10 @@ Step3 Choose the **"Embed"** option, and a new lightbox pop-up will appear, havi
 
 ![embedding youtube playlist in website using iframe code](https://images.wondershare.com/filmora/article-images/2023/03/embedding-youtube-playlist-in-website-using-iframe-code.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Log in to your WordPress dashboard and open the page/post editor where you want to embed the playlist. Click the **"Plus"** icon, search for **"custom HTML,"** and select **"Custom HTML block"** to add to the page/post.
 
 Now, paste the iFrame embed code you've copied from YouTube and click "Update" at the top-right of the screen to save the changes and embed your playlist.
@@ -277,8 +282,9 @@ Now, paste the iFrame embed code you've copied from YouTube and click "Update" a
 This method will also display one video with a menu from where you and your website viewers can access the playlist. Moreover, there are few customization options to change the appearance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Bonus Tip: YouTube Video Maker - Filmora
 
 If you find your YouTube videos as boring and not engaging as other content on your website, we recommend using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for your next project.
@@ -297,9 +303,6 @@ Some key features of Wondershare Filmora are as follows:
 * Record from webcam, screen, and voiceover.
 * Simple drag-and-drop interface.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses step-by-step methods **to embed a YouTube playlist on a website** using the WordPress plugin, oEmbed code, and iFrame embed code.
@@ -322,9 +325,6 @@ Some key features of Wondershare Filmora are as follows:
 * Record from webcam, screen, and voiceover.
 * Simple drag-and-drop interface.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses step-by-step methods **to embed a YouTube playlist on a website** using the WordPress plugin, oEmbed code, and iFrame embed code.
@@ -346,8 +346,24 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[New] 2024 Approved Amplify Views Effortlessly Discovering the Best 20 YouTube Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-can-a-brief-subscribe-boost-your-content-viewing/"><u>[New] 2024 Approved Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[New] 2024 Approved Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-inspiring-ideas-gratis-graphics-for-your-channel/"><u>[New] Inspiring Ideas Gratis Graphics for Your Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-mastery-enhancing-freefire-gameplay-videos/"><u>[Updated] 2024 Approved Hashtag Mastery Enhancing FreeFire Gameplay Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-presentations-with-professional-screencasts/"><u>[Updated] Elevate Your Presentations with Professional Screencasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-cameras-and-monitors-together-efficiently-for-2024/"><u>[Updated] How to Record Cameras & Monitors Together Efficiently for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] In 2024, Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[Updated] In 2024, How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-upgrade-your-content-presentation-with-top-tier-templates-for-2024/"><u>[Updated] Upgrade Your Content Presentation with Top-Tier Templates for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/chromebook-revolution-zdnet-reviews-the-latest-5-advanced-ai-functionalities-introduced-by-google-this-week/"><u>Chromebook Revolution: ZDNet Reviews the Latest 5 Advanced AI Functionalities Introduced by Google This Week</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y36i-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y36i via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-definition-clash-prodigious-sj6-versus-innovative-yi-4k/"><u>In 2024, High Definition Clash Prodigious SJ6 Versus Innovative Yi 4K</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-a2plus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi A2+ to Protect Your Individual Information</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revolutionizing-in-car-entertainment-the-future-without-spotifys-car-thing/"><u>Revolutionizing In-Car Entertainment: The Future Without Spotify's 'Car Thing'</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-experts-insights-on-iphone-based-podcast-acquisition-for-2024/"><u>The Expert's Insights on iPhone-Based Podcast Acquisition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uncovering-the-truth-behind-4-second-youtube-subscriptions-for-2024/"><u>Uncovering the Truth Behind 4-Second YouTube Subscriptions for 2024</u></a></li>
+</ul></div>
 

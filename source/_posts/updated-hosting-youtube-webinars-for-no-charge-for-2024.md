@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Hosting YouTube Webinars for No Charge for 2024"
-date: 2024-08-20T13:46:21.223Z
-updated: 2024-08-21T13:46:21.223Z
+date: 2025-02-15T21:55:09.447Z
+updated: 2025-02-17T02:33:01.077Z
 tags:
   - ai video
   - ai youtube
@@ -30,6 +30,10 @@ An alternative solution is available if your budget is tight, but you'd still li
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -45,14 +49,8 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Hosting a Webinar for Free
 
 The world's largest video sharing platform also features broadcasting options that enable its users to schedule events and thus host webinars free of charge. Previously known as the Google Hangouts on Air, the YouTube Live feature is fairly simple to set up, but before you start your first webinar you will need to choose a landing page and a chatbox. If you already have a website you can simply copy and paste the embed link and create a landing page for your webinar, or you can use landing pages software products such as [LeadPages](https://www.leadpages.net/) or [Unbounce](https://unbounce.com/) if you don't have your own online domain. For setting up chatboxes for your webinars we recommend using [Chatroll](https://chatroll.com/) or [RumbleTalk](https://www.rumbletalk.com/) platforms, although you'll have to pay a fee if you choose to chat with your audience using these computer programs. So here's how you can host your first webinar on YouTube for free.
@@ -81,9 +79,6 @@ Hit the Go Live Now button, when you are ready to start your first webinar and e
 
  **Read More to Get :** [10 Best Free Video Hosting Sites for Private/Business Online](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -91,7 +86,6 @@ Max Wales
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +115,10 @@ Viewers click on thumbnails that both standout and feel relevant to their search
 4. [How to Make Thumbnails that Get Clicks (Without Clickbait!)](#clicks)
 5. [Animated YouTube Thumbnails](#gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make a YouTube Thumbnail
 
 In order to create a custom video thumbnail, you’ll need a program to put it together in. You can use an image editing program like Photoshop if you have one, but if you don’t you can check out these [free thumbnail makers](#makers).
@@ -130,8 +128,9 @@ Here are some examples of popular thumbnail styles.
  ![Popular YouTube Thumbnail Layout](https://images.wondershare.com/filmora/article-images/popular-youtube-thumbnail-layout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. The Classic Thumbnail (Photo or Screenshot)
 
 A photo that shows what happens in your video – whether that means the finished ‘look’ from your makeup tutorial or you posing in front of the landmark you shot your travel vlog in front of – is a great way to let viewers know what to expect. While curiosity can be a big motive behind clicking on a video thumbnail (or anything online), when people have searched for a specific topic they want to be convinced that your video has what they’re looking for.
@@ -157,6 +156,10 @@ In some cases you might use text to make it clear what type of video you’ve ma
 You should also avoid fonts that are harder to read. Fonts with a lot of curves can be harder to read, and you want to make sure you choose a color that stands out from your background. Yellow might work against black, but it probably won’t work against the beige wall of your sunny bedroom. Sans serif fonts tend to be best.
 
 Another tactic used in successful thumbnails is to add small graphics, like emojis or small images (i.e. pumpkins for a Halloween video), which are related to your video’s content. As with text, you don’t want to overload your thumbnail with images, but they’re a great way to add something eye-catching that’s a bit different from competing thumbnails.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. The Emotional Laser (Background + Face Reacting)
 
@@ -188,9 +191,6 @@ In your thumbnail maker or a program like Photoshop, you’ll need to put your p
 
 If instead of an object you plan to fill the other side of your thumbnail with text, question marks, emojis, or some other graphic element then now is the time to add it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Upload a YouTube Thumbnail
 
 When you upload a new video to YouTube, you will see a **Custom thumbnail** option under **Video thumbnails** after your upload is complete.
@@ -260,9 +260,6 @@ Type your video’s title or topic into the search engine on YouTube and look at
 
 Generally, if most of the thumbnails have the same layout, you’ll want to mimic that layout. Where you can break from the crowd is in the colors, fonts, and graphics you use.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Animated YouTube Thumbnails
 
 Whether or not you upload a custom thumbnail to YouTube, YouTube’s A.I will choose what it thinks are the 3 juiciest seconds of your video (you cannot choose for yourself) and play them as a GIF-like animation when people mouseover your video thumbnails.
@@ -272,8 +269,9 @@ As of now, this only works in the Google Chrome desktop browser. Videos have to 
 Alright, now that you know everything about YouTube thumbnails, go make one! Tell us in the comments what you’re going to do to make your video thumbnails stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Touch Up YouTube Videos with Effects & Elements in Filmora
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface. Download the free trial version and get started now.
@@ -281,8 +279,9 @@ As one of the most widely used video editing software in YouTube video editing, 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -291,7 +290,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -299,8 +297,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[New] 2024 Approved From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-still-photos-to-dynamic-video-how-to-use-your-cellular-device/"><u>[New] 2024 Approved From Still Photos to Dynamic Video How To Use Your Cellular Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gentle-request-for-a-greater-genuine-community/"><u>[New] 2024 Approved Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[New] 2024 Approved How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[New] In 2024, For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[New] In 2024, How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-proven-techniques-to-follow-your-favorite-cricketers-live/"><u>[New] In 2024, Proven Techniques to Follow Your Favorite Cricketers Live</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-spellbinding-tones-validity-of-the-vocal-transformation-app-questioned-check-out-more/"><u>[New] In 2024, Spellbinding Tones Validity of the Vocal Transformation App Questioned - Check Out More</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-tackling-youtube-challenges-head-on-with-insights-from-hub-of-creators/"><u>[Updated] 2024 Approved Tackling YouTube Challenges Head-On with Insights From Hub of Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-gimmicks-to-giants-navigating-popular-short-hashtags/"><u>[Updated] In 2024, From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-smbus-driver-download-and-update-quickly-and-easily/"><u>AMD SMBus Driver Download & Update. Quickly & Easily!</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-termination-error-a-guide-for-windows-users/"><u>Bypassing Termination Error: A Guide for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-list-8-top-android-mp3-downloads/"><u>Comprehensive List 8 Top Android MP3 Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-canon-printer-driver-downloads-and-latest-updates-get-started-now/"><u>Free Canon Printer Driver Downloads and Latest Updates - Get Started Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-content-strategy-on-pinterest-using-our-top-pinning-automation-tools/"><u>Streamline Your Content Strategy on Pinterest Using Our Top ˈPinning Automation Tools</u></a></li>
+</ul></div>
 

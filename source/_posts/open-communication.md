@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2025-02-06T16:51:44.029Z
-updated: 2025-02-07T16:47:44.797Z
+date: 2025-02-09T19:33:33.341Z
+updated: 2025-02-16T19:48:08.705Z
 tags:
   - apple
 categories:
@@ -26,13 +26,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -45,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -55,7 +55,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -90,10 +90,6 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -108,6 +104,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,14 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-respond-to-a-youtube-copyright-claim-best-practices/"><u>[New] 2024 Approved How to Respond to a YouTube Copyright Claim Best Practices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-10-best-cost-free-subtitle-grabs-from-youtube/"><u>[New] In 2024, 10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-packaging-to-prowess-marketings-unboxed-secrets/"><u>[New] Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flash-share-sharing-playlists-in-a-snap/"><u>[Updated] 2024 Approved Flash-Share Sharing Playlists in a Snap</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-ace-your-laughs-kinemaster-for-top-memes/"><u>[Updated] Ace Your Laughs KineMaster for Top Memes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-basic-to-exceptional-a-step-by-step-thumbnail-guide-for-2024/"><u>[Updated] From Basic to Exceptional A Step-by-Step Thumbnail Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-income-arises-from-each-snapshot-video-for-2024/"><u>[Updated] How Much Income Arises From Each Snapshot (Video) for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-exploring-the-potential-of-movie-maker-for-anime/"><u>In 2024, Exploring the Potential of Movie Maker for Anime</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-locating-any-file-on-your-pc-with-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Locating Any File on Your PC with Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-addressing-missing-image-display-in-youtubes-shorts/"><u>[New] 2024 Approved Addressing Missing Image Display in YouTubes Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-convert-google-meet-chats-into-youtube-livestream-easily/"><u>[New] 2024 Approved Convert Google Meet Chats Into YouTube Livestream Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-uncovering-your-just-watched-list-on-facebook-for-2024/"><u>[New] Uncovering Your Just-Watched List on Facebook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-15-youtube-starter-templates-a-guide-to-popularity-for-2024/"><u>[Updated] 15 YouTube Starter Templates A Guide to Popularity for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-videos-with-youtube-studios-editing-mastery-for-2024/"><u>[Updated] Elevate Your Videos with YouTube Studio's Editing Mastery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-seamlessly-reorganize-video-playlists-on-yt-for-2024/"><u>[Updated] How to Seamlessly Reorganize Video Playlists on YT for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-premier-fifa-vids-data-visualized-for-social-media/"><u>[Updated] Premier FIFA Vids Data Visualized for Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-swift-guide-to-chromakey-and-background-separation/"><u>[Updated] Swift Guide to Chromakey and Background Separation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>[Updated] The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unveiling-the-secrets-of-popularity-a-guide-to-15-best-opener-plans/"><u>[Updated] Unveiling the Secrets of Popularity A Guide to 15 Best Opener Plans</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram/"><u>2024 Approved From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/9-impactful-gains-from-linguistic-diversification/"><u>9 Impactful Gains From Linguistic Diversification</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-with-your-proofreading-needs/"><u>Can You Trust ChatGPT with Your Proofreading Needs?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y200-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y200 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-3-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord 3 5G Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>In 2024, Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/personalized-pick-our-top-12-favorite-pc-clicker-games-for-2024/"><u>Personalized Pick Our Top 12 Favorite PC Clicker Games for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/first-steps-in-high-quality-youtubing-for-2024/"><u>Your First Steps in High-Quality YouTubing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtubes-everlasting-titles-with-millions-of-viewers-for-2024/"><u>YouTube's Everlasting Titles with Millions of Viewers for 2024</u></a></li>
 </ul></div>
 

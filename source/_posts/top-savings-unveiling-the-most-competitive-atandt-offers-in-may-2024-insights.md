@@ -1,7 +1,7 @@
 ---
 title: "Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights"
-date: 2025-02-01T16:34:29.152Z
-updated: 2025-02-07T16:55:29.184Z
+date: 2025-02-16T02:54:00.345Z
+updated: 2025-02-16T21:29:49.035Z
 tags:
   - apple
 categories:
@@ -85,11 +85,19 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5097b272-8ec5-4da9-a978-84eeb95b607c%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -101,6 +109,10 @@ We also looked over customer reviews to find out what matters to real people who
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
@@ -108,7 +120,7 @@ Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
@@ -123,13 +135,13 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Apple watches have the new double tap feature?
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the different Apple Watch bands available?
 
@@ -137,17 +149,9 @@ Apple offers several band options that are included with their watches, some dep
 
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are there any alternative smartwatches worth considering?
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does "trade-in" mean?
 
@@ -156,10 +160,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -205,16 +205,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>[New] Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hastened-steps-for-clear-background-filming-success-for-2024/"><u>[New] Hastened Steps for Clear Background Filming Success for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-twitter-videos-on-snapchat-in-2024/"><u>[New] How to Post Twitter Videos on Snapchat, In 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-lecture-transcribers-for-learning-institutions/"><u>[New] Premium Lecture Transcribers for Learning Institutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style-for-2024/"><u>[Updated] Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-banishing-the-darkness-tips-for-a-bright-screen-on-obs/"><u>[Updated] In 2024, Banishing the Darkness Tips for a Bright Screen on OBS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[Updated] In 2024, Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-poco-x6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Poco X6 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-your-hands-on-yn560ivs-speedy-flash-and-master-control-all-for-less/"><u>Get Your Hands on YN560IV's Speedy Flash & Master Control, All for Less!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-easily-set-up-your-anker-mouse-with-its-drivers/"><u>How to Easily Set Up Your Anker Mouse with Its Drivers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-video-perfection-in-progress-edits-after-uploading-on-youtube/"><u>[New] 2024 Approved Video Perfection in Progress Edits After Uploading on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-audacitys-annotated-guide-for-amplifying-transitions/"><u>[Updated] In 2024, Audacity's Annotated Guide for Amplifying Transitions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-eliminate-backdrop-in-affinity/"><u>[Updated] In 2024, Eliminate Backdrop in Affinity</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-razr-40-ultra-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Razr 40 Ultra Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782784-9781594777936-obi/"><u>Obí | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-companion-effortless-dvd-conversion-using-winx-dvd-ripper-suite-on-your-mac-device/"><u>Step-by-Step Companion: Effortless DVD Conversion Using WinX DVD Ripper Suite on Your Mac Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-screen-time-treasure-summers-top-10-gems-for-2024/"><u>The Ultimate Screen Time Treasure Summer’s Top 10 Gems for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-davinci-resolve-webm-export-issues-effective-solutions-uncovered/"><u>Troubleshooting DaVinci Resolve WebM Export Issues - Effective Solutions Uncovered</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-choosing-a-quality-mkv-splitter-for-seamless-cutting-without-re-encryption/"><u>Ultimate Guide to Choosing a Quality MKV Splitter for Seamless Cutting Without Re-Encryption</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-steady-shots-for-free-the-best-online-video-stabilizers/"><u>Updated 2024 Approved Get Steady Shots for Free The Best Online Video Stabilizers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287329930-xmedia-recode6/"><u>XMedia Recodeでエンコーディングを失敗した場合、解決策として実行すべき6つのステップ</u></a></li>
 </ul></div>
 

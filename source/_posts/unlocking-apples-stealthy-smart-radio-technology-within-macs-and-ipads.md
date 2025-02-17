@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads
-date: 2025-02-02T16:26:15.757Z
-updated: 2025-02-07T16:11:14.298Z
+date: 2025-02-11T22:25:51.425Z
+updated: 2025-02-16T23:37:56.800Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C805fde8f-ca67-4679-84b7-c724546e09cc%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Macs with a Thread radio:
@@ -62,10 +62,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
@@ -82,13 +78,13 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -102,11 +98,11 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## What is Thread?
 
@@ -115,10 +111,6 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 **Also: [Google is turning its TVs into Home hubs and giving devs access to over 600 million smart devices](https://www.zdnet.com/home-and-office/smart-home/google-is-turning-its-tvs-into-home-hubs-and-giving-devs-access-to-over-600-million-smart-devices/)**
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Thread border router?
 
@@ -152,6 +144,10 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -163,6 +159,10 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,17 +204,20 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-on-steps-for-crafting-an-influential-online-gamers-channel/"><u>[New] 2024 Approved Game On Steps for Crafting an Influential Online Gamers' Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-authenticate-your-yt-account-a-hint-list/"><u>[New] 2024 Approved How to Authenticate Your YT Account? A Hint List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-remove-pending-videos-from-your-youtube-history/"><u>[New] 2024 Approved How to Remove Pending Videos From Your YouTube History</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-youtube-seo-guide-for-beginners-who-want-more-views-for-2024/"><u>[New] YouTube SEO Guide for Beginners Who Want More Views for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>[Updated] In 2024, Hilarious YouTube Moments Top 10 Quirky Short Film Concepts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-professional-youtuber-backgrounds/"><u>2024 Approved Free Professional YouTuber Backgrounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-reasons-excluding-gpt-from-cryptographic-research/"><u>5 Reasons: Excluding GPT From Cryptographic Research</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazons-latest-great-deals-of-august-2e-spotlight-on-unbeatable-bargains-with-insights/"><u>Amazon's Latest Great Deals of August 2E: Spotlight on Unbeatable Bargains with Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-huion-tablet-drivers-on-windows-easy-guide/"><u>Download and Install Huion Tablet Drivers on Windows - Easy Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-commandments-of-eye-catching-podcast-album-imagery/"><u>In 2024, 10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-resolved-inaccessible-full-screen-obs/"><u>[Updated] 2024 Approved Resolved Inaccessible Full Screen OBS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-video-gathering-made-easy-top-5-no-cost-online-downloaders/"><u>[Updated] In 2024, Video Gathering Made Easy Top 5 No-Cost, Online Downloaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bu-tarafdan-dogru-olan-izmirdeki-sanat-giselerinin-farklilarin-ustesinden-basaricisi-bolumunun-nedeni-deger/"><u>Bu Tarafdan Doğru Olan İzmir'deki Sanat Gişelerinin Farklıların Üstesinden Başarıcısı Bölümünün Nedeni Değer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-streaming-webm-videos-on-your-iphone/"><u>Comprehensive Guide: Streaming WebM Videos on Your iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-macx-iphone-docking-manual-seamless-iphone-to-mac-conversion-and-direct-iphone-storage/"><u>Comprehensive MacX iPhone Docking Manual: Seamless iPhone-to-Mac Conversion & Direct iPhone Storage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertissez-votre-fichier-aif-en-format-m4a-sans-frais-solutions-en-ligne/"><u>Convertissez Votre Fichier AIF en Format M4A Sans Frais - Solutions en Ligne</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/drag-and-drop-multimedia-elements-such-as-images-videos-audio-files-charts-graphs-onto-the-presentation-canvas-n-indicates-a-new-line-for-readability/"><u>Drag and Drop Multimedia Elements Such as Images, Videos, Audio Files, Charts, Graphs Onto the Presentation Canvas. ( N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-conversion-techniques-from-mp4-to-avi-speedy-solutions-unveiled/"><u>Effortless Conversion Techniques From MP4 to AVI – Speedy Solutions Unveiled!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-transform-your-youtube-videos-into-high-quality-audio-files-using-the-top-mp3-converter/"><u>How to Transform Your YouTube Videos Into High-Quality Audio Files Using the Top MP3 Converter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-overview-the-top-12-free-user-friendly-video-players-and-apps-pcandroid/"><u>In 2024, Comprehensive Overview The Top 12 Free, User-Friendly Video Players & Apps (PC/Android)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g04-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G04 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-science-of-video-sizing-by-imovie/"><u>The Science of Video Sizing by iMovie</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-an-iphones-black-screen-problems-post-update-or-physical-damage/"><u>Troubleshooting an iPhones Black Screen Problems Post-Update or Physical Damage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updating-your-iphone-to-ios-17-made-easy-the-definitive-guide-for-a-smooth-transition/"><u>Updating Your iPhone to iOS 17 Made Easy: The Definitive Guide for a Smooth Transition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-8-tools-transforming-gameplay/"><u>Visionary 8 Tools Transforming Gameplay</u></a></li>
 </ul></div>
 

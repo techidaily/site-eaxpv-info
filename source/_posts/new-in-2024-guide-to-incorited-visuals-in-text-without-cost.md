@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Guide to Incorited Visuals in Text Without Cost"
-date: 2024-08-20T13:45:37.304Z
-updated: 2024-08-21T13:45:37.304Z
+date: 2025-02-11T21:12:31.466Z
+updated: 2025-02-16T16:10:08.355Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
 # How to Add Video to Text
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -43,22 +40,20 @@ Head over to the Insert tab, select Rectangle from the Shapes menu, and create a
 
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
 
 Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down menu. The shape of the text in the textbox will be applied to the object in the background, which enables you to add a video to that text.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- substract](https://images.wondershare.com/filmora/article-images/subtract-from-merge-shapes.jpg)
 
 Click on the Insert tab, and then choose the Video option from the Media menu. You can [insert a video](https://tools.techidaily.com/wondershare/filmora/download/) that is stored on a local hard drive or the Internet to PowerPoint. The video will cover the entire slide, so you must right-click on it and select the Send to Back option.
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Adding Video to Text in Filmora
 
 Besides presentation software, you can also use video editing software products to add a video to text. Filmora lets you add a video to text in just a few simple steps. You can first make a text video with animation first, and then use the picture in picture feature to add the video to text. Here are the detailed information about how to add a video to text in Filmora.
@@ -67,9 +62,6 @@ Besides presentation software, you can also use video editing software products 
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
 
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
@@ -100,23 +92,16 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explore 8+ Places for Gratis HDR Environments & Clips
 
 # Top 8 Sites to Get Free Green Screen Backgrounds and Footage
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -137,18 +122,27 @@ The best video editor for YouTubers - [Wondershare Filmora](https://tools.techid
 
 In the video tutorial below, we will walk you through the steps to transforming your video into a cinematic marvel. With a few simple clicks and adjustments, you can take your audience to another world.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Top 8 sites to get free green screen videos
 
 With the latest release, you can now download video effects, video footage, stock image, and royalty-free sound effect and music from the effects store [Wondershare Filmstock](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Videvo
 
@@ -213,10 +207,15 @@ The features of iStock include-
 * Find HD Video and 4K footage with green screen background at a nominal price just for the video and not the size.
 * Pricing is flexible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iStock](https://images.wondershare.com/filmora/article-images/iStock.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Green Screen Animals
 
@@ -229,10 +228,15 @@ The features are-
 * Use 3D chimpanzee models in your project with the green screen background.
 * Getting performance from the animals can be a tough call, Green Screen Animals makes it easy.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Green Screen Animals](https://images.wondershare.com/filmora/article-images/Green-Screen-Animals.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7. Footage Island
 
@@ -242,6 +246,10 @@ Get video footage for both private and commercial use completely free. You just 
 * Free download for both personal and commercial use with just credits to the channel.
 
 ![Footageisland](https://images.wondershare.com/filmora/article-images/Footageisland.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. Shutterstock
 
@@ -257,9 +265,6 @@ The features include-
 
 ![Shutterstock](https://images.wondershare.com/filmora/article-images/Shutterstock.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to make and apply a green screen background
 
 In our last article, we have shared with you [how to make and use green screen footage](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -270,34 +275,20 @@ The core objective is to have a smooth one colored background which is easy to r
 
 For a good quality result from a DIY green screen, you need to take care of the following items:
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### 1\. Screen Quality
 
 Green screens can be wall painted with a chroma key, a large sheet of cloth hung without any creases, or a portable setup canvas that can cover the given area.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Lightning
 
 The most important thing to be kept in mind is that your background should be lit evenly. Any shadows on the background should be avoided. The distance of the subject should be at least ten feet from the background, to minimize any kind of shadow.
 
 **You may also like:** [\>> Blue Screen VS Green Screen: All You Need to Know](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to composite green screen video footage
 
 The next step is to utilize the downloaded free green screen footage with your video.
@@ -318,7 +309,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -326,8 +316,23 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[New] 2024 Approved Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-pioneers-8-youtubes-fastest-climbers/"><u>[New] 2024 Approved Fresh Pioneers 8 YouTube's Fastest Climbers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-virtual-reality-jargon/"><u>[New] Breaking Down Virtual Reality Jargon</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack-for-2024/"><u>[New] Harmonizing Hit Hits Building the Perfect YouTube Soundtrack for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-follow-the-footsteps-of-fan-driven-forums/"><u>[New] In 2024, Follow the Footsteps of Fan-Driven Forums</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-history-streams-that-will-transform-your-study-habits/"><u>[New] In 2024, History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-iphone-images-through-strategic-leading-lines/"><u>[New] Masterful iPhone Images Through Strategic Leading Lines</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-historical-discoveries-at-your-screen-10-best-educational-youtubers/"><u>[Updated] 2024 Approved Historical Discoveries at Your Screen - 10 Best Educational YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-benefits-with-creative-commons-licenses-for-2024/"><u>[Updated] Harnessing the Benefits with Creative Commons Licenses for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-guide-to-recording-streams-discovering-the-best-7-approaches/"><u>[Updated] In 2024, A Guide to Recording Streams Discovering the Best 7 Approaches</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-livestream-showdown-fb-live-yt-live-and-twittv/"><u>[Updated] Livestream Showdown FB Live, YT Live, & TwitTV</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-15-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-mechanical-keyboard-sanitation-tips-and-techniques/"><u>Master the Art of Mechanical Keyboard Sanitation: Tips & Techniques</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/taglia-il-tuo-video-su-mac-metodo-facile-e-rapido-usando-movavi/"><u>Taglia Il Tuo Video Su Mac: Metodo Facile E Rapido Usando Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-se-2022-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone SE (2022) Passcode without a Computer</u></a></li>
+</ul></div>
 

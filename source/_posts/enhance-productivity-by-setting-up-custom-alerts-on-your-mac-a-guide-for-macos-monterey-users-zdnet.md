@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2025-02-04T16:54:12.600Z
-updated: 2025-02-07T16:49:46.156Z
+date: 2025-02-14T16:08:02.471Z
+updated: 2025-02-16T18:31:03.370Z
 tags:
   - apple
 categories:
@@ -27,18 +27,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -59,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -76,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,22 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-crafting-an-authoritative-online-self-for-2024/"><u>[New] From Zero to Hero Crafting an Authoritative Online Self for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-mastery-seamless-yt-integration-for-2024/"><u>[New] Green Screen Mastery Seamless YT Integration for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hourly-heavy-hitters-top-ten-youtube-video-rankings-in-a-day/"><u>[New] In 2024, Hourly Heavy Hitters Top Ten YouTube Video Rankings in a Day</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams/"><u>[Updated] 2024 Approved Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[Updated] 2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] 2024 Approved How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-7-best-online-voice-recorders-2023/"><u>[Updated] 7 Best Online Voice Recorders 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-leaderboard-top-subscribers-by-youtube-star/"><u>[Updated] In 2024, Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] In 2024, Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-note-12r-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi Note 12R Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-unlink-gadgets-from-google-home-networks/"><u>Expert Tips on How to Unlink Gadgets From Google Home Networks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-legitimacy-of-a-career-in-prompt-engineering-essential-considerations/"><u>Exploring the Legitimacy of a Career in Prompt Engineering: Essential Considerations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-overcome-challenges-when-your-computer-wont-shut-down-in-windows-11/"><u>How to Overcome Challenges When Your Computer Won't Shut Down in Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-through-complete-circles-on-screen/"><u>In 2024, Navigating Through Complete Circles on Screen</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-secrets-to-flawless-hdr-image-creation-and-merging-in-lightroom/"><u>The Secrets to Flawless HDR Image Creation and Merging in Lightroom</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enhancing-iphones-in-night-mode-silhouettes/"><u>[Updated] 2024 Approved Enhancing iPhones in Night Mode Silhouettes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-iphone-12/"><u>Apple iPhone 12お披露目用:信じられないほど多くの無料音楽アプリを発表</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/can-an-8k-television-surpass-the-visuals-of-imax-quality/"><u>Can an 8K Television Surpass the Visuals of IMAX Quality?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722192450282-chatgpt-bodystream-error-here-are-seven-ways-to-fix-it/"><u>ChatGPT Bodystream Error? Here Are Seven Ways to Fix It!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-bollywood-film-hits-and-top-rated-mp3s-at-no-cost-a-complete-guide/"><u>Download Bollywood Film Hits and Top-Rated MP3s at No Cost – A Complete Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fix-your-safari-trouble-with-youtube-4k-videos-expert-tips-and-solutions/"><u>Fix Your Safari Trouble with YouTube 4K Videos – Expert Tips and Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-7-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 7? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlock-your-potential-best-instagram-video-editors-android-pc/"><u>In 2024, Unlock Your Potential Best Instagram Video Editors (Android, PC)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-technique-for-silencing-firewall-in-win11/"><u>Master Technique for Silencing Firewall in Win11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/navigating-through-digiarty-techs-faq-your-guide-to-addressing-registration-problems-smooth-deliveries-and-overcoming-tech-issues/"><u>Navigating Through Digiarty Tech's FAQ: Your Guide to Addressing Registration Problems, Smooth Deliveries, and Overcoming Tech Issues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/rotate-your-videos-with-ease-10-top-online-tools-for-2024/"><u>Rotate Your Videos with Ease 10 Top Online Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-tips-efficiently-converting-mp4-files-to-compatible-format-on-your-ipad/"><u>Top Tips: Efficiently Converting MP4 Files to Compatible Format on Your iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-mac-compatible-dvd-ripper-tools-for-easy-dvd-conversion-to-hard-drive/"><u>Top-Rated Mac-Compatible DVD Ripper Tools for Easy DVD Conversion to Hard Drive</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tp-link-wireless-adapter-driver-download-for-windows-easily/"><u>TP Link Wireless Adapter Driver Download for Windows EASILY</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transferer-votre-systeme-vers-un-nouveau-ssd-samsung-des-techniques-simples-et-rapides-pas-dinstallation-requise/"><u>Transférer Votre Système Vers Un Nouveau SSD Samsung : Des Techniques Simples Et Rapides, Pas D'installation Requise!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-quicktime-compatibility-issues-after-fixing-imovie-export/"><u>Troubleshooting QuickTime Compatibility Issues After Fixing iMovie Export</u></a></li>
 </ul></div>
 

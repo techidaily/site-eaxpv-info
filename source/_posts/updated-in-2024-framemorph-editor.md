@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, FrameMorph Editor"
-date: 2024-08-20T13:46:24.379Z
-updated: 2024-08-21T13:46:24.379Z
+date: 2025-02-11T23:17:08.959Z
+updated: 2025-02-17T01:28:29.911Z
 tags:
   - ai video
   - ai youtube
@@ -96,9 +96,6 @@ Record screen and webcam as well
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Handheld Shots: No Tripod Necessary
 
 # DIY Tripods| How to Stabilize Your Camera without Buying a Tripod
@@ -114,22 +111,25 @@ Record screen and webcam as well
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### DIY Your Video with Wondershare Filmora
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are 3 of our favorite DIY tripods.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -148,13 +148,18 @@ And here it is with hair clips:
 
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **DIY adjustable tripod using books and a towel**
 
 You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
@@ -178,9 +183,6 @@ Gorillapod’s are cool because you can use them like normal tripods, carry them
 
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 _All of your supplies plus the finished product._
@@ -211,7 +213,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,8 +220,18 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hitching-your-video-trailers-to-youtube-success/"><u>[New] 2024 Approved Hitching Your Video Trailers to YouTube Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[New] 2024 Approved How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixed-youtubes-missing-minute-media-for-2024/"><u>[New] Fixed YouTube's Missing Minute Media for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-what-does-it-take-to-promote-a-video-on-youtub/"><u>[New] What Does It Take to Promote a Video on YouTub?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifa-video-highlights-top-youtube-data-infographics/"><u>[Updated] In 2024, FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-embedding-on-screen-text-on-youtube-clips/"><u>[Updated] In 2024, Guide to Embedding On-Screen Text on YouTube Clips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-mastering-the-art-of-imitation-for-a-unique-and-authentic-tiktok-presence/"><u>2024 Approved Mastering the Art of Imitation for a Unique and Authentic TikTok Presence</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-solving-your-pcs-graphics-card-issues-on-windows-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Solving Your PC's Graphics Card Issues on Windows - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-the-intricacies-of-ai-black-box-technology/"><u>Understanding Artificial Intelligence: The Intricacies of AI 'Black Box' Technology</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/unlocking-the-power-of-gpt-4-making-cutting-edge-ai-accessible-to-all/"><u>Unlocking the Power of GPT-4: Making Cutting-Edge AI Accessible to All</u></a></li>
+</ul></div>
 

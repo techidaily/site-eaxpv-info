@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2025-01-21T16:20:50.933Z
-updated: 2025-01-25T19:41:58.515Z
+date: 2025-02-15T02:33:52.696Z
+updated: 2025-02-16T20:29:54.278Z
 tags:
   - apple
 categories:
@@ -34,19 +34,11 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Photo features
 
@@ -69,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
@@ -99,22 +91,30 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What will come later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Genmoji
 
@@ -158,19 +158,16 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-video-upload-techniques-for-youtube-via-premiere/"><u>[New] 2024 Approved Expert Video Upload Techniques for YouTube via Premiere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-globes-biggest-video-content-mogul/"><u>[New] 2024 Approved Globe’s Biggest Video Content Mogul</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-technology-the-art-of-capturing-ios-devices-in-media-for-2024/"><u>[New] Harnessing Technology The Art of Capturing iOS Devices in Media for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-minutes-to-quality-the-stepwise-conversion-of-youtube-shorts/"><u>[New] In 2024, From Minutes to Quality The Stepwise Conversion of YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-secure-and-cost-free-youtube-music-extraction-for-2024/"><u>[Updated] Guide to Secure and Cost-Free YouTube Music Extraction for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-seamless-merge-apple-music-and-videos-together/"><u>[Updated] Seamless Merge Apple Music & Videos Together</u></a></li>
-<li><a href="https://win-blog.techidaily.com/freeze-no-more-expert-advice-to-overcome-cod-bocw-freezing-problems/"><u>Freeze No More! Expert Advice to Overcome COD: BOCW Freezing Problems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-record-powerpoint-presentation-with-webcam/"><u>How to Record PowerPoint Presentation with Webcam</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-crashing-problems-with-madden-nfl-20-on-your-windows-computer/"><u>How to Resolve Crashing Problems with Madden NFL 20 on Your Windows Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-head-produced-by-a-centrifugal-pump-decreases-as-flow-rate-increases-beyond-the-bep-due-to-increased-hydraulic-losses-and-reduced-efficiency/"><u>The Head Produced by a Centrifugal Pump Decreases as Flow Rate Increases Beyond the BEP Due to Increased Hydraulic Losses and Reduced Efficiency.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-work-how-ai-agents-represent-a-new-era-of-innovation-and-permanent-shifts-in-employment-insights-from-zdnet/"><u>Transforming Work: How AI Agents Represent a New Era of Innovation and Permanent Shifts in Employment - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>Updated 2024 Approved The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/yl-softwares-guide-to-keeping-your-computer-free-of-dust-with-simple-cleaning-tips/"><u>YL Software's Guide to Keeping Your Computer Free of Dust with Simple Cleaning Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximizing-your-youtube-presence-via-featured-channel-strategy/"><u>[New] Maximizing Your Youtube Presence via Featured Channel Strategy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-sifting-through-social-media-archives-a-guide-for-laptopsphones-for-2024/"><u>[New] Sifting Through Social Media Archives A Guide for Laptops/Phones for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-auto-arcade-adventures-for-kids-for-2024/"><u>[Updated] Auto Arcade Adventures for Kids for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-production-value-with-free-sfx-libraries/"><u>Boost Production Value with Free SFX Libraries!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvdiso-iso/"><u>DVDからISO画像への簡単な変換 - ISOリッピングソフト使用ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-guide-to-downsize-and-share-bulky-videos-efficiently-through-whatsapp/"><u>Quick Guide to Downsize and Share Bulky Videos Efficiently Through WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/spielen-sie-dvds-auf-der-playstation-5-ab-eine-schritt-fur-schritt-anleitung/"><u>Spielen Sie DVDs Auf Der PlayStation 5 Ab - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20-proplus-video-recovery-recover-deleted-videos-from-tecno-spark-20-proplus-by-fonelab-android-recover-video/"><u>Tecno Spark 20 Pro+ Video Recovery - Recover Deleted Videos from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-14-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi 14 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-asynchronous-av-streams-in-high-efficiency-video-coding-hevc-common-issues-and-fixes/"><u>Troubleshooting Asynchronous AV Streams in High-Efficiency Video Coding (HEVC): Common Issues & Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unleash-the-power-of-obs-for-superior-skype-screen-capture/"><u>Unleash the Power of OBS for Superior Skype Screen Capture</u></a></li>
 </ul></div>
 
