@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Security with macOS 14.4.1: A Safer Path to Enhancing Your Mac Experience"
-date: 2025-02-16T03:24:41.424Z
-updated: 2025-02-17T00:40:32.086Z
+date: 2025-02-26T16:58:09.572Z
+updated: 2025-03-05T19:03:06.233Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -55,10 +51,6 @@ The Apple Intelligence ecosystem is fueled by a partnership with [OpenAI](https:
 Apple's approach to AI is markedly different from that of its competitors, however. Instead of positioning the new AI features as integral aspects of their products, Apple allows users to opt in, making immediate adoption a choice. The AI features are also clearly defined as being in beta, underscoring their nature as works-in-progress. 
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Continuity
 
@@ -96,10 +88,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -110,10 +98,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -123,10 +107,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,22 +142,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-become-a-social-media-vanguard-top-10-pioneering-igtv-techniques-for-marketing-excellence/"><u>[New] 2024 Approved Become a Social Media Vanguard Top 10 Pioneering IGTV Techniques for Marketing Excellence</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-video-money-roadmap-dailymotion-and-youtube-compared/"><u>[New] 2024 Approved The Video Money Roadmap Dailymotion & YouTube Compared</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-become-a-pro-at-live-streaming-on-discord-with-our-simple-steps/"><u>[Updated] In 2024, Become a Pro at Live Streaming on Discord with Our Simple Steps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-acid-pro-effect-exploring-similar-tools-for-2024/"><u>[Updated] The ACID Pro Effect Exploring Similar Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287293079-dvdmac/"><u>市販・レンタルDVDからMacへの移行手順：ステップバイステップガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-tutorial-on-transforming-mtsm2ts-video-formats-compatible-with-windows-movie-maker/"><u>Easy Tutorial on Transforming MTS/M2TS Video Formats Compatible with Windows Movie Maker</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-correcting-av-desynchronization-in-mkv-files/"><u>Effective Techniques for Correcting AV Desynchronization in MKV Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-blu-ray-copying-from-disc-to-computer-top-secure-decrypting-programs/"><u>Effortless Blu-Ray Copying From Disc to Computer: Top Secure Decrypting Programs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ejemplo-claro-y-efectivo-sobre-como-transferir-dvds-sin-perdida-de-calidad-usando-un-mac-big-sur/"><u>Ejemplo Claro Y Efectivo Sobre Cómo Transferir DVDs Sin Pérdida De Calidad Usando Un Mac Big Sur</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/graduating-from-novice-to-3d-lut-maestro/"><u>Graduating From Novice to 3D LUT Maestro</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-tecno-spark-20-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Tecno Spark 20 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>In 2024, Bandicam Reconnaissance A Comprehensive Review of Its Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285424986-mac/"><u>Mac向けの迅速かつ優れた品質:動画エンコードを容易に実行する最適な手段</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-mac-maintenance-with-scheduled-secure-file-and-folder-deletion-discover-stellar-file-eraser-standard-edition/"><u>Revolutionize Mac Maintenance with Scheduled Secure File & Folder Deletion - Discover Stellar File Eraser Standard Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steelseries-gg-not-responding-on-windows-heres-how-to-fix-it/"><u>SteelSeries GG Not Responding on Windows? Here's How to Fix It!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-achieving-top-quality-compression-of-videos-using-imovie/"><u>Ultimate Guide: Achieving Top-Quality Compression of Videos Using iMovie</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-movie-maker-win1110/"><u>Windows Movie Maker 在 Win11/10 系统中修复故障 - 解决无声音和其他问题</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>[New] 2024 Approved From Raw to Refined The Ultimate YouTube Studio Editing Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fundamental-codex-for-online-video-communities/"><u>[New] 2024 Approved Fundamental Codex for Online Video Communities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-turbocharge-touch-ups-learn-speedy-skills-for-win10-photos-editing/"><u>[New] Turbocharge Touch-Ups Learn Speedy Skills for WIN10 Photos Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-popular-youtube-short-snafus/"><u>[Updated] 2024 Approved Fixing Popular YouTube Short Snafus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-final-step-guide-free-yourself-from-youtube-shorts/"><u>[Updated] In 2024, Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>[Updated] In 2024, From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-artistic-techniques-for-3d-text-effect/"><u>2024 Approved Artistic Techniques for 3D Text Effect</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-firmware-gtx-1060-model/"><u>Enhanced Firmware: GTX 1060 Model</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-backup-issues-on-iphone-9-effective-solutions-for-a-smooth-recovery/"><u>ICloud Backup Issues on iPhone: 9 Effective Solutions for a Smooth Recovery</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-new-norms-with-fbcta-implementation/"><u>Navigating New Norms with FBCTA Implementation</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-talking-avatar/"><u>New In 2024, What Is Talking Avatar?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-into-simplicity-a-tailored-approach-to-creating-shorts-thumbnails-for-2024/"><u>Step Into Simplicity A Tailored Approach to Creating Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-master-file-removal-in-powershell-for-windows-users/"><u>Step-by-Step Guide: Master File Removal in PowerShell for Windows Users</u></a></li>
 </ul></div>
 

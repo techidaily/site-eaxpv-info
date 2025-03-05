@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Blurry to Bold  Crafting Powerful YouTube Previews\""
-date: 2024-08-20T13:54:09.128Z
-updated: 2024-08-21T13:54:09.128Z
+date: 2025-03-03T22:36:54.602Z
+updated: 2025-03-05T17:59:05.672Z
 tags:
   - ai video
   - ai youtube
@@ -55,14 +55,6 @@ Being a content creator, you never know which device is being used by the viewer
 
 Custom Thumbnail is a tool through which the viewers can understand everything about a video. It tells the viewers what to expect from a video, what not to expect, and what the video is all about. no matter if you create amazing content, if the thumbnail is not good enough to covey that to the viewers, all your hard work will be of no use and will not bring any good to your channel and its growth. According to [Google](https://support.google.com/youtube/answer/72431),90% of best-performing videos have custom thumbnails. It shows the importance of custom thumbnails.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![piechart-importance-of-custom-thumbnail.png](https://images.wondershare.com/filmora/article-images/piechart-importance-of-custom-thumbnail.png)
 
 ---
@@ -83,9 +75,6 @@ In a world full of machines and computers, people love to listen and interact wi
 
 With your face, it is necessary to put some text on your Youtube thumbnail to let viewers know what this video is all about without clicking or watching it. Don't use fancy fonts on Youtube thumbnail. It makes it hard for the viewers to read and understand what to expect in the video, especially for those watching YouTube on their 5 inches screen smartphone, ultimately decreasing the chances of your video being clicked and watched. I personally recommend you to use give these fonts a go while making YouTube thumbnail.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![simple-fonts-recommended](https://images.wondershare.com/filmora/article-images/simple-fonts-recommended.png)
 
 1. #### Use Phrases, not sentence
@@ -100,9 +89,6 @@ If you have ever noticed, Youtube thumbnails are very small in size, making it h
 
 When we navigate to a Youtube thumbnail and place the cursor on it, it shows us two icons, "Watch Later" and "Add to Queue," located on its right size. Come on, you don’t want your beautiful thumbnail that cost you a few hours be covered. To avoid these icons from hiding your important stuff of thumbnail, make sure to put everything on the right side of your thumbnail.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![put-stuff-on-left](https://images.wondershare.com/filmora/article-images/put-stuff-on-left.jpg)
 
 1. #### Have a unique and Consistent style
@@ -129,9 +115,6 @@ It is one of the old tricks that **so many people on Youtube us**e. **It undoubt
 
 Do you know that Youtube can show a 3-second preview of your video when someone hovers the cursor over it? It is one of the best ways to show the viewers the content of your video even when they don't click on your video. These three seconds will help them decide whether to click on your video or not. This preview is selected by the system from the first half of your video according to its relevance and similarity with the topic. That's why it is very important to add related information in the first half of the video, otherwise, Youtube will choose it randomly. If the preview is not selected for two days, it means your video is not eligible for it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose-preview-wisely](https://images.wondershare.com/filmora/article-images/choose-preview-wisely.gif)
 
 ---
@@ -142,9 +125,6 @@ Many of you might be interested in how to make a fortnite thumbnail, so here it 
 
 1. Before we start making Fortnite Thumbnails, we have to take a screenshot of the gameplay. Open Fortnite and go to the Career tab. Here you will find Replays.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
 
 1. It contains all your recent gameplays. We can use it to take a screenshot. If you are using a console, you will find 10 recent gameplays here. But if you are a PC user, you can find the last 100 gameplays. Select the gameplay you want to take a screenshot from.
@@ -157,23 +137,14 @@ Many of you might be interested in how to make a fortnite thumbnail, so here it 
 
 1. Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot that you have taken from Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
 1. Place it into the timeline to start working on it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
 
 1. Now to separate the character from the background, go to the Effects. Under effects, you can find a tab named AI Portraits. Click on AI Portrait. Now drag the Human Segmentation and drop it on the screenshot in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 1. It will ask you to purchase it. But there is no need to do that. Just hit Try It.
@@ -202,9 +173,6 @@ Many of you might be interested in how to make a fortnite thumbnail, so here it 
 
 1. Right-click on the screenshot and navigate to "Reveal in Explorer". It will open the folder that contains all the screenshots taken from Filmora. Now you can use it as a Fortnite Thumbnail.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
 
  ---
@@ -215,32 +183,14 @@ Once you have successfully created a custom thumbnail, you can use it in your vi
 
 1. Open Youtube Studio and upload your video. While uploading the video, you can see a section named "Thumbnail". Under this section, click on "Upload Thumbnail".
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how-to-add-custom-youtube-thumbnail-to-video-step1](https://images.wondershare.com/filmora/article-images/how-to-add-custom-youtube-thumbnail-to-video-step1.jpg)
 
 1. Select the thumbnail that you have made. Just like the one Fortnite thumbnail that we have created using Filmora X.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how-to-add-custom-youtube-thumbnail-to-video-step2](https://images.wondershare.com/filmora/article-images/how-to-add-custom-youtube-thumbnail-to-video-step2.jpg)
 
 1. The thumbnail will be uploaded and attached to the video. Now you can process all the settings and publish the video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![how-to-add-custom-youtube-thumbnail-to-video-step3](https://images.wondershare.com/filmora/article-images/how-to-add-custom-youtube-thumbnail-to-video-step3.jpg)
 
 ## Conclusion
@@ -256,7 +206,6 @@ Benjamin Arango
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,9 +229,6 @@ In this article, we will let you know how to get more views on [YouTube](https:/
 
 ## 10 Tips for Getting More Views on YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Be Searchable
 
 A big part of how to get views on YouTube is making sure people get a chance to watch your videos. People cannot click on something that does not come up in their search results. If you want people to get the chance to see your vlog you need to tailor the titles, descriptions, and tags of your videos so that they come up in searches.
@@ -291,9 +237,6 @@ A good way to start is to do a search for your topic and check out how videos th
 
 ![be searchable](https://images.wondershare.com/filmora/article-images/youtube-views01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Link Yourself
 
 If somebody is watching your video and enjoying it then they will probably welcome the chance to check out similar content. At the end of your videos always include a link to one of your previous videos. If somebody has watched your video all the way through then they must have liked it, and there is a good chance they will click your link. You can use either YouTube Cards or annotations to redirect viewers to your other videos.
@@ -302,9 +245,6 @@ You do not have to limit yourself to providing links only at the ends of your vi
 
 ![link yourself](https://images.wondershare.com/filmora/article-images/youtube-views02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Make Playlists
 
 Playlists work for the same reason that linking to your other videos does. If somebody likes what they are watching they will probably like watching something similar. The great thing about playlists is that the viewer does not have to take action and click on another of your videos – one just automatically plays when their current video ends. People watching a video on a playlist are more likely to watch multiple videos from that playlist.
@@ -313,18 +253,12 @@ If one of your videos is ranked high on a YouTube search, and that video is also
 
 ![playlist](https://images.wondershare.com/filmora/article-images/playlist-youtube.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Ask and You Shall Receive
 
 If you can get more people to subscribe to your videos then you will see your view counts start to snowball. How do you get people to subscribe and share your videos? Ask them to.
 
 People are more likely to subscribe or share if they are prompted to, so make sure to remind viewers to subscribe and share in every video. Consider putting a ‘subscribe’ button at the end of every video.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Use YouTube Cards
 
 The overlays that show up in the videos are the YouTube cards. In the overlays, you may add any link, call-to-action-button, image or a title that can explain the content of your video or help in sales.
@@ -333,18 +267,12 @@ For instance, when you create a video series, YouTube card helps your viewers to
 
 ![youtube cards](https://images.wondershare.com/filmora/article-images/add-youtube-annotations-and-cards.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. End Screens Is Useful
 
 The YouTube end screens are one of the best ways to get YouTube views. It offers several options to your viewers through the Call-to-Action button when you create your brand. You may consider inviting your audiences to subscribe and suggest a few videos that they may like from your channel.
 
 The end screens appear at the last 20 seconds of your video and up to 4 elements can be added to each of it. You may also add your landing page’s link in the ens screen.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![end screen](https://images.wondershare.com/filmora/article-images/youtube-end-screen.JPG)
 
 ### 7\. Optimize Thumbnail
@@ -363,9 +291,6 @@ But, you may use it only if they’re included in your video. The image thumbnai
 
 To get more views on YouTube, the content you offer must be valuable. It must either help people to learn something like how-to videos or keep people entertained and engaged. When you offer valuable content, people get back to you for more and also help in increasing views in your future videos.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. Interact With Your Viewers
 
 Without the viewers, it is not possible to get YouTube views so keeping your viewers in the loop is an ideal way to get more views on YouTube.
@@ -400,7 +325,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -408,8 +332,23 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-augmenting-film-vistas-with-apple-playlist/"><u>[New] Augmenting Film Vistas with Apple Playlist</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-which-is-superior-for-editing-bandicam-or-camtasia/"><u>[Updated] In 2024, Which Is Superior for Editing Bandicam or Camtasia?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-stardews-best-guide-to-ginger-island/"><u>[Updated] Stardew's Best Guide to Ginger Island</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevating-video-popularity-on-youtube/"><u>2024 Approved Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlock-youtubes-potential-with-smart-use-of-gaming-hashtags/"><u>2024 Approved Unlock YouTube's Potential with Smart Use of Gaming Hashtags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transform-your-dvds-into-digital-files-across-pc-mac-and-smartphone/"><u>Effortless Guide: Transform Your DVDs Into Digital Files Across PC, Mac, and Smartphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-apples-freshly-released-macbook-the-new-standard-in-portability-and-performance/"><u>Explore Apple's Freshly Released MacBook - The New Standard in Portability and Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-converter-effortless-dvd-to-mp4avi-conversion-for-mobile-devices-ios-and-android/"><u>Free WinX DVD Converter: Effortless DVD to MP4/AVI Conversion for Mobile Devices, iOS & Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-bots-battle-gpt-or-bing-chat-leads/"><u>Generative Bots Battle - GPT or Bing Chat Leads?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-converting-youtube-videos-into-engaging-gifs-on-devices/"><u>In 2024, Converting YouTube Videos Into Engaging GIFs on Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macmovmp4/"><u>MacからMOVファイルをMP4へ完全忠実移行:電光石火の速度で</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mejora-la-velocidad-de-codificacion-hevch265-consejos-para-acelerar-el-proceso/"><u>Mejora La Velocidad De Codificación HEVC/H.265: Consejos Para Acelerar El Proceso</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-applicazioni-di-intelligenza-artificiale-per-scalare-i-video/"><u>Top 6 Applicazioni Di Intelligenza Artificiale per Scalare I Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-empfohlene-screen-recorder-fur-windows-10-8-and-7-perfektes-tool-zur-erfassung-ihrer-pc-aktivitaten/"><u>Top-Empfohlene Screen Recorder Für Windows 10, 8 & 7: Perfektes Tool Zur Erfassung Ihrer PC-Aktivitäten</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformation-libre-et-rapide-des-fichiers-wmv-au-format-mp4-avec-precision-qualitative-de-98/"><u>Transformation Libre Et Rapide Des Fichiers WMV Au Format MP4 Avec Précision Qualitative De 98%</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/virtual-horizons-where-is-the-new-frontier-of-vr-for-2024/"><u>Virtual Horizons Where Is the New Frontier of VR for 2024</u></a></li>
+</ul></div>
 

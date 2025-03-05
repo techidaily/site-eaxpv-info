@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency Improvements Across Various Sectors (Industry, Transportation, Buildings) Lower Overall Energy Consumption and Associated Emissions.
-date: 2025-02-11T20:18:57.978Z
-updated: 2025-02-16T22:59:02.531Z
+date: 2025-02-27T21:51:35.830Z
+updated: 2025-03-05T21:23:39.401Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -90,10 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +109,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +120,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -210,18 +190,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-anonymous-access-to-instagram-story-content-on-desktopstablets-and-smartphones-no-cost/"><u>[Updated] 2024 Approved Unveiling Anonymous Access to Instagram Story Content on Desktops/Tablets & Smartphones (No Cost)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-ideal-dimensions-for-youtube-thumbnail-attraction/"><u>[Updated] In 2024, Ideal Dimensions for YouTube Thumbnail Attraction</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-vegaspro-the-19-edition-for-2024/"><u>[Updated] Unveiling VegasPro The '19 Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-32windows-10dvd/"><u>官方 WinX DVD Ripper 白金版：32倍加速，在Windows 10上简易复制任意DVD内容</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effizientes-dvd-handling-mit-winxdvd-ein-umfassender-leitfaden-zur-optimalen-nutzung-der-software/"><u>Effizientes DVD-Handling Mit WinXDVD - Ein Umfassender Leitfaden Zur Optimalen Nutzung Der Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effizientes-einbinden-von-dvds-auf-itunes-fur-mac-und-windows-anleitung-innerhalb-weniger-schritte/"><u>Effizientes Einbinden Von DVDs Auf iTunes Für Mac Und Windows - Anleitung Innerhalb Weniger Schritte</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-limitations-with-gpt-3/"><u>Exploring AI Limitations with GPT-3</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/herausragende-techniken-zur-ubertragung-von-dvds-auf-computerlaufwerke-ein-leitfaden/"><u>Herausragende Techniken Zur Übertragung Von DVDs Auf Computerlaufwerke: Ein Leitfaden</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/possibilite-de-sous-titrer-des-fichiers-av1-avec-handbrake-instructions-pratiques/"><u>Possibilité De Sous-Titrer Des Fichiers AV1 Avec HandBrake : Instructions Pratiques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-winx-dvd-ripper-platinum-h264hevc-conversion-in-under-5-mins/"><u>Quick & Easy WinX DVD Ripper Platinum: H.264/HEVC Conversion in Under 5 Mins</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-your-essential-lenovo-workstation-at-a-1000-deal-this-october-prime-day-expert-recommendation/"><u>Snag Your Essential Lenovo Workstation at a $1,000 Deal This October Prime Day – Expert Recommendation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-insights-from-toms-hardware/"><u>The Ultimate Guide to Computer Components - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hidden-details-you-need-to-know-about-youtube-tv-service-for-2024/"><u>[New] Hidden Details You Need to Know About YouTube TV Service for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fifas-best-players-trendy-videos-on-youtube/"><u>[New] In 2024, FIFA's Best Players Trendy Videos on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-popularity-on-youtube-11-powerful-seo-techniques-for-video-content/"><u>[New] In 2024, Gain Popularity on YouTube 11 Powerful SEO Techniques for Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-mobile-cloud-space-hacks-for-android/"><u>[New] Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-digital-directors-diary-an-in-depth-look-at-capturing-live-tv-on-windows-pc/"><u>[Updated] Digital Director's Diary An In-Depth Look at Capturing Live TV on Windows PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-ideas-to-talk-about-in-daily-vlogging-for-2024/"><u>[Updated] Fresh Ideas to Talk About in Daily Vlogging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grasping-the-essence-of-your-youtube-community-for-2024/"><u>[Updated] Grasping the Essence of Your YouTube Community for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-eyeballs-to-earnings-the-price-of-popular-videos/"><u>[Updated] In 2024, From Eyeballs to Earnings The Price of Popular Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-microvid-virtuoso/"><u>[Updated] In 2024, MicroVid Virtuoso</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862843691-building-computers-made-easy-with-diy-compatible-motherboards-no-expertise-needed/"><u>Building Computers Made Easy with DIY-Compatible Motherboards - No Expertise Needed!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gaining-insights-how-to-ask-the-right-questions-for-2024/"><u>Gaining Insights How to Ask the Right Questions for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-x-flip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo X Flip to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor 100 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

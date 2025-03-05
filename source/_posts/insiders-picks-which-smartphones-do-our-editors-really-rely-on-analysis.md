@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? Analysis"
-date: 2025-02-10T17:42:46.242Z
-updated: 2025-02-16T22:07:33.345Z
+date: 2025-03-03T21:15:22.670Z
+updated: 2025-03-05T18:04:59.686Z
 tags:
   - apple
 categories:
@@ -45,10 +45,6 @@ Pros
 
 Cons 
 * New design Cameras are impressive Performance Battery life
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone 12 Pro
 
@@ -136,15 +132,7 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Chris Matyszczyk
 
@@ -174,10 +162,6 @@ Show Expert Take Show less
 
 ## Ulefone Armor 9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Adrian Kingsley-Hughes
 
 **Adrian Kingsley-Hughes:** OK, I use my iPhone 11 Pro Max a lot, but the Ulefone Armor 9 is a tough, ruggedized Android smartphone with a built-in thermal camera. Not only can I recreate scenes from Predator in my garden, but that FLIR camera is great for diagnosing problems, from overheating components, high-resistance in vehicle wiring, and problems with plumbing systems. I've also dropped the phone so many times that I've lost count, and it still looks like new. It's a tank!
@@ -192,15 +176,7 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Pixel 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -215,10 +191,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Huawei P20 Pro
 
@@ -259,10 +231,6 @@ Cons
 Show Expert Take Show less 
 
 ###   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -316,10 +284,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lumia 1520
 
 ### Mary Branscombe
@@ -329,10 +293,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 **Next phone or dream phone?** An Arm-based Windows 10 phone with integrated Skype in a phablet form factor with 5G; while I hope that a project like Empirion can succeed, I'm not banking on it. But surely we need a third OS to balance Android and iOS as the government investigations continue?
 
 Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
 
@@ -376,14 +336,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unveiling-t-series-youtube-earnings/"><u>[Updated] In 2024, Unveiling T-Series' Youtube Earnings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-dvd-ripper-and-hd-video-converter-official-winx-software-with-free-downloads/"><u>1. Ultimate DVD Ripper & HD Video Converter: Official WinX Software with Free Downloads</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-visual-fluidity-the-art-of-applying-face-centered-motion-blur-with-picsart/"><u>2024 Approved Visual Fluidity The Art of Applying Face-Centered Motion Blur with Picsart</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-free-media-player-apps-for-windows-10-and-11-no-cost-downloads/"><u>Best Free Media Player Apps for Windows 10 & 11: No Cost Downloads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat-for-2024/"><u>Exploring the Usefulness of a Blue Video Icon on Facebook Chat for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-unir-archivos-de-video-mp4/"><u>Guía Paso a Paso Para Unir Archivos De Video MP4</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-telnet-into-win-1011-systems-tutorial/"><u>Integrating Telnet Into Win 10/11 Systems (Tutorial)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-stories-your-complete-guide-for-2024/"><u>Mastering Instagram Stories Your Complete Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/successful-guide-viewing-and-playing-videots-folders-across-windows-10-mac-tv-and-android/"><u>Successful Guide: Viewing and Playing Video_TS Folders Across Windows 10, Mac, TV & Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-online-services-for-youtube-subtitles-download/"><u>[New] 2024 Approved Free Online Services for YouTube Subtitles Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-master-the-art-of-social-media-success-with-these-10-facebook-tips/"><u>[New] 2024 Approved Master the Art of Social Media Success with These 10 Facebook Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-now-and-next-how-todays-drones-shape-tomorrows-world/"><u>[New] 2024 Approved Now & Next How Today's Drones Shape Tomorrow's World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-self-assurance-against-virtual-hostility-for-2024/"><u>[New] Fostering Self-Assurance Against Virtual Hostility for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grassroots-video-marketing-strategies-for-2024/"><u>[New] Grassroots Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-wacom-pen-not-working-on-windows-1110/"><u>[Solved] Wacom Pen Not Working on Windows 11/10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-ambiance-with-thoughtful-lighting/"><u>[Updated] 2024 Approved Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-youtube-cards-and-annotations/"><u>[Updated] 2024 Approved How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamer-guides-and-tips-best-streamers-for-2024/"><u>[Updated] Gamer Guides and Tips Best Streamers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-to-address-the-missing-openal32dll-library-on-your-pc/"><u>Easy Fixes to Address the Missing openAL32.dll Library on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-what-fans-need-to-know/"><u>Elden Ring Release Delayed: What Fans Need to Know</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-cyberpowers-cp685avrg-a-reliable-entry-level-uninterruptible-power-supply/"><u>Evaluating Cyberpower's CP685AVRG - A Reliable Entry-Level Uninterruptible Power Supply</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>In 2024, Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-f23-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo F23 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 

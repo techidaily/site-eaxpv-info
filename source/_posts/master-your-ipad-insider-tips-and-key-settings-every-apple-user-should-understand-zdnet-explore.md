@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand - ZDNet Explore"
-date: 2025-02-13T17:14:56.770Z
-updated: 2025-02-17T01:12:06.802Z
+date: 2025-02-28T21:10:05.434Z
+updated: 2025-03-05T16:09:22.045Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
 
@@ -70,10 +66,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -92,19 +84,11 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -119,10 +103,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -180,16 +160,15 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-maximizing-video-quality-mastering-insta-to-mp4-conversion-for-2024/"><u>[New] Maximizing Video Quality Mastering Insta-to-MP4 Conversion for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-screen-recording/"><u>2024 Approved Streamlining Screen Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ai-image-creation-not-every-picture-is-generated-by-artificial-intelligence/"><u>AI Image Creation: Not Every Picture Is Generated By Artificial Intelligence</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-word-2019-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to Word 2019</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-behind-every-like-unseen-factors-that-influence-viewer-reactions/"><u>In 2024, Behind Every Like Unseen Factors That Influence Viewer Reactions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-horned-gods-hearing-essential-websites-for-got-sound-files/"><u>In 2024, Horned God's Hearing Essential Websites for GoT Sound Files</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor FRP Bypass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-transition-strategies-mastering-the-shift-to-your-latest-iphone-model-insights/"><u>Seamless Transition Strategies: Mastering the Shift to Your Latest iPhone Model - Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-using-googles-gemini-ai-feature-on-your-iphone/"><u>Step-by-Step Guide: Using Google's Gemini AI Feature on Your iPhone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-hidden-dangers-in-assuming-artificaminds-around-us-navigating-ai-recognition-pitfalls/"><u>The Hidden Dangers in Assuming Artificaminds Around Us - Navigating AI Recognition Pitfalls</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/why-skepticism-persists-questioning-gemini-ais-ability-to-handle-duties/"><u>Why Skepticism Persists: Questioning Gemini AI's Ability to Handle Duties</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-amplifying-your-video-presence-with-seo-tips/"><u>[New] 2024 Approved Guide to Amplifying Your Video Presence with SEO Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[New] 2024 Approved Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions/"><u>[New] 2024 Approved How to Sculpt Perfect Images on YouTube with Right Dimensions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[New] In 2024, How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncharted-top-free-speech-to-text-for-mac-users/"><u>[Updated] Uncharted Top Free Speech-to-Text for Mac Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-and-setting-up-logitech-g600-drivers-on-your-computer/"><u>Complete Guide to Downloading and Setting Up Logitech G600 Drivers on Your Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-7-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-13t-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi 13T Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-free-gaming-fixing-doom-eternal-stability-problems/"><u>Trouble-Free Gaming: Fixing DOOM Eternal Stability Problems</u></a></li>
 </ul></div>
 

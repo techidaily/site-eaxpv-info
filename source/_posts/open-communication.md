@@ -1,7 +1,7 @@
 ---
 title: Open Communication
-date: 2025-02-09T19:33:33.341Z
-updated: 2025-02-16T19:48:08.705Z
+date: 2025-03-02T22:00:12.730Z
+updated: 2025-03-05T22:56:26.363Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -44,19 +40,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -104,19 +92,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,24 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-addressing-missing-image-display-in-youtubes-shorts/"><u>[New] 2024 Approved Addressing Missing Image Display in YouTubes Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-convert-google-meet-chats-into-youtube-livestream-easily/"><u>[New] 2024 Approved Convert Google Meet Chats Into YouTube Livestream Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-uncovering-your-just-watched-list-on-facebook-for-2024/"><u>[New] Uncovering Your Just-Watched List on Facebook for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-15-youtube-starter-templates-a-guide-to-popularity-for-2024/"><u>[Updated] 15 YouTube Starter Templates A Guide to Popularity for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-elevate-your-videos-with-youtube-studios-editing-mastery-for-2024/"><u>[Updated] Elevate Your Videos with YouTube Studio's Editing Mastery for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-seamlessly-reorganize-video-playlists-on-yt-for-2024/"><u>[Updated] How to Seamlessly Reorganize Video Playlists on YT for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-premier-fifa-vids-data-visualized-for-social-media/"><u>[Updated] Premier FIFA Vids Data Visualized for Social Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-swift-guide-to-chromakey-and-background-separation/"><u>[Updated] Swift Guide to Chromakey and Background Separation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>[Updated] The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unveiling-the-secrets-of-popularity-a-guide-to-15-best-opener-plans/"><u>[Updated] Unveiling the Secrets of Popularity A Guide to 15 Best Opener Plans</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram/"><u>2024 Approved From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/9-impactful-gains-from-linguistic-diversification/"><u>9 Impactful Gains From Linguistic Diversification</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-with-your-proofreading-needs/"><u>Can You Trust ChatGPT with Your Proofreading Needs?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y200-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y200 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-3-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord 3 5G Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>In 2024, Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/personalized-pick-our-top-12-favorite-pc-clicker-games-for-2024/"><u>Personalized Pick Our Top 12 Favorite PC Clicker Games for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/first-steps-in-high-quality-youtubing-for-2024/"><u>Your First Steps in High-Quality YouTubing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/youtubes-everlasting-titles-with-millions-of-viewers-for-2024/"><u>YouTube's Everlasting Titles with Millions of Viewers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-creating-an-athletic-channel-on-apple-hardware/"><u>[New] 2024 Approved Creating an Athletic Channel on Apple Hardware</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-enhancing-detail-in-minecraft-worlds/"><u>[Updated] In 2024, Enhancing Detail in Minecraft Worlds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-pcmac-to-the-feed-how-to-efficiently-upload-videos-to-instagram/"><u>[Updated] In 2024, From PC/Mac to the Feed How to Efficiently Upload Videos to Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-top-10-drones-filmmakings-visual-frontiers/"><u>[Updated] Prime Top 10 Drones Filmmaking's Visual Frontiers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-what-lies-beneath-instagram-story-perceptions/"><u>2024 Approved What Lies Beneath Instagram Story Perceptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-essential-steps-to-bring-back-lost-windows-files/"><u>8 Essential Steps to Bring Back Lost Windows Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-postpones-launch-of-ai-capabilities-in-devices-to-october-insights-from-zdnet/"><u>Apple Postpones Launch of AI Capabilities in Devices to October: Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/choosing-the-ideal-tablet-a-comprehensive-guide-to-picking-between-m1-and-m2-ipad-pro-models/"><u>Choosing the Ideal Tablet: A Comprehensive Guide to Picking Between M1 and M2 iPad Pro Models</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-whats-new-with-apple-at-wwdc-today-exploring-ai-advancements-siri-innovations-and-ios-18-features-gadgetguru/"><u>Discover What's New with Apple at WWDC Today - Exploring AI Advancements, Siri Innovations, and iOS 18 Features | GadgetGuru</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-reviews-on-all-iphone-16-models-top-pick-and-shopping-guide-by-zdnet/"><u>Expert Reviews on All iPhone 16 Models - Top Pick & Shopping Guide by ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hands-on-crafting-unique-movie-closures-for-pennies-for-2024/"><u>Hands-On Crafting Unique Movie Closures for Pennies for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-discover-if-your-privacy-is-compromised-by-airtag-surveillance-techniques/"><u>How to Discover If Your Privacy Is Compromised by AirTag Surveillance Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/massive-drop-in-pricing-get-the-powerhouse-m2-mac-mini-for-only-479-now-exclusive-zdnet-report/"><u>Massive Drop in Pricing: Get the Powerhouse M2 Mac Mini for Only $479 Now! Exclusive ZDNet Report</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/profit-strategies-for-beauty-streams-for-2024/"><u>Profit Strategies for Beauty Streams for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-next-leap-in-gaming-inside-look-at-apples-rumored-revolutionary-game-mode-what-you-need-to-know-now/"><u>The Next Leap in Gaming? Inside Look at Apple's Rumored Revolutionary Game Mode - What You Need to Know Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-the-most-protective-ipad-air-cases-in-2er-expert-opinions-and-tested-picks-zdnet/"><u>Ultimate Guide to the Most Protective iPad Air Cases in 2Er: Expert Opinions and Tested Picks | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/zdnet-explores-the-apple-studio-display-an-eye-catching-but-expensive-option-for-mac-users-in-need-of-quality-monitoring/"><u>ZDNet Explores the Apple Studio Display: An Eye-Catching but Expensive Option for Mac Users in Need of Quality Monitoring</u></a></li>
 </ul></div>
 

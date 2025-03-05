@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Ultra 2: My Ideal Smartwatch with an Extra $100 Off This Labor Day - A Review"
-date: 2025-02-10T00:01:42.263Z
-updated: 2025-02-16T17:00:22.610Z
+date: 2025-03-02T21:56:44.859Z
+updated: 2025-03-05T21:25:14.228Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ Matthew Miller/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 * The [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSVJ7BRX%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8e27ca08-b1ee-4877-b714-181d9cb745de%7Cdtp&dtb=1) is on sale ahead of Labor Day for $699 on Amazon for the Blue Alpine Loop, Gray Trail Loop, and Orange Ocean Band configurations.
@@ -31,10 +27,6 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -96,10 +88,6 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8e27ca08-b1ee-4877-b714-181d9cb745de%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -109,10 +97,6 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8e27ca08-b1ee-4877-b714-181d9cb745de%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -148,22 +132,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creating-a-viral-youtube-sensation-simplified-action-plan-for-2024/"><u>[New] Creating a Viral YouTube Sensation Simplified Action Plan for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-ultimate-guide-to-eight-top-notch-tablets-for-image-enthusiasts/"><u>[New] In 2024, The Ultimate Guide to Eight Top-Notch Tablets for Image Enthusiasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-1-choice-easy-online-video-text-conversion-for-2024/"><u>[Updated] 1 Choice Easy Online Video Text Conversion for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-immersion-redefined-vrs-cinematic-promise/"><u>[Updated] Immersion Redefined VR's Cinematic Promise</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/h265-hevc-4k-8k/"><u>無料取得 H.265 HEVC 解碼器 - 提升 4K / 8K 高清影像顯示功能</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-down-on-workload-the-ultimate-mac-mp4-apps-list/"><u>Cutting Down on Workload The Ultimate Mac MP4 Apps List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-transferring-dvd-content-onto-your-pc-or-mac-with-ease/"><u>Guide: Transferring DVD Content Onto Your PC or Mac with Ease</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-5-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 5 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-m6-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco M6 Pro 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/is-cortana-compatible-with-german-language-on-windows-10-mobile-devices/"><u>Is Cortana Compatible with German Language on Windows 10 Mobile Devices?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/istruzioni-e-strategie-ottimali-per-la-gestione-dei-mezzi-di-comunicazione/"><u>Istruzioni E Strategie Ottimali per La Gestione Dei Mezzi Di Comunicazione</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/reducir-el-tamano-de-un-video-para-whatsapp-mainteniendo-la-excelente-calidad/"><u>Reducir El Tamaño De Un Video Para WhatsApp Mainteniendo La Excelente Calidad</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723008478914-resolved-fix-your-microsoft-flight-simulator-2amstuckatupdatescreen-woes-today/"><u>Resolved: Fix Your Microsoft Flight Simulator 2amstuckatUpdateScreen Woes Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/schritt-fur-schritt-anleitung-zum-entinterlacing-von-filmmaterial-mit-handbrake/"><u>Schritt-Für-Schritt-Anleitung Zum Entinterlacing Von Filmmaterial Mit Handbrake</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-freezing-issue-in-call-of-duty-black-ops-cold-war-a-comprehensive-guide/"><u>Solving the Freezing Issue in Call of Duty: Black Ops Cold War - A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-3-reliable-dat-to-mp4-converter-programs-a-comprehensive-guide/"><u>Top 3 Reliable DAT to MP4 Converter Programs: A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-zero-cost-gpu-accelerated-video-transcoding-software/"><u>Top-Rated Zero Cost GPU Accelerated Video Transcoding Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-beginners-guide-to-adding-depth-with-text-in-photoshop-for-2024/"><u>[New] A Beginner's Guide to Adding Depth with Text in Photoshop for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-command-over-youtubes-video-playback-speed-for-2024/"><u>[New] Gain Command Over YouTube's Video Playback Speed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-safekeep-stories-the-unlimited-save-service-for-2024/"><u>[New] Safekeep Stories The Unlimited Save Service for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>[Updated] 2024 Approved Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gastronomy-goals-attractive-food-network-branding-ideas/"><u>[Updated] 2024 Approved Gastronomy Goals Attractive Food Network Branding Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-secure-and-cost-free-youtube-music-extraction/"><u>[Updated] 2024 Approved Guide to Secure and Cost-Free YouTube Music Extraction</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-copyright-concerns-with-recording-youtube-content/"><u>[Updated] Copyright Concerns with Recording YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-screens-to-spreads-the-dos-and-donts-of-live-blogging-for-2024/"><u>[Updated] From Screens to Spreads The Do's and Don'ts of Live Blogging for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-sound-to-words-a-free-guide-to-youtube-transcribing-mastery-for-2024/"><u>[Updated] From Sound to Words A FREE Guide to YouTube Transcribing Mastery for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization-for-2024/"><u>[Updated] From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-future-earnings-gaming-geeks-on-youtube/"><u>[Updated] In 2024, Future Earnings Gaming Geeks on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-selection-the-10-best-apps-for-smartphone-video-calls/"><u>2024 Approved Ultimate Selection The 10 Best Apps for Smartphone Video Calls</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unleash-your-creative-genius-with-iphone-x-camera/"><u>2024 Approved Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-spark-10-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Spark 10 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-bits.techidaily.com/identifying-the-nations-involved-in-chinas-world-war-ii-conflicts-insights-by-yl-computing/"><u>Identifying the Nations Involved in China's World War II Conflicts - Insights by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a78-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
 

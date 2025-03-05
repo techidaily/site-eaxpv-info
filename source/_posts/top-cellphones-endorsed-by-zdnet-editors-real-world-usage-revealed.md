@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphones Endorsed by ZDNet Editors: Real-World Usage Revealed"
-date: 2025-02-09T22:20:12.328Z
-updated: 2025-02-16T20:50:09.741Z
+date: 2025-03-03T22:45:40.861Z
+updated: 2025-03-05T17:12:36.798Z
 tags:
   - apple
 categories:
@@ -94,10 +94,6 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro Max
 
 ### Matthew Miller
@@ -107,10 +103,6 @@ Cons
 **Next phone or dream phone?** Samsung Galaxy Fold 3\. I purchased the first two Galaxy Fold devices, and they were awesome. However, until this phone includes a level of water resistance and support for the S Pen, the big iPhone will be my primary daily driver.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone SE (2020)
 
@@ -170,10 +162,6 @@ Show Expert Take Show less
 
 ## Ulefone Armor 9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Adrian Kingsley-Hughes
 
 **Adrian Kingsley-Hughes:** OK, I use my iPhone 11 Pro Max a lot, but the Ulefone Armor 9 is a tough, ruggedized Android smartphone with a built-in thermal camera. Not only can I recreate scenes from Predator in my garden, but that FLIR camera is great for diagnosing problems, from overheating components, high-resistance in vehicle wiring, and problems with plumbing systems. I've also dropped the phone so many times that I've lost count, and it still looks like new. It's a tank!
@@ -203,10 +191,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Huawei P20 Pro
 
@@ -248,15 +232,7 @@ Show Expert Take Show less
 
 ###   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone X
 
@@ -286,10 +262,6 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 7 Plus
 
 ### Tiernan Ray
@@ -299,10 +271,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -328,10 +296,6 @@ Show less
 
 ## Samsung Galaxy Note 8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Charles McLellan
 
 I've been using Samsung's Note 8 for several years now, despite having seen all manner of new and improved flagship phones flow through the reviews system during this period. It's got an excellent 6.3-inch AMOLED display, a 3.5mm headphone slot, MicroSD storage to complement the 64GB on-board, two 12MP cameras at the back, plus an S Pen stylus and IP68 dust/water resistance. It's tough, too: I've broken plenty of phones before, but the Note 8 has survived the longest. Probably reaching the end of the road now, though.
@@ -339,10 +303,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -376,16 +336,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/maximizing-your-video-quality-with-hevc-format-on-youtube-uploads/"><u>: Maximizing Your Video Quality with HEVC Format on YouTube Uploads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-front-to-back-the-instagram-art-of-flipping-visuals-with-ease/"><u>[New] From Front to Back The Instagram Art of Flipping Visuals with Ease</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-replacing-bandicam-on-mac-systems-for-2024/"><u>[Updated] The Ultimate Guide to Replacing Bandicam on Mac Systems for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/clipbox-twitter-niconico-fc2/"><u>【強化ガイド】 Clipboxをダウンロードできず、保存が不可能なケースの完全解決手順 - Twitter, NicoNico, FC2など</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comparing-h2/"><u>Comparing H.2</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-premium-youtube-videos-in-stunning-hd4k-quality-for-free-on-your-mac/"><u>Download Premium Youtube Videos in Stunning HD/4k Quality for Free on Your Mac</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/easy-and-free-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>Easy and Free Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-to-revert-settings-after-system-restart/"><u>Easy Steps to Revert Settings After System Restart</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-lessons-apt-color-adjustment-tips/"><u>Essential Lessons Apt Color Adjustment Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fc2gyaoand/"><u>FC2、ニコニコ動画、Gyaoビデオダウンロード&エディットマスター: アップグレード版の方法を紹介します。</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tream-wars-fb-live-youtube-live-and-twitters-periscope-face-off-for-2024/"><u>The Stream Wars FB Live, YouTube Live, and Twitter's Periscope Face-Off for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-youtube-studio-editing-workshop-guide/"><u>[New] 2024 Approved From Script to Screen YouTube Studio Editing Workshop Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>[New] 2024 Approved How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>[New] In 2024, Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic/"><u>[Updated] 2024 Approved From Viewing Voids to Viral Videos The Top Ten Reasons & Cures for Zero Traffic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[Updated] 2024 Approved Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>[Updated] 2024 Approved How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[Updated] 2024 Approved How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advanced-speed-adjustment-techniques-in-media-editing-for-2024/"><u>[Updated] Advanced Speed Adjustment Techniques in Media Editing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flattening-lines-easy-curve-transformation/"><u>[Updated] Flattening Lines Easy Curve Transformation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-going-against-the-flow-youtube-video-opposites/"><u>[Updated] In 2024, Going Against the Flow YouTube Video Opposites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-youtubers-guide-studio-vs-next-generation-beta/"><u>[Updated] Professional YouTuber's Guide Studio Vs. Next Generation Beta</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-crisp-videos-for-free-top-online-video-quality-enhancement-tools/"><u>2024 Approved Get Crisp Videos for Free Top Online Video Quality Enhancement Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-musical-guide-to-enhancing-slides-with-tunes/"><u>A Musical Guide to Enhancing Slides with Tunes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-extension-revolutionizing-how-you-interact-with-chatgpt/"><u>Chrome Extension Revolutionizing How You Interact with ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-the-future-revolutionary-tools-for-3d-modelers/"><u>Crafting the Future Revolutionary Tools for 3D Modelers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-video-popularity-with-strategic-hashtags-for-2024/"><u>Elevate Video Popularity with Strategic #Hashtags for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mp3-audio-devices-expert-reviews/"><u>Top Rated MP3 Audio Devices - Expert Reviews</u></a></li>
 </ul></div>
 

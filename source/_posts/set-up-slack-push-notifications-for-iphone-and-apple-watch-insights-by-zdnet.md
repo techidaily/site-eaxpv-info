@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet
-date: 2025-02-13T03:54:39.551Z
-updated: 2025-02-17T03:11:22.569Z
+date: 2025-03-01T18:53:45.955Z
+updated: 2025-03-05T18:02:32.866Z
 tags:
   - apple
 categories:
@@ -48,27 +48,15 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -80,17 +68,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -179,21 +159,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-from-periscope-to-pro-livestreaming-basics-for-ios-and-android/"><u>[New] In 2024, From Periscope to Pro Livestreaming Basics for iOS and Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-utilizing-free-royalty-free-audio-tracks-in-video-media/"><u>[Updated] 2024 Approved Utilizing Free, Royalty-Free Audio Tracks in Video Media</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-best-options-expert-picks-from-top-9-free-logomakers/"><u>[Updated] In 2024, Navigating Best Options Expert Picks From Top 9 Free Logomakers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-self-supported-youtube-earnings-strategies/"><u>[Updated] The Ultimate Guide to Self-Supported YouTube Earnings Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-recording-methods-for-environmentally-friendly-screens/"><u>2024 Approved Best Recording Methods for Environmentally Friendly Screens</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-top-15-tools-for-converting-youtube-videos-into-mp3-format/"><u>Best Top 15 Tools for Converting YouTube Videos Into MP3 Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/complete-guide-saving-your-whatsapp-images-on-ios-devices-without-using-icloud/"><u>Complete Guide: Saving Your WhatsApp Images on iOS Devices Without Using iCloud</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-failed-application-launches-windows-11s-error-0xc000003e-explained/"><u>Correcting Failed Application Launches: Windows 11'S Error 0XC000003E Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/digiartys-latest-update-complete-support-for-new-iphone-6splus-ipad-promini-t4-xperia-and-galaxy-devices-dvd-and-video-software-enhanced/"><u>Digiarty's Latest Update: Complete Support for New iPhone 6S/Plus, iPad Pro/Mini T4, Xperia & Galaxy Devices! - DVD & Video Software Enhanced</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 8 Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-converting-mkv-files-to-mpeg-format-using-your-imac/"><u>Step-by-Step Guide: Converting MKV Files to MPEG Format Using Your iMac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/streaming-soccer-greatness-access-the-201amo-fifa-world-cup-for-free-online/"><u>Streaming Soccer Greatness: Access the 201Amo FIFA World Cup for Free Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-handbrake-hevc-h265-encode-issues-fixes-and-tips/"><u>Troubleshooting HandBrake HEVC (H.265) Encode Issues - Fixes & Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-mac-based-slide-presentation-tools-2018-crafting-memorable-photographic-montages-accompanied-by-music/"><u>Ultimate Guide to Mac-Based Slide Presentation Tools (2018): Crafting Memorable Photographic Montages Accompanied by Music</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unveiling-the-mysteries-of-data-recovery-with-totan-at-stellar/"><u>Unveiling the Mysteries of Data Recovery with Totan at Stellar</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-renewed-view-of-sony-s3700-2023-edition/"><u>[Updated] In 2024, The Renewed View of Sony S3700 2023 Edition</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c33-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C33 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apples-leap-in-diy-maintenance-discover-why-the-iphone-16-outshines-its-predecessors-for-easier-repair-according-to-zdnet-reports/"><u>Apple's Leap in DIY Maintenance: Discover Why the iPhone 16 Outshines Its Predecessors for Easier Repair, According to ZDNet Reports</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-video-production-software-top-14-tools-for-outstanding-content-creation/"><u>Best Video Production Software: Top 14 Tools for Outstanding Content Creation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descubre-las-mejores-tecnicas-para-tomar-screenshots-de-google-maps-sin-costo-alguno-guia-paso-a-paso/"><u>Descubre Las Mejores Técnicas Para Tomar Screenshots De Google Maps Sin Costo Alguno - Guía Paso a Paso</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-why-you-need-an-apple-watch-now-a-comprehensive-guide-by-a-renowned-expert/"><u>Discover Why You Need an Apple Watch Now: A Comprehensive Guide by a Renowned Expert</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-pc-desktop-with-asus-aura-themes-windows-1011/"><u>Enhance Your PC Desktop with ASUS AURA Themes (Windows 10/11)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ensuring-flawless-sending-of-large-videos-from-iphone-to-mac-pc/"><u>Ensuring Flawless Sending of Large Videos From iPhone to Mac PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-durability-of-apple-watch-batteries-find-out-if-yours-is-overdue-for-a-change-zdnet/"><u>Exploring the Durability of Apple Watch Batteries: Find Out if Yours Is Overdue for a Change | ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/immersive-teaching-transformative-learning/"><u>Immersive Teaching, Transformative Learning</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-the-iphone-16-worth-it-expert-analysis-editorial-team/"><u>Is the iPhone 16 Worth It? Expert Analysis Editorial Team</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/key-elements-for-compelling-facebook-ad-textual-content-for-2024/"><u>Key Elements for Compelling Facebook Ad Textual Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/navigating-the-flaw-in-apples-device-protection-plan-strategies-to-safeguard-your-iphone-digital-defender/"><u>Navigating the Flaw in Apple’s Device Protection Plan: Strategies to Safeguard Your iPhone | Digital Defender</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/over-600-bespoke-applications-set-to-debut-on-apple-vision-pro-at-its-imminent-launch-insights-from-zdnet/"><u>Over 600 Bespoke Applications Set to Debut on Apple Vision Pro at Its Imminent Launch - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/qualified-macbook-owners-to-receive-payments-from-apple-in-class-action-resolution-latest-updates/"><u>Qualified MacBook Owners to Receive Payments From Apple in Class Action Resolution | Latest Updates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-what-to-do-when-your-iphone-shows-signs-of-moisture/"><u>Troubleshooting Guide: What to Do When Your iPhone Shows Signs of Moisture?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vibrant-visions-a-guide-through-the-top-5-color-tvs/"><u>Vibrant Visions A Guide Through the Top 5 Color TVs</u></a></li>
 </ul></div>
 

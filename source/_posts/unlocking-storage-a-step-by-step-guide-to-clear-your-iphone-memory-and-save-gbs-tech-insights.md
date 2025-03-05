@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights"
-date: 2025-02-16T01:24:53.080Z
-updated: 2025-02-17T04:23:58.651Z
+date: 2025-03-02T18:35:04.604Z
+updated: 2025-03-05T21:12:13.448Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -48,29 +44,17 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +106,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-entrance-with-these-tools-for-2024/"><u>[New] Elevate Your Video Entrance with These Tools for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-meetup-event-visual-format-for-2024/"><u>[Updated] Meetup Event Visual Format for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-nextgen-vidhack-fb-to-mp4-download-with-no-hassle-for-2024/"><u>[Updated] NextGen VidHack FB to MP4 Download with No Hassle for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerate-your-sluggish-vids-to-speedy-shots-on-android/"><u>2024 Approved Accelerate Your Sluggish Vids to Speedy Shots on Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-discover-strength-in-cinema-our-list-of-motivational-flicks/"><u>2024 Approved Discover Strength in Cinema Our List of Motivational Flicks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/budget-gaming-setup-find-the-best-keyboards-for-less/"><u>Budget Gaming Setup Find the Best Keyboards for Less</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-activer-lencodage-avec-nvenc-sur-handbrake-pour-une-videosynchronisation-efficace/"><u>Comment Activer L'encodage Avec NVENC Sur Handbrake Pour Une Vidéosynchronisation Efficace ?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725288692966-dvdfab/"><u>DVDFabによるファイルコピー失敗：エラー発生時の対策方法</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lenovo ThinkPhone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone SE (2020)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme V30 Phone that is Locked?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-top-18-mkv-media-players-for-cross-platform-use-on-mac-and-windows-10-to-mobile-devices/"><u>The Ultimate Selection of Top 18 MKV Media Players for Cross-Platform Use on Mac and Windows 10 to Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wireless-movie-sharing-transferring-films-from-your-xbox-console-to-pc-with-windows-11/"><u>Wireless Movie Sharing: Transferring Films From Your Xbox Console to PC with Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-handling-haters-strategies-for-content-creators/"><u>[New] 2024 Approved Handling Haters Strategies for Content Creators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-learn-the-best-practices-for-capturing-instagram-live-feeds/"><u>[New] 2024 Approved Learn the Best Practices for Capturing Instagram Live Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[New] In 2024, Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[New] In 2024, Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-infinite-storage-pathways-select-services-showcase/"><u>[New] In 2024, Infinite Storage Pathways Select Services Showcase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-fit-top-10-youtube-channels-for-yogic-health/"><u>[Updated] 2024 Approved Find Your Fit Top 10 YouTube Channels for Yogic Health</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>[Updated] 2024 Approved Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[Updated] 2024 Approved Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[Updated] In 2024, From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-stir-to-screen-masterful-cooking-videos/"><u>[Updated] In 2024, From Stir to Screen Masterful Cooking Videos</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-top-8-solutions-for-displaying-missing-contacts-in-your-iphones-phone-app/"><u>1. Top 8 Solutions for Displaying Missing Contacts in Your iPhone's Phone App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/data-saving-techniques-for-efficient-sms-communication/"><u>Data-Saving Techniques for Efficient SMS Communication</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhance-your-audio-visual-experience-with-these-6-apps-for-2024/"><u>Enhance Your Audio-Visual Experience with These 6 Apps for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-videos-best-movie-makers-for-win-10/"><u>New In 2024, Create Stunning Videos Best Movie Makers for Win 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-volume-expert-tips-for-solving-sound-failure-in-lenovo-laptops/"><u>Reviving Volume: Expert Tips for Solving Sound Failure in Lenovo Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-stuck-keyboard-arrows-essential-troubleshooting-tips/"><u>Solving Your Stuck Keyboard Arrows: Essential Troubleshooting Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/techniques-for-snagging-switch-gaming-videos-for-2024/"><u>Techniques for Snagging Switch Gaming Videos for 2024</u></a></li>
 </ul></div>
 

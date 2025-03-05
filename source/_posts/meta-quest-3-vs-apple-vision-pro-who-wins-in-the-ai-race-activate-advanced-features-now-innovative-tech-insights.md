@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Vs. Apple Vision Pro: Who Wins in the AI Race? Activate Advanced Features Now | Innovative Tech Insights"
-date: 2025-02-10T04:02:46.006Z
-updated: 2025-02-16T20:07:19.033Z
+date: 2025-02-27T22:11:25.186Z
+updated: 2025-03-05T16:41:34.426Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The cost of GPU processing
 
 Advanced AI features require substantial computational power, typically provided by high-performance GPUs. For instance, [NVIDIA's MGX with GH 200 and Grace Hopper superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) designed for AI training, inference, 5G, and HPC cost around $65,000 each. Deploying these servers regionally to support lower-end devices would be prohibitively expensive. Apple would easily need thousands of these units to support its entire user base, resulting in astronomical costs likely passed on to consumers through service fees.
@@ -48,10 +44,6 @@ Advanced AI features require substantial computational power, typically provided
 
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple's approach to Private Cloud Compute (PCC)
 
 For the initial rollout of Apple Intelligence, the company has chosen a hybrid approach to balance cost and performance, combining on-device processing with [Private Cloud Compute](https://www.zdnet.com/article/heres-how-apples-keeping-your-cloud-processed-ai-data-safe-and-why-it-matters/) (PCC). On-device processing utilizes the A17 Pro chip in the iPhone 15 Pro line and the M-series chips in iPads and Macs to enhance security and privacy. For more demanding tasks, PCC allows cloud operations while maintaining user privacy. PCC is designed with custom Apple silicon and a robust operating system to ensure personal data security and prevent unauthorized access.
@@ -59,10 +51,6 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 **Also: [Here's how Apple's keeping your cloud-processed AI data safe (and why it matters)](https://www.zdnet.com/article/heres-how-apples-keeping-your-cloud-processed-ai-data-safe-and-why-it-matters/)**
 
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The challenges of edge computing
 
@@ -73,10 +61,6 @@ Apple is currently focused on rolling out its [Generative AI services](https://w
 While NVIDIA is a major player in the GPU server space, others include traditional x86 Intel-based and Arm-based server providers like Qualcomm and Ampere. These servers can also use NVIDIA GPUs, but Apple likely wants to control the integration with its operating system and silicon to deploy AI computing. Additionally, the supply chain from NVIDIA or any other HPC server vendor is likely insufficient to meet Apple's large-scale deployment requirements.
 
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
 
@@ -120,20 +104,15 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-9-powerful-methods-to-make-money-on-your-youtube-shorts/"><u>[New] 2024 Approved 9 Powerful Methods to Make Money on Your YouTube Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-compact-content-leading-5-services-to-compress-video-urls-for-2024/"><u>[New] Compact Content Leading 5 Services to Compress Video URLs for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools-for-2024/"><u>[New] From Raw Video to Engaging YouTube Videos with Sony Vegas Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-build-and-launch-youtube-video-ads-on-budget/"><u>[New] In 2024, Build & Launch YouTube Video Ads on Budget</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-maximizing-mac-audio-quality-in-mixer-streaming/"><u>[New] Maximizing Mac Audio Quality in Mixer Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-charts-with-a-click-youtube-short-tunes-made-easy-for-2024/"><u>[Updated] Crafting Charts with a Click YouTube Short Tunes Made Easy for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-lost-arks-endless-pc-crashing-effective-techniques-revealed-here/"><u>End Lost Ark's Endless PC Crashing: Effective Techniques Revealed Here!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/htc-u23-video-recovery-recover-deleted-videos-from-htc-u23-by-fonelab-android-recover-video/"><u>HTC U23 Video Recovery - Recover Deleted Videos from HTC U23</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-phantom-v-flip-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Phantom V Flip Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-insta-wonders-top-9-habits-of-influencers-and-stars/"><u>In 2024, Insta Wonders Top 9 Habits of Influencers and Stars</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-trailblazers-in-virtual-reality-experience/"><u>In 2024, Trailblazers in Virtual Reality Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-control-over-disabled-router-settings-on-windows/"><u>Regaining Control over Disabled Router Settings on Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95705546-9781786781000-the-transformative-power-of-near-death-experiences/"><u>The Transformative Power of Near-Death Experiences | Free Book</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x9a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X9a to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-concepts-to-successful-youtube-titles-for-2024/"><u>Transform Concepts to Successful YouTube Titles for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-simplicity-to-splendor-a-complete-transformation-guide-from-sdr-to-hdr/"><u>[New] From Simplicity to Splendor A Complete Transformation Guide From SDR to HDR</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-soft-soundscapes-low-profile-alterations-in-garageband-for-2024/"><u>[Updated] Soft Soundscapes Low-Profile Alterations in Garageband for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1728474849477-dell/"><u>刻意丟失的秘密：發現在Dell電腦上還原已經被刪除文件的方法</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-discover-all-iphones-compatible-with-next-gen-apple-ai-innovations-and-enhanced-siri-functionality/"><u>Comprehensive Guide: Discover All iPhones Compatible with Next-Gen Apple AI Innovations and Enhanced Siri Functionality</u></a></li>
+<li><a href="https://facebook.techidaily.com/president-challenges-social-media-policies-in-courtroom-fights/"><u>President Challenges Social Media Policies in Courtroom Fights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionary-ios-enhancements-await-why-the-new-iphone-16-is-worth-your-attention/"><u>Revolutionary iOS Enhancements Await: Why the New iPhone 16 Is Worth Your Attention</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-essentials-android-must-address-to-challenge-apples-ios-dominance-insights/"><u>Top 5 Essentials Android Must Address to Challenge Apple's iOS Dominance: Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-future-innovations-apples-latest-ai-advances-set-to-transform-iphones-discover-the-groundbreaking-artificnial-intelligence-technology-that-may-soo17/"><u>Unlocking Future Innovations: Apple's Latest AI Advances Set to Transform iPhones - Discover the Groundbreaking Artificnial Intelligence Technology that May Soon Elevate Your iPhone Experience, as Unveiled by Apple Research.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-insider-source-for-samsungs-big-event-2025-date-reveals-and-anticipated-product-launches/"><u>Your Insider Source for Samsung's Big Event - 2025 Date Reveals and Anticipated Product Launches</u></a></li>
 </ul></div>
 

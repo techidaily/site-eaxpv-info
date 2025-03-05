@@ -1,7 +1,7 @@
 ---
 title: 7 Instead of Jumping to Series 10 - Insights From ZDNet
-date: 2025-02-11T23:34:16.795Z
-updated: 2025-02-16T17:53:05.335Z
+date: 2025-03-04T17:02:44.435Z
+updated: 2025-03-05T22:38:49.948Z
 tags:
   - apple
 categories:
@@ -46,10 +46,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -84,17 +80,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -105,10 +93,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 **Also: [iOS 18 update: Every iPhone model that will support Apple's new AI features (for now)](https://www.zdnet.com/article/ios-18-1-update-every-iphone-model-that-will-support-apples-new-ai-features-for-now/)**
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
 
@@ -123,10 +107,6 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,19 +148,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-amplify-video-dynamics-a-guide-to-perfecting-jump-cutting-for-2024/"><u>[New] Amplify Video Dynamics A Guide to Perfecting Jump Cutting for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-channel-identity-made-simple-with-these-top-11-zero-cost-tools-for-2024/"><u>[New] Channel Identity Made Simple with These Top 11 Zero-Cost Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-direct-your-media-essential-flv-to-youtube-applications-ranked/"><u>[New] In 2024, Direct Your Media Essential Flv-to-YouTube Applications Ranked</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tep-up-your-content-quality-with-these-8-mirrorless-cams-for-2024/"><u>[New] Step Up Your Content Quality with These 8 Mirrorless Cams for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youth-empowerment-your-life-story-can-inspire/"><u>[Updated] 2024 Approved Youth Empowerment Your Life Story Can Inspire</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-interest-to-action-formulating-video-topics-with-google-trends-for-2024/"><u>[Updated] From Interest to Action Formulating Video Topics with Google Trends for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-asmr-videos-a-complete-guide/"><u>[Updated] How to Make ASMR Videos A Complete Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-setup-aoc-graphics-card-drivers-for-windows-11-10-or-8/"><u>Download and Setup AOC Graphics Card Drivers for Windows 11, 10, or 8</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-non-saving-windows-audio-configuration-issue/"><u>Overcoming Non-Saving Window's Audio Configuration Issue</u></a></li>
-<li><a href="https://discover-best.techidaily.com/seamless-transfer-of-audio-files-iphone-to-macbook-airpro-and-imac-strategies/"><u>Seamless Transfer of Audio Files: IPhone to Macbook Air/Pro & iMac Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/take-your-smartphone-cinematography-to-new-heights-with-these-9-accessories-for-2024/"><u>Take Your Smartphone Cinematography to New Heights with These 9 Accessories for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-perfecting-bokeh-mastering-instagram-story-blur/"><u>[New] 2024 Approved Perfecting Bokeh Mastering Instagram Story Blur</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-pinnacle-guide-to-choosing-top-after-effects-plugins/"><u>[New] 2024 Approved The Pinnacle Guide to Choosing Top After Effects Plugins</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-phantom-3-showdown-golem-4-emerges/"><u>[New] Phantom 3 Showdown Golem 4 Emerges</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-cinematic-promo-reels/"><u>[Updated] In 2024, Elite Cinematic Promo Reels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveil-the-secrets-to-excellent-youtube-thumbnails-for-2024/"><u>[Updated] Unveil the Secrets to Excellent YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wma-mkv-movavi/"><u>網路直接 WMA 到 MKV 無限制下載：利用 Movavi 優化影片格式</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726223380696-wav3g2movavi/"><u>無料で効果的なWAVファイルと3G2形式間のMovaviオンライン変換ツール</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieve-harmony-import-audio-to-your-inshot-clips-for-2024/"><u>Achieve Harmony Import Audio to Your InShot Clips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-video-frames-to-photos-top-7-techniques-by-movavi/"><u>Convert Video Frames to Photos: Top 7 Techniques by Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descargar-y-convertir-de-forma-gratuita-un-amv-a-formato-mp3-con-movavi/"><u>Descargar Y Convertir De Forma Gratuita Un AMV a Formato MP3 Con Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-leveraging-luts-for-rich-color-grading-in-ar-apps/"><u>In 2024, Leveraging LUTs for Rich Color Grading in AR Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp3-downloads-into-mp4-format-cost-free-online-transformation-with-movavi/"><u>MP3 Downloads Into MP4 Format: Cost-Free Online Transformation with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225281307-mp4avimovavi/"><u>MP4到AVI轉換指南：用Movavi快速簡單版教學</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-e-gratuito-converter-arquivos-para-o-formato-ogv-com-a-ferramenta-do-movavi/"><u>Online E Gratuito: Converter Arquivos Para O Formato OGV Com a Ferramenta Do Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-commerce-codex-for-instagram-creators-securing-profitable-alignments/"><u>The Commerce Codex for Instagram Creators Securing Profitable Alignments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-12-mkv-video-converter-tools-free-and-premium-options/"><u>Top 12 MKV Video Converter Tools: Free & Premium Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-windows-11-8-or-7-get-the-perfect-match-brother-mfc-7360n-printer-drivers-installed-in-a-flash/"><u>Upgrade to Windows 11, 8, or 7? Get the Perfect Match: Brother MFC-7360N Printer Drivers Installed in a Flash</u></a></li>
 </ul></div>
 

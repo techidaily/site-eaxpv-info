@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Home Studio Heroics  Your Path to Effectful Artistry\""
-date: 2024-08-20T13:52:35.353Z
-updated: 2024-08-21T13:52:35.353Z
+date: 2025-02-26T18:31:40.667Z
+updated: 2025-03-05T18:09:12.539Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
 # How to Animate and Make Your Own Effects
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -53,32 +50,20 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -86,7 +71,6 @@ Richard Bennett
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,14 +86,8 @@ Every influencer wants to make it big on YouTube. However, the **YouTube view mo
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1\. The Real Number of YouTube Views You Need to Make Money**
 
 Despite a lot of people seeking a successful career on YouTube, only a handful make it big on the platform. Some of the big names like Mr. Beast have proven how lucrative YouTube can be with the right following. However, for newcomers or beginners, succeeding on YouTube is a challenging feat.
@@ -164,9 +142,6 @@ The amount of money YouTubers make per view is affected by various factors:
 * **Audience Engagement**: Videos with high CTR and AVD earn more income from ads.
 * **Watch Time**: YouTube channels with longer viewers watch time earn more money.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **YouTube’s Revenue-Sharing Model**
 
 The YouTibe’s revenue-sharing model determines how much creators are paid. The standard revenue share is 55% for the creator and 45% for YouTube based on views that generate money. However, the platform may adjust the revenue share for certain creators. This may include creators participating in a special program or those who are part of a network.
@@ -181,9 +156,6 @@ Higher-paying advertisers are interested in YouTube channels that align with the
 * **Audience Engagement:** Higher-paying advertisers are willing to pay more to show their ads to channels with higher engagement to increase the chances of people clicking on their ads.
 * **Watch Time:** YouTube channels with longer viewers watch time attract more advertisers. This is because viewers will be engaged for longer periods, increasing their chances of viewing the ad.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Other Revenue Streams on YouTube**
 
 You can earn a lot more per 1,000 views by influencing your viewers to buy products even before your channel gets monetized. Other ways of making money on YouTube include
@@ -212,16 +184,10 @@ With a wide range of pre-made templates to choose from, split your video screen 
 
 ![split screen video editor](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **2\.** **AI Image**
 
 Automatically generate images by typing what you want. The text-to-image feature generates 3 resolutions that you can use directly for your video project.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ai image](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-4.JPG)
 
 ### **3\.** **Keyframing**
@@ -230,9 +196,6 @@ The keyframing feature creates fantastic visual animations. It allows users to c
 
 ![keyframing](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **4\.** **Speed Ramping**
 
 The speed ramping feature allows you to adjust the speed in your video to be in better control of your keyframes.
@@ -253,7 +216,6 @@ With YouTube monetization how many views does it take to make money? This will d
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,8 +223,19 @@ With YouTube monetization how many views does it take to make money? This will d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-free-srt-conversion-uncover-top-8-online-options/"><u>[New] Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pinnacle-of-brainy-content-general-knowledge-top-11/"><u>[Updated] Pinnacle of Brainy Content General Knowledge Top 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breathe-life-into-your-visual-narrative-free-text-animation/"><u>2024 Approved Breathe Life Into Your Visual Narrative Free Text Animation</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/webinar-creation-and-management-on-youtube/"><u>Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-rapida-per-la-trasformazione-mp4-in-mp3-su-windows-scegli-il-meglio-tra-convertitori-liberi-e-affidabili/"><u>Guida Rapida per La Trasformazione MP4 in MP3 Su Windows 지, Scegli Il Meglio Tra Convertitori Liberi E Affidabili!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-meilleurs-convertisseurs-videos-libres-de-2023-pour-windows-11-top-10/"><u>Les Meilleurs Convertisseurs Vidéos Libres De 2023 Pour Windows 11 : Top 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professionelle-online-beratung-fur-die-verwendung-von-winx-dvd-ripping-und-videokonvertierungstools/"><u>Professionelle Online-Beratung Für Die Verwendung Von WinX DVD Ripping Und Videokonvertierungstools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-videobearbeitungsprogramme-fur-windows-10-8-and-7-perfekt-aufzeichnen-und-teilen/"><u>Top Videobearbeitungsprogramme Für Windows 10, 8 & 7: Perfekt Aufzeichnen Und Teilen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-fix-sea-of-thieves-not-starting-issues/"><u>Troubleshooting Guide: How to Fix Sea of Thieves Not Starting Issues</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-spisok-luchshih-seo-agentstv-v-gamburge-ekspertnye-rekomendacii-i-optimizaciya-dlya-nemeckogo-rynka/"><u>Топ-Список Лучших SEO-Агентств В Гамбурге: Экспертные Рекомендации И Оптимизация Для Немецкого Рынка!</u></a></li>
+</ul></div>
 

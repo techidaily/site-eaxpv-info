@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET"
-date: 2025-02-12T01:34:46.410Z
-updated: 2025-02-16T21:28:14.110Z
+date: 2025-03-03T18:37:29.213Z
+updated: 2025-03-05T18:38:06.804Z
 tags:
   - apple
 categories:
@@ -58,10 +58,6 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 Image: Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
@@ -88,10 +84,6 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
@@ -100,27 +92,15 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -162,24 +142,22 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/2024-approved-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>2024 Approved Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024mac-mp3/"><u>2024最新Mac MP3編集ソフトウェア：音楽制作強化ツール集</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-8-portable-external-hdds-compatible-with-mac-top-picks-and-reviews/"><u>Best 8 Portable External HDDs Compatible with Mac: Top Picks & Reviews</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-tutorial-for-changing-wmv-videos-to-advanced-hevc-format-in-mac-and-windows-systems/"><u>Comprehensive Tutorial for Changing WMV Videos to Advanced HEVC Format in Mac and Windows Systems</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/creating-a-virtual-office-space-with-google-meet-for-2024/"><u>Creating a Virtual Office Space with Google Meet for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/digital-video-content-a-comprehensive-guide/"><u>Digital Video Content: A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-fixes-for-itunes-malfunctions-a-step-by-step-guide/"><u>Effortless Fixes for iTunes Malfunctions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-transferring-images-from-your-iphone-to-mac-in-just-10-steps/"><u>Effortless Guide: Transferring Images From Your iPhone to Mac in Just 10 Steps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gli-strumenti-ottimali-di-compressione-mp4-per-mac-scopri-come-ridurre-le-dimensioni-dei-tuoi-video-senza-compromettere-la-qualita/"><u>Gli Strumenti Ottimali Di Compressione MP4 per Mac: Scopri Come Ridurre Le Dimensioni Dei Tuoi Video Senza Compromettere La Qualità</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-adding-or-embedding-custom-subtitles-into-your-dvd-films-effortlessly/"><u>Guide: Adding or Embedding Custom Subtitles Into Your DVD Films Effortlessly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-deskjet-inkjet-3700-printer-drivers-free-downloads-and-updates/"><u>HP DeskJet Inkjet 3700 Printer Drivers: Free Downloads and Updates</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-6-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 6 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-index-modification/"><u>Mastering Windows Index Modification</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp3-vs-mp4-explained-key-differences-and-why-they-matter-for-your-digital-files/"><u>MP3 Vs MP4 Explained: Key Differences & Why They Matter for Your Digital Files</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-fixed-system-paused-over-device-error/"><u>NVIDIA Fixed: System Paused Over Device Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-benefits-of-seeking-health-guidance-with-chatgpt/"><u>Top 7 Benefits of Seeking Health Guidance with ChatGPT</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-freebies-winning-windowsmac-video-tools/"><u>[New] 2024 Approved Best Freebies Winning Windows/Mac Video Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[New] In 2024, Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[New] In 2024, From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gentle-request-for-a-greater-genuine-community/"><u>[New] In 2024, Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pvr-uno-customizable-media-solution-for-2024/"><u>[New] PVR Uno Customizable Media Solution for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[Updated] 2024 Approved Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-shuffle-youtube-playlist/"><u>[Updated] 2024 Approved How to Shuffle YouTube Playlist</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-storytelling-on-instagram-with-loops-for-2024/"><u>[Updated] Boost Your Storytelling on Instagram With Loops for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>[Updated] How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[Updated] In 2024, Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[Updated] In 2024, Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-secure-is-subforsup-to-expand-your-youtube-community-safely/"><u>[Updated] In 2024, How Secure Is Subforsup to Expand Your YouTube Community Safely?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-to-adding-bandcamp-streaming-feature-in-kodi/"><u>Easy Guide to Adding Bandcamp Streaming Feature in Kodi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-resident-evil-village-experience-by-addressing-pcs-low-fps-issues/"><u>Improving Your Resident Evil Village Experience by Addressing PC's Low FPS Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unclog-your-iphone-microphone-expert-fixes-for-crystal-clear-sound-quality/"><u>Unclog Your iPhone Microphone – Expert Fixes for Crystal Clear Sound Quality</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wie-man-die-kapazitat-von-raspberry-pi-sd-laufwerken-in-verschiedenen-windows-versionen-kopiert/"><u>Wie Man Die Kapazität Von Raspberry Pi SD-Laufwerken in Verschiedenen Windows Versionen Kopiert</u></a></li>
 </ul></div>
 

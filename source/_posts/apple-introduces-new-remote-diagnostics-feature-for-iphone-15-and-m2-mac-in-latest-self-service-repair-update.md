@@ -1,7 +1,7 @@
 ---
 title: Apple Introduces New Remote Diagnostics Feature for iPhone 15 & M2 Mac in Latest Self-Service Repair Update
-date: 2025-02-09T19:45:45.569Z
-updated: 2025-02-16T23:13:53.343Z
+date: 2025-03-02T21:26:37.748Z
+updated: 2025-03-05T19:59:55.971Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -48,10 +44,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -59,10 +51,6 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -82,10 +70,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -96,10 +80,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,24 +141,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-heritage-on-display-post-copyright-masterpieces/"><u>[New] Heritage on Display Post-Copyright Masterpieces</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-5-economical-hd-camcorders-for-adventure-for-2024/"><u>[New] Top 5 Economical HD Camcorders for Adventure for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-cross-platform-guide-to-transforming-photographic-genders-online/"><u>[Updated] 2024 Approved Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ideal-screen-re-recorders-for-youtube-performances-for-2024/"><u>[Updated] Ideal Screen Re-Recorders for YouTube Performances for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-live-streaming-platforms-analyzing-obs-and-twitch-studio-for-2024/"><u>[Updated] Live Streaming Platforms Analyzing OBS and Twitch Studio for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aacmp3aac-to-mp3/"><u>AAC音声コーデックを解き明かす:特徴・MP3との違い・AAC to MP3変換ガイド</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capture-and-store-screen-content-free-for-2024/"><u>Capture and Store Screen Content, FREE for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-videos-and-music-files-with-winx-free-video-converter-quick-and-easy-guide/"><u>Convert Videos and Music Files with WinX Free Video Converter - Quick & Easy Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-installation-tutorial-for-handbrakes-libdvdcss-library-on-mac-and-windows-including-visual-aids/"><u>Easy Installation Tutorial for HandBrake's Libdvdcss Library on Mac and Windows (Including Visual Aids)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-rapida-alla-conversione-di-file-avchd-m2ts-in-formato-mp4-ottimale-senza-compromettere-la-qualita-video/"><u>Guida Rapida Alla Conversione Di File AVCHD M2TS in Formato MP4 Ottimale Senza Compromettere La Qualità Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-creative-shots-with-photoshops-radial-distortion/"><u>In 2024, Unlock Creative Shots with Photoshop's Radial Distortion</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/memes-for-iphone/"><u>Memes for iPhone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optimize-cross-device-content-sharing-with-winx-mediatrans-best-management-solution-for-moving-images-and-audio-to-ipadsiphones-from-pcs/"><u>Optimize Cross-Device Content Sharing with WinX MediaTrans™ - Best Management Solution for Moving Images & Audio to iPads/iPhones From PCs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/plants-vs-zombies-neighborville-a-playful-shooting-game-overview-and-critique/"><u>Plants Vs. Zombies: Neighborville - A Playful Shooting Game Overview and Critique</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professioneller-tutorial-zum-einrichten-der-winx-dvd-programmsoftware/"><u>Professioneller Tutorial Zum Einrichten Der WinX DVD Programmsoftware</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-how-to-efficiently-copy-your-dvd-to-your-computer/"><u>The Ultimate Guide: How to Efficiently Copy Your DVD to Your Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-video-ai-3/"><u>WinX Video AI: 高画質動画、写真強化テクニック集 - 3ページ記事</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287234798-ai/"><u>ウィンクスビデオAIによる効率的な動画編集と音声変換手順</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-couch-to-camera-earning-through-personal-vlogging/"><u>[New] 2024 Approved From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-the-land-of-virtual-possibilities/"><u>[New] Exploring the Land of Virtual Possibilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[New] In 2024, Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hack-your-way-to-speedy-youtube-video-processing/"><u>[Updated] 2024 Approved Hack Your Way to Speedy YouTube Video Processing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transforming-your-phones-alerts-with-tailored-audio-choices-for-android/"><u>[Updated] 2024 Approved Transforming Your Phone's Alerts with Tailored Audio Choices for Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-your-ultimate-guide-to-unmissable-gaming-worlds/"><u>[Updated] 2024 Approved Your Ultimate Guide to Unmissable Gaming Worlds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-average-to-exceptional-discover-the-finest-free-intra-designs-for-2024/"><u>[Updated] From Average to Exceptional Discover the Finest Free Intra Designs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-idea-to-execution-a-comprehensive-youtube-video-guide-for-2024/"><u>[Updated] From Idea to Execution A Comprehensive YouTube Video Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-can-i-stream-in-hd-1080p-on-facebook/"><u>[Updated] How Can I Stream in HD 1080P on Facebook?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framing-the-perfect-waterway-narrative/"><u>[Updated] In 2024, Framing the Perfect Waterway Narrative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>[Updated] In 2024, Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/exploring-ajeys-youtube-revenue/"><u>Exploring Ajey's YouTube Revenue</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-find-n3-flip-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Find N3 Flip to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-and-style-synergy-the-leading-windows-laptops-of-24/"><u>Power & Style Synergy: The Leading Windows Laptops of '24</u></a></li>
 </ul></div>
 

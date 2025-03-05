@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet"
-date: 2025-02-10T19:22:26.040Z
-updated: 2025-02-17T01:04:45.615Z
+date: 2025-02-26T22:24:35.859Z
+updated: 2025-03-05T21:33:44.366Z
 tags:
   - apple
 categories:
@@ -26,15 +26,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -47,10 +39,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -76,10 +64,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +77,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,20 +120,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-storytelling-modifying-video-speed-on-instagram/"><u>[New] In 2024, Elevate Storytelling Modifying Video Speed on Instagram</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-perfecting-instagram-posts-tips-for-vertical-editing-in-final-cut-pro-x/"><u>2024 Approved Perfecting Instagram Posts Tips for Vertical Editing in Final Cut Pro X</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024dvd-pciphone/"><u>2024年版DVDバックアップ入門: PC・iPhone対応方法解析</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/a-complete-guide-to-digitizing-your-dvd-collection-across-desktop-laptop-and-smartphones/"><u>A Complete Guide to Digitizing Your DVD Collection Across Desktop, Laptop & Smartphones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/come-creare-una-perfetta-riproduzione-in-hd-di-dvd-su-un-macbook-con-os-big-sur/"><u>Come Creare Una Perfetta Riproduzione in HD Di DVD Su Un MacBook Con OS Big Sur</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exclusive-winx-dvd-ripper-platinum-christmas-bonus-contest/"><u>Exclusive WinX DVD Ripper Platinum Christmas Bonus Contest</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gpu-powered-winxvideo-ai/"><u>GPU-Powered WinxVideo AI：无缝快速转换视频与音频内容</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-transferir-archivos-iso-a-un-disco-dvd-en-windows-11/"><u>Guía Paso a Paso Para Transferir Archivos ISO a Un Disco DVD en Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-g24-power-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola G24 Power?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-t2-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo T2 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>In 2024, The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>In 2024, Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-xiaomi-redmi-a2-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Xiaomi Redmi A2 and stops randomly</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/optimal-handbrake-configuration-tips-achieving-perfect-compression-for-hd-and-ultra-hd-media/"><u>Optimal Handbrake Configuration Tips - Achieving Perfect Compression for HD and Ultra HD Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-delay-issues-how-to-fix-stuttering-videos-during-premiere-pro-playback/"><u>Resolving Delay Issues: How to Fix Stuttering Videos During Premiere Pro Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>[New] 2024 Approved From Hidden to Highlighted Your 2 Ways to See YT's Past Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue-for-2024/"><u>[New] Flip-Flop Your Watching Anchoring Yourself at the End of Queue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-algorithm-changes-shape-your-youtube-visibility-for-2024/"><u>[New] How Algorithm Changes Shape Your YouTube Visibility for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-order-inverting-the-flow-of-your-youtube-watch-list/"><u>[New] In 2024, Flipping Order Inverting the Flow of Your YouTube Watch List</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-magix-video-pro-x-a-deep-dive/"><u>[New] In 2024, Magix Video Pro X - A Deep Dive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-dji-aerial-vr-headset-quality-assessment/"><u>[Updated] DJI Aerial VR Headset Quality Assessment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-youtube-shorts-guide-for-2024/"><u>[Updated] From Novice to Pro YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-avoidable-exposure-hiding-objects-and-faces-online/"><u>[Updated] In 2024, Guide to Avoidable Exposure Hiding Objects and Faces Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-speedy-frame-compiler/"><u>2024 Approved Cutting Edge Speedy Frame Compiler</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/come-effettuare-il-backup-dei-tuoi-applicazioni-installate-in-windows-11-per-evitare-una-costosa-reinstallazione-del-sistema/"><u>Come Effettuare Il Backup Dei Tuoi Applicazioni Installate in Windows 11 per Evitare Una Costosa Reinstallazione Del Sistema</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/crucial-points-for-preparation-when-shopping-for-a-fresh-printer-unit/"><u>Crucial Points For Preparation When Shopping for A Fresh Printer Unit</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jump-into-gaming-evolution-explore-lgs-27ud68-monitor-for-2024/"><u>Jump Into Gaming Evolution Explore LG's 27UD68 Monitor for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-stuttering-file-explorer-in-windows-11-proven-fixes/"><u>Winning the Battle Against Stuttering File Explorer in Windows 11 – Proven Fixes</u></a></li>
 </ul></div>
 

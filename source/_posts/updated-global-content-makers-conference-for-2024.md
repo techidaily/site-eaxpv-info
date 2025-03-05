@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Global Content Makers' Conference for 2024"
-date: 2024-08-20T13:52:47.989Z
-updated: 2024-08-21T13:52:47.989Z
+date: 2025-03-03T20:32:11.223Z
+updated: 2025-03-05T21:19:29.687Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/N-hMdtiFZfCqDS-muy4UtJzW7NA=/400x300/fi
 
 # The YouTube Creator Summit - A Getaway for YouTube's Top Talent
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -44,9 +41,6 @@ _Lilly’s Creator Summit adventures._
 
 The Creator Summit is invite-only, and only 120 YouTubers attended including Grace Helbig, Lilly Singh, Matthew Santoro, Eva Gutowski, Jon Cozart, and Hannah Hart. We can really only imagine what went on based on what some YouTubers chose to share with us over social media. That’s how we know there were appearances from off-YouTube celebrities too, like Will Smith and Riz Ahmed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube Creator Summit Group Photo](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-2017.jpg)
 
 _Will Smith was one of the speakers at the summit. Turns out_ [_he’s a big fan of Lilly Singh_](https://www.youtube.com/watch?v=AGlcsogbAQY) _._
@@ -57,9 +51,6 @@ _Nick talks about arriving in New York and goes through the swag box waiting in 
 
 There were some clues as to what the rest of the summit was like hiding amongst the swag too. Here’s what was in the box:
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 1\. A map of Dumbo
 
 The hotel YouTube put the creators up in was in Dumbo, Brooklyn. ‘Dumbo’ is an acronym for Down Under the Manhattan Bridge Overpass. While it used to be primarily an industrial area, Dumbo is now the most expensive neighborhood in Brooklyn with many of the old industrial spaces now serving as luxury residential lofts. Dumbo is also a hub for tech startups.
@@ -76,23 +67,14 @@ One of the major benefits of attending this summit would have been networking wi
 
 S’well bottles are stainless steel beverage containers that keep drinks hot or cold. They retail for around $45\. YouTubers invited to the Creator Summit received ones with YouTube branding on them. A good water bottle is a convention/conference essential, so this was a very practical gift.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Branded slippers
 
 To help them relax after long days at the summit, YouTube provided creators with YouTube-branded slippers. They look pretty comfy. Plus, now every time these YouTubers look down at their feet they’ll be reminded to go make some videos.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
 _thinknoodles wearing his YouTube slippers._
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Pins, pins, pins
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
@@ -119,7 +101,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -132,8 +113,24 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-dissecting-alternatives-to-the-well-known-vlc/"><u>[New] Dissecting Alternatives to the Well-Known VLC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snap-your-world-how-to-watch-360-videos-on-android/"><u>[New] Snap Your World How to Watch 360 Videos on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-understanding-the-dynamics-of-night-portraits-for-2024/"><u>[New] Understanding the Dynamics of Night Portraits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>[Updated] Crafting Videos with Precision Leveraging StoryRemix in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287447826-ai/"><u>高效無限量化AI維護古老相片服務</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-trasformare-i-file-webm-in-mp4-con-alta-definizione-su-windows-1011-ed-mac-os-x-tutorial-dettagliato/"><u>Come Trasformare I File WebM in MP4 Con Alta Definizione Su Windows 10/11 Ed Mac OS X: Tutorial Dettagliato</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-how-to-unlock-a-disabled-iphone-12-drfone-by-drfone-ios/"><u>Disabled iPhone 12 How to Unlock a Disabled iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-sticky-keys-feature-in-windows-a-step-by-step-guide/"><u>Disabling Sticky Keys Feature in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-methods-for-downloading-images-from-instagram-across-different-devices/"><u>Effective Methods for Downloading Images From Instagram Across Different Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-ultime-reduire-la-taille-des-fichiers-multimedias-avec-un-transfert-gratuit-h264-vers-h2erix5-et-conserver-une-haute-qualite/"><u>Guide Ultime : Réduire La Taille Des Fichiers Multimédias Avec Un Transfert Gratuit H.264 Vers H.2erix5 Et Conserver Une Haute Qualité</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/is-it-possible-to-install-the-operating-system-on-an-outer-ssd-for-booting-purposes/"><u>Is It Possible to Install the Operating System on an Outer SSD for Booting Purposes?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-mojave-dvd-dvd/"><u>Mac Mojave 以降で DVD が再生できない？問題解決と手順：DVD動画の再生方法</u></a></li>
+<li><a href="https://win-webster.techidaily.com/master-mixing-with-droptrack-how-to-make-your-tunes-stand-out-on-cdjs/"><u>Master Mixing with DropTrack: How To Make Your Tunes Stand Out on CDJs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimale-komprimierungstechniken-zur-reduktion-von-hd-4k-und-8k-video-dateigrossen-um-bis-zu-90/"><u>Optimale Komprimierungstechniken Zur Reduktion Von HD, 4K Und 8K-Video-Dateigrößen Um Bis Zu 90%</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-android-dial-up-problems-techniques-for-repairing-incoming-and-outgoing-calls/"><u>Resolving Android Dial-Up Problems: Techniques for Repairing Incoming and Outgoing Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-on-using-handbrake-for-video-conversion-and-dvd-ripping/"><u>Step-by-Step Tutorial on Using Handbrake for Video Conversion and DVD Ripping</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-2/"><u>ウィンクスビデオAIで最強アップグレード! 動画、写真の鮮明度高め方大解析集紹介 - 第2章</u></a></li>
+</ul></div>
 

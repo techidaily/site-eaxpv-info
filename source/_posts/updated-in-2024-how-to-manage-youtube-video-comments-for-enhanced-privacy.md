@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Manage YouTube Video Comments for Enhanced Privacy"
-date: 2024-08-20T13:57:30.320Z
-updated: 2024-08-21T13:57:30.320Z
+date: 2025-03-02T22:21:49.802Z
+updated: 2025-03-05T17:08:43.391Z
 tags:
   - ai video
   - ai youtube
@@ -68,9 +68,6 @@ Click the **Settings** icon from the bottom of the left pane one more time. On t
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
 
 #### **Additional Info about Comments Options**
@@ -93,9 +90,6 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -118,9 +112,6 @@ From under the **Audience** section in the right window of the **Video details**
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQs About YouTube Comments
 
 #### 1\. Why can’t I comment on the YouTube video?
@@ -157,7 +148,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -168,9 +158,6 @@ Follow @Liza Brown
 
 # The Best Video Editors for YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -202,9 +189,6 @@ The green screen has its own designated icon on the main toolbar. Simply select 
 
 Filmora is always adding new features to make editing even easier for online video creators. A few of the other tools included in Filmora are speed control, text customization, tilt-shift, ripple delete, and an audio mixer.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## **Part 2: Video Editing Software Comparisons**
@@ -217,9 +201,6 @@ Here are two of the most popular editing programs for Windows computers:
 
 #### ** Windows Movie Maker
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **![windows-movie-maker](https://images.wondershare.com/filmora/article-images/windows-movie-maker.png)**
 
 Image source: intowindows
@@ -260,9 +241,6 @@ Like iMovie, Final Cut Pro does not use a traditional timeline. This will make i
 
 Final Cut Pro X costs $300, making it a significant investment.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Section 3: Online Video Editors**
 
 #### **WeVideo**
@@ -275,9 +253,6 @@ There are a few different pricing options for WeVideo. You can use it for free, 
 
 If you are going to pay $69 for video editing software, you are much better off using Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Section 4: The Pro-Choice**
 
 #### **Adobe Premiere**
@@ -288,18 +263,6 @@ Because it is designed for professionals and veteran editors, Premiere is far fr
 
 It does have a few features designed to save time, such as an automatic audio syncing tool and the ability to apply changes you have made to one clip across multiple other clips. The Premiere is probably the best program for professional video editors, but Filmora’s ease of use gives it an edge with amateur video creators.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Filmora is the best video editing software for YouTubers and other online video creators. Windows Movie Maker and iMovie are decent basic programs for creators on a budget, and Premiere is an excellent program for professionals, but if your goal is to create awesome videos for YouTube, then Filmora is the best tool for the job.
@@ -308,9 +271,6 @@ If you want to find a video editing solution that empowers your imagination and 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -319,7 +279,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -327,8 +286,21 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>[Updated] Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Fingerprint Lock</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-video-mpeg-a-formato-swf-fatto-in-casa-gratuitamente-soluzione-di-movavi/"><u>Converti Video MPEG a Formato SWF Fatto in Casa Gratuitamente - Soluzione Di Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-gratuitement-vos-videos-qt-en-format-mov-avec-movavi-online-free-tool/"><u>Convertissez Gratuitement Vos Vidéos QT en Format MOV Avec Movavi Online Free Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/crea-i-tuoi-file-mp3-da-video-offline-e-gratuitamente-con-convertitore-di-moviemaker/"><u>Crea I Tuoi File MP3 Da Video Offline E Gratuitamente Con Convertitore Di MovieMaker</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-your-youtube-presence-filmmaking-with-filmora-for-2024/"><u>Elevate Your YouTube Presence Filmmaking with Filmora for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-add-youtube-annotations-and-cards-in-2024/"><u>How to Add YouTube Annotations and Cards, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-why-is-instagram-turning-my-videos-sideways/"><u>In 2024, Why Is Instagram Turning My Videos Sideways?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-depth-gadget-analysis-by-tom-top-picks-and-insights/"><u>In-Depth Gadget Analysis by Tom - Top Picks and Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225131027-movavijpg/"><u>Movaviで手軽にJPGファイルを自由に変換する - 無料オンラインツール</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-audio-transcoder-convert-mpe-to-aac-at-no-cost-quick-and-simple-solution/"><u>Online Audio Transcoder: Convert MPE to AAC at No Cost - Quick and Simple Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722888509269-top-quality-high-end-gadgets-on-a-budget-must-try/"><u>Top-Quality High-End Gadgets on a Budget – Must Try!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-converting-mpeg-ts-files-to-high-quality-mp4-formats-on-any-device-or-via-web-services/"><u>Ultimate Guide to Converting MPEG-TS Files to High-Quality MP4 Formats on Any Device or Via Web Services</u></a></li>
+</ul></div>
 

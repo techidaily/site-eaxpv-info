@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Stand Out  YT Thumbnail Size and Engagement Strategies for 2024\""
-date: 2024-08-20T13:52:55.968Z
-updated: 2024-08-21T13:52:55.968Z
+date: 2025-02-26T21:37:32.304Z
+updated: 2025-03-05T20:24:36.307Z
 tags:
   - ai video
   - ai youtube
@@ -38,9 +38,6 @@ You must have heard the phrase, Never judge a book by its cover. But actually, w
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best YouTube Thumbnail Size
 
 Being a content creator, you never know which device is being used by the viewer to watch your videos. It can be a smartphone, laptop, pc, or smart TV. It is very important to keep all these devices in mind while choosing a Youtube thumbnail size. For the best possible results, consider the following points while making a thumbnail for your Youtube videos.
@@ -50,16 +47,10 @@ Being a content creator, you never know which device is being used by the viewer
 * Try not to cross the 2MB limit
 * Make sure to use a 16:9 aspect ratio for perfect results throughout the devices
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube-thumbnail-size](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-size.png)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Important is a Custom Thumbnail?
 
 Custom Thumbnail is a tool through which the viewers can understand everything about a video. It tells the viewers what to expect from a video, what not to expect, and what the video is all about. no matter if you create amazing content, if the thumbnail is not good enough to covey that to the viewers, all your hard work will be of no use and will not bring any good to your channel and its growth. According to [Google](https://support.google.com/youtube/answer/72431),90% of best-performing videos have custom thumbnails. It shows the importance of custom thumbnails.
@@ -78,9 +69,6 @@ Now, since we know the importance of having a custom thumbnail, it is important 
 
 In a world full of machines and computers, people love to listen and interact with people instead of computer-generated voices and a voice without a face. Showing your face on a Youtube thumbnail makes it more appealing to users to click and listen to the person who is being shown in the thumbnail. Humans are more inclined towards faces. When there is a human element in a video, it increases its effectiveness. Check out the pics below, which one are you most likely to click through?
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![comparison-of-showing-face-or-not](https://images.wondershare.com/filmora/article-images/comparison-of-showing-face-or-not.png)
 
 1. #### Use Simple Fonts
@@ -137,9 +125,6 @@ Many of you might be interested in how to make a fortnite thumbnail, so here it 
 
 1. Before we start making Fortnite Thumbnails, we have to take a screenshot of the gameplay. Open Fortnite and go to the Career tab. Here you will find Replays.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
 
 1. It contains all your recent gameplays. We can use it to take a screenshot. If you are using a console, you will find 10 recent gameplays here. But if you are a PC user, you can find the last 100 gameplays. Select the gameplay you want to take a screenshot from.
@@ -156,16 +141,10 @@ Many of you might be interested in how to make a fortnite thumbnail, so here it 
 
 1. Place it into the timeline to start working on it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
 
 1. Now to separate the character from the background, go to the Effects. Under effects, you can find a tab named AI Portraits. Click on AI Portrait. Now drag the Human Segmentation and drop it on the screenshot in the timeline.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
 
 1. It will ask you to purchase it. But there is no need to do that. Just hit Try It.
@@ -178,9 +157,6 @@ Many of you might be interested in how to make a fortnite thumbnail, so here it 
 
 1. Now you can add a background of your choice. You can upload an image or choose a simple color from Filmora's Media tab and drag it below the screenshot in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
 
 1. To add text to the screenshot, go to Titles. Here you can find a wide range of different and unique titles to choose from for your Fortnite Thumbnail. Choose any of the titles and place them accordingly.
@@ -217,18 +193,12 @@ Once you have successfully created a custom thumbnail, you can use it in your vi
 
 ![how-to-add-custom-youtube-thumbnail-to-video-step3](https://images.wondershare.com/filmora/article-images/how-to-add-custom-youtube-thumbnail-to-video-step3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Thumbnail is the first thing that helps the viewer decide whether to click on a video or ignore it. Which increases the importance of having a well-structured and attractive thumbnail. By following the above guide, you can make an astonishing and clickable thumbnail in no time. For better and quick results, we recommend you using Filmora X. It allows you to perform all the tasks from video editing to thumbnail creation on a single platform.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -236,7 +206,6 @@ Benjamin Arango
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -248,9 +217,6 @@ Follow @Benjamin Arango
 
 # Best YouTube Video Reaction Ideas
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -263,9 +229,6 @@ However, copyright restrictions prevent you from commenting on any video you fin
 
 Previously we have demonstrated [how to create a YouTube reaction video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/), check it to get some inspiration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -274,9 +237,6 @@ Previously we have demonstrated [how to create a YouTube reaction video with Fil
 
 The process of [making a YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) starts with an idea and the idea you choose often determines how good that video is going to be. The fact that reaction videos are so popular on YouTube right now, makes the idea selection even more important because just one good idea may boost your number of followers significantly. Here are some of the best video reaction ideas you can use to comment on different topics.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 1\. React to music videos
 
 Music videos are among the most popular genres of videos on YouTube, which makes them perfect to react to. You can share your opinion about the musician, their latest work or the video’s visual aspects. Obtaining the copyrights to the music video you would like to comment on is very important, because you may be forced to delete your reaction video if you don’t.
@@ -293,23 +253,14 @@ YouTubers that already have thousands of followers need to keep coming up with n
 
 Videos of children reacting to different genres of music are already getting thousands of views every day. So, if you like working with children you should consider making a variation of this type of video. There are so many different things children can react to, you just have to find a few that fit perfectly into your channel’s topic.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. React to ‘React To’ Videos
 
 Even though reacting to a reaction video sounds silly, it is anything but because by doing so you will open up space for a dialogue with other YouTubers. Besides being funny, this is also an opportunity to give your two cents on topics that are most relevant for your channel. In addition, the YouTube audience loves collaborations between YouTubers, which will give you and your associates the opportunity to increase the size of your audience.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Comment on your old videos
 
 Producing new content for your YouTube channel regularly is important for so many reasons, but recycling old material from time to time can allow you to reflect on the topics you already covered. In addition, you’ll remind your viewers of your old videos and give them the reason to watch them again. Opting to comment on the videos you made in the past can also help you avoid potential copyright complications.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Record reactions of elderly people
 
 It becomes increasingly difficult to keep up with the latest pop culture trends as we get older. That’s why elderly people often have trouble understanding the taste of younger generations. Recording their reactions to fashion choices young people make or the music they listen to can be hilarious, which makes it an excellent reaction video idea.
@@ -322,9 +273,6 @@ Over the course of the last decade, we’ve seen so many challenges go viral, as
 
 We all love watching a good TV show, whether it is a TV series or a reality show. So, if you are looking for a reaction video idea that can hardly fail, commenting on a TV show may be the right choice for you. However, getting the right to use the footage you would like to comment on may be difficult, as making the reaction video without permission from the copyright owner may have legal implications.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10\. Comment on movie trailers
 
 If you are running a movie channel on YouTube, your followers are expecting your comment on the latest releases. Sharing your opinion about trailers of movies you like or dislike with your audience is going to help you start a conversation about that movie. This idea is only worth considering if you are a movie buff, since analyzing a movie trailer or reacting to it is anything but easy.
@@ -339,9 +287,6 @@ With these reaction video ideas in mind, you can practise it on YouTube, or TikT
 
 Coming up with a unique idea for a reaction video isn’t necessarily a simple process, because there are so many reaction videos on YouTube. That is why the YouTube video reaction ideas you choose to have to fit perfectly into your channel’s theme. What is your favorite YouTube video reaction idea? Share your opinions in the comments.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -350,7 +295,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -358,8 +302,24 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[New] In 2024, Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-professional-techniques-to-make-a-standout-gopro-time-lapse/"><u>[New] Professional Techniques to Make a Standout GoPro Time-Lapse</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transforming-ordinary-moments-into-viral-instagram-reels-for-2024/"><u>[New] Transforming Ordinary Moments Into Viral Instagram Reels for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-watch-unseen-selective-tools-for-insta-enthusiasts-for-2024/"><u>[New] Watch Unseen Selective Tools for Insta Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-game-changer-elevating-your-virtual-reality-film-quality/"><u>[Updated] The Game Changer Elevating Your Virtual Reality Film Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-quick-resolution-stop-handbrake-from-stopping-hd-video-extraction-midway-under-30-sec-troubleshooting/"><u>1. Quick Resolution: Stop Handbrake From Stopping HD Video Extraction Midway – Under 30 Sec Troubleshooting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-flv-files-free-change-to-avi-wmv-mp4-and-mp3-without-cost/"><u>Convert FLV Files Free: Change to AVI, WMV, MP4, and MP3 Without Cost</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/die-top-3-losungen-fur-fehlende-outlook-e-mails-sofortige-massnahmen-ergreifen/"><u>Die Top 3 Lösungen Für Fehlende Outlook-E-Mails: Sofortige Maßnahmen Ergreifen!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-ultimate-3gp-creator-effortlessly-convert-your-videos-from-avimpeg-to-3gp-standard/"><u>Download the Ultimate 3GP Creator - Effortlessly Convert Your Videos From AVI/MPEG to 3GP Standard</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fix-fur-grossere-handbrake-ausgabe-als-input-datei/"><u>Fix Für Größere Handbrake-Ausgabe Als Input-Datei</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-mov-to-mp4-converter-for-all-platforms-including-macos-and-windows-10/"><u>Free Online MOV-to-MP4 Converter for All Platforms Including macOS and Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/l-lens-local-tales-how-to-transform-your-travel-experiences-into-content-for-2024/"><u>Global Lens, Local Tales How to Transform Your Travel Experiences Into Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-cheaper-apple-tv-4k-worth-it-comprehensive-breakdown-by-zdnet/"><u>Is Cheaper Apple TV 4K Worth It? Comprehensive Breakdown by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-systemsettings-errors-in-windows-11/"><u>Preventing SystemSettings Errors in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quality-meets-efficiency-choosing-between-wmv-and-mp4-formats-for-optimal-video-streaming/"><u>Quality Meets Efficiency: Choosing Between WMV & MP4 Formats for Optimal Video Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-unsupported-format-or-damaged-file-issues-with-avi-files-in-adobe-premiere-pro/"><u>Resolving 'Unsupported Format or Damaged File' Issues with AVI Files in Adobe Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-hd-video-players-with-h265-hevc-codec-support-for-ultra-high-definition-on-windows-10-and-mac-os-in-202/"><u>Top Free HD Video Players with H.265 HEVC Codec Support for Ultra-High Definition on Windows 10 & Mac OS in 202</u></a></li>
+</ul></div>
 

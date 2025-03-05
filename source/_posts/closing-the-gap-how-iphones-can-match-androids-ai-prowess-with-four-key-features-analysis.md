@@ -1,7 +1,7 @@
 ---
 title: "Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis"
-date: 2025-02-15T01:35:07.065Z
-updated: 2025-02-16T22:46:25.101Z
+date: 2025-02-28T19:41:07.925Z
+updated: 2025-03-05T21:46:20.239Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,19 +110,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ast-paced-artistry-expert-valorant-thumbnails-in-a-blink-for-2024/"><u>[New] Fast-Paced Artistry Expert Valorant Thumbnails in a Blink for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-array-of-unique-video-cameras-by-type/"><u>[Updated] Array of Unique Video Cameras by Type</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-fundamentals-of-creating-alluring-podcast-descriptions/"><u>[Updated] The Fundamentals of Creating Alluring Podcast Descriptions</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-f23-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo F23 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diy-troubleshooting-guide-top-5-tips-to-get-rid-of-winwordexe-issues-quickly/"><u>DIY Troubleshooting Guide: Top 5 Tips to Get Rid of WINWORD.EXE Issues Quickly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-4k-video-downloader-at-no-charge-a-step-by-step-guide-to-acquiring-free-software-access-codes/"><u>Download 4K Video Downloader at No Charge: A Step-by-Step Guide to Acquiring Free Software Access Codes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-advanced-microphone-recorders-for-mac-users-our-five-superstar-picks/"><u>In 2024, Advanced Microphone Recorders for Mac Users Our Five Superstar Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/iphone2024-ipadandroid/"><u>IPhoneユーザ向けに完全ナビゲート!2024年の最も高評価される音声編集アプリ - iPadとAndroidをサポートしています</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/resolved-bitlocker-feature-now-available-on-windows-11/"><u>Resolved: BitLocker Feature Now Available on Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/simple-steps-transferring-your-mkv-videos-into-mov-format-compatible-with-ios-and-macos-devices/"><u>Simple Steps: Transferring Your MKV Videos Into MOV Format Compatible with iOS and macOS Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209854671-9780994925534-the-ancient-trinity/"><u>The Ancient Trinity | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-ranking-guide-transform-mov-files-to-flv-format-seamlessly-on-your-mac-using-leading-software-tools/"><u>Top-Ranking Guide: Transform MOV Files to FLV Format Seamlessly on Your Mac Using Leading Software Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/understanding-4k-ultra-hd-video-all-essential-info-in-one-place/"><u>Understanding 4K Ultra HD Video - All Essential Info in One Place!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/visual-tutorial-effortless-dvd-extraction-via-handbrake-detailed-instructions-and-images/"><u>Visual Tutorial: Effortless DVD Extraction via HandBrake - Detailed Instructions & Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hit-the-floor-with-optimal-posting-hours-for-2024/"><u>[New] Hit the Floor with Optimal Posting Hours for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[Updated] 2024 Approved How to Illuminate A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-non-appearing-thumbnails-in-youtube-shorts-for-2024/"><u>[Updated] Fixing Non-Appearing Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-in-focus-building-a-foundation-of-youtube-backlinks-for-2024/"><u>[Updated] Growth in Focus Building a Foundation of YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-full-potential-of-your-youtube-content-using-wmm-for-2024/"><u>[Updated] Harness the Full Potential of Your YouTube Content Using WMM for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-secure-and-cost-free-youtube-music-extraction/"><u>[Updated] In 2024, Guide to Secure and Cost-Free YouTube Music Extraction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mac-enhancement-synchronized-screen-plus-audio-tracking/"><u>[Updated] In 2024, Mac Enhancement Synchronized Screen + Audio Tracking</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-3-ways-convert-pinner-vids-into-audios-for-2024/"><u>[Updated] Top 3 Ways Convert Pinner Vids Into Audios for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-enhanced-boost-your-sites-analytics-and-personalization/"><u>Cookiebot-Enhanced: Boost Your Site's Analytics & Personalization</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/embracing-the-future-microsoft-unveils-essential-gadgets-for-todays-hybrid-workplace-technews/"><u>Embracing the Future: Microsoft Unveils Essential Gadgets for Today’s Hybrid Workplace | TechNews</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y36-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y36 Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-photography-snippets-from-videos/"><u>In 2024, Implementing Photography Snippets From Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-steams-storage-for-faster-gaming-access/"><u>Optimize Steam's Storage for Faster Gaming Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-guide-to-earning-on-reddit-no-skills-required-for-2024/"><u>Step-by-Step Guide to Earning on Reddit - No Skills Required for 2024</u></a></li>
 </ul></div>
 

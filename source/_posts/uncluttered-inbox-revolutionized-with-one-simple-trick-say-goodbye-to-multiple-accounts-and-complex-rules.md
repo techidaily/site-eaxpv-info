@@ -1,7 +1,7 @@
 ---
 title: Uncluttered Inbox Revolutionized with One Simple Trick - Say Goodbye to Multiple Accounts and Complex Rules
-date: 2025-02-13T02:48:29.862Z
-updated: 2025-02-16T16:21:53.435Z
+date: 2025-03-03T20:39:08.327Z
+updated: 2025-03-05T16:22:39.854Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -64,10 +60,6 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using Gmail
 
 Although it's the world's most popular email service, Gmail's implementation of aliases is surprisingly limited. To create an alias, you start with your primary address and then modify it by adding a plus sign at the end and then adding some extra text. If your address is example@gmail.com, you can use example+news@gmail.com, example+family@gmail.com, etc.
@@ -75,10 +67,6 @@ Although it's the world's most popular email service, Gmail's implementation of 
 **Also: [Running out of Gmail storage? How to get another 15GB for free](https://www.zdnet.com/article/running-out-of-gmail-storage-how-to-get-another-15gb-for-free/)**
 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
 
@@ -90,10 +78,6 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using your Apple ID
 
 If you own an iPhone, iPad, or MacBook, you can use that device to create up to three email aliases that go to an address associated with your Apple ID. This feature is called [Hide My Email](https://support.apple.com/guide/icloud/what-are-email-aliases-in-icloud-mail-mm074af79454/1.0/icloud/1.0), and it uses the iCloud domain as its forwarding mechanism.
@@ -103,10 +87,6 @@ The one catch is that each alias uses an auto-generated name that can be less th
 **Also: [You can easily move your photos from Google Photos to iCloud Photos. Here's how](https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/)**
 
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other alias options
 
@@ -146,17 +126,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-echocam-grabber-for-video-calls-for-2024/"><u>[New] EchoCam Grabber for Video Calls for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] In 2024, Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-mythos-makers-mecca-prime-pantheon-seven/"><u>[New] In 2024, Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>[Updated] The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/boost-your-gaming-diy-mini-pc-with-ultra-fast-egpu-pcie-interface-surpassing-thunderbolt-ebyte/"><u>Boost Your Gaming: DIY Mini PC with Ultra-Fast eGPU PCIe Interface Surpassing Thunderbolt Ebyte</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-repairing-frequent-usb-disconnection-problems/"><u>Expert Tips on Repairing Frequent USB Disconnection Problems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-technology-with-tom-your-ultimate-resource/"><u>Exploring Technology with Tom - Your Ultimate Resource</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/flipping-the-script-how-to-invert-snapchat-movements-for-2024/"><u>Flipping the Script How to Invert Snapchat Movements for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-update-or-repair-faulty-graphics-drivers-for-an-optimized-oculus-session/"><u>How to Update or Repair Faulty Graphics Drivers for an Optimized Oculus Session</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-halls-of-fame-on-reddit-celebrating-best-rated-threads/"><u>In 2024, Halls of Fame on Reddit Celebrating Best-Rated Threads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/masterful-techniques-to-reduce-starfields-cpu-demand-and-enhance-performance/"><u>Masterful Techniques to Reduce Starfield's CPU Demand and Enhance Performance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-latest-computer-components-with-toms-gear-guide/"><u>Unveiling the Latest Computer Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>[New] In 2024, A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apples-latest-move-expanding-the-obsolete-list-with-nine-new-mac-models-insights/"><u>Apple’s Latest Move: Expanding the 'Obsolete' List with Nine New Mac Models - Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-iphone-15-pro-and-iphone-13-pro-is-it-time-for-an-upgrade/"><u>Comparing iPhone 15 Pro and iPhone 13 Pro: Is It Time for an Upgrade?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-ios-18-complete-guide-to-installation-and-compatible-iphone-models-detailed-tutorial-by-zdnet/"><u>Download IOS 18: Complete Guide to Installation & Compatible iPhone Models - Detailed Tutorial by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-computing-with-new-amazon-sustainability-tool-tracking-carbon-footprint-in-the-cloud/"><u>Eco-Friendly Computing with New Amazon Sustainability Tool Tracking Carbon Footprint in the Cloud</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-bluetooth-connections-seamlessly-connecting-an-android-phone-and-desktop-computer/"><u>Master Bluetooth Connections: Seamlessly Connecting an Android Phone and Desktop Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-macos-monterey-building-personalized-focusing-modes-for-enhanced-productivity-insights-from-zdnet/"><u>Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210696445-9781914166105-orphic-hymns-grimoire/"><u>Orphic Hymns Grimoire | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/smartwatch-face-off-which-newcomer-takes-the-crown-comparing-google-pixel-watch-2-and-apple-watch-series-9-for-tech-enthusiasts-zdnet-insights/"><u>Smartwatch Face-Off: Which Newcomer Takes the Crown - Comparing Google Pixel Watch 2 and Apple Watch Series 9 for Tech Enthusiasts | ZDNet Insights</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-tutorial-how-to-restore-lost-photos-from-an-iphone-device/"><u>Step-by-Step Tutorial: How to Restore Lost Photos From an iPhone Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/systems-daylight-savings-failure-wont-rise/"><u>System's Daylight Savings Failure: Won't Rise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-savings-unveiling-the-most-competitive-atandt-offers-in-may-2024-insights/"><u>Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/upgrading-from-apple-watch-series-8-to-series-10-worth-the-leap-forward/"><u>Upgrading From Apple Watch Series 8 to Series 10: Worth the Leap Forward?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet"
-date: 2025-02-15T23:32:31.085Z
-updated: 2025-02-17T01:57:53.963Z
+date: 2025-03-02T17:16:06.568Z
+updated: 2025-03-05T21:06:42.709Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -42,10 +38,6 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uncertainty around on-device performance
 
 Adrian Kingsley-Hughes/ZDNET
@@ -55,10 +47,6 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
 
@@ -77,10 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
 
@@ -124,22 +108,16 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-secure-and-cost-free-youtube-music-extraction/"><u>[New] 2024 Approved Guide to Secure and Cost-Free YouTube Music Extraction</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>[New] 2024 Approved Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-8-essential-tools-for-your-youtube-to-avi-needs/"><u>[New] In 2024, 8 Essential Tools for Your YouTube-to-AVI Needs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-10-online-tools-to-retrieve-youtube-graphics/"><u>[Updated] 2024 Approved 10 Online Tools to Retrieve YouTube Graphics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-content-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion-for-2024/"><u>[Updated] Content Hub Hierarchy Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevating-channels-strategies-for-stardom-on-youtube-for-2024/"><u>[Updated] Elevating Channels Strategies for Stardom on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-earning-through-youtube-navigating-revenue-without-ads/"><u>[Updated] In 2024, Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos/"><u>[Updated] Unleashing Video Potential Efficiently Add Subtitles/CC to Your YouTube Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-play-8t-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Play 8T using Video Repair Utility?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-k11-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo K11 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-5-tips-to-get-more-views-with-youtube-optimization/"><u>In 2024, 5 Tips to Get More Views with YouTube Optimization</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-step-by-step-guide-to-snapchats-boomerang-magic/"><u>In 2024, A Step-by-Step Guide to Snapchat's Boomerang Magic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/stream-your-success-a-step-by-step-guide-to-earning-for-2024/"><u>Stream Your Success A Step-by-Step Guide to Earning for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-7-audio-de-singer-tools-for-effective-vocal-elimination/"><u>Updated In 2024, Top 7 Audio De-Singer Tools for Effective Vocal Elimination</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-windows-11s-atheros-connectivity-easy-driver-installation-guide/"><u>Upgrading Windows 11'S Atheros Connectivity: Easy Driver Installation Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/whats-the-best-youtube-thumbnail-size-for-2024/"><u>What's the Best YouTube Thumbnail Size for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-knowledge-for-engaging-with-asmr-videos/"><u>[Updated] 2024 Approved Essential Knowledge for Engaging with ASMR Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-syncopated-mix-management-in-sonar-by-platinum/"><u>[Updated] Syncopated Mix Management in Sonar by Platinum</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/4-strategies-for-capturing-xbox-games-play-by-play-for-2024/"><u>4 Strategies for Capturing Xbox Games Play-By-Play for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-your-touchscreen-on-a-windows-10-device/"><u>Five Effective Methods to Repair Your Touchscreen on a Windows 10 Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 5G</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximize-your-apple-watchs-battery-endurance-with-these-simple-adjustments-insider-tips-from-zdnet/"><u>Maximize Your Apple Watch's Battery Endurance with These Simple Adjustments - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/meta-quest-3-leaps-into-the-future-with-early-ai-integration-beating-apples-vision-pro-setup-guide-inside-zdnet-insights/"><u>Meta Quest 3 Leaps Into the Future with Early AI Integration Beating Apple's Vision Pro - Setup Guide Inside | ZDNET Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-smart-choice-why-skipping-the-iphone-16-makes-sense-for-tech-savvy-consumers-insights-from-zdnet/"><u>The Smart Choice: Why Skipping the iPhone 16 Makes Sense for Tech-Savvy Consumers - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-your-pictures-using-apples-cutting-edge-artificial-intelligence-and-text-prompts-tech-news/"><u>Transform Your Pictures Using Apple's Cutting-Edge Artificial Intelligence and Text Prompts | Tech News</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uncovering-the-secrets-of-airtag-tracking-a-comprehensive-guide/"><u>Uncovering the Secrets of AirTag Tracking – A Comprehensive Guide</u></a></li>
 </ul></div>
 

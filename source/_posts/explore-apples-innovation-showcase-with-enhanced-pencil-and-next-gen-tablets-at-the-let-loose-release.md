@@ -1,7 +1,7 @@
 ---
 title: Explore Apple's Innovation Showcase with Enhanced Pencil and Next-Gen Tablets at the 'Let Loose' Release
-date: 2025-02-13T20:30:34.900Z
-updated: 2025-02-16T19:41:40.484Z
+date: 2025-03-03T20:13:43.585Z
+updated: 2025-03-05T18:21:58.759Z
 tags:
   - apple
 categories:
@@ -26,19 +26,11 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -60,10 +52,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -79,10 +67,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -122,10 +106,6 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I watch Apple's Let Loose event?
 
 The Apple Let Loose event was a pre-recorded video but is still available for streaming on [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), [Apple.com](https://www.apple.com/apple-events/), and in the Apple TV app.
@@ -160,24 +140,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-youtubes-premier-guide-to-top-notch-gear/"><u>[New] 2024 Approved YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-efficient-use-of-obs-studio-for-android-devices/"><u>[New] In 2024, Efficient Use of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-30-camcorders-directly-at-your-eyes/"><u>[Updated] 2024 Approved Top 30 Camcorders Directly At Your Eyes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-beyond-ustream-a-comparative-analysis-of-streams-for-2024/"><u>[Updated] Beyond Ustream A Comparative Analysis of Streams for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-empowering-your-business-communication-google-meet-to-youtube-steps/"><u>[Updated] Empowering Your Business Communication Google Meet to YouTube Steps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>[Updated] In 2024, Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1724766871431-dvd/"><u>「美声解放! DVDからクオリティの高い音声を自由に引き出せる初代無料アプリ」</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/conversion-rapide-du-hdd-en-ssd-sur-windows-11-methode-la-plus-efficace-et-simple-a-suivre/"><u>Conversion Rapide Du HDD en SSD Sur Windows 11 - Méthode La Plus Efficace Et Simple À Suivre</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gptbot-understanding-its-role-and-bans/"><u>Decoding GPTBot: Understanding Its Role and Bans</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1724766863631-dvd-decrypter/"><u>DVD Decrypter 使用中に発生する書き込み障害:解決策とその詳細を学ぶ！</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/efficient-dvd-ripping-with-macx-imkvmaker-convert-protected-dvds-into-secure-mkv-files/"><u>Efficient DVD Ripping with MacX iMKVmaker: Convert Protected DVDs Into Secure MKV Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-streaming-of-amazing-sci-fi-blockbusters-secrets-for-accessing-epic-galactic-adventures-at-no-charge/"><u>Free Streaming of Amazing Sci-Fi Blockbusters: Secrets for Accessing Epic Galactic Adventures at No Charge</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Phantom V Fold</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-action-camera-accessories-buying-guide/"><u>In 2024, Action Camera Accessories Buying Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/master-the-art-of-ipod-file-relocation-ultimate-techniques-for-transferring-images-audio-and-footage/"><u>Master the Art of iPod File Relocation: Ultimate Techniques for Transferring Images, Audio & Footage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transferring-iso-files-onto-your-iphone-using-macos-a-comprehensive-guide/"><u>Transferring ISO Files Onto Your iPhone Using MacOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-imovie-how-to-convert-unsupported-mp4-files-for-editing-in-apples-software/"><u>Troubleshooting iMovie: How to Convert Unsupported MP4 Files for Editing in Apple's Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1724766177514-macdvd/"><u>ディスクからMacで人気DVD動画を効果的にバックアップするテクニック</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1724766133675-mp3/"><u>パソコン用: MP3ファイルを無料でダウンロードし、保存するための完全ガイドとリスト</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-networking-growth-sharing-facebook-content-via-whatsapp/"><u>[New] Networking Growth Sharing Facebook Content via WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-apples-latest-innovation-exploring-enhancements-in-the-new-3rd-gen-airpods-a-comprehensive-zdnet-review/"><u>1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-asus-rog-phone-7-ultimate-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Asus ROG Phone 7 Ultimate to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-itel-p55-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Itel P55 FRP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998993533-ensure-smooth-sailing-in-wow-sea-battles-fix-your-pcs-wow-crash-problem-with-these-5-tactics/"><u>Ensure Smooth Sailing in WoW Sea Battles - Fix Your PC's WoW Crash Problem with These 5 Tactics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/individualist-to-institutional-influence-in-the-youtube-universe-for-2024/"><u>From Individualist to Institutional Influence in the YouTube Universe for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-tvos-18-improves-apple-tv-conversations-a-guide-to-crystal-clear-audio/"><u>How TvOS 18 Improves Apple TV Conversations: A Guide to Crystal Clear Audio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>In 2024, A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-watermark-editor-top-rated-options/"><u>In 2024, Free Video Watermark Editor Top Rated Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-16-pro-vs-iphone-14-pro-analyzing-the-value-of-your-next-smartphone-upgrade-insights-from-zdnet/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Analyzing the Value of Your Next Smartphone Upgrade – Insights From ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-multi-format-support-a-guide-to-enhancing-windows-media-players-compatibility-with-windows-11-8-and-7/"><u>Mastering Multi-Format Support: A Guide to Enhancing Windows Media Player's Compatibility with Windows 11, 8 and 7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/set-up-slack-push-notifications-for-iphone-and-apple-watch-insights-by-zdnet/"><u>Set Up Slack Push Notifications for iPhone and Apple Watch | Insights by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-wi-fi-connectivity-puzzles-clarifying-incomplete-instructions/"><u>Solving Wi-Fi Connectivity Puzzles: Clarifying Incomplete Instructions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-notetablet-picks-in-depth-reviews-and-comparisons-techinsights/"><u>Top Notetablet Picks : In-Depth Reviews & Comparisons | TechInsights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-phones-recommended-by-zdnets-tech-experts-what-they-truly-prefer-and-why/"><u>Top Phones Recommended by ZDNet's Tech Experts: What They Truly Prefer and Why</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-apples-stealthy-smart-radio-technology-within-macs-and-ipads/"><u>Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-apples-progress-in-artificeal-intelligence-discover-new-features-and-potential-applications-analyzed/"><u>Unveiling Apple's Progress in Artificeal Intelligence: Discover New Features and Potential Applications | Analyzed</u></a></li>
 </ul></div>
 

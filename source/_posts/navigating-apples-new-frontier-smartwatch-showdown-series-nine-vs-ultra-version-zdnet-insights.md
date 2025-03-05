@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version | ZDNET Insights"
-date: 2025-02-13T02:50:32.857Z
-updated: 2025-02-17T02:37:11.517Z
+date: 2025-02-26T20:37:15.109Z
+updated: 2025-03-05T21:54:16.871Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
@@ -62,10 +58,6 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You ride, hike or dive… a lot
 
 Speaking of outdoor activities, the Ultra is specifically made for extreme fitness enthusiasts who need longer battery life, a better, brighter display and improved GPS tracking. 
@@ -73,10 +65,6 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -89,10 +77,6 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 **More: [Apple Watch Ultra: Price, release date, and features](https://www.zdnet.com/article/apple-watch-ultra-price-release-date-features-colors-everything-you-need-to-know/)**
 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if…
 
@@ -117,10 +101,6 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -170,17 +150,16 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-advanced-techniques-with-obs-studio-for-android-for-2024/"><u>[New] Advanced Techniques with OBS Studio for Android for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-disseminating-wirecast-insights-and-alternatives/"><u>[New] In 2024, Disseminating WireCast Insights and Alternatives</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-spectral-savvy-applying-color-science/"><u>[Updated] 2024 Approved Spectral Savvy Applying Color Science</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premier-service-guide-exclusive-local-channels-plus-live-streaming/"><u>[Updated] Premier Service Guide Exclusive Local Channels + Live Streaming</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-jumpstart-your-cash-with-these-8-innovative-tiktok-methods/"><u>In 2024, Jumpstart Your Cash with These 8 Innovative TikTok Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-note-12-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi Note 12 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-the-jittery-cursor-problem-on-windows-xp/"><u>Solving the Jittery Cursor Problem on Windows XP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-5-expectations-from-the-launch-of-nvidias-revolutionary-arm-processors/"><u>Top 5 Expectations From the Launch of NVIDIA's Revolutionary ARM Processors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-7-fond-memories-of-the-dial-up-era-why-we-cant-help-but-remember/"><u>Top 7 Fond Memories of the Dial-Up Era: Why We Can't Help but Remember</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshoot-black-camera-display-errors-on-windows-11-with-our-expert-guide-and-effective-tips/"><u>Troubleshoot Black Camera Display Errors on Windows 11 with Our Expert Guide and Effective Tips!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-ea-application-failures-a-step-by-step-guide/"><u>Troubleshooting EA Application Failures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-how-to-download-and-setup-microsoft-store-applications-in-windows-10/"><u>Ultimate Tutorial: How to Download and Setup Microsoft Store Applications in Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-dive-into-asmr-its-positive-effects-explored/"><u>[New] 2024 Approved Dive Into ASMR Its Positive Effects Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>[New] 2024 Approved Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-camera-roll-to-youtube-the-ultimate-uploading-guide-for-2024/"><u>[New] From Camera Roll to YouTube The Ultimate Uploading Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gratis-design-elements-for-youtube-channel-for-2024/"><u>[New] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-enhance-your-creative-edge-top-10-free-macos-compatible-tiktok-editors/"><u>[Updated] 2024 Approved Enhance Your Creative Edge Top 10 Free, MacOS-Compatible TikTok Editors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-10-tools-to-record-zoom-meeting/"><u>[Updated] In 2024, 10 Tools to Record Zoom Meeting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-to-music-selecting-the-cheapest-online-converters/"><u>[Updated] In 2024, From Video to Music Selecting the Cheapest Online Converters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] In 2024, How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-0x8004def5-quick-fixes-for-windows-11-users/"><u>Decoding 0X8004DEF5 - Quick Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-visual-content-turning-youtube-clips-into-animated-gifs/"><u>In 2024, Enhancing Visual Content Turning Youtube Clips Into Animated GIFs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-leading-mp4-to-facebook-mover/"><u>In 2024, Leading MP4 to Facebook Mover</u></a></li>
 </ul></div>
 

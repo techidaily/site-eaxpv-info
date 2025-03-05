@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Upload YouTube Shorts Video From Computer and Mobile?\""
-date: 2024-08-20T13:53:58.977Z
-updated: 2024-08-21T13:53:58.977Z
+date: 2025-03-03T16:17:53.208Z
+updated: 2025-03-05T19:25:38.875Z
 tags:
   - ai video
   - ai youtube
@@ -42,9 +42,6 @@ Once you have a video recorded using the first two guidelines from the above lis
 
 #### Step 1: Select a Short Video to Upload
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Upload YouTube Shorts Video to desktop](https://images.wondershare.com/filmora/article-images/upload-short-videos-on-youtube-pc.jpg)
 
 Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
@@ -61,9 +58,6 @@ On the **Details** window that appears, add **#Shorts** in the **Title** or **De
 
 On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![post YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
 
 To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
@@ -72,9 +66,6 @@ To sum up, uploading YouTube Shorts video from desktop has nothing different fro
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -85,54 +76,24 @@ For macOS 10.12 or later
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Upload Short Video on YouTube Mobile App?
 
 The process of **uploading YouTube Shorts** from the mobile app is fairly simple compared to the method used on a computer. While using the app, you can either upload an existing video or shoot a new one from within the program itself then and there, add music and text, and upload it right away. Both these methods are explained below in detail:
 
 **Note:** The guidelines for creating and uploading short videos to YouTube remain the same, regardless of the platform or device you use.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Upload an Existing Short Video
 
 **Note:** Make sure to have the target video on the smartphone and that you have downloaded, installed, and signed in to the YouTube app before proceeding.
 
 #### Step 1: Select a Video to Upload
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select a Video to Upload as Shorts](https://images.wondershare.com/filmora/article-images/select-shorts-videos-to-upload-on-youtube.jpg)
 
 On your Android or iOS smartphone, launch the YouTube app, tap the **+** (**Create**) icon from the bottom, tap **Create a Short** from the **Create** box that pops up from the bottom, tap **Upload** from the bottom-right corner of the next screen, and select and upload a short, 60 seconds video recorded in portrait orientation from your device’s storage to the app.
 
 #### Step 2: Add Details
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add details to Shorts video](https://images.wondershare.com/filmora/article-images/add-details-to-youtube-shrots-video.jpg)
 
 On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the bottom-left corner to add a background music and caption to the video respectively, and tap **NEXT** from the top-right corner. On the next screen, enter a name for the video in the **Title** field along with the **#Shorts** tag, and tap **Select audience** to choose your preferred audience.
@@ -165,9 +126,6 @@ On the next window, use the **Music** and **Text** buttons from the bottom-left 
 
 On the **Add details** window, enter a name for the video along with the **#Shorts** tag in the **Create a title** field, tap **Select audience** to select the target audience, and tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 **Conclusion**
@@ -184,16 +142,12 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick and Free: IOS Apps to Convert YouTube Videos to MP3 Files
 
 # 6 Free Software to Convert YouTube to MP3 for iPhone
@@ -242,9 +196,6 @@ The main features of MyMP3 are –
 * You can record from a microphone, CD, turntable, audio streamed from the internet, Skype call or phone calls, and the likes.
 * It allows ripping CDs, renaming batch files, scheduling recordings, silence detection, and playlist management while recording vinyl albums.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![myMP3 - App to Download YouTube Video](https://images.wondershare.com/filmora/article-images/myMP3.jpg)
 
 ## Part 2: YouTube to MP3 converter for iPhone (on Desktop)
@@ -315,16 +266,10 @@ But there are legal issues you need to consider before joining the conversion tr
 
 There are several ways to do that. The legal and recommended method is to get a YouTube Music Premium subscription. This will enable you to download songs from YouTube and save them on your iPhone for offline consumption. The alternative way involves numerous websites and apps that enable you to convert YouTube videos to mp3 and download them on your iPhone. This approach, however, is illegal and should be avoided.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Verdict
 
 After going through the list of YouTube music converters in this article, we have found that Filmora is the ultimate solution for all your video download and audio conversion needs. With its matchless features, this App makes your life simple and melodious. However, it is our suggestion, the final call will be yours. We would like to know which was your choice and how was the experience using it. Thanks, readers for having a glance at this post. We hope you are delighted after reading it and finding what you needed.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -333,7 +278,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -341,8 +285,19 @@ Follow @Ollie Mattison
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-converging-worlds-effortlessly-incorporate-linktree-on-tiktok/"><u>[New] Converging Worlds Effortlessly Incorporate Linktree on TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-made-easy-your-guide-to-adding-and-sharing-gifs/"><u>[Updated] Snapchat Made Easy Your Guide to Adding and Sharing Gifs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-monetization-maze-on-youtube/"><u>2024 Approved Navigating the Monetization Maze on Youtube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-october-prime-day-special-get-the-sleek-apple-m2-macbook-air-for-just-749-insider-details/"><u>Amazon's October Prime Day Special: Get the Sleek Apple M2 MacBook Air for Just $749 - Insider Details</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pc-geforce-rtx-3080-ti-driver-downloads-for-windows-versions-10-8-and-7/"><u>Enhance Your PC: GeForce RTX 3080 Ti Driver Downloads for Windows Versions 10, 8 & 7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/estrategias-clave-optimizacion-del-proceso-de-secuencia-transferencia-y-restauracion-de-datos/"><u>Estrategias Clave: Optimización Del Proceso De Secuencia, Transferencia Y Restauración De Datos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-expertos-para-una-eficaz-administracion-de-backup-y-recuperacion-de-informacion/"><u>Guía Expertos Para Una Eficaz Administración De Backup Y Recuperación De Información</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-rapido-e-facile-trasformare-un-file-iso-immagine-in-formato-mp4-in-meno-di-5-minuti/"><u>Guida Rapido E Facile: Trasformare Un File ISO Immagine in Formato MP4 in Meno Di 5 Minuti</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c210-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C210 for Parents | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-libres-de-derechos-los-mejor-programas-para-el-clonado-de-dvd/"><u>Top 6 Libres De Derechos Los Mejor Programas Para El Clonado De DVD</u></a></li>
+</ul></div>
 

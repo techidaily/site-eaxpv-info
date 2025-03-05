@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Find Your Comments on YouTube on Desktop/iPhone/Android"
-date: 2024-08-20T13:55:03.751Z
-updated: 2024-08-21T13:55:03.751Z
+date: 2025-03-02T19:17:57.436Z
+updated: 2025-03-05T20:40:25.041Z
 tags:
   - ai video
   - ai youtube
@@ -35,18 +35,12 @@ That said, the following sections teach you how to find your YouTube comments on
 * [Part 5: How to Moderate YouTube Comments?](#part5)
 * [Part 6: Tips for Writing Good YouTube Comments](#part6)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Find All the Comments You’ve Posted on YouTube?
 
 YouTube allows you to post comments on any video only if you are signed in to your Google account while browsing the streaming platform. Because of this, the portal is able to keep a record of your activities, thus enabling you to track all your comments, and take necessary action such as deleting or modifying them as required.
 
 You can learn how to find all the comments you have posted on YouTube while using your preferred device by following the instructions given below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Find Your YouTube Comments on a Desktop or Laptop Computer
 
 **Step 1: Sign In to Your YouTube Account**
@@ -63,9 +57,6 @@ Click the **Menu</strong > button from the top-left corner of the page, and then
 
 Click **Comments** from the right of the **History** page to view all the comments that you have posted earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube History Menu  Comments](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
 
 ### 2\. Find Your YouTube Comments on an iPhone
@@ -124,18 +115,12 @@ Open your favorite Internet browser, go to <https://www.youtube.com>, and sign i
 
 Make sure that the **Uploads** tab is selected on the **Channel content** window, and check the number under the **Comments** column of each video to see how many comments that particular film has received. You can click the number for any video to view its comments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find  YouTube Comments List](https://images.wondershare.com/filmora/article-images/find-youtube-video-comments-list.jpg)
 
 **Step 3: Hide or Hold a Comment for Approval**
 
 Click the **More** icon from the right of the comment you want to moderate, and click **Hide user from channel** or **Always approve comments from this user** to hide the comments from the selected user or keep their comments on hold until you review and approve them respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find  YouTube Comments List](https://images.wondershare.com/filmora/article-images/set-up-specific-user-comment-moderation.jpg)
 
 Note: To view all comments received on your YouTube channel, go to the Comments tab under YouTube Studio, and you will find all Channel comments & mentions.
@@ -180,9 +165,6 @@ Go to your or any other’s YouTube video, and click **Load All** from the top-r
 
 Choose **Comments** from the search type drop-down list, enter the name of the user in question in the **Search** box, and click **Search** to fetch all their comments on the video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Serach  YouTube Comments of specific users](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
 
 ## Part 4: How to Edit and Reply to YouTube Comments?
@@ -199,9 +181,6 @@ Locate the comment that you want to reply to, click **REPLY** from under the com
 
 ![Reply  YouTube Comments](https://images.wondershare.com/filmora/article-images/reply-youtube-comments.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Moderate YouTube Comments?
 
 If you publish videos on YouTube that may put some impact on people’s lifestyle, you are likely to face criticism quite often. Therefore, you might want to moderate all your comments before they become visible to the audience so as not to spread negativity among the mass. Fortunately, YouTube helps you get this done easily, and the instructions that teach you the process are given below:
@@ -216,9 +195,6 @@ From the bottom of the navigation bar on the left of the **YouTube Studio** page
 
 Go to the **Community** category from the left pane, and go to the **Defaults** tab from the right. Next, choose **Hide all comments for review** from the **Comments on your new videos** drop-down list, and click **SAVE** from the bottom-right corner of the box to moderate all YouTube comments that your new videos receive from this point onward.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set  YouTube Community Comments moderation](https://images.wondershare.com/filmora/article-images/set-up-youtube-community-comments-moderaiton.jpg)
 
 ## Part 6: Tips for Writing Good YouTube Comments
@@ -231,9 +207,6 @@ While posting a comment on a YouTube video, it is imperative to keep a few thing
 * In case you want to add some suggestions, make sure to be humble
 * Ignore the replies with inappropriate content
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About YouTube Comments
 
 **Q1) Why can’t I see the comments I posted?**
@@ -254,7 +227,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -265,13 +237,28 @@ Follow @Richard Bennett
 
 # 8 Best Mirrorless Cameras Vloggers Should Know
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-design-delight-complimentary-3d-psd-treasures-for-2024/"><u>[New] Design Delight Complimentary 3D PSD Treasures for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevating-your-macro-videos-a-comprehensive-checklist-for-2024/"><u>[Updated] Elevating Your Macro Videos A Comprehensive Checklist for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-snap-into-hilarity-meme-creation-made-simple-for-2024/"><u>[Updated] Snap Into Hilarity Meme Creation Made Simple for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/25-cute-memes-to-make-you-feel-better/"><u>25 Cute Memes to Make You Feel Better</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-manycam-alternatives-top-live-streaming-tools-with-virtual-camera-features/"><u>Best Free ManyCam Alternatives: Top Live Streaming Tools with Virtual Camera Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-live-streaming-app-manycam-and-virtual-camera-features/"><u>Best Live Streaming App: ManyCam and Virtual Camera Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-live-streaming-apps-top-manycam-alternatives-and-virtual-camera-solutions/"><u>Best Live Streaming Apps: Top ManyCam Alternatives and Virtual Camera Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-manycam-alternatives-top-live-streaming-and-virtual-camera-apps/"><u>Best ManyCam Alternatives: Top Live Streaming and Virtual Camera Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-manycam-alternatives-top-live-streaming-tools-and-online-cam-replacements/"><u>Best ManyCam Alternatives: Top Live Streaming Tools and Online Cam Replacements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/capture-your-online-presence-perfectly-using-manycam-for-professional-virtual-webcams-and-broadcasting-software/"><u>Capture Your Online Presence Perfectly Using ManyCam for Professional Virtual Webcams and Broadcasting Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-repairing-windows-update-failure-error-0x8024002e/"><u>Effective Solutions for Repairing Windows Update Failure (Error 0X8024002E)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-using-manycam-top-choice-for-professional-virtual-webcams-and-recording-apps/"><u>Enhance Your Broadcasts Using ManyCam: Top Choice for Professional Virtual Webcams and Recording Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-with-manycams-virtual-webcam-and-live-video-tools/"><u>Enhance Your Broadcasts with ManyCam's Virtual Webcam and Live Video Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-live-streaming-with-webcam-compatible-apps-like-manycam/"><u>Enhance Your Live Streaming with Webcam-Compatible Apps Like ManyCam!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-x9a-frp-by-drfone-android/"><u>How Can We Bypass Honor X9a FRP?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-video-lag-in-vlc-media-player-on-windows/"><u>How to Fix Video Lag in VLC Media Player on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-step-by-step-guide-to-captivating-youtube-live-thumbnails/"><u>In 2024, Step-By-Step Guide to Captivating YouTube Live Thumbnails</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/risk-free-downloads-free-corsair-keyboard-software-for-instant-windows-setup/"><u>Risk-Free Downloads: Free Corsair Keyboard Software for Instant Windows Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-time-potential-with-gratuitous-clock-tools-for-2024/"><u>Unleash Your Time Potential with Gratuitous Clock Tools for 2024</u></a></li>
+</ul></div>
 

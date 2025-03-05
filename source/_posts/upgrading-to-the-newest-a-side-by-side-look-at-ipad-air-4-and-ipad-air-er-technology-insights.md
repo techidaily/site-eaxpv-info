@@ -1,7 +1,7 @@
 ---
 title: "Upgrading to the Newest: A Side-by-Side Look at iPad Air 4 and iPad Air Er | Technology Insights"
-date: 2025-02-12T21:24:39.730Z
-updated: 2025-02-16T16:22:18.846Z
+date: 2025-03-01T17:49:33.005Z
+updated: 2025-03-05T17:00:40.032Z
 tags:
   - apple
 categories:
@@ -37,10 +37,6 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -62,19 +58,11 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 Image: Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -104,17 +92,9 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
@@ -162,22 +142,22 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-key-insights-mastering-win11-features/"><u>[New] In 2024, Key Insights Mastering Win11 Features</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhance-youtube-creations-with-soundtrack-perfection-guide/"><u>[Updated] Enhance YouTube Creations with Soundtrack Perfection Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-accelerate-your-pc-expert-tips-on-enhancing-windows-performance-yl-tech-solutions/"><u>1. Accelerate Your PC: Expert Tips on Enhancing Windows Performance - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-ppt-techniques-for-s2t-integration-advocates/"><u>2024 Approved Cutting-Edge PPT Techniques for S2T Integration Advocates</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-formula-to-fame-elevating-subscriber-numbers-on-youtube/"><u>2024 Approved The Formula to Fame Elevating Subscriber Numbers on Youtube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-the-most-effective-zoom-recording-tools/"><u>2024 Approved Unveiling the Most Effective Zoom Recording Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-freeware-for-mac-users-premier-audio-conversion-software-of-2018/"><u>Best Freeware for Mac Users: Premier Audio Conversion Software of 2018</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-secure-your-data-enabling-icloud-backups-for-iphone-ipad-and-ipod-touch/"><u>Easy Steps to Secure Your Data: Enabling iCloud Backups for iPhone, iPad & iPod Touch</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-to-converting-your-dvds-into-itunes-library-for-play-on-ipod-devices/"><u>Effortless Guide to Converting Your DVDs Into iTunes Library for Play on iPod Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-access-complete-high-res-downloads-from-the-2021-mtv-video-music-awards-best-clips-collection/"><u>Free Access: Complete High-Res Downloads From the 2021 MTV Video Music Awards Best Clips Collection</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-10-4g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 10 4G Phone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-family-friendly-christian-films-for-downloading-and-enjoying-with-children/"><u>Top Family-Friendly Christian Films for Downloading & Enjoying With Children</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transferring-your-mov-files-flawlessly-into-imovie-expert-techniques-revealed/"><u>Transferring Your Mov Files Flawlessly Into iMovie: Expert Techniques Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-selecting-superior-dvd43-substitutes-to-safely-copy-dvds-on-mac-systems/"><u>Ultimate Guide: Selecting Superior DVD43 Substitutes to Safely Copy DVDs on Mac Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/web-video-upload-and-download-tutorial-how-to-convert-and-edit-your-content/"><u>Web Video Upload & Download Tutorial: How to Convert and Edit Your Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-dream-gear-youtube-collection-for-2024/"><u>[New] Gamers' Dream Gear YouTube Collection for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ordinary-to-extraordinary-elevate-youtube-thumbnails-with-backgrounds/"><u>[New] In 2024, From Ordinary to Extraordinary Elevate YouTube Thumbnails with Backgrounds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-stillness-to-stirring-tips-for-bouncing-text/"><u>[New] In 2024, From Stillness to Stirring Tips for Bouncing Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>[New] In 2024, How to Profit From YouTube Shorts Key Requirements & Possible Returns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-income-content-makers/"><u>[Updated] 2024 Approved High-Income Content Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-swiftly-excise-your-youtube-comment-spam/"><u>[Updated] 2024 Approved How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-youtube-movie-maker-for-impactful-videos-for-2024/"><u>[Updated] Harness YouTube Movie Maker for Impactful Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-confirm-your-youtube-account-securely-for-2024/"><u>[Updated] How to Confirm Your YouTube Account Securely for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-essential-watch-top-8-internet-gems/"><u>2024 Approved Essential Watch Top 8 Internet Gems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-ensure-your-virtual-meetings-are-documented/"><u>2024 Approved How to Ensure Your Virtual Meetings Are Documented</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/economic-elders-youtubes-most-knowledgeable-financial-stations-for-2024/"><u>Economic Elders YouTube's Most Knowledgeable Financial Stations for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-note-12-proplus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi Note 12 Pro+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-tomorrow-the-forefront-manufacturers-of-driverless-cars/"><u>Navigating Tomorrow: The Forefront Manufacturers of Driverless Cars</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/stream-to-stardom-mastering-live-with-xsplit-or-obs-for-2024/"><u>Stream to Stardom Mastering Live with XSplit or OBS for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-the-most-economical-cloud-stores/"><u>Unveiling the Most Economical Cloud Stores</u></a></li>
 </ul></div>
 

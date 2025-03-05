@@ -1,7 +1,7 @@
 ---
 title: "Magic at Your Fingertips: Apple's Cutting-Edge On-Device AI Image Tool Outshines DALL-E | InnovationHub"
-date: 2025-02-09T21:05:24.277Z
-updated: 2025-02-16T21:50:27.707Z
+date: 2025-03-03T17:34:40.115Z
+updated: 2025-03-05T17:29:22.941Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,10 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +109,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +137,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,16 +190,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-evaluating-the-skys-new-kid-on-the-block-syma-x5c-review/"><u>[New] Evaluating the Sky's New Kid on the Block – Syma X5C Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-from-the-field-to-social-sharing-gopro-streams-on-facebookperiscope-for-2024/"><u>[New] From the Field to Social Sharing GoPro Streams on Facebook/Periscope for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-timeline-tools-at-no-cost-for-2024/"><u>[Updated] Ultimate Timeline Tools at No Cost for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excel-powered-by-ai-unlocking-potential-with-chatgpt-insights/"><u>Excel Powered by AI: Unlocking Potential with ChatGPT Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/jbl-charge-5-performance-check-still-a-top-contender-after-3-years/"><u>JBL Charge 5 Performance Check - Still a Top Contender After 3 Years?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-corner/"><u>Navigating the World of Gadgets with Tom's Hardware Corner</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/review-of-the-nzxt-lift-2-smm-the-high-speed-gamers-ultimate-choice/"><u>Review of the NZXT Lift 2 SMM: The High-Speed Gamer's Ultimate Choice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/review-of-the-ugreen-nexode-pro-65w-slender-beast-power-in-a-compact-form/"><u>Review of the Ugreen Nexode Pro 65W Slender Beast - Power in a Compact Form</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rivian-r1s-assessment-comparing-the-benefits-of-electric-suvs-vs-trucks/"><u>Rivian R1S Assessment: Comparing the Benefits of Electric SUVs Vs. Trucks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rog-cetras-low-latency-speednova-wireless-earphones-a-gamers-sound-and-performance-review/"><u>ROG Cetra's Low Latency SpeedNova Wireless Earphones - A Gamer's Sound & Performance Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flash-video-insights-guide-for-2024/"><u>[New] Flash Video Insights Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-highlight-hits/"><u>[New] In 2024, From Raw Footage to Highlight Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>[New] In 2024, Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] In 2024, Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[Updated] 2024 Approved Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-humor-on-the-go-iphones-edition/"><u>[Updated] 2024 Approved Humor on the Go IPhones Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-the-ultimate-guide-to-youtube-live-streaming/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Live Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-tactics-for-easy-youtube-cta-conversions-for-2024/"><u>[Updated] Green Tactics for Easy YouTube CTA Conversions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-captivating-music-reaction-videos-top-10-tips-for-2024/"><u>[Updated] How to Create Captivating Music Reaction Videos - Top 10 Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-foresight-select-youtube-stocks-hubs/"><u>[Updated] In 2024, Financial Foresight Select YouTube Stocks Hubs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-join-the-meme-revolution-expert-tips-for-the-metaverse/"><u>[Updated] In 2024, Join the Meme Revolution Expert Tips for the Metaverse</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-starting-simple-how-to-create-your-own-twitter/"><u>[Updated] In 2024, Starting Simple How to Create Your Own Twitter</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-breed-exceptional-cardboard-vr-gaming-experienits/"><u>Best of Breed Exceptional Cardboard VR Gaming Experienits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-language-model-to-game-master-chatgpts-surprising-gaming-features-here-are-the-best/"><u>From Language Model to Game Master: ChatGPT's Surprising Gaming Features - Here Are The Best!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/hack-your-pc-for-windows-11-compatibility-tweaks-for-cpus-blocked-by-microsoft/"><u>Hack Your PC for Windows 11: Compatibility Tweaks for CPU's Blocked by Microsoft</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-tecno-pova-6-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Tecno Pova 6 Pro 5G Devices</u></a></li>
+<li><a href="https://win-premium.techidaily.com/top-apps-and-platforms-for-checking-your-cryptocurrency-wallet-balance-insights-from-yl-computing/"><u>Top Apps & Platforms for Checking Your Cryptocurrency Wallet Balance: Insights From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-avi-files-with-chromecast-three-easy-techniques/"><u>Watching AVI Files with Chromecast: Three Easy Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tech Giants Apple & Samsung Reveal the Hidden Struggle Behind Microsoft's AI Endeavors - The Untold Story
-date: 2025-02-13T17:48:51.064Z
-updated: 2025-02-16T20:51:23.078Z
+date: 2025-03-02T18:12:15.869Z
+updated: 2025-03-05T18:46:57.740Z
 tags:
   - apple
 categories:
@@ -71,23 +71,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/1-top-convertidor-de-video-hevch265-para-mac-guia-2023/"><u>1. Top Convertidor De Video HEVC/H.265 Para Mac: Guía 2023</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286044076-dvdmp4/"><u>無料で完全機能付き: DVD画像をMP4動画に変換する優秀なフリーツールを見つけた!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/a-step-by-step-guide-on-adapting-older-dvds-aspect-ratio-from-43-to-modern-169-widescreen/"><u>A Step-by-Step Guide on Adapting Older DVD's Aspect Ratio From 4:3 to Modern 16:9 Widescreen</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-video-player-apps-compatible-with-mac-windows-10-ios-and-android-top-18-picks/"><u>Best Video Player Apps Compatible with Mac, Windows 10, iOS & Android: Top 18 Picks!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/crafting-memes-that-stand-out-the-9gag-way-for-2024/"><u>Crafting Memes that Stand Out The 9GAG Way for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-features-of-llama-2-and-leveraging-its-capabilities/"><u>Exploring the Features of Llama 2 and Leveraging Its Capabilities</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-pro-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Pro Stuck On Activation Lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 4G Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fast-shutdowns-in-windows-11-top-strategies-to-try-now/"><u>Mastering the Art of Fast Shutdowns in Windows 11: Top Strategies to Try Now!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/microdrama-writers-guide/"><u>Microdrama Writers Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/syncing-subtitles-fixing-speed-issues-with-vlc-step-by-step-guide/"><u>Syncing Subtitles: Fixing Speed Issues with VLC - Step by Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-12-zero-cost-ai-video-optimizers-available-online-compatible-with-pc-and-mac-platforms/"><u>Top 12 Zero-Cost AI Video Optimizers Available Online: Compatible with PC & MAC Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-global-reach-to-engagement-deciphering-igtv-and-youtubes-strategies/"><u>[New] 2024 Approved From Global Reach to Engagement Deciphering IGTV & YouTube’s Strategies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-excellent-streamers-guide-to-360-degree-live-footage/"><u>[New] In 2024, Excellent Streamers' Guide to 360-Degree Live Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-video-credits-expertise-top-6-maker-guide/"><u>[New] In 2024, Free Video Credits Expertise - Top 6 Maker Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-digital-avatars-to-internet-stardom-becoming-a-vtuber/"><u>[Updated] 2024 Approved From Digital Avatars to Internet Stardom – Becoming a Vtuber?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey/"><u>[Updated] 2024 Approved From Humble Beginnings to Prodigy CarryMinati's Earnings (Ajey)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[Updated] 2024 Approved From Videos to Vibrant GIFs YouTube Conversion Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hot-takes-dailys-most-popular-video-tracks/"><u>[Updated] 2024 Approved Hot Takes Daily's Most Popular Video Tracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-can-you-grow-without-buying-views/"><u>[Updated] 2024 Approved How Can You Grow Without Buying Views?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-clear-black-boards-in-your-youtube-videos/"><u>[Updated] 2024 Approved How to Clear Black Boards in Your YouTube Videos?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-opening-markets-masterful-strategy-plots/"><u>[Updated] 2024 Approved Opening Markets Masterful Strategy Plots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-promote-youtube-videos-without-paying-for-2024/"><u>[Updated] How to Promote YouTube Videos (Without Paying) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-narzo-60x-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme Narzo 60x 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210942104-9780995497870-bodyology/"><u>Bodyology | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209458596-fix-your-oddworld-soulstorm-pc-game-crash-issues-solutions-inside/"><u>Fix Your Oddworld: Soulstorm PC Game Crash Issues - Solutions Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correctly-open-installation-packages-on-windows-10-11/"><u>How to Correctly Open Installation Packages on Windows 10, 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-spark-20-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Spark 20.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/perfect-your-pronunciation-with-these-100-english-tongue-twisters/"><u>Perfect Your Pronunciation With These 100 English Tongue Twisters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/photobook-to-film-the-guide-for-digitizing-classic-photographs/"><u>Photobook to Film The Guide for Digitizing Classic Photographs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 

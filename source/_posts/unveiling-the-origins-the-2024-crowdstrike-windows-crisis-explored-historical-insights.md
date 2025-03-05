@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights"
-date: 2025-02-15T20:56:14.199Z
-updated: 2025-02-16T16:00:46.739Z
+date: 2025-02-27T18:09:24.291Z
+updated: 2025-03-05T17:51:29.672Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -53,10 +49,6 @@ Three additional instances of the IPC Template Type were deployed between April 
 Repairing the damage from a flaw like this is a painfully tedious process that requires manually rebooting every affected PC into the Windows Recovery Environment and then deleting the defective file from the PC using the old-school command line interface. If the PC in question has its system drive protected by Microsoft's BitLocker encryption software, as virtually all business PCs do, the fix requires one extra step: entering a unique 48-character BitLocker recovery key to gain access to the drive and allow the removal of the faulty CrowdStrike driver.
 
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## We've seen this movie before
 
@@ -94,10 +86,6 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## CrowdStrike's QA failed
 
 Surprisingly, this isn't CrowdStrike's first faulty Falcon sensor update this year.
@@ -123,10 +111,6 @@ Given recent events, some of those customers might be wondering whether that "br
 As part of its initial response, CrowdStrike says it plans to take additional measures to improve "software resiliency and testing." More importantly, it plans to implement a "staggered deployment strategy ... in which updates are gradually deployed to larger portions of the sensor base, starting with a canary deployment." The company also committed to provide customers with "greater control over the delivery of Rapid Response Content updates by allowing granular selection of when and where these updates are deployed."
 
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
 
@@ -176,20 +160,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-captivate-audiences-with-fb-live-todays-way/"><u>[New] In 2024, How to Captivate Audiences with FB Live, Today's Way</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-best-youtube-beginnings-15-editing-samples/"><u>[Updated] In 2024, Best YouTube Beginnings 15 Editing Samples</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>[Updated] Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-beginners-handbook-to-igtv-mastery-for-2024/"><u>[Updated] The Beginner's Handbook to IGTV Mastery for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-budget-friendly-gaming-record-software-of-2024/"><u>[Updated] Top 10 Budget-Friendly Gaming Record Software of 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/die-besten-5-youtube-mp3-download-tools-fur-macos-test-und-vergleich/"><u>Die Besten 5 YouTube MP3 Download-Tools Für macOS (Test Und Vergleich)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-list-of-no-cost-sports-streaming-services-for-nba-matches-2024/"><u>Discover the Ultimate List of No-Cost Sports Streaming Services for NBA Matches /2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-picks-the-ultimate-guide-to-choosing-the-ideal-video-converter-apps-compatible-with-ipad/"><u>Expert Picks: The Ultimate Guide to Choosing the Ideal Video Converter Apps Compatible with iPad</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gain-instant-access-unveiling-openais-new-gpt-powered-retail-platform/"><u>Gain Instant Access: Unveiling OpenAI's New GPT-Powered Retail Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guide-simple-pour-convertir-gratuitement-des-fichiers-mkv-en-format-avi-sous-macos/"><u>Guide Simple Pour Convertir Gratuitement Des Fichiers MKV en Format AVI Sous macOS.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/professioneller-kostenloser-mkv-player-die-ideale-losung-zum-ansehen-und-wiedergeben-ihrer-beliebten-mkv-dateien/"><u>Professioneller Kostenloser MKV Player - Die Ideale Lösung Zum Ansehen Und Wiedergeben Ihrer Beliebten MKV-Dateien</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/recensione-di-imovie-il-top-software-per-la-creazione-delle-presentazioni-fotografiche-su-mac/"><u>Recensione Di iMovie - Il Top Software per La Creazione Delle Presentazioni Fotografiche Su Mac</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-realme-c67-4g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Realme C67 4G has been deleted.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-handbrake-masterclass-transforming-vob-videos-into-high-quality-mp4-format/"><u>Step-by-Step Handbrake Masterclass: Transforming VOB Videos Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-step-by-step-guide-converting-ts-files-to-high-quality-mp4-on-your-mac/"><u>Ultimate Step-by-Step Guide: Converting .TS Files to High-Quality MP4 on Your Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-video-credits-expertise-top-6-maker-guide/"><u>[New] 2024 Approved Free Video Credits Expertise - Top 6 Maker Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[New] 2024 Approved Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>[New] In 2024, How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gender-diversity-in-streaming-celebrating-top-10-females/"><u>[Updated] 2024 Approved Gender Diversity in Streaming Celebrating Top 10 Females</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-auditory-interface-excellence-for-podcasters/"><u>[Updated] Auditory Interface Excellence For Podcasters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-see-your-subscribers-on-youtube-for-2024/"><u>[Updated] How to See Your Subscribers on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[Updated] In 2024, From Camera Roll to YouTube Posting Short Clips Seamlessly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-fb-buzz-creating-share-worthy-content/"><u>[Updated] Mastering FB Buzz Creating Share-Worthy Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-short-mastery-from-idea-to-final-product-for-2024/"><u>[Updated] YouTube Short Mastery From Idea to Final Product for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nubia-z50-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nubia Z50 Ultra without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-basic-to-advanced-usage-maximize-your-experience-with-macs-preview-for-2024/"><u>From Basic to Advanced Usage Maximize Your Experience with Mac's Preview for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-professional-results-with-these-key-pixlr-techniques/"><u>Unlock Professional Results with These Key Pixlr Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-service-not-running-solved/"><u>Windows Update Service Not Running [SOLVED]</u></a></li>
 </ul></div>
 

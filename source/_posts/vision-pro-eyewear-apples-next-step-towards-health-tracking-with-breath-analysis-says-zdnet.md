@@ -1,7 +1,7 @@
 ---
 title: "Vision Pro Eyewear: Apple's Next Step Towards Health Tracking with Breath Analysis, Says ZDNet"
-date: 2025-02-13T01:08:43.286Z
-updated: 2025-02-16T19:47:21.009Z
+date: 2025-02-27T17:18:37.501Z
+updated: 2025-03-05T17:18:57.581Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -58,10 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -134,10 +126,6 @@ The eye tracking and hand gestures interface that are the primary means of opera
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Stay away from cable tethering
 
 It makes sense to tether the Vision Pro to a Mac for an ultra-wide display. You want zero latency and uninterrupted power. But beyond that, tethering is annoying. Nothing says "early concept prototype" more than having to carry a tethered battery in your back pocket. 
@@ -149,10 +137,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -173,10 +157,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,18 +207,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-awesome.techidaily.com/por-que-outlook-no-muestra-mensajes-antiguos-soluciones-sencillas-para-recuperar-tu-correo-electronico-perdido/"><u>¿Por Qué Outlook No Muestra Mensajes Antiguos? Soluciones Sencillas Para Recuperar Tu Correo Electrónico Perdido</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-customize-screenshot-storing-on-mac/"><u>[New] In 2024, Customize Screenshot Storing on Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-mastering-color-grading-utilizing-luts-from-cg-central/"><u>[New] Mastering Color Grading Utilizing LUTs From CG Central</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-making-and-tweaking-multi-snap-videos-for-2024/"><u>[New] Mastering the Art of Making & Tweaking Multi-Snap Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-slow-start-technique-for-2024/"><u>[New] Slow Start Technique for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-instant-gratification-boosting-fb-video-times/"><u>[Updated] 2024 Approved Instant Gratification Boosting FB Video Times</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-graph-gems-2017s-statistical-youtube-surprises/"><u>[Updated] Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-easy-audio-extraction-methods-from-online-videos/"><u>[Updated] In 2024, Easy Audio Extraction Methods From Online Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-livestream-titans-clash-facebook-youtube-and-twitspaces/"><u>[Updated] Livestream Titans Clash FACEbook, YOUTube, and TWITSpaces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-channel-visibility-banner-size-and-art-dimensions-explained/"><u>[Updated] Maximizing Channel Visibility Banner Size and Art Dimensions Explained</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-spark-20-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Spark 20.</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-meme-tastic-creativity-tips-on-standing-out-in-virtual-worlds/"><u>In 2024, Meme-Tastic Creativity Tips on Standing Out in Virtual Worlds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/your-step-by-step-guide-to-building-a-profitable-channel-for-2024/"><u>Your Step-by-Step Guide to Building a Profitable Channel for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ensuring-privacy-when-documenting-whatsapp-voice-calls/"><u>[New] In 2024, Ensuring Privacy When Documenting WhatsApp Voice Calls</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-chuckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure/"><u>[Updated] Chuckle Chest Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-precise-portrayal-of-pixels-master-netflix-recordings-with-these-6-mac-tactics-for-2024/"><u>[Updated] Precise Portrayal of Pixels Master Netflix Recordings with These 6 Mac Tactics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aifflac-movavi/"><u>簡易線上無成本AIF到FLAC音效轉換 - Movavi專業工具選擇</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails-for-2024/"><u>Elevating Your Work with Impeccable Thumbnails for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experience-the-thrills-of-god-of-wars-first-person-shooter-version-launched-on-pc/"><u>Experience the Thrills of God of War's First-Person Shooter Version – Launched on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fastest-time-lapse-capturing-system-5/"><u>Fastest Time-Lapse Capturing System #5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-transforming-your-mp3-files-into-high-quality-m4v-format-with-ease/"><u>Free Online Conversion: Transforming Your MP3 Files Into High-Quality M4V Format with Ease</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-chuckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>In 2024, Chuckle Chronicles Top 10 Humoristic YouTube Video Plans</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecnicas-expertas-para-crear-videos-de-viajes-impactantes-consejos-esenciales-de-videoblog/"><u>Técnicas Expertas Para Crear Videos De Viajes Impactantes: Consejos Esenciales De Videoblog</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/telecharger-le-pack-video-movavi-le-meilleur-suite-de-montage-video/"><u>Télécharger Le Pack Vidéo Movavi - Le Meilleur Suite De Montage Vidéo</u></a></li>
 </ul></div>
 

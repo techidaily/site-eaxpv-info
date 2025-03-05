@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered"
-date: 2025-02-10T21:52:04.030Z
-updated: 2025-02-17T00:31:40.613Z
+date: 2025-03-01T23:07:27.368Z
+updated: 2025-03-05T17:59:57.298Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
@@ -48,10 +44,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -59,10 +51,6 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -73,10 +61,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -96,10 +80,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,17 +141,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-10-best-travel-youtube-channels-you-may-want-to-follow/"><u>[New] 10 Best Travel Youtube Channels You May Want to Follow</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unveiling-the-best-zero-price-videochat-services/"><u>[New] 2024 Approved Unveiling the Best Zero-Price Videochat Services</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-your-personalized-list-of-top-non-networked-android-game-apps-for-2024/"><u>[New] Your Personalized List of Top Non-Networked Android Game Apps for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-android-lightroom-assessment/"><u>[Updated] Comprehensive Android Lightroom Assessment</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-free-visual-culture-posthumous-works-unbound-for-2024/"><u>[Updated] Free Visual Culture Posthumous Works Unbound for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-the-official-winx-media-converter-suite-for-hd-video-processing-and-dvd-ripping-no-cost/"><u>Download the Official WinX Media Converter Suite for HD Video Processing and DVD Ripping – No Cost!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-hddpc/"><u>DVDへのダビング: HDD、カメラ、PCからの動画記録ファイル無料変換方法</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-stepping-up-advanced-techniques-for-w11-gamers/"><u>In 2024, Stepping Up Advanced Techniques for W11 Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mac-and/"><u>Mac用ハンドブレイクを簡単にインストール & 設定する: 初心者向け日本語ガイド付き</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-communication-facilitating-facetime-on-windows-systems/"><u>Mastering Cross-Platform Communication: Facilitating FaceTime on Windows Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mejoras-en-la-calidad-del-video-con-einstellungen-von-handbrake-fur-die-codierung-x265hevc/"><u>Mejoras en La Calidad Del Video Con Einstellungen Von HandBrake Für Die Codierung X265/HEVC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshoot-and-enhance-dvd-performance-in-a-solo-disc-player-a-step-by-step-guide/"><u>Troubleshoot and Enhance DVD Performance in a Solo Disc Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-efficiently-stream-your-facebook-feed-on-pcmaclaptop/"><u>[New] 2024 Approved Efficiently Stream Your Facebook Feed on PC/Mac/Laptop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifas-favorite-footage-charted-on-youtube/"><u>[New] 2024 Approved FIFA's Favorite Footage Charted on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos/"><u>[New] 2024 Approved Guffaws Galore Compiled List of 10 Funniest YouTube Short Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-advancing-google-meet-sessions-implementing-effects-and-masks-for-2024/"><u>[New] Advancing Google Meet Sessions Implementing Effects & Masks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion-for-2024/"><u>[New] Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-stabilize-your-camera-without-buying-a-tripod-for-2024/"><u>[New] How to Stabilize Your Camera without Buying a Tripod for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette/"><u>[New] In 2024, The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>[Updated] 2024 Approved Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-go-viral-on-youtube-with-impressive-music-reaction-content/"><u>[Updated] 2024 Approved How to Go Viral on YouTube with Impressive Music Reaction Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-loop-a-youtube-video-the-ultimate-guide-for-2024/"><u>[Updated] How to Loop a YouTube Video The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>[Updated] In 2024, From Budget Channels to Big Brands YouTube Sponsorships Demystified</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scratch-to-screen-video-editing-with-youtube-and-others/"><u>[Updated] In 2024, From Scratch to Screen Video Editing with YouTube & Others</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728502741775-pdf/"><u>如何从已格式化的硬盘中还原PDF文件的详解</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-14-ultra-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi 14 Ultra Phone Screen?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://article-files.techidaily.com/long-term-stability-of-syma-x8c/"><u>Long-Term Stability of Syma X8C</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/s-top-rated-vignette-makers-for-iphone-and-android-a-comprehensive-guide-for-2024/"><u>S Top-Rated Vignette Makers for iPhone and Android A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-file-jpg-nei-formati-tiff-gratuitamente-con-movavi-strumento-online/"><u>Trasforma I File JPG Nei Formati TIFF Gratuitamente Con Movavi - Strumento Online</u></a></li>
 </ul></div>
 

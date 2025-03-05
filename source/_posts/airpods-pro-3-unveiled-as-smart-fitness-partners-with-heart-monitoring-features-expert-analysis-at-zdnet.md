@@ -1,7 +1,7 @@
 ---
 title: AirPods Pro 3 Unveiled as Smart Fitness Partners with Heart Monitoring Features | Expert Analysis at ZDNET
-date: 2025-02-12T02:23:36.704Z
-updated: 2025-02-16T19:34:59.993Z
+date: 2025-02-28T17:07:08.510Z
+updated: 2025-03-05T21:12:06.503Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Watch
 
 June Wan/ZDNET
@@ -74,10 +70,6 @@ For example, the Apple Watch's thermometer, which is currently only [used for fe
 
 The company is also reportedly seeking health regulatory approval to interpret blood oxygen data. Right now, the Watch shows users oxygen blood data without telling them what it means. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Cipriani/ZDNET
@@ -89,10 +81,6 @@ Although Apple's different [AirPod models](https://www.zdnet.com/article/best-ai
 According to the report, if all goes to plan, AirPods will be able to double as over-the-counter hearing aids by next year. This development will make it easier for hard-of-hearing users to access the aid they need.
 
 Additionally, the AirPods will be able to perform hearing tests that are typically performed in an audiologist's office, which will make it simpler for users to access care without leaving their homes. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Vision Pro
 
@@ -140,17 +128,24 @@ Lastly, a headset version of Fitness+ might appear, so long as Apple can figure 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pinnacle-5-frame-timelapse-recorder-for-2024/"><u>[New] Pinnacle 5-Frame Timelapse Recorder for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cloudsafe-experts-opinion/"><u>[Updated] 2024 Approved CloudSafe Experts Opinion</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-vdx-quickcapture-evaluation-complete-reviews-for-2024/"><u>[Updated] VDX QuickCapture Evaluation Complete Reviews for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/black-ops-cold-war-how-to-restore-and-fix-voice-chat-features/"><u>Black Ops Cold War - How to Restore and Fix Voice Chat Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/create-a-reliable-dvd-backup-transferring-to-iso-format-using-winx-dvd-copy/"><u>Create a Reliable DVD Backup: Transferring to ISO Format Using WinX DVD Copy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013611841-fix-the-problem-with-audio-configuration-message-from-itunes-easily/"><u>Fix the 'Problem with Audio Configuration' Message From iTunes Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ipaddvd3/"><u>IPad上のDVD再生のコツ：使いやすいテクニック3つをご紹介</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/la-meilleure-application-de-capture-decran-pour-les-utilisateurs-de-windows-prise-en-charge-des-versions-10-8-et-7/"><u>La Meilleure Application De Capture D'écran Pour Les Utilisateurs De Windows : Prise en Charge Des Versions 10, 8 Et 7.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-11-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme 11 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy A25 5G Phone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vergleich-von-aac-und-mp3-welche-audioqualitat-uberzeugt-mehr/"><u>Vergleich Von AAC Und MP3: Welche Audioqualität Überzeugt Mehr?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[New] 2024 Approved How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>[New] 2024 Approved Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-game-developers-top-recording-tools-for-2024/"><u>[New] Game Developers' Top Recording Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-engaging-trailers-that-drive-channels-sales-for-2024/"><u>[New] How to Craft Engaging Trailers that Drive Channels' Sales for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-maintain-youtube-session-in-the-background-for-2024/"><u>[New] How to Maintain YouTube Session in the Background for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-copycatting-charisma-making-ingenious-parodies/"><u>[New] In 2024, Copycatting Charisma Making Ingenious Parodies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmaker-tips-youtube-trailers-using-filmora/"><u>[New] In 2024, Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flash-forward-quick-youtube-playlists-distribution/"><u>[New] In 2024, Flash Forward Quick Youtube Playlists Distribution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[New] In 2024, Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>[New] In 2024, Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-color-secrets-master-the-craft-with-our-tutorial-series-for-2024/"><u>[New] Unveiling Color Secrets - Master the Craft with Our Tutorial Series for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-audio-voice-match-the-perfect-mic-to-your-channels-character-for-2024/"><u>[Updated] Finding Your Audio Voice Match the Perfect Mic to Your Channel's Character for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances-for-2024/"><u>[Updated] Gamer's Dream The Ultimate Compilation of Best YT Game Entrances for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-your-thought-processes-mematic-app-for-2024/"><u>[Updated] Transform Your Thought Processes - Mematic App for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-dive-deep-into-high-quality-video-capture-technology/"><u>2024 Approved Dive Deep Into High-Quality Video Capture Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-information-with-mematics-app/"><u>In 2024, Streamline Your Information with Mematic's App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services/"><u>Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-guide-to-emoji-usage-in-yt-feedback/"><u>Step-by-Step Guide to Emoji Usage in YT Feedback</u></a></li>
 </ul></div>
 

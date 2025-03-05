@@ -1,7 +1,7 @@
 ---
 title: Unplanned Spending Alert! Navigating the Appeal of Apple's Discounted $17 USB-C EarPods on Prime Day – A Firsthand Account by a Savvy Shopper Exclusive
-date: 2025-02-11T02:25:41.079Z
-updated: 2025-02-17T00:39:27.140Z
+date: 2025-03-03T21:10:57.118Z
+updated: 2025-03-05T16:04:47.082Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ For one, wired earbuds don't need to be charged; you just plug them into a phone
 Secondly, the microphone quality on Apple's wired EarPods is some of the best I've heard. For video meetings, phone calls, and even voice recording, the EarPods' microphone is on par with lavaliers that cost significantly more. I've used these to record several video scripts for ZDNET's social media channels, and it blows my mind every time I hear how crisp the audio comes out.
 
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6dc8bba-2259-4841-91ea-e1c02f1a6381%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -71,24 +67,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-anticipated-shifts-in-social-media-marketing-fb-ad-trends-of-24/"><u>[New] 2024 Approved The Anticipated Shifts in Social Media Marketing FB Ad Trends of '24</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-tips-to-upgrade-your-rl-recording-equipment-for-2024/"><u>[New] Ultimate Tips to Upgrade Your RL Recording Equipment for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dissection-facebook-video-formats/"><u>[Updated] 2024 Approved Dissection Facebook Video Formats</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-incorporating-brand-identity-adding-logos-to-youtube-videos/"><u>[Updated] Incorporating Brand Identity Adding Logos to YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-comprehensive-iptv-accessibility/"><u>2024 Approved Comprehensive IPTV Accessibility</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/"><u>2024 Approved Snickel & Wail Instagram's 10 Most Hilarious Meme Accounts</u></a></li>
-<li><a href="https://win11.techidaily.com/coordinated-chaos-how-androidpluswindows-sync-works/"><u>Coordinated Chaos: How Android+Windows Sync Works</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/diving-deep-into-the-excellence-of-microsoft-surface-laptop-4/"><u>Diving Deep Into the Excellence of Microsoft Surface Laptop 4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-insights-from-toms-hardware-hub-dive-into-technology-today/"><u>Expert Insights From Tom's Hardware Hub - Dive Into Technology Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-cod-wwii-error-code-4128-a-step-by-step-guide/"><u>Fixing COD WWII Error Code 4128: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-gaming-powerhouse-at-bargain-prices-ark-ai-accelerator-pcie-card-for-deskmate-x6-600-available-only-in-china-193/"><u>Get Gaming Powerhouse at Bargain Prices - ARK AI Accelerator PCIe Card for DeskMate X6 600, Available Only in China ($193)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/grab-the-deal-before-its-gone-premium-custom-built-pc-with-msi-aegis-r2-rtx-4070-and-core-i7-14700kf-for-under-1600-exceptional-value/"><u>Grab the Deal Before It's Gone! - Premium Custom Built PC with MSI Aegis R2 (RTX 4070 & Core I7-14700KF) for Under $1,600 – Exceptional Value</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-g42-5g-phone-by-drfone-android/"><u>How to Reset a Locked Nokia G42 5G Phone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/intel-core-i9-powered-atomman-x7-ti-the-sleek-touch-enabled-compact-pc/"><u>Intel Core I9 Powered AtomMan X7 Ti: The Sleek, Touch-Enabled Compact PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/introducing-the-new-era-for-gamers-maingear-unveils-improved-north-xl-tower-edition/"><u>Introducing the New Era for Gamers: Maingear Unveils Improved North XL Tower Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/kostenlos-mpeg-in-mp4-umwandeln-fur-windows-11-und-macos-schritt-fur-schritt-anleitung/"><u>Kostenlos MPEG in MP4 Umwandeln Für Windows 11 Und MacOS – Schritt-Für-Schritt Anleitung</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-pc-world-with-tom-comprehensive-reviews-and-advice/"><u>Navigating PC World with Tom - Comprehensive Reviews & Advice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tackling-the-violation-of-security-protocol-warning-in-online-games/"><u>Tackling the 'Violation of Security Protocol' Warning in Online Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-top-tier-electronics-a-deep-dive-with-toms-hardware-knowledge/"><u>Unveiling Top-Tier Electronics: A Deep Dive with Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] In 2024, Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-flawless-screen-recorders/"><u>2024 Approved Flawless Screen Recorders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-buys-hidden-offer-score-your-free-macbook-air-m3-with-this-proven-strategy/"><u>Best Buy’s Hidden Offer: Score Your Free MacBook Air M3 with This Proven Strategy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beware-iphone-and-ipad-bricking-incidents-linked-to-ios-18-upgrade-stay-informed-before-installation/"><u>Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/experience-high-end-performance-for-less-macbook-air-m1-priced-at-a-steal-649-exclusive-offer-spotted/"><u>Experience High-End Performance for Less: MacBook Air M1 Priced at a Steal - $649 | Exclusive Offer Spotted</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/fresh-sounds-for-your-ig-story/"><u>Fresh Sounds for Your IG Story</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721959772969-get-started-with-discreet-communication-experience-duckduckgos-ai-and-alternatives/"><u>Get Started with Discreet Communication: Experience DuckDuckGo's AI & Alternatives!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-pova-6-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Pova 6 Pro 5G Device</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unmute-your-social-platforms-audio-a-quick-fix-guide/"><u>In 2024, Unmute Your Social Platform's Audio A Quick Fix Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/making-life-easier-watching-fb-videos-on-your-tv/"><u>Making Life Easier Watching FB Videos on Your TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximize-your-iphone-storage-the-ultimate-guide-to-clearing-out-clutter-and-gaining-space/"><u>Maximize Your iPhone Storage: The Ultimate Guide to Clearing Out Clutter and Gaining Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-ksuserdll-file-not-present-a-step-by-step-guide/"><u>Resolving ksuser.dll File Not Present: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionizing-artificial-intelligence-apples-latest-breakthrough-and-areas-for-growth/"><u>Revolutionizing Artificial Intelligence: Apple's Latest Breakthrough and Areas for Growth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-establish-an-x-presence-online-effortlessly/"><u>The Ultimate Tutorial on How to Establish an X Presence Online Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-mini-tablets-of-2024-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top Rated Mini Tablets of 2024 - Comprehensive Reviews & Ratings by Tech Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforming-biking-adventures-with-photochromic-hud-technology-insights-from-an-enthusiast-zdnet/"><u>Transforming Biking Adventures with Photochromic HUD Technology: Insights From an Enthusiast | ZDNET</u></a></li>
 </ul></div>
 

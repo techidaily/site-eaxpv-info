@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence at Play: Apple Embraces Change with Siri, Taking Inspiration Cues From Microsoft and Bing Synergy"
-date: 2025-02-14T22:27:39.178Z
-updated: 2025-02-16T22:41:11.717Z
+date: 2025-02-26T17:46:35.979Z
+updated: 2025-03-05T22:26:25.113Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -75,10 +71,6 @@ But Bing, too, had become a thing of humor -- whether that humor was justified o
 Microsoft, on the other hand, is a strong brand -- one that's become both more important and more likable in recent years. Add the notion of a Copilot to it and it suddenly feels like something with which you want to be involved, something that has a chance to be your true companion, something that might _actually_ be good.
 
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
 
@@ -126,20 +118,18 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-ai-photo-editor/"><u>[New] Best AI Photo Editor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-and-magic-behind-perfecting-luts/"><u>2024 Approved The Science and Magic Behind Perfecting LUTs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725289788560-60fps30fps/"><u>高速ビデオから低速にシフト：60fps動画を30fpsにどうする？</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-ways-to-change-m4v-files-into-mp4-format-mac-and-windows-11-support/"><u>Free Ways to Change M4V Files Into MP4 Format: Mac & Windows 11 Support</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/lunch-whole-grain-pasta-salad-with-cherry-tomatoes-artichoke-hearts-kalamata-olives-feta-cheese/"><u>Lunch: Whole Grain Pasta Salad with Cherry Tomatoes, Artichoke Hearts, Kalamata Olives, Feta Cheese</u></a></li>
-<li><a href="https://extra-support.techidaily.com/making-movies-magical-the-use-of-youtube-music-in-videos-for-2024/"><u>Making Movies Magical The Use of YouTube Music in Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-flat-tv-care-a-comprehensive-cleaning-guide/"><u>Mastering the Art of Flat TV Care - A Comprehensive Cleaning Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/rapid-and-high-quality-conversion-transforming-ts-files-into-mp4-in-10-effective-methods/"><u>Rapid and High-Quality Conversion: Transforming TS Files Into MP4 in 10 Effective Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolution-showdown-qhd-4k-uhd-and-1080p-compared-determining-the-ultimate-display-quality/"><u>Resolution Showdown: QHD, 4K UHD, and 1080P Compared - Determining the Ultimate Display Quality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionize-playtime-win11s-game-library/"><u>Revolutionize Playtime Win11's Game Library</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-xiaomi-redmi-note-13-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Xiaomi Redmi Note 13 5G without backup.</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nubia-red-magic-8s-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nubia Red Magic 8S Pro Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-clips-a-laide-de-winxvideo-ai-montage-enregistrement-and-amelioration-par-intelligence-artificielle/"><u>Transformez Vos Clips À L'aide De Winxvideo AI – Montage, Enregistrement & Amélioration Par Intelligence Artificielle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content-for-2024/"><u>[New] From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-content-makers-conference-for-2024/"><u>[New] Global Content Makers' Conference for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>[New] In 2024, Naming Gems Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>[Updated] 2024 Approved Framing Perfection A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] 2024 Approved How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[Updated] 2024 Approved Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unfollow-patterns-on-instagram-explored/"><u>[Updated] 2024 Approved Unfollow Patterns on Instagram Explored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frequent-monetization-is-it-real-on-youtube-for-2024/"><u>[Updated] Frequent Monetization Is It Real on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube/"><u>[Updated] In 2024, How to Optimize Video Engagement Through Resizing Thumbnails on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tagging-made-easy-with-these-high-impact-instagram-hashtags-for-2024/"><u>[Updated] Tagging Made Easy with These High-Impact Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-techniques-for-reducing-image-size-tips-from-yl-computing/"><u>Effective Techniques for Reducing Image Size: Tips From YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/yl-expert-tips-for-tracking-available-storage-on-your-computers-hard-disk/"><u>YL Expert Tips for Tracking Available Storage on Your Computer’s Hard Disk</u></a></li>
 </ul></div>
 

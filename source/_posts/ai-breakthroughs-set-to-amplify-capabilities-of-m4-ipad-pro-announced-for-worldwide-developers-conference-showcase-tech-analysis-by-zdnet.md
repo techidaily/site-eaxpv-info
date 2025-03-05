@@ -1,7 +1,7 @@
 ---
 title: AI Breakthroughs Set to Amplify Capabilities of M4 iPad Pro Announced for Worldwide Developers Conference Showcase | Tech Analysis by ZDNET
-date: 2025-02-09T22:05:39.614Z
-updated: 2025-02-17T01:49:51.280Z
+date: 2025-02-27T18:54:05.340Z
+updated: 2025-03-05T19:44:00.395Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -46,19 +42,11 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -75,10 +63,6 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -113,10 +97,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,17 +151,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-profits-creating-compelling-video-trailers/"><u>[New] In 2024, Enhancing Profits Creating Compelling Video Trailers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-new-era-of-advertising-embracing-the-metaverse/"><u>[Updated] 2024 Approved The New Era of Advertising Embracing the Metaverse</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-innovation-unveiling-secrets-of-photo-enhancement/"><u>[Updated] Image Innovation Unveiling Secrets of Photo Enhancement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-new-reality-crafted-by-machine-minds/"><u>A New Reality Crafted by Machine Minds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-11-methods-for-seamless-iphone-to-computer-image-transfer-without-using-itunes/"><u>Best 11 Methods for Seamless iPhone to Computer Image Transfer Without Using iTunes</u></a></li>
-<li><a href="https://article-files.techidaily.com/comprehensive-hand-tracking-explained/"><u>Comprehensive Hand Tracking Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-convert-wmv-files-into-mp4-format-for-free-using-an-online-tool-or-windows-11/"><u>How to Convert WMV Files Into MP4 Format for Free Using an Online Tool or Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-tips-maintaining-high-quality-in-smaller-sizes/"><u>MP4 Video Compression Tips: Maintaining High-Quality in Smaller Sizes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-mov-to-mp4-converter-no-cost-works-on-all-platforms-including-mac-and-windows-11/"><u>Online MOV to MP4 Converter - No Cost! Works on All Platforms Including Mac and Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-prevent-auto-start-of-steam/"><u>Steps to Prevent Auto-Start of Steam</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-phantom-v-flip-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Phantom V Flip Device</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/topo-dos-melhores-softwares-de-gravacao-de-dvds-para-sistemas-windows-11-download-livre/"><u>Topo Dos Melhores Softwares De Gravação De DVDs Para Sistemas Windows 11: Download Livre</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[New] 2024 Approved From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[New] In 2024, Get Into the Game Starting an Apple-Powered Sports Network</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-blueprint-for-on-screen-dialogues/"><u>[New] In 2024, The Blueprint for On-Screen Dialogues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tunes-choosing-best-offline-audio-to-text-tools/"><u>[New] Top Tunes Choosing Best Offline Audio-to-Text Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-visual-templates-to-upgrade-your-profile-for-2024/"><u>[Updated] Free Visual Templates to Upgrade Your Profile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/"><u>[Updated] Gastronomy Gurus Essential Chefs to Subscribe To for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grasp-the-basics-of-sub4sub-success-our-guide-lays-it-out-clearly-for-2024/"><u>[Updated] Grasp the Basics of Sub4sub Success - Our Guide Lays It Out Clearly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-creative-commons-copyright-licenses-in-2024/"><u>[Updated] How to Use Creative Commons Copyright Licenses, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-stylish-mac-made-youtube-vids/"><u>[Updated] In 2024, Getting Started with Stylish Mac-Made YouTube Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtag-mastery-pathway-to-6-figure-youtube-impact/"><u>[Updated] In 2024, Hashtag Mastery Pathway to 6-Figure Youtube Impact</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-comprehensive-srt-handbook-for-enthusiasts/"><u>[Updated] The Comprehensive SRT Handbook for Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-an-easier-way-to-check-for-windows-11-software-updates-ui-wise/"><u>Enabling an Easier Way to Check for Windows 11 Software Updates UI-Wise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-switching-off-synchronized-text-in-your-amazon-prime-viewing-experience/"><u>Guide to Switching Off Synchronized Text in Your Amazon Prime Viewing Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-c51-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme C51 Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-luts-into-film-colorwork/"><u>In 2024, Integrating Luts Into Film Colorwork</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-editing-hacks-for-flawless-image-edits-on-canva/"><u>In 2024, Ultimate Editing Hacks for Flawless Image Edits on Canva</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts-for-2024/"><u>Transform Every Moment Top Tasks to Master While Listening to Your Favorite Podcasts for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple to Refresh Cost-Effective Watch SE? Unveiling Upcoming Improvements and New Specs | ZDNET
-date: 2025-02-15T02:33:52.696Z
-updated: 2025-02-16T20:29:54.278Z
+date: 2025-02-26T16:57:53.436Z
+updated: 2025-03-05T18:43:04.593Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
@@ -90,31 +86,15 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What will come later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Genmoji
 
@@ -158,16 +138,20 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/aximizing-your-youtube-presence-via-featured-channel-strategy/"><u>[New] Maximizing Your Youtube Presence via Featured Channel Strategy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-sifting-through-social-media-archives-a-guide-for-laptopsphones-for-2024/"><u>[New] Sifting Through Social Media Archives A Guide for Laptops/Phones for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-auto-arcade-adventures-for-kids-for-2024/"><u>[Updated] Auto Arcade Adventures for Kids for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-production-value-with-free-sfx-libraries/"><u>Boost Production Value with Free SFX Libraries!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvdiso-iso/"><u>DVDからISO画像への簡単な変換 - ISOリッピングソフト使用ガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-guide-to-downsize-and-share-bulky-videos-efficiently-through-whatsapp/"><u>Quick Guide to Downsize and Share Bulky Videos Efficiently Through WhatsApp</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/spielen-sie-dvds-auf-der-playstation-5-ab-eine-schritt-fur-schritt-anleitung/"><u>Spielen Sie DVDs Auf Der PlayStation 5 Ab - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://techidaily.com/tecno-spark-20-proplus-video-recovery-recover-deleted-videos-from-tecno-spark-20-proplus-by-fonelab-android-recover-video/"><u>Tecno Spark 20 Pro+ Video Recovery - Recover Deleted Videos from Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-14-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi 14 Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-asynchronous-av-streams-in-high-efficiency-video-coding-hevc-common-issues-and-fixes/"><u>Troubleshooting Asynchronous AV Streams in High-Efficiency Video Coding (HEVC): Common Issues & Fixes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unleash-the-power-of-obs-for-superior-skype-screen-capture/"><u>Unleash the Power of OBS for Superior Skype Screen Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-for-students-discover-the-top-10-historical-youtube-channels-now-for-2024/"><u>[New] For Students, Discover the Top 10 Historical YouTube Channels Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid-for-2024/"><u>[New] How to Find Your Comments on YouTube on Desktop/iPhone/Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-startup-to-stardom-with-youtube-seo-basics/"><u>[New] In 2024, From Startup to Stardom with YouTube SEO Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-capitalize-on-youtube-shorts-must-knows-earning-prospects/"><u>[New] In 2024, How to Capitalize on Youtube Shorts Must-Knows, Earning Prospects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-estimate-income-from-youtube-video-snippets/"><u>[New] In 2024, How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gourmet-guide-producing-culinary-content/"><u>[Updated] 2024 Approved Gourmet Guide Producing Culinary Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-follows-top-food-vloggers-to-track/"><u>[Updated] In 2024, Flavorful Follows Top Food Vloggers to Track</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-clearing-the-best-ios-apps-for-precise-image-editing/"><u>2024 Approved Instant Clearing The Best iOS Apps for Precise Image Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-techniques-for-merging-videos-in-davinci-resolve-v18v17/"><u>Efficient Techniques for Merging Videos in DaVinci Resolve V18/V17</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-extended-device-lifespan-can-benefit-our-planet-a-google-discussion/"><u>How Extended Device Lifespan Can Benefit Our Planet: A Google Discussion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-funimate-video-downloader/"><u>In 2024, How to Use Funimate Video Downloader</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/ntfs-partities-vernieuwing-de-stap-by-step-procedure-voor-volmaakbare-gebruikers/"><u>NTFS Partities Vernieuwing: De Stap-by-Step Procedure Voor Volmaakbare Gebruikers</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-the-deadly-js-error-a-comprehensive-guide-for-win-11-users/"><u>Resolving the Deadly JS Error: A Comprehensive Guide for Win 11 Users</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-scanner-solutions-by-yl-computing/"><u>Troubleshooting Tips: Resolving Power Issues with Your Scanner - Solutions by YL Computing</u></a></li>
 </ul></div>
 

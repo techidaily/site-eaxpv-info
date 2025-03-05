@@ -1,7 +1,7 @@
 ---
 title: "IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How"
-date: 2025-02-09T21:54:27.293Z
-updated: 2025-02-16T21:11:13.454Z
+date: 2025-02-28T22:24:25.990Z
+updated: 2025-03-05T18:19:04.987Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's key takeaways
 
 * ESR 3-in-1 Qi2 wireless travel charger is available from [Amazon for $55](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1).
@@ -41,10 +37,6 @@ When traveling, I often find myself carrying too much charging gear. Typically, 
 What I really need is a dedicated travel kit for charging my gadgets, which include an iPhone, Apple Watch, and AirPods. A streamlined travel kit would save space, reduce clutter, and ensure that all my essential devices stay charged and ready to go. Recently, I found the perfect solution for my travel charging needs: the [ESR 3-in-1 Folding Qi2 wireless travel charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1). 
 
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd405c3b3-9fde-429f-ae82-f128bd45456e%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
 
@@ -80,10 +72,6 @@ Adrian Kingsley-Hughes/ZDNET
 In fact, it's the perfect kit for someone who is all-in with Apple gear. 
 
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -121,17 +109,22 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-viewership-3-key-storytelling-approaches/"><u>[New] 2024 Approved Elevate Viewership 3 Key Storytelling Approaches</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/dding-audio-descriptions-to-videos-on-youtube-for-2024/"><u>[New] Adding Audio Descriptions to Videos on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-become-a-youtube-partner-you-need-10000-views-now-for-2024/"><u>[New] How to Become a YouTube Partner - You Need 10,000 Views Now for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-leading-video-kick-offs-the-best-16-youtube-vlogs-to-increase-views/"><u>[New] Leading Video Kick-Offs The Best 16 YouTube Vlogs to Increase Views</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[Updated] 2024 Approved How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-glimpses-identifying-who-sees-your-pics/"><u>[Updated] 2024 Approved Instagram Glimpses Identifying Who Sees Your Pics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>[Updated] In 2024, The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-speeding-up-snapchat-media-video-for-2024/"><u>[Updated] Step-by-Step Speeding Up Snapchat Media (Video) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-7-free-musical-delights-for-your-mobile-devices/"><u>Discover the Ultimate List of 7 Free Musical Delights for Your Mobile Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y100-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y100</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/transform-your-snapshots-into-shares-heres-how/"><u>Transform Your Snapshots Into Shares – Here's How</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-hit-list-top-10-songs-in-one-place/"><u>[Updated] 2024 Approved Hit List Top 10 Songs in One Place</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-send-hidden-youtube-videos-using-google-login-for-2024/"><u>[Updated] How to Send Hidden YouTube Videos Using Google Login for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/95-bargain-alert-secure-your-second-gen-apple-pencil-with-our-limited-time-labor-day-discount/"><u>$95 Bargain Alert! Secure Your Second-Gen Apple Pencil with Our Limited Time Labor Day Discount</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-reasons-the-chatgpt-ios-app-is-better-than-the-website/"><u>6 Reasons the ChatGPT iOS App Is Better Than the Website</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/evaluating-the-value-is-apples-airpods-pro-still-a-smart-buy-a-comprehensive-review/"><u>Evaluating the Value: Is Apple's AirPods Pro Still a Smart Buy? A Comprehensive Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exclusive-reveal-the-most-exceptional-magsafe-wallet-not-by-appleanker-at-a-steep-discount-zdnet-insights/"><u>Exclusive Reveal: The Most Exceptional MagSafe Wallet (Not by Apple/Anker) at a Steep Discount | ZDNET Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-california-drivers-can-link-their-licenses-with-apple-and-google-pay-a-comprehensive-guide/"><u>How California Drivers Can Link Their Licenses with Apple and Google Pay: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-x50i-frp-by-drfone-android/"><u>How Can We Bypass Honor X50i FRP?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-se-2020-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone SE (2020) When Its Locked Within Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-90-gt-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor 90 GT to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-uncomplicated-video-snip-for-win10-users/"><u>In 2024, Uncomplicated Video Snip for Win10 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-iphone-screenshots-and-recording-tips-from-zdnet/"><u>Mastering iPhone Screenshots and Recording: Tips From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximize-apple-watch-longeaster-discover-these-8-essential-configuration-adjustments-for-better-power-efficiency/"><u>Maximize Apple Watch Longeaster: Discover These 8 Essential Configuration Adjustments for Better Power Efficiency</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/izing-micro-vlogs-a-step-by-step-guide/"><u>Monetizing Micro-Vlogs A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolving-steam-cant-write-to-disk-issues/"><u>Quick Solutions: Resolving 'Steam Can't Write to Disk' Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-your-email-habits-with-one-easy-hack-ditch-the-overwhelm-no-multi-accounts-needed-zdnet/"><u>Transform Your Email Habits with One Easy Hack - Ditch the Overwhelm, No Multi-Accounts Needed | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/zoom-integration-with-vision-pro-headsets-anticipate-unusual-meeting-experiences/"><u>Zoom Integration with Vision Pro Headsets: Anticipate Unusual Meeting Experiences!</u></a></li>
 </ul></div>
 

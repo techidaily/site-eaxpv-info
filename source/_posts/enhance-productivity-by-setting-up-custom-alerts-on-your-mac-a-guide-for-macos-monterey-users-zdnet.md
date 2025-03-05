@@ -1,7 +1,7 @@
 ---
 title: Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users | ZDNET
-date: 2025-02-14T16:08:02.471Z
-updated: 2025-02-16T18:31:03.370Z
+date: 2025-03-02T16:06:33.246Z
+updated: 2025-03-05T16:47:02.547Z
 tags:
   - apple
 categories:
@@ -26,15 +26,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -48,10 +40,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,10 +47,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -93,10 +77,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,22 +120,21 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enhancing-iphones-in-night-mode-silhouettes/"><u>[Updated] 2024 Approved Enhancing iPhones in Night Mode Silhouettes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/apple-iphone-12/"><u>Apple iPhone 12お披露目用:信じられないほど多くの無料音楽アプリを発表</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/can-an-8k-television-surpass-the-visuals-of-imax-quality/"><u>Can an 8K Television Surpass the Visuals of IMAX Quality?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722192450282-chatgpt-bodystream-error-here-are-seven-ways-to-fix-it/"><u>ChatGPT Bodystream Error? Here Are Seven Ways to Fix It!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-bollywood-film-hits-and-top-rated-mp3s-at-no-cost-a-complete-guide/"><u>Download Bollywood Film Hits and Top-Rated MP3s at No Cost – A Complete Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fix-your-safari-trouble-with-youtube-4k-videos-expert-tips-and-solutions/"><u>Fix Your Safari Trouble with YouTube 4K Videos – Expert Tips and Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-7-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 7? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-unlock-your-potential-best-instagram-video-editors-android-pc/"><u>In 2024, Unlock Your Potential Best Instagram Video Editors (Android, PC)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-technique-for-silencing-firewall-in-win11/"><u>Master Technique for Silencing Firewall in Win11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-through-digiarty-techs-faq-your-guide-to-addressing-registration-problems-smooth-deliveries-and-overcoming-tech-issues/"><u>Navigating Through Digiarty Tech's FAQ: Your Guide to Addressing Registration Problems, Smooth Deliveries, and Overcoming Tech Issues</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/rotate-your-videos-with-ease-10-top-online-tools-for-2024/"><u>Rotate Your Videos with Ease 10 Top Online Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-tips-efficiently-converting-mp4-files-to-compatible-format-on-your-ipad/"><u>Top Tips: Efficiently Converting MP4 Files to Compatible Format on Your iPad</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-mac-compatible-dvd-ripper-tools-for-easy-dvd-conversion-to-hard-drive/"><u>Top-Rated Mac-Compatible DVD Ripper Tools for Easy DVD Conversion to Hard Drive</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-wireless-adapter-driver-download-for-windows-easily/"><u>TP Link Wireless Adapter Driver Download for Windows EASILY</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/transferer-votre-systeme-vers-un-nouveau-ssd-samsung-des-techniques-simples-et-rapides-pas-dinstallation-requise/"><u>Transférer Votre Système Vers Un Nouveau SSD Samsung : Des Techniques Simples Et Rapides, Pas D'installation Requise!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-quicktime-compatibility-issues-after-fixing-imovie-export/"><u>Troubleshooting QuickTime Compatibility Issues After Fixing iMovie Export</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[New] 2024 Approved Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>[New] 2024 Approved Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grandview-media-mastering-the-art-of-selecting-a-cms-for-2024/"><u>[New] Grandview Media Mastering the Art of Selecting a CMS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-efficient-techniques-saving-google-meets-on-phones/"><u>[New] In 2024, Efficient Techniques Saving Google Meets on Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>[New] In 2024, How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fierce-femininity-top-10-ladies-whove-captured-youtube-audiences/"><u>[Updated] 2024 Approved Fierce Femininity Top 10 Ladies Who've Captured YouTube Audiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs/"><u>[Updated] 2024 Approved How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-final-cut-pros-premier-top-10-plugins/"><u>[Updated] Final Cut Pro's Premier Top 10 Plugins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-address-and-overcome-a-youtube-content-id-issue-for-2024/"><u>[Updated] How to Address and Overcome a YouTube Content ID Issue for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-share-without-boundaries-with-instasavers-for-2024/"><u>[Updated] Share Without Boundaries with InstaSavers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlining-zoom-sessions-with-invisible-edges/"><u>[Updated] Streamlining Zoom Sessions with Invisible Edges</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-soundtrack-for-ig-story-posts-unveiled/"><u>[Updated] The Ultimate Soundtrack for IG Story Posts Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trendsetting-hashes-optimizing-hashtags-to-amplify-short-video-impact/"><u>[Updated] Trendsetting Hashes Optimizing Hashtags to Amplify Short Video Impact</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-x9b-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor X9b FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-g22-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia G22 Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

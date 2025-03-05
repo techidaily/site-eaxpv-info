@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet"
-date: 2025-02-11T18:42:00.911Z
-updated: 2025-02-16T21:45:00.361Z
+date: 2025-02-28T19:07:05.957Z
+updated: 2025-03-05T18:58:48.877Z
 tags:
   - apple
 categories:
@@ -52,10 +52,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -71,10 +67,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -92,19 +84,11 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -121,10 +105,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,22 +140,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing-for-2024/"><u>[New] Direct Link Between Spotify and YouTube The Top Tools for Music Sharing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-hashtags-elevating-your-youtube-gaming-series-for-2024/"><u>[New] Harnessing Hashtags Elevating Your YouTube Gaming Series for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-solo-art-of-personalized-instagram-ringtone-making/"><u>[New] The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-choices-best-livestream-equip-and-tech-for-youtubers/"><u>[New] Top Choices Best Livestream Equip & Tech for Youtubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[Updated] 2024 Approved Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[Updated] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-heaviest-airborran-aerial-haulers-ultimate-choices/"><u>[Updated] Heaviest Airborran Aerial Haulers - Ultimate Choices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[Updated] In 2024, Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-keep-up-to-date-with-youtube-community-guidelines/"><u>[Updated] Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>[Updated] Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-quick-paced-fortnite-visual-artistry/"><u>[Updated] Quick-Paced Fortnite Visual Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/avoid-losing-it-all-essential-donts-for-new-apple-vision-pro-users-revealed-expert-advice/"><u>Avoid Losing It All: Essential Don'ts for New Apple Vision Pro Users Revealed | Expert Advice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028188499-dvditunes/"><u>DVD音楽・音声コンテンツiTunesへ移行するためのステップ</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/live-broadcasting-on-fb-tips-for-success/"><u>Live Broadcasting on FB Tips for Success</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-challenges-with-the-intel-dynamic-platform-and-thermal-framework-complete-fix-for-driver-setup/"><u>Overcoming Challenges with the Intel Dynamic Platform & Thermal Framework - Complete Fix for Driver Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sculpt-custom-language-agents/"><u>Sculpt Custom Language Agents</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-movie-recommendations-you-can-watch-online-immediately-lifewire-selection/"><u>Top Movie Recommendations You Can Watch Online Immediately - Lifewire Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-screen-grabbers-top-picks-for-windows-11/"><u>[New] 2024 Approved Leading Screen Grabbers Top Picks for Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-audio-transition-crossfade-explained/"><u>[New] Seamless Audio Transition - Crossfade Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques/"><u>2024 Approved Crafting Memories A Complete Guide to the Top 6 Minecraft Recordings Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gifswf-movavi-gifswf/"><u>無限制網路免費GIF轉變成SWF - 利用Movavi GIF到SWF自動轉換工具</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726223519490-3gpavimovavi/"><u>直接上網無成本轉動3GP到AVI影片：Movavi自由化映像轉移工具</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertidor-online-sem-custo-para-mp3-wav-flac-em-mp4-com-o-movavi/"><u>Convertidor Online Sem Custo Para MP3, WAV, FLAC Em MP4 Com O Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-intricacies-of-videos-using-the-frame-by-frame-function-in-vlc-media-player/"><u>Explore the Intricacies of Videos Using the Frame-by-Frame Function in VLC Media Player</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuito-e-facil-maiores-programas-para-alterar-tamanho-do-video-em-qualquer-lugar/"><u>Gratuito E Fácil: Maiores Programas Para Alterar Tamanho Do Vídeo Em Qualquer Lugar!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/scambio-libero-trasformare-il-video-webm-nel-formato-mp4-utilizzando-il-servizio-gratuito-di-convertivideo-online/"><u>Scambio Libero: Trasformare Il Video WebM Nel Formato MP4 Utilizzando Il Servizio Gratuito Di ConvertiVideo Online</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-endless-entertainment-with-tiktok-on-your-macbook-for-2024/"><u>Unlock Endless Entertainment with TikTok on Your MacBook for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mjpegmp4/"><u>ビデオフォーマット変更無料: MJPEGからMP4へのスムーズな移行手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review"
-date: 2025-02-14T01:00:53.079Z
-updated: 2025-02-17T02:59:56.499Z
+date: 2025-03-03T19:53:10.075Z
+updated: 2025-03-05T16:25:21.766Z
 tags:
   - apple
 categories:
@@ -35,10 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -75,10 +71,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -90,10 +82,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -119,10 +107,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -134,10 +118,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -210,24 +190,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-funny-faces-and-posts-your-adobe-way/"><u>[New] Funny Faces and Posts Your Adobe Way</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-channel-honor-roll-play-button-and-follower-awards/"><u>[Updated] 2024 Approved Channel Honor Roll - Play Button & Follower Awards</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-screen-recording-mastery-with-vsdc-reviewed/"><u>[Updated] In 2024, Screen Recording Mastery with VSDC Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-how-to-legally-duplicate-a-borrowed-movie-from-services-like-redbox-netflix-or-amazon/"><u>1. How to Legally Duplicate a Borrowed Movie From Services Like Redbox, Netflix or Amazon</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-pp/"><u>2024対応 - 今すぐ安心で無料音楽ダウンロード手順と最新スマホ用ダウンローダppガイド</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-6s-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 6s to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-pop-7-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Pop 7 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-utiliser-les-applications-premium-pour-transformer-vos-extraits-youtube-en-fichiers-wav/"><u>Comment Utiliser Les Applications Premium Pour Transformer Vos Extraits YouTube en Fichiers WAV ?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-troubleshooting-steps-rectifying-the-itunes-mystery-error-13014/"><u>Comprehensive Troubleshooting Steps: Rectifying the iTunes Mystery Error 13014</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enjoy-bulk-mac-movie-conversion-at-zero-cost-premium-dvd-ripper-without-limits-or-marks/"><u>Enjoy Bulk Mac Movie Conversion at Zero Cost: Premium DVD Ripper without Limits or Marks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-asus-bw-16d1x-u-a-modern-chic-blu-ray-drive-with-a-few-surprising-idiosyncrasies/"><u>Examining the Asus BW-16D1X-U - A Modern, Chic Blu-Ray Drive with a Few Surprising Idiosyncrasies</u></a></li>
-<li><a href="https://solve-help.techidaily.com/experience-superior-playback-the-winx-dvd-player-featuring-exceptional-video-and-audio-clarity/"><u>Experience Superior Playback: The WinX DVD Player Featuring Exceptional Video & Audio Clarity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-guide-bypassing-copy-protection-on-dvds-with-dvdfab-and-comparable-solutions/"><u>Expert Guide: Bypassing Copy Protection on DVDs with DVDFab and Comparable Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-list-of-top-ai-integrated-note-cleaning-software/"><u>Master List of Top AI Integrated Note Cleaning Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/seamless-movie-capture-free-mp4-download-tool-for-youku-videos-speedy-and-user-friendly-techniques/"><u>Seamless Movie Capture: Free MP4 Download Tool for YouKu Videos – Speedy & User-Friendly Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-easy-avi-and-mp4-conversion-for-mac-users-pc-gamers-iphone-ipad-android-enthusiasts/"><u>The Ultimate Guide to Easy AVI and MP4 Conversion for Mac Users, PC Gamers, iPhone, iPad, Android Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/title-understanding-the-discrepancy-between-mpeg-4-and-mp4-formats-in-multimedia-content/"><u>Title: Understanding the Discrepancy Between MPEG-4 & MP4 Formats in Multimedia Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-tracking-down-simulated-acoustics-from-steel-percussion-devices-for-2024/"><u>Updated Tracking Down Simulated Acoustics From Steel Percussion Devices for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/your-go-to-places-for-no-fee-gamers-music-online-for-2024/"><u>Your Go-To Places for No-Fee Gamers' Music Online for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/s-youtube-premium-worth-it-a-user-guide/"><u>[New] Is YouTube Premium Worth It A User Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-beyond-basics-pro-tips-for-sticker-queries-on-instagram/"><u>[Updated] In 2024, Beyond Basics Pro Tips for Sticker Queries on Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elevate-conference-calls-a-guide-to-10-cost-free-apps/"><u>[Updated] In 2024, Elevate Conference Calls A Guide to 10 Cost-Free Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>[Updated] In 2024, The Ultimate Screen Showdown Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leveraging-google-for-precise-speech-to-text-conversion-for-2024/"><u>[Updated] Leveraging Google for Precise Speech-to-Text Conversion for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-to-the-rescue-innovative-solutions-for-dissatisfied-sonos-enthusiasts/"><u>Apple to the Rescue? Innovative Solutions for Dissatisfied Sonos Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-vision-pro-reignites-my-love-for-an-old-favorite-show-a-dazzling-peculiar-viewing-adventure-tech-analysis-on-zdnet/"><u>Apple Vision Pro Reignites My Love for an Old Favorite Show - A Dazzling, Peculiar Viewing Adventure | Tech Analysis on ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/closing-the-gap-how-iphones-can-match-androids-ai-prowess-with-four-key-features-analysis/"><u>Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/compact-performance-unleashed-is-the-newly-updated-mac-mini-with-m4-chipset-akin-to-apple-tvs-size/"><u>Compact Performance Unleashed: Is the Newly Updated Mac Mini with M4 Chipset Akin to Apple TV's Size?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-telegrams-features-your-ultimate-guide-to-the-popular-chat-platform/"><u>Exploring Telegram's Features: Your Ultimate Guide to the Popular Chat Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-lag-and-stutters-a-users-guide-to-optimizing-borderlands/"><u>Fixing Persistent Lag and Stutters: A User's Guide to Optimizing Borderlands</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-13-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 13 mini Space | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-review-and-comparison-is-it-time-to-upgrade-from-m2-to-m3-macbook-air-insights-for-buyers-zdnet/"><u>In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers | ZDNET</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/outdoor-tech-battle-gopro-vs-garmin-for-2024/"><u>Outdoor Tech Battle GoPro Vs. Garmin for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-4k-screen-size-challenges-in-windows-11-a-step-by-step-guide/"><u>Overcoming 4K Screen Size Challenges in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranking-desktops-and-laptops-an-in-depth-comparison-of-apple-dell-hp-and-others-insights-from-zdnet/"><u>Top-Ranking Desktops & Laptops : An In-Depth Comparison of Apple, Dell, HP, and Others - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-origins-the-2024-crowdstrike-windows-crisis-explored-historical-insights/"><u>Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-triggers-of-the-2024-crowdstrike-windows-debacle-a-detailed-look-back-with-zdnet/"><u>Unveiling the Triggers of the 2024 CrowdStrike-Windows Debacle: A Detailed Look Back with ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/upgrading-from-m3-to-m1-macbook-pro-is-it-worth-the-switch-a-comprehensive-review-for-tech-enthusiasts/"><u>Upgrading From M3 to M1 MacBook Pro: Is It Worth the Switch? A Comprehensive Review for Tech Enthusiasts</u></a></li>
 </ul></div>
 

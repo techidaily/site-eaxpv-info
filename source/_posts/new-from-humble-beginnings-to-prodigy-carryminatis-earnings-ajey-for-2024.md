@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Humble Beginnings to Prodigy  CarryMinati's Earnings (Ajey) for 2024\""
-date: 2024-08-20T13:57:00.015Z
-updated: 2024-08-21T13:57:00.015Z
+date: 2025-02-26T22:27:49.419Z
+updated: 2025-03-05T18:43:24.641Z
 tags:
   - ai video
   - ai youtube
@@ -20,9 +20,6 @@ If you have been following the who’s who of YouTube, then Ajey Nagar, also pop
 
 Getting excited, we too!!! So, in this article, we will learn all about who is Ajey Nagar, what is CarryMinati, what makes this man so popular, what is his **CarryMinati monthly income**, his personal life, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Who is CarryMinati?
 
 You may wonder who this simple-looking, young boy is, right?
@@ -67,9 +64,6 @@ A major part of Ajay Nagar’s income comes from YouTube videos and in addition 
 
 The statistics related to the views and income about CarryMinati are quite interesting and this makes everyone curious about what makes the channel and this person so popular on YouTube. If you too have been curious about the same, head to our next section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Why is Carry Minati trending on YouTube?
 
 Just like the statistics, the facts related to CarryMinati’s popularity are equally interesting. Every YouTube channel or an influencer who is popular and trending have their own uniqueness and when it comes to CarrayMinati aka Ajay Nagar, there are several factors that makes him a sensation. Shortlisted some of them are as below.
@@ -100,9 +94,6 @@ Though almost all videos by CarryMinati gain popularity, listed below are the to
 
 The End (The video was uploaded on 8th May 2020 and had over 65 million views with 8 lacs comments and over 10 million likes.) This was a roasting video by CarryMinati that gained immense popularity, but was later pulled down by YouTube stating it to be against the harassment policy of YouTube and for violating the guidelines of the community.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube vs tiktok the end](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-02.jpg)
 
 [Film the Flare](https://www.youtube.com/watch?v=GOFQN8otiYs)
@@ -151,9 +142,6 @@ Step2 Next, go to Effects > Ai Portrait, and the options of the features can be 
 
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 3](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-06.jpg)
 
 Step4 If further customization is needed, you can even adjust the AI Portrait settings.
@@ -172,9 +160,6 @@ Below we have answered some hot frequently asked questions about CarryMinati.
 
 No, till date, CarryMinati aka Ajay Nagar is not married.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How much CarryMinati earn from 1 video?
 
 Calculating the income from a YouTube video can be a complicated task that depends on several factors like views, likes, ads in the video, and more.
@@ -183,9 +168,6 @@ Calculating the income from a YouTube video can be a complicated task that depen
 
 Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Henry Cavil, and others celebrities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
 
 ## Final Words
@@ -247,9 +229,6 @@ Though almost all videos by CarryMinati gain popularity, listed below are the to
 
 The End (The video was uploaded on 8th May 2020 and had over 65 million views with 8 lacs comments and over 10 million likes.) This was a roasting video by CarryMinati that gained immense popularity, but was later pulled down by YouTube stating it to be against the harassment policy of YouTube and for violating the guidelines of the community.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube vs tiktok the end](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-02.jpg)
 
 [Film the Flare](https://www.youtube.com/watch?v=GOFQN8otiYs)
@@ -290,9 +269,6 @@ AI-based features are the highlight of this software and for your reference, lis
 
 Step1 Launch the installed software on your system and add the media file to the software timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 1](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-03.jpg)
 
 Step2 Next, go to Effects > Ai Portrait, and the options of the features can be checked here. Click on the thumbnail and the feature can be viewed in the preview window.
@@ -301,9 +277,6 @@ Step2 Next, go to Effects > Ai Portrait, and the options of the features can be 
 
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare filmora ai portrait 3](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-06.jpg)
 
 Step4 If further customization is needed, you can even adjust the AI Portrait settings.
@@ -322,9 +295,6 @@ Below we have answered some hot frequently asked questions about CarryMinati.
 
 No, till date, CarryMinati aka Ajay Nagar is not married.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How much CarryMinati earn from 1 video?
 
 Calculating the income from a YouTube video can be a complicated task that depends on several factors like views, likes, ads in the video, and more.
@@ -335,9 +305,6 @@ Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Hen
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 Gone are the days when only high posts at big-shot companies can bring in money and proving this right is CarryMinati who is not only earning big but has also earned worldwide fans and has created a name for himself. With his comic skits and engaging videos, this popular YouTube influencer is growing and stretching his wings.
@@ -364,9 +331,6 @@ If you too have got inspired and looking forward to starting with some interesti
 
 # How to Add Chapters to YouTube Videos
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -403,18 +367,12 @@ Step 3: Click on the edit video option. This option will be there under the vide
 
 Step 4: On the add details page, you will see the description box. Here, you need to add the list of titles and timestamps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add YouTube video chpater](https://images.wondershare.com/filmora/article-images/add-chapter-youtube-description.jpg)
 
 Please keep in mind that you must add the first timestamp with "00:00". You will have to add a minimum of three timestamps with a minimum of 10 seconds for each chapter. Here is how it looks like in the description after published.
 
 ![Chapters in YouTube video description](https://images.wondershare.com/filmora/article-images/youtube-video-chapter-description-appearance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Why YouTubers Should Add Chapters to videos?
 
 There are two primary advantages of adding chapters to your YouTube videos. Apart from making your YouTube video look organized and neat, chapters will let you provide a better user experience to everyone watching your video because they will find all the information about your video faster and easier within a video. And the second benefit is that your YouTube video will show up in search results. This is a way to optimize your content for more users to find your content.
@@ -445,9 +403,6 @@ If you are uploading a video on education, science and technology, how-to, news 
 
 However, if you are uploading music, entertainment, comedy, and film and animation videos, we will recommend not to add chapters because this will reduce the watch time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Do YouTube Video Chapters Decrease Channel Watch Time?
 
 One of the most commonly asked questions regarding adding chapters to YouTube videos is whether it will reduce the watch time of a video. Video chapters are a pretty good feature and can enable your videos to engage with the viewers.
@@ -458,9 +413,6 @@ Video chapters are a tiny part of the overall content. Chapters provide value to
 
 Even some of the most watched videos on YouTube have chapters. Learn from them. These video makers could have thought about numbers rather than giving value to their audience, but they did just the opposite, and here they are with over a million views!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Tips for adding chapters to YouTube video
 
 Each video on YouTube is different, and that's why there is no one-size-fits-all answer. There are some cases where you should not think about adding chapters at all. Whereas in other cases, you will have to experiment a bit before adding chapters.
@@ -496,7 +448,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -504,8 +455,24 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/asy-replay-on-iphone-set-videos-cycling-for-2024/"><u>[New] Easy Replay on iPhone Set Videos Cycling for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchats-speed-control-hacks-for-cutting-edge-creators/"><u>[Updated] 2024 Approved Snapchat's Speed Control Hacks for Cutting-Edge Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-flacmp3/"><u>「Movavi - 無料、直接使えるコンバータ: 高品質なFLACからMP3への簡単な音楽形式変換ツール」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726227320515-movavi/"><u>提升工作效率的多媒體編解碼器 - Movavi, 無敵安全保護</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726222928048-webm-wma-movavi/"><u>直接在線上逆向編碼 WEBM成為 WMA：利用 Movavi 的方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-your-audio-visual-experience-with-these-6-android-apps/"><u>Amplify Your Audio-Visual Experience with These 6 Android Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cambiar-musica-polifonica-de-au-a-wav-sin-coste-herramienta-en-linea-de-movavi/"><u>Cambiar Música Polifónica De AU a WAV Sin Coste - Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/clearing-your-printers-job-queue-a-step-by-step-guide-yl-computing-solutions/"><u>Clearing Your Printer's Job Queue: A Step-by-Step Guide - YL Computing Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/google-lamda-promises-to-be-human-like-but-is-it-just-an-enhanced-chatbot-in-disguise-zdnet-explores/"><u>Google LaMDA Promises to Be Human-Like, but Is It Just an Enhanced Chatbot in Disguise? ZDNet Explores</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-p60-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Huawei P60 Phone without Any Data Loss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024-security-unlocking-linksys-devices-with-new-default-password-insights/"><u>July 2024 Security: Unlocking Linksys Devices with New Default Password Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/os-15-melhores-ferramentas-de-edicao-de-video-online-para-profissionais-no-ano-de-2024-ranking-exclusivo/"><u>Os 15 Melhores Ferramentas De Edição De Vídeo Online Para Profissionais No Ano De 2024 - Ranking Exclusivo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streamline-your-productivity-expertly-crafted-chatgpt-prompts-for-superior-results-in-less-effort/"><u>Streamline Your Productivity: Expertly Crafted ChatGPT Prompts for Superior Results in Less Effort</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ghostly-dialogues-of-cyberspace-decoding-the-identity-mysteries-in-who-are-you-talking-to-a-look-at-the-dead-internet-theory/"><u>The Ghostly Dialogues of Cyberspace: Decoding the Identity Mysteries in Who Are You Talking To? - A Look at the Dead Internet Theory</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-8-vyhodnych-otacek-s-televiznimi-seriai-movavi-presun-na-vasi-chybe/"><u>Top 8 Výhodných Otáček S Televizními Sériaí - Movavi: Přesun Na Vaši Chybě</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-facilement-et-sans-frais-un-fichier-ogv-en-gif-a-laide-de-movavi-online/"><u>Transformez Facilement Et Sans Frais Un Fichier OGV en GIF À L'aide De Movavi Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-potential-secrets-to-successful-fb-video-ads-for-2024/"><u>Unlocking Potential Secrets to Successful FB Video Ads for 2024</u></a></li>
+</ul></div>
 

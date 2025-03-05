@@ -1,7 +1,7 @@
 ---
 title: Beware! IPhone and iPad Bricking Incidents Linked to iOS 18 Upgrade | Stay Informed Before Installation
-date: 2025-02-15T23:11:48.769Z
-updated: 2025-02-17T02:25:57.461Z
+date: 2025-03-02T16:06:04.254Z
+updated: 2025-03-05T22:34:55.658Z
 tags:
   - apple
 categories:
@@ -49,10 +49,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -61,10 +57,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,10 +64,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -99,10 +87,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You don't require the generative AI capabilities
 
 All of the bells and whistles on the iPhone 16 are certainly nice, but are they must-haves? To many people, probably not. Generative AI still has its' issues despite advancing rapidly in the past couple of years. Apple Intelligence and the new Siri may be great, but we wouldn't be surprised to see users encounter performance problems or hallucinations.
@@ -110,10 +94,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -157,21 +137,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>[Updated] In 2024, The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-seamless-podcast-experience-for-iphone-users/"><u>[Updated] Seamless Podcast Experience for iPhone Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-skyrocketing-performance-boosting-ram-in-minecraft/"><u>[Updated] Skyrocketing Performance Boosting RAM in Minecraft</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-perfect-lighting-setup-for-engaging-youtube-videos/"><u>2024 Approved Perfect Lighting Setup for Engaging YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pcyoutubecd/"><u>家庭用PCからYouTube動画をCDへ焼くためのシンプルガイド - ステップバイステップチュートリアル</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/apple-itunes-album-splits-causes-and-solutions/"><u>Apple iTunes Album Splits - Causes and Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-solving-windows-11-update-issues-and-expert-advice/"><u>Comprehensive Guide: Solving Windows 11 Update Issues & Expert Advice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converti-dvd-gratis-in-formato-mp4-per-pc-e-mac-con-winxdvd-il-guida-completa/"><u>Converti DVD Gratis in Formato MP4 per PC E Mac Con WinXDVD: Il Guida Completa</u></a></li>
-<li><a href="https://common-error.techidaily.com/endless-blinking-cursor-learn-how-to-make-it-disappear-now/"><u>Endless Blinking Cursor? Learn How to Make It Disappear Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-new-horizons-with-windows-11-a-comprehensive-look-at-microsofts-latest-operating-system-improvements/"><u>Exploring New Horizons with Windows 11 - A Comprehensive Look at Microsoft's Latest Operating System Improvements</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-continuous-team-fortress-2-game-crashes/"><u>Fixes and Solutions for Continuous Team Fortress 2 Game Crashes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x8b-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X8b</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/passare-da-vhs-a-dvd-un-passo-passo-guidato-per-la-conversione-su-computer/"><u>Passare Da VHS a DVD: Un Passo-Passo Guidato per La Conversione Su Computer</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-10-lightroom-alternatives-free-and-paid-filmora-for-2024/"><u>Top 10 Lightroom Alternatives [Free & Paid] | Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-the-ultimate-mac-compatible-software-for-easy-video-transfer-to-ios-devices-and-itunes/"><u>WinX DVD Ripper: The Ultimate Mac Compatible Software for Easy Video Transfer to iOS Devices and iTunes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725283967929-dvd/"><u>スムーズに使えるダイナミックなDVDコンパイル無料ツール、高画質でロゴ不要</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-incors-guide-to-enriched-video-engagement-through-commentary-and-alert-embeddings/"><u>[New] 2024 Approved Incor's Guide to Enriched Video Engagement Through Commentary and Alert Embeddings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-8-must-have-methods-for-crafting-memorable-gifs/"><u>[New] 8 Must-Have Methods for Crafting Memorable GIFs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-services-for-youtube-images-extraction/"><u>[New] In 2024, FREE Online Services for YouTube Images Extraction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-opposite-ends-of-the-coin-creative-youtube-rewind-strategies/"><u>[New] In 2024, Opposite Ends of the Coin Creative Youtube Rewind Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-video-potential-premium-lens-selection-tips/"><u>[New] Unlock Video Potential Premium Lens Selection Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-launching-a-youtube-channel-for-profit-for-2024/"><u>[Updated] First Steps Launching a YouTube Channel for Profit for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-stylish-mac-made-youtube-vids-for-2024/"><u>[Updated] Getting Started with Stylish Mac-Made YouTube Vids for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-50-free-youtube-banners-come-see-them-all/"><u>[Updated] In 2024, 50 FREE YouTube Banners - Come See Them All</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[Updated] In 2024, Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmakers-choice-for-steady-videos/"><u>[Updated] In 2024, Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfect-pairing-transferring-camera-roll-content-effortlessly-to-snapchat/"><u>[Updated] In 2024, Perfect Pairing Transferring Camera Roll Content Effortlessly to Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-converting-videos-for-your-iphone-a-step-by-step-guide/"><u>1. Converting Videos for Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avi-video-komprimieren-auf-feinstem-wissen-strategien-fur-optimale-qualitat-in-windows-10/"><u>AVI-Video Komprimieren Auf Feinstem Wissen - Strategien Für Optimale Qualität in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-12-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/limitations-of-ai-why-chatgpt-may-misrepresent-your-content-when-summarizing/"><u>Limitations of AI: Why ChatGPT May Misrepresent Your Content When Summarizing</u></a></li>
 </ul></div>
 

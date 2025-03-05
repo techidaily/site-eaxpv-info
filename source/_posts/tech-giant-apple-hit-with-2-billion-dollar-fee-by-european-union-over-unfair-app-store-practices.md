@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Hit with 2-Billion Dollar Fee by European Union Over Unfair App Store Practices
-date: 2025-02-10T22:33:55.943Z
-updated: 2025-02-17T03:06:40.262Z
+date: 2025-03-01T16:51:07.954Z
+updated: 2025-03-05T17:31:46.652Z
 tags:
   - apple
 categories:
@@ -24,15 +24,7 @@ In the past, moving from one face to another on an Apple Watch was easy. You'd s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to swap faces on your Apple Watch
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run watchOS 10
 
@@ -56,10 +48,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Update to watchOS 10.2
 
 Apple must have realized that it ticked off Watch owners by making the new face changing process so clumsy. That's why it fixed the issue with the latest 10.2 update. For this, open the Watch app on your iPhone, head to General, select Software Update, and then install the latest version.
@@ -68,10 +56,6 @@ Altefnatively, you can update the OS directly from your watch. For that, open th
 
 screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the method for switching faces
 
 The newer method for swapping watch faces is still the default in watchOS 10.2\. However, Apple now lets you revert to the older method. On your watch, open the Settings app, tap the setting for Clock, and then turn on the switch for "Swipe to Switch Watch Face."
@@ -79,10 +63,6 @@ The newer method for swapping watch faces is still the default in watchOS 10.2\.
 screenshot by Lance Whitney/ZDNET
 
 **Also: [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Switch watch faces by swiping
 
@@ -120,22 +100,17 @@ screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-windows-10-ultimate-screen-capture-tool/"><u>[New] 2024 Approved Windows 10 Ultimate Screen Capture Tool</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-iphone-flipping-and-tilting-photos-perfectly/"><u>[Updated] In 2024, Mastering iPhone Flipping & Tilting Photos Perfectly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/breaking-down-the-hype-both-bmw-and-ford-expand-their-electric-car-offerings/"><u>Breaking Down the Hype: Both BMW and Ford Expand Their Electric Car Offerings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decouverte-du-francophone-la-semaine-des-jours/"><u>Découverte Du Francophone: La Semaine Des Jours</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-apple-vision-pro-comfort-tips-on-customization/"><u>Enhance Your Apple Vision Pro Comfort: Tips on Customization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-immersive-journey-move-away-from-bluetooth-audio-in-vr-sessions/"><u>Enhance Your Immersive Journey: Move Away From Bluetooth Audio in VR Sessions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhancing-your-storytelling-skills-with-chatgpt-a-comprehensive-guide/"><u>Enhancing Your Storytelling Skills with ChatGPT - A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/experience-free-ai-artistry-dall-e-integrated-into-bing-search-platform/"><u>Experience Free AI Artistry - DALL-E Integrated Into Bing Search Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-prevent-vr-sickness-sharing-experience-from-countless-roller-coaster-and-flight-simulations/"><u>How to Prevent VR Sickness: Sharing Experience From Countless Roller Coaster and Flight Simulations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-successfully-overcome-iphone-software-update-hurdles-a-guide-for-ios-17-users/"><u>How To Successfully Overcome iPhone Software Update Hurdles: A Guide for iOS 17 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sonyfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your SonyFRP Lock</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-the-art-of-ai-assisted-slides-crafting-engaging-powerpoint-presentations-with-chatgpt-and-midjourney/"><u>Mastering the Art of AI-Assisted Slides: Crafting Engaging PowerPoint Presentations with ChatGPT & MidJourney</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-luxury-how-the-skagen-falster-2-outshines-apples-prestige-at-sea/"><u>Navigating Luxury: How the Skagen Falster 2 Outshines Apple's Prestige at Sea</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-windows-11-power-and-sleep-options-unveiling-the-battery-report-feature/"><u>Navigating the Windows 11 Power & Sleep Options: Unveiling the Battery Report Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-with-ease-unveiling-the-enhanced-features-of-google-drives-revamped-homepage-tech-insights-by-zdnet/"><u>Navigating with Ease: Unveiling the Enhanced Features of Google Drive's Revamped Homepage | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-prime-mac-screen-capture-options/"><u>The Prime Mac Screen Capture Options</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-time-10-outstanding-youtube-channels-on-history/"><u>[New] 2024 Approved Mastering Time 10 Outstanding YouTube Channels on History</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fixing-popular-youtube-short-snafus-for-2024/"><u>[New] Fixing Popular YouTube Short Snafus for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-a-custom-youtube-subscriber-url-for-2024/"><u>[New] Generating a Custom YouTube Subscriber URL for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-vlog-confidently-like-popular-youtubers-in-2024/"><u>[New] How to Vlog Confidently Like Popular YouTubers, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-animated-bouncing-text/"><u>[New] In 2024, How to Create Animated Bouncing Text</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-guide-to-selecting-facebook-live-capturers/"><u>[New] The Ultimate Guide to Selecting Facebook Live Capturers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-crusader-kings-3-crashing-on-pc/"><u>[SOLVED] Crusader Kings 3 Crashing on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-effortlessly-eradicate-unwanted-youtube-post-comments-for-2024/"><u>[Updated] How to Effortlessly Eradicate Unwanted Youtube Post-Comments for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-social-blade-the-comprehensive-guide-to-youtube-performance-tracking/"><u>2024 Approved Social Blade The Comprehensive Guide to YouTube Performance Tracking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-not-working-solved/"><u>HyperX Cloud Stinger Mic Not Working [Solved]</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-top-rated-video-editing-tools-for-mac-users/"><u>Updated The Top-Rated Video Editing Tools for Mac Users</u></a></li>
 </ul></div>
 

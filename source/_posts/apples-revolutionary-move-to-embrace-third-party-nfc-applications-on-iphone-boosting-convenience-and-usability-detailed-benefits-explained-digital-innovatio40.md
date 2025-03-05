@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move to Embrace Third-Party NFC Applications on iPhone, Boosting Convenience and Usability - Detailed Benefits Explained | Digital Innovations Blog
-date: 2025-02-16T01:08:42.350Z
-updated: 2025-02-17T04:20:17.627Z
+date: 2025-02-26T22:41:25.390Z
+updated: 2025-03-05T20:14:23.000Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,10 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -133,10 +121,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -153,10 +137,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,20 +190,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-leading-tools-to-record-your-desktop/"><u>[New] 2024 Approved Leading Tools to Record Your Desktop</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-master-the-art-of-listening-and-viewing-with-best-android-music-vids/"><u>[Updated] Master the Art of Listening and Viewing with Best Android Music Vids</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-is-your-facebook-video-more-engaging-in-a-vertical-format/"><u>2024 Approved Is Your Facebook Video More Engaging in a Vertical Format?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-select-blur-apps-for-softened-backdrops/"><u>2024 Approved Select Blur Apps for Softened Backdrops</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-pro-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro 4G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/must-have-ios-18-updates-exclusive-features-requiring-iphone-12-or-newer-models-for-the-season/"><u>Must-Have iOS 18 Updates: Exclusive Features Requiring iPhone 12 or Newer Models for the Season</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pitting-the-titans-against-each-other-how-galaxy-and-apple-watch-ultras-match-up-in-features-but-diverge-aesthetically/"><u>Pitting the Titans Against Each Other: How Galaxy and Apple Watch Ultras Match Up in Features but Diverge Aesthetically</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/seamlessly-transfer-your-google-images-to-icloud-a-simple-guide/"><u>Seamlessly Transfer Your Google Images to iCloud - A Simple Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/simplify-your-daily-routine-by-adjusting-iphone-settings-for-personal-comfort/"><u>Simplify Your Daily Routine by Adjusting iPhone Settings for Personal Comfort</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/static-screen-flip-mastery-how-to-change-iphoneipad-orientation-easily/"><u>Static Screen Flip Mastery: How to Change iPhone/iPad Orientation Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-ios-18-update-perk-that-thrills-android-fans/"><u>Top iOS 18 Update Perk That Thrills Android Fans</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-protective-sleeves-for-the-newest-galaxy-z-fold-6-2024-edition/"><u>Top-Rated Protective Sleeves for the Newest Galaxy Z Fold 6 - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-cleaning-solution-unveiled-roborock-s8-pros-amazing-2-in-1-features-thoroughly-explored-a-comprehensive-review-by-techexplorer/"><u>Ultimate Cleaning Solution Unveiled: Roborock S8 Pro's Amazing 2-in-1 Features Thoroughly Explored - A Comprehensive Review by TechExplorer</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-guide-to-premium-system-enhancement-utilities-by-yl-software-elevate-your-pc-performance-today/"><u>Ultimate Guide to Premium System Enhancement Utilities by YL Software - Elevate Your PC Performance Today!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-galore-7-entertaining-video-sets-for-chuckleheads/"><u>[New] 2024 Approved Giggles Galore 7 Entertaining Video Sets for Chuckleheads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flip-order-3-easy-steps-to-rewind-youtube-listeners/"><u>[New] In 2024, Flip Order 3 Easy Steps to Rewind Youtube Listeners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-mcb-theme-images-templates-and-more/"><u>[New] In 2024, Free MCB Theme Images, Templates & More</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-premium-data-recorder-compatible-with-sony-a7s-for-2024/"><u>[New] Premium Data Recorder Compatible with Sony A7S for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-essentials-to-record-save-and-refine-videography-on-adobe-connect/"><u>[Updated] 2024 Approved The Essentials to Record, Save, & Refine Videography on Adobe Connect</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-my-playlist-on-youtube-for-2024/"><u>[Updated] How to Find My Playlist on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-optimize-video-quality-on-youtube-with-size-settings-for-2024/"><u>[Updated] How to Optimize Video Quality on YouTube with Size Settings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-savings-direct-link-and-alternative-extraction/"><u>[Updated] In 2024, Instagram Savings Direct Link & Alternative Extraction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-techniques-for-superior-recordings-with-audacity/"><u>[Updated] Innovative Techniques for Superior Recordings with Audacity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-6-video-translators-to-translate-video/"><u>2024 Approved Best 6 Video Translators to Translate Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-now-the-latest-nvidia-graphics-drivers-available-here/"><u>Download & Update Now: The Latest NVIDIA Graphics Drivers Available Here</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-insight-into-tseries-earnings-and-profitability-through-youtube-channels/"><u>In 2024, Insight Into TSeries' Earnings and Profitability Through YouTube Channels</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-gt-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme GT 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
 

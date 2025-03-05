@@ -1,7 +1,7 @@
 ---
 title: What You Need To Know About The Next Generation AirPods & How to Secure Yours Early!
-date: 2025-02-14T01:07:15.721Z
-updated: 2025-02-16T16:30:42.713Z
+date: 2025-02-26T17:51:20.885Z
+updated: 2025-03-05T21:11:19.992Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -49,10 +45,6 @@ Kerry Wan/ZDNET
 The iPhone 16 receives a substantial update to its camera system. The device possesses a 48MP Fusion lens capable of taking wide-angle photographs and far-away shots, thanks to its 2X telephoto option. But what really caught my attention was the [Camera Control button](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/).
 
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
 
@@ -65,10 +57,6 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 **Also: [Apple Intelligence will improve SIri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
 
@@ -114,20 +102,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-enhance-your-smartphone-photos-with-these-free-innovative-tools/"><u>[New] Enhance Your Smartphone Photos with These Free, Innovative Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-scaling-success-the-tactics-for-increasing-youtube-audiences/"><u>[New] In 2024, Scaling Success The Tactics for Increasing YouTube Audiences</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortlessly-enhance-performance-surface-book-drivers-at-your-fingertsip/"><u>Effortlessly Enhance Performance: Surface Book Drivers at Your Fingertsip</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macwinx-dvd-ripper-dvddvdhddand/"><u>Mac専用WinX DVD Ripper: 最新セキュリティ保護のDVD・コピーガードDVDをHDDやポータブルデバイスに容易にリッピング&バックアップ</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maintain-excellent-clarity-when-transforming-dvd-content-into-h264/"><u>Maintain Excellent Clarity When Transforming DVD Content Into H.264</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/redefining-your-twitter-vibe-with-dynamic-video-thumbnails/"><u>Redefining Your Twitter Vibe with Dynamic Video Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/revolutionize-your-videos-experience-smooth-playback-using-winxvideo-ai-for-intelligent-frame-generation/"><u>Revolutionize Your Videos: Experience Smooth Playback Using Winxvideo AI for Intelligent Frame Generation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-a-no-cost-licensing-pass-unlock-the-guide-now/"><u>Secure a No-Cost Licensing Pass – Unlock the Guide Now!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/soluzione-al-problema-di-riproduzione-non-supportata-di-hevc-su-windows-11-8-e-7/"><u>Soluzione Al Problema Di Riproduzione Non Supportata Di HEVC Su Windows 11, 8 E 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-a-step-by-step-guide-to-get-your-airpods-microphone-working-on-windows-11/"><u>Solving Sound Problems: A Step-by-Step Guide to Get Your AirPods Microphone Working on Windows 11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transcoding-made-simple-transform-your-m4v-files-into-avi-on-pcs-and-mac-computers/"><u>Transcoding Made Simple: Transform Your M4V Files Into AVI on PCs and Mac Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforma-tu-dvd-al-formato-mp4-rapidamente-manteniendo-la-calidad-hazlo-en-solo-5-minutos/"><u>Transforma Tu DVD Al Formato MP4 Rápidamente Manteniendo La Calidad - ¡Hazlo en Solo 5 Minutos!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-google-pixel-4a-perfect-balance-of-features-and-value/"><u>Unboxing the Google Pixel 4a - Perfect Balance of Features and Value</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows11macos/"><u>パソコンで無料で簡単！ブルーレイを見る方法 - Windows11/MacOS両用ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-channel-art-templates-find-them-here/"><u>[New] 2024 Approved Free YouTube Channel Art Templates - Find Them Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[New] 2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>[New] 2024 Approved Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogs-to-virality-jake-paul-the-online-phenomenon-for-2024/"><u>[New] From Vlogs to Virality Jake Paul, the Online Phenomenon for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-device-to-platform-a-comprehensive-guide-to-uploading-vids-on-ios/"><u>[New] In 2024, From Device to Platform A Comprehensive Guide to Uploading Vids on iOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-stop-quittime-video-capture-procedures/"><u>[New] Stop QuitTime Video Capture Procedures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-groundbreaking-insights-into-asmr-recordings-for-2024/"><u>[Updated] Groundbreaking Insights Into ASMR Recordings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-regular-are-youtube-monetization-payments-in-2024/"><u>[Updated] How Regular Are YouTube Monetization Payments, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] In 2024, How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-reno-10-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo Reno 10 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-unveils-innovations-of-the-future-at-ces-2019/"><u>ABBYY Unveils Innovations of the Future at CES 2019</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correct-the-bad-pool-caller-bug-on-your-windows-10-system-today/"><u>How to Correct the 'Bad Pool Caller' Bug on Your Windows 10 System Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-streaming-overcome-kodi-buffering-problems-now/"><u>How To Ensure Smooth Streaming: Overcome Kodi Buffering Problems Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-how-to-update-or-download-new-wi-fi-drivers-for-windows-7/"><u>Quick & Easy Guide: How to Update or Download New Wi-Fi Drivers for Windows 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/real-time-videoimage-editing-easy-3dlut-use/"><u>Real-Time Video/Image Editing Easy 3DLUT Use</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-spark-10-4g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Spark 10 4G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-virtual-face-maker-websites/"><u>Updated 2024 Approved Free Virtual Face Maker Websites</u></a></li>
 </ul></div>
 

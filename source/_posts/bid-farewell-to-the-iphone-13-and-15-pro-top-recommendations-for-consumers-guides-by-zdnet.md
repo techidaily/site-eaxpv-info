@@ -1,7 +1,7 @@
 ---
 title: "Bid Farewell to the iPhone 13 and 15 Pro: Top Recommendations for Consumers | Guides by ZDNet"
-date: 2025-02-11T16:37:24.243Z
-updated: 2025-02-16T19:06:16.914Z
+date: 2025-03-01T19:39:32.774Z
+updated: 2025-03-05T17:33:24.383Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -49,10 +45,6 @@ Kerry Wan/ZDNET
 The iPhone 16 receives a substantial update to its camera system. The device possesses a 48MP Fusion lens capable of taking wide-angle photographs and far-away shots, thanks to its 2X telephoto option. But what really caught my attention was the [Camera Control button](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/).
 
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
 
@@ -65,10 +57,6 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 **Also: [Apple Intelligence will improve SIri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
 
@@ -114,17 +102,24 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-how-to-add-filters-and-music-on-windows-11-photos-app-for-2024/"><u>[Updated] How to Add Filters and Music on Windows 11 Photos App for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987118135-diablo-3-stability-improved-no-more-unexpected-shutdowns/"><u>Diablo 3 Stability Improved: No More Unexpected Shutdowns</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290517735-dvd/"><u>DVDフリックの使い方を学ぶ：無料ツールで上達し、エラー解決ステップバイステップ</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-to-mp4-converter-compatible-with-iosandroid-effortless-dvd-ripping/"><u>Free WinX DVD to MP4 Converter – Compatible with iOS/Android, Effortless DVD Ripping</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-system-repair/"><u>iOS System Repair</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/laughable-film-grabber-review-for-2024/"><u>Laughable Film Grabber Review for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-software-solutions-for-image-repair-and-enhancement/"><u>Leading Software Solutions for Image Repair & Enhancement</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-import-to-export-video-editing-on-mac-os-x-yosemite-explained/"><u>New In 2024, From Import to Export Video Editing on Mac OS X Yosemite Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solution-implemented-for-windows-media-player-errors-experienced-in-playback-mode/"><u>Solution Implemented For Windows Media Player Errors Experienced In Playback Mode</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-universal-video-transcoder-the-ultimate-tool-for-seamless-format-switching/"><u>Top Rated Universal Video Transcoder: The Ultimate Tool for Seamless Format Switching</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-step-by-step-tutorial-on-how-to-extract-movies-from-dvds-with-handbrake-on-pc-and-mac-2021-update/"><u>Ultimate Step-by-Step Tutorial on How to Extract Movies From DVDs with Handbrake on PC & Mac - 2021 Update!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-consolidating-your-youtube-video-collection/"><u>[New] 2024 Approved Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-live-action-to-youtube-recording-your-device-display-for-2024/"><u>[New] From Live Action to YouTube Recording Your Device Display for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances-for-2024/"><u>[New] Gamer's Dream The Ultimate Compilation of Best YT Game Entrances for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-handling-haters-strategies-for-content-creators/"><u>[New] In 2024, Handling Haters Strategies for Content Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-twitch-live-to-youtube-watchability-a-comprehensive-tutorial/"><u>[Updated] 2024 Approved From Twitch Live to YouTube Watchability A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-embrace-cold-choosing-heated-backdrops-for-youtube-for-2024/"><u>[Updated] Embrace Cold Choosing Heated Backdrops for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-watch-parties-to-home-auditory-archives-for-2024/"><u>[Updated] From YouTube Watch Parties to Home Auditory Archives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-youtube-pros-creating-an-account-rightly-for-2024/"><u>[Updated] From Zero to YouTube Pros Creating an Account Rightly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-video-editing-software-round-up-choose-from-7-options/"><u>[Updated] In 2024, Free Video Editing Software Round-Up Choose From 7 Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] In 2024, Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-iconic-covers-top-10-podcast-graphic-tips/"><u>2024 Approved A Guide to Iconic Covers Top 10 Podcast Graphic Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-art-of-piecing-together-digital-images/"><u>2024 Approved The Art of Piecing Together Digital Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-reconfiguring-network-profiles-for-macos-users/"><u>Comprehensive Tutorial: Reconfiguring Network Profiles for macOS Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dissecting-the-newest-elite-model-of-parrots-20-for-2024/"><u>Dissecting the Newest Elite Model of Parrot's 2.0 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fix-recurring-pc-issues-with-content-warning-software-failures/"><u>Guide to Fix Recurring PC Issues with 'Content Warning' Software Failures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-in-action-capturing-and-altering-slow-motion-content/"><u>In 2024, IPhones in Action Capturing & Altering Slow Motion Content</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-art-of-storytelling-10-famous-movies-shaped-by-final-cut-pros-creative-freedom-for-2024/"><u>New The Art of Storytelling 10 Famous Movies Shaped by Final Cut Pros Creative Freedom for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-easy-way-to-share-instagram-meets-facebook-for-2024/"><u>The Easy Way to Share Instagram Meets Facebook for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unleash-the-power-of-visuals-with-top-free-slideshow-designs/"><u>Unleash the Power of Visuals with Top Free Slideshow Designs</u></a></li>
 </ul></div>
 

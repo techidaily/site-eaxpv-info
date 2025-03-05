@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Drained Battery Post-iOS 17.5.1 Update: 7 Essential Fixes for Longer Life | TechSavvy"
-date: 2025-02-16T03:20:22.766Z
-updated: 2025-02-17T00:33:01.325Z
+date: 2025-02-26T16:00:57.405Z
+updated: 2025-03-05T17:10:59.565Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -39,10 +35,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,19 +50,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +106,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-grateful-choices-comprehensive-otu-guide/"><u>[New] Grateful Choices Comprehensive OTU Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-evaluating-bandicam-and-camtasia-for-mac-users/"><u>[Updated] 2024 Approved Evaluating Bandicam and Camtasia for Mac Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-curriculum-videos-top-tips-for-classroom-edits-for-2024/"><u>[Updated] Curriculum Videos Top Tips for Classroom Edits for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>[Updated] The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-your-guide-to-understanding-youtube-tvs-signature-features/"><u>[Updated] Your Guide to Understanding YouTube TV's Signature Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic/"><u>2024 Approved HTC's Immersive Revolution A Deep Dive Into VR Headset Magic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/eufys-solocam-s340-review-a-comprehensive-look-at-the-solar-charged-motion-sensing-security-camera/"><u>Eufy's Solocam S340 Review: A Comprehensive Look at the Solar-Charged, Motion-Sensing Security Camera</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/experience-the-joy-of-reminiscing-through-aura-waldens-innovative-digital-picture-display/"><u>Experience the Joy of Reminiscing Through Aura Walden’s Innovative Digital Picture Display</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-of-the-soundpeats-air4-pro-an-exceptional-value-option-to-apples-premium-earbuds/"><u>Expert Analysis of the Soundpeats Air4 Pro - An Exceptional Value Option to Apple's Premium Earbuds</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-of-the-superior-baseus-100w-battery-pack-unmatched-charging-strength-and-reliability/"><u>Expert Analysis of the Superior Baseus 100W Battery Pack: Unmatched Charging Strength & Reliability</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-anker-soundcore-airfit-pro-the-ultimate-guide-to-ergonomic-on-the-go-audio/"><u>Expert Analysis: Anker SoundCore AirFit Pro - The Ultimate Guide to Ergonomic On-the-Go Audio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-design-and-durability-of-nomads-magnetic-leather-backcase-a-comprehensive-review-for-iphone-15-pro-owners/"><u>Exploring the Design & Durability of Nomad's Magnetic Leather Backcase - A Comprehensive Review for iPhone 15 Pro Owners</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-pop-8-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Pop 8 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-se-2020-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone SE (2020) online without jailbreak</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/echniques-for-assessing-youtube-engagement-and-profitability-for-2024/"><u>Key Techniques for Assessing YouTube Engagement and Profitability for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-video-thumbnails-for-youtube/"><u>[New] 2024 Approved How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-drafting-dynamic-denouements/"><u>[New] In 2024, Drafting Dynamic Denouements</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-video-visibility-settings-on-youtube/"><u>[New] In 2024, Mastering Video Visibility Settings on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-live-the-future-with-mycam-video-recording-revolution/"><u>[Updated] 2024 Approved Live the Future with MyCam Video Recording Revolution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[Updated] 2024 Approved The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-conference-call-to-online-showcase-google-meet-on-youtube-for-2024/"><u>[Updated] From Conference Call to Online Showcase Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-guide-perfect-your-youtube-video-looping-game-for-2024/"><u>[Updated] How-To Guide Perfect Your YouTube Video Looping Game for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[Updated] In 2024, Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-20-zero-cost-pubg-visual-anthologies/"><u>[Updated] In 2024, Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-play-divx-videos-everything-you-need-to-know-about-divx-formats-and-compatibility/"><u>How to Play DivX Videos: Everything You Need to Know About DivX Formats and Compatibility</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-huawei-nova-y91-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Huawei Nova Y91 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-production-processes-a-magix-video-pro-x-perspective/"><u>In 2024, Streamlining Production Processes A Magix Video Pro X Perspective</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-ultimate-checklist-for-top-notch-fb-cover-videos/"><u>In 2024, The Ultimate Checklist for Top-Notch FB Cover Videos</u></a></li>
 </ul></div>
 

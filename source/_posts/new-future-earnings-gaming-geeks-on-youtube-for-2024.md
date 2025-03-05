@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Future Earnings  Gaming Geeks on YouTube for 2024\""
-date: 2024-08-20T13:56:21.116Z
-updated: 2024-08-21T13:56:21.116Z
+date: 2025-02-28T20:40:16.182Z
+updated: 2025-03-05T19:15:11.665Z
 tags:
   - ai video
   - ai youtube
@@ -72,9 +72,6 @@ As expected, Ujjwal Chaurasia has a massive following on other social media plat
 
 He also has another Instagram account called "[Techno\_Gamerz](https://www.instagram.com/techno%5Fgamerz/)," which has over 1M followers and over 120K likes. Ujjwal uses this account to keep his followers abreast of what's happening on his YouTube channel and give hints of future releases. He also posts subscriber milestones. His Twitter account is "[Ujjwal Chaurasia](https://twitter.com/UjjwalGamer)," with over 116K followers and around 290 posts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![techno gamerz instagram and twitter homepage](https://images.wondershare.com/filmora/article-images/2022/11/techno-gamerz-youtube-income-2022-4.jpg)
 
 Ujjwal is also venturing into music lately, specifically Hip Hop. He partnered with one of India's most prominent producers, Sez on the Beat, to release Game On. This music tells a tale of how Chaurasia started from zero subscribers to more than 10 million. Currently, this single boasts over 62 million views.
@@ -143,9 +140,6 @@ If you're satisfied with the edited video, click the **Export** button, then sel
 
 ## Hot FAQs on Techno Gamerz
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Who earns more between Techno Gamerz and Carry Minati?
 
 Techno Gamerz is not alone in Indian YouTube vlogging. CarryMinati is another top YouTuber in India, with 36.90 million followers. This YouTuber earns more than 25 Lakhs per month with annual revenue of at least 3 Crore Rupees. According to reports, Carry Minati (Ajey Nagar) has over $5 million in net worth.
@@ -154,9 +148,6 @@ Techno Gamerz is not alone in Indian YouTube vlogging. CarryMinati is another to
 
 It depends on the number of views. According to reports, this popular Indian YouTuber earns over $1.21 per 1,000 views. He has over 7.5 billion views currently.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. What does Techno Gamerz do for a living?
 
 Techno Gamerz's primary source of income is YouTubing. This is where the 20-year-old earns most of his dollars.
@@ -175,9 +166,6 @@ Up to this point, you should have a brief overview of who Techno Gamerz is and w
 
 Ujjwal Chaurasia, alias Techno Gamerz, was born and grew up in New Delhi, India. The charismatic vlogger first joined YouTube on August 13, 2017, and uploaded his first gaming video on January 2018\. Initially, Ujjwal used his elder brother's phone to post gaming tutorial videos. This obviously limited his input on YouTube as he also had to set aside time for studying.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![techno gamerz youtube marketing](https://images.wondershare.com/filmora/article-images/2022/11/techno-gamerz-youtube-income-2022-2.jpg)
 
 But after seeing potential in what Techno Gamerz was doing, his brother encouraged him to post more often. His first viral video was for Dragon Ball Z, a downloading tutorial. This video garnered a massive 250K views, boosting his channel's profile. The young YouTube star has never looked back since then.
@@ -209,9 +197,6 @@ He also has another Instagram account called "[Techno\_Gamerz](https://www.insta
 
 Ujjwal is also venturing into music lately, specifically Hip Hop. He partnered with one of India's most prominent producers, Sez on the Beat, to release Game On. This music tells a tale of how Chaurasia started from zero subscribers to more than 10 million. Currently, this single boasts over 62 million views.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Why Is Techno Gamerz Trending on YouTube?
 
 The **Techno Gamerz earnings** are certainly no fluke. Many YouTube careers come crashing down before they even start. You'll even need to congratulate yourself for earning just $100 on YouTube. So, what makes Techno Gamers a darling to many YouTubers?
@@ -250,34 +235,22 @@ Let's learn how to create and edit a YouTube video on Filmora 11:
 
 ##### Step1 Start a new video project
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![techno gamerz income start a new video project](https://images.wondershare.com/filmora/article-images/2022/11/techno-gamerz-youtube-income-2022-5.jpg)
 
 Install and run Filmora 11 on your computer and choose the 16:9 aspect ratio for YouTube videos. Then, start a **New Project**.
 
 ##### Step2 Import the YouTube video tutorial
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![techno gamerz income upload video](https://images.wondershare.com/filmora/article-images/2022/11/techno-gamerz-youtube-income-2022-6.jpg)
 
 Now click the **Import Media** button to open a video file from your local storage. You can add multiple media files before moving them to the storyboard.
 
 ##### Step3 Edit your gaming video
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![techno gamerz income trim and split video](https://images.wondershare.com/filmora/article-images/2022/11/techno-gamerz-youtube-income-2022-7.jpg)
 
 Start by trimming your video to remove the noisy or unwanted parts. To trim and split a video, place the playhead where you want to cut and press the **Split** button. Repeat the same procedure to cut out a clip and delete it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![techno gamerz income export video](https://images.wondershare.com/filmora/article-images/2022/11/techno-gamerz-youtube-income-2022-8.jpg)
 
 Your YouTube gaming tutorial also needs subtitles to stand out from the crowd. Select the YouTube video clip and click the **Speech-to-Text** button. Once the Speech-to-Text feature is active, select the translation language to start creating subtitles. Remember, you can edit and download the subtitle tracks as a .txt or .srt file.
@@ -286,9 +259,6 @@ Your YouTube gaming tutorial also needs subtitles to stand out from the crowd. S
 
 If you're satisfied with the edited video, click the **Export** button, then select MP4, WebM, or MP4 AV1 as the target format. Now name your video, choose a folder path, and export it. Remember that you can also directly upload videos on YouTube by clicking the **YouTube** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Hot FAQs on Techno Gamerz
 
 ### 1\. Who earns more between Techno Gamerz and Carry Minati?
@@ -341,27 +311,18 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 
 ###  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Failing to have a long-term vision
 
 One common mistake that a lot of new YouTubers make is failing to have a long-term vision. Without a long-term vision, you’re more likely to poorly brand your YouTube channel, drop your YouTube channel activity in busier times, and, midway through, change the type of content you create and upload. None of these are good for your channel!
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Choosing an ineffective custom URL
 
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
 
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Coming up with titles that won't get searched
 
 Many new YouTubers make the mistake of titling their videos in an ineffective way. Rather than coming up with titles that more people might search, they either come up with titles that summarize what the video is about as a whole or title their videos the way big YouTubers do.
@@ -370,18 +331,12 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Failing to have a thumbnail strategy
 
 New YouTubers tend to think about their thumbnail images after they’ve finished editing their videos together. This is way too late in the process for something that is so incredibly important in getting views.
 
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Making weak intros
 
 After you’ve managed to get someone to click on your video through your effective title and thumbnail image strategy, the next challenge is to keep that person watching your video without closing it too early. A typical viewer on YouTube decides within the first ten to fifteen seconds of landing on a video whether or not he or she will stay or leave. This short window of time is so important to set the tone of the rest of your video and build excitement and curiosity in your viewer with an effective, high-energy intro.
@@ -410,9 +365,6 @@ But rather than leaving interesting comments that are related to the video, rath
 
 Spam comments annoy YouTubers. It would be much more beneficial to your channel to build good relationships with other YouTubers to possibly collaborate on a video together in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -421,7 +373,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -429,8 +380,19 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-understanding-the-mechanics-of-whatsapp-voice-conversations/"><u>[Updated] In 2024, Understanding the Mechanics of WhatsApp Voice Conversations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-zooming-techniques-for-google-meet/"><u>2024 Approved Perfect Zooming Techniques for Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726224558011-wma-wmv-movavi/"><u>網路上免費 WMA 到 WMV 格式轉換 - Movavi 變頻器</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps-for-2024/"><u>Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-motorola-edge-40-neo-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Motorola Edge 40 Neo to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-best-android-photos-tactics/"><u>In 2024, Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quickly-move-and-edit-your-android-pictures-using-windows-11-a-simple-guide/"><u>Quickly Move & Edit Your Android Pictures Using Windows 11: A Simple Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-mix-fold-3-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Mix Fold 3 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-opengl-issue-on-nvidia-graphics-hardware/"><u>Solved OpenGL Issue on Nvidia Graphics Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-apps-de-videoconferencia-para-computadoras-su-guia-integral/"><u>Top 13 Apps De Videoconferencia Para Computadoras: Su Guía Integral</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-m4r-in-aiff-facilmente-e-gratuitamente-su-movavi-web/"><u>Trasforma I Tuoi File M4R in AIFF Facilmente E Gratuitamente Su Movavi Web</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tod-mpeg/"><u>오토바이오그래피를 쉽게 TOD MPEG로 전환: 모바일에서 무승부</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported by ZDNET
-date: 2025-02-14T17:46:43.289Z
-updated: 2025-02-16T20:26:46.312Z
+date: 2025-02-27T20:16:42.410Z
+updated: 2025-03-05T17:09:37.907Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -104,10 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -129,10 +121,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -150,10 +138,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +190,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-vloggers-guide-to-camera-lenses-wondershare-filmora-for-2024/"><u>[Updated] A Vlogger's Guide To Camera Lenses | Wondershare Filmora for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-keep-your-tweets-compliant-with-aspect-ratio-requirements-for-2024/"><u>[Updated] Keep Your Tweets Compliant with Aspect Ratio Requirements for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-the-laughs-right-top-gif-saver-for-twitter/"><u>[Updated] Share the Laughs Right Top GIF Saver for Twitter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-seamless-conversion-techniques-transforming-drm-protected-azw-files-into-compatible-epub-format/"><u>1. Seamless Conversion Techniques: Transforming DRM-Protected AZW Files Into Compatible EPUB Format</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-top-30-no-cost-websites-for-enjoying-manga-anytime-anywhere/"><u>1. Top 30 No-Cost Websites for Enjoying Manga Anytime, Anywhere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2020-guide-ultimate-comparison-of-ebook-drm-stripping-tools/"><u>2020 Guide: Ultimate Comparison of Ebook DRM Stripping Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/a-novices-journey-through-k2pdfopt-unveiling-the-secrets-of-windows-graphical-interface-enhancement/"><u>A Novice's Journey Through K2pdfopt: Unveiling the Secrets of Windows Graphical Interface Enhancement</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-comprehensive-guide-to-2024s-elite-15-inch-laptops-tested-and-reviewed-zdnet-insights/"><u>Best of the Best: Comprehensive Guide to 2024'S Elite 15-Inch Laptops Tested and Reviewed | ZDNET Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/resolving-onedrive-video-playback-problems-a-guide-to-five-easy-solutions/"><u>Resolving OneDrive Video Playback Problems: A Guide to Five Easy Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-solution-dealing-with-video-card-glitches-in-sims-4/"><u>Step-by-Step Solution: Dealing with Video Card Glitches in Sims #4</u></a></li>
-<li><a href="https://win11.techidaily.com/telnet-setup-simplified-for-win11-computers/"><u>Telnet Setup Simplified for Win11 Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-visionos-innovations-we-hope-apple-will-unveil-at-this-years-wwdc-tech-insights-by-zdnet/"><u>The Ultimate List of VisionOS Innovations We Hope Apple Will Unveil at This Year's WWDC | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-to-address-assassins-creed-valhalla-pc-game-freezes-and-crashes/"><u>Troubleshooting Guide to Address Assassin's Creed Valhalla PC Game Freezes and Crashes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncovering-a-critical-flaw-the-potential-danger-of-iphones-airtags-power-protection-mechanism-and-how-to-correct-it-zdnet/"><u>Uncovering a Critical Flaw: The Potential Danger of iPhone's AirTags Power Protection Mechanism and How To Correct It | ZDNET</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unpacking-the-corsair-i500s-performance-a-detailed-analysis-of-a-modern-minimalist-pc/"><u>Unpacking the Corsair I500's Performance - A Detailed Analysis of a Modern, Minimalist PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-sky-high-storages-expert-recommendations-for-2024/"><u>[New] Sky-High Storages Expert Recommendations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-rated-zero-price-after-effects-samples/"><u>[Updated] 2024 Approved Top-Rated, Zero-Price After Effects Samples</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-easygamerecording-by-nvidia/"><u>2024 Approved EasyGameRecording by NVIDIA</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stream-google-meet-directly-on-youtube-with-these-tips/"><u>2024 Approved Stream Google Meet Directly on YouTube with These Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-guide-to-the-most-advanced-apple-watches-of-2/"><u>A Guide to the Most Advanced Apple Watches of 2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/half-the-size-full-functionality-discover-the-compact-and-efficient-apple-vision-pro-case/"><u>Half The Size, Full Functionality: Discover the Compact and Efficient Apple Vision Pro Case</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-apptext-issue-on-windows-11-resource/"><u>How to Resolve AppText Issue on Windows 11 Resource</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-analysis-of-microsoft-surface-pro-8-tailored-solutions-for-enterprise-users-insights-from-zdnet/"><u>In-Depth Analysis of Microsoft Surface Pro 8: Tailored Solutions for Enterprise Users - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-tips/"><u>Navigating the World of Gadgets with Tom's Hardware Tips</u></a></li>
+<li><a href="https://discover-best.techidaily.com/quick-and-easy-tips-streaming-vs-saving-your-favorite-mixcloud-tracks-in-no-time/"><u>Quick & Easy Tips: Streaming Vs. Saving Your Favorite Mixcloud Tracks in No Time!</u></a></li>
+<li><a href="https://fox-making.techidaily.com/quick-tips-boosting-your-iphones-performance-on-ios-8/"><u>Quick Tips: Boosting Your iPhone's Performance on iOS 8</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tech-giants-apple-and-samsung-reveal-the-hidden-struggle-behind-microsofts-ai-endeavors-the-untold-story/"><u>Tech Giants Apple & Samsung Reveal the Hidden Struggle Behind Microsoft's AI Endeavors - The Untold Story</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-storage-a-step-by-step-guide-to-clear-your-iphone-memory-and-save-gbs-tech-insights/"><u>Unlocking Storage: A Step-by-Step Guide to Clear Your iPhone Memory & Save GBs | Tech Insights</u></a></li>
 </ul></div>
 
